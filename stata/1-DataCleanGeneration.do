@@ -4,7 +4,7 @@
 *										*
 *#######################################*
 
-global SavePath "~/Dropbox/RA_Hamza/save"
+global SavePath "~/Dropbox/RA_Hamza/save" 
 global DataPath "~/Dropbox/RA_Hamza/data"
 
 *Importing data
@@ -45,7 +45,8 @@ rename BestEstimatedWealth Wealth
 
 drop if Country == "US" | Country == "United States"
 
-replace Family = "1" if Family != "" 
+replace Family = "1" if Family != ""
+destring Family, replace  
 
 *Standardizing some country names 
 replace Country = "France/United Kingdom" if Country == "France/UK" 
