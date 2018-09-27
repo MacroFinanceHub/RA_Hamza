@@ -1,0 +1,5 @@
+- create datasets joining all the lists. The resulting dataset should have with one row for each name x year
+	- harmonize names over years (i.e. Gates, Williams vs Gates, Bill)
+	- harmonize whether wealth reported individually vs within the whole family
+	- You can throw away U.S. billionaires
+
