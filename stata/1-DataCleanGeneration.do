@@ -130,15 +130,17 @@ foreach i in `years' {
 	
 	drop if Country_`i' == "United States" 
 	
-	keep id_`i' Year_`i' Name_`i' Country_`i' Age_`i' Wealth_Realtime_millions_`i' Wealth_millions_`i' Wealth_`i'
+	gen Family_`i' = strpos(lower(Name_`i'), "family") > 0
+	
+	keep id_`i' Year_`i' Name_`i' Country_`i' Age_`i' Family_`i' Wealth_Realtime_millions_`i' Wealth_millions_`i' Wealth_`i'
 	
 	cd ${SavePath}/statadata/yearlyminusUS
 	
 	save WorldBillionaires`i'minusUS, replace 
 
 }
-
-
+ 
+ 
  
 
 
