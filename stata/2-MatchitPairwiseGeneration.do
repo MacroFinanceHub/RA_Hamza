@@ -7,32 +7,12 @@
 global SavePath "~/Dropbox/RA_Hamza/save" 
 global DataPath "~/Dropbox/RA_Hamza/data"
 
-cd ${SavePath}/statadata
-
-*Prepping data for matchit, adding id variable and adding year to name variable
-local years 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 
- 
-foreach i of local years {
-
-	use WorldBillionaires`i'minusUS, clear
-	
-	rename Year Year_`i'
-	rename Name Name_`i' 
-	rename Country Country_`i'
-	rename Wealth Wealth_`i'
-	rename Age Age_`i'
-	rename Family Family_`i'
-	
-	gen id_`i' = _n 
-	
-	save WorldBillionaires`i'minusUS, replace
-	
- }
+cd ${SavePath}/statadata/yearlyminusUS
 
 *Using matchit to generate matched datasets* 
 
-local yearsmaster 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 
-local yearsusing 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 
+local yearsmaster 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+local yearsusing 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
 
 foreach i of local yearsmaster {
 
@@ -49,10 +29,9 @@ foreach i of local yearsmaster {
 		joinby id_`i' using WorldBillionaires`i'minusUS 
 		joinby id_`j' using WorldBillionaires`j'minusUS
 		
-		save "${SavePath}/statadata/matchit_pairwise/matchit_`i'_`j'"
+		save "${SavePath}/statadata/matchit_pairwise/matchit_`i'_`j'", replace
 
 		}	
 	}
  }
- 
  
