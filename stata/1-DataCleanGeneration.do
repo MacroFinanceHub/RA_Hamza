@@ -132,6 +132,8 @@ foreach i in `years' {
 	
 	gen Family_`i' = strpos(lower(Name_`i'), "family") > 0
 	
+	replace Name_`i' = subinstr(Name_`i', " & family", "", .) //removing the "& family" part of a lot of names 
+	
 	keep id_`i' Year_`i' Name_`i' Country_`i' Age_`i' Family_`i' Wealth_Realtime_millions_`i' Wealth_millions_`i' Wealth_`i'
 	
 	cd ${SavePath}/statadata/yearlyminusUS
@@ -139,9 +141,7 @@ foreach i in `years' {
 	save WorldBillionaires`i'minusUS, replace 
 
 }
- 
- 
- 
+  
 
 
 
