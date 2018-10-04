@@ -562,11 +562,29 @@ replace Name_2008 = "Gerry Harvey" if Name_2008 == "Gerald Harvey"
 replace Name_2008 = "Tsai Eng-Meng" if Name_2008 == "Eng Meng Tsai"
 replace Name_2008 = "Bidzina Ivanishvili" if Name_2008 == "Boris Ivanishvili"
 
+rename Name_2008 Name 
+rename Country_2008 Country 
 
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-09"
 
+*Ordering variables 
+order Name Country id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_millions_2008 Wealth_millions_2009 Wealth_millions_2010 Wealth_millions_2011 Wealth_millions_2012 Wealth_millions_2013 Wealth_millions_2014 Wealth_millions_2015 ///
+Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
 
+sort Name
 
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0
 
+gen id_200815 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-08", replace
 
 
 

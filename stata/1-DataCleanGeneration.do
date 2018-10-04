@@ -87,7 +87,7 @@ foreach i in `years' {
 
 	use WorldBillionaires`i'minusUS, clear
 	
-	rename Year Year_`i'
+	drop Year
 	rename Name Name_`i' 
 	rename Country Country_`i'
 	rename Wealth Wealth_`i'
@@ -113,20 +113,23 @@ foreach i in `years' {
 	 
 	import delimited "${DataPath}/billionaires`i'.csv", clear
 	
+	keep if net_worthmillions != "NA"  
+	
 	gen id_`i' = _n 
-	rename year Year_`i' 
+	drop year 
 	rename name Name_`i' 
 	rename country Country_`i' 
 	rename age Age_`i' 
-
-	rename net_worthrealtimemillions Wealth_Realtime_millions_`i'
-	destring Wealth_Realtime_millions_`i', ignore("NA") replace
+	
+	drop net_worthrealtimemillions
+	*rename net_worthrealtimemillions Wealth_Realtime_millions_`i'
+	*destring Wealth_Realtime_millions_`i', ignore("NA") replace
 	 
 	rename net_worthmillions Wealth_millions_`i' 
 	destring Wealth_millions_`i', ignore("NA") replace 
 
-	egen Wealth_`i' = rowmax(Wealth_Realtime_millions_`i' Wealth_millions_`i') 
-	replace Wealth_`i' = Wealth_`i' * 1000000
+	*egen Wealth_`i' = rowmax(Wealth_Realtime_millions_`i' Wealth_millions_`i') 
+	gen Wealth_`i' = Wealth_millions_`i' * 1000000
 	
 	drop if Country_`i' == "United States" 
 	
@@ -134,7 +137,7 @@ foreach i in `years' {
 	
 	replace Name_`i' = subinstr(Name_`i', " & family", "", .) //removing the "& family" part of a lot of names 
 	
-	keep id_`i' Year_`i' Name_`i' Country_`i' Age_`i' Family_`i' Wealth_Realtime_millions_`i' Wealth_millions_`i' Wealth_`i'
+	keep id_`i' Name_`i' Country_`i' Age_`i' Family_`i' Wealth_millions_`i' Wealth_`i'
 	
 	cd ${SavePath}/statadata/yearlyminusUS
 	
