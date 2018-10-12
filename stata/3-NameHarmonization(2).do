@@ -1334,10 +1334,885 @@ Name Name_1998 ///
 similscore ///
 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
-Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 ///
+Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
 
 bys Name_1998 (similscore): keep if _n == _N
 keep if similscore != 1 
 gsort -similscore
 
-save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-99", replace
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-98", replace
+
+*Changes in 1998 name variable 
+use WorldBillionaires1998minusUS, clear
+
+replace Name_1998 = "Charles Bronfman" if Name_1998 == "Charles R. Bronfman"
+replace Name_1998 = "Belmiro de Azevedo" if Name_1998 == "Belmiro Azevedo"
+replace Name_1998 = "Guenter Herz" if Name_1998 == "Gunter Herz"
+replace Name_1998 = "Cheng Yu-tung" if Name_1998 == "Cheng Yu-Tung"
+replace Name_1998 = "James, Arthur &#38; John Irving" if Name_1998 == "James, Arthur and John Irving"
+replace Name_1998 = "Carlos Ardila LÃ¼lle" if Name_1998 == "Carlos Ardila Lulle"
+replace Name_1998 = "Saleh Al Rajhi" if Name_1998 == "Saleh Bin Abdul Aziz Al Rajhi"
+replace Name_1998 = "Mustafa Rahmi Koc" if Name_1998 == "Rahmi Koc"
+
+rename Name_1998 Name 
+rename Country_1998 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-99"
+
+*Ordering variables 
+order Name Country id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //56 name duplicates up to this point
+
+gen id_199815 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-98", replace
+
+*******************
+*199815-1997 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-98", clear
+
+matchit id_199815 Name using "WorldBillionaires1997minusUS.dta", idusing(id_1997) txtusing(Name_1997)
+
+joinby id_199815 using "${SavePath}/statadata/harmonized_names/15-98"
+joinby id_1997 using WorldBillionaires1997minusUS
+
+order id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1997 ///
+Name Name_1997 ///
+similscore ///
+Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1997 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-97", replace
+
+*Changes in 1997 name variable 
+use WorldBillionaires1997minusUS, clear
+
+*Deleting duplicate observation of Prince Alwaleed Bin Talal Alsaud
+drop if Name_1997 == "Prince Alwaleed Bin Talal Al Saud"  
+
+replace Name_1997 = "Teng Fong and Robert Ng" if Name_1997 == "Robert and Teng Fong Ng"
+replace Name_1997 = "Amir Jaber Al-Ahmed Al-Jaber Al-Sabah" if Name_1997 == "Sheikh Jaber Al-Ahmed Al-Jaber Al-Sabah"
+replace Name_1997 = "Ananda Krishnan" if Name_1997 == "T. Ananda Krishnan"
+replace Name_1997 = "Maersk Mr-Kinney Moller" if Name_1997 == "Maersk Mc-Kinney Moller"
+replace Name_1997 = "Charles Bronfman" if Name_1997 == "Charles R. Bronfman"
+replace Name_1997 = "Dhirubhai Ambani" if Name_1997 == "Dhirubai Ambani"
+replace Name_1997 = "King Faud Bin Abdul Aziz Alsaud" if Name_1997 == "King Fahd Bin Abdulaziz Alsaud"
+replace Name_1997 = "Anthony Bamford" if Name_1997 == "Sir Anthony Bamford"
+replace Name_1997 = "Luis Carlos Sarmiento" if Name_1997 == "Luis Carlos Sarmiento Ángulo"
+replace Name_1997 = "Rafik al-Hariri" if Name_1997 == "Rafik Al-Hariri"
+replace Name_1997 = "Spiro Latsis" if Name_1997 == "Spiros Latsis"
+replace Name_1997 = "Koo Bon-Moo" if Name_1997 == "Koo Bon-moo"
+replace Name_1997 = "Lee Kun-Hee" if Name_1997 == "Lee Kun-hee"
+replace Name_1997 = "James, Arthur &#38; John Irving" if Name_1997 == "James, Arthur and John Irving"
+replace Name_1997 = "Ferdinand Piech" if Name_1997 == "Ferdinand Piëch"
+replace Name_1997 = "Carlos Ardila LÃ¼lle" if Name_1997 == "Carlos Ardila Lulle"
+replace Name_1997 = "Brenninkmeyer" if Name_1997 == "Brenninkmeijer"
+replace Name_1997 = "Guenter Herz" if Name_1997 == "Günter Herz"
+replace Name_1997 = "Kumar Birla" if Name_1997 == "Kumar Mangalam Birla"
+replace Name_1997 = "Mustafa Rahmi Koc" if Name_1997 == "Rahmi Koc"
+
+rename Name_1997 Name 
+rename Country_1997 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-98"
+
+*Ordering variables 
+order Name Country id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //70 name duplicates up to this point
+
+gen id_199715 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-97", replace
+
+*******************
+*199715-1996 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-97", clear
+
+matchit id_199715 Name using "WorldBillionaires1996minusUS.dta", idusing(id_1996) txtusing(Name_1996)
+
+joinby id_199715 using "${SavePath}/statadata/harmonized_names/15-97"
+joinby id_1996 using WorldBillionaires1996minusUS
+
+order id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1996 ///
+Name Name_1996 ///
+similscore ///
+Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1996 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-96", replace
+
+*Changes in 1996 name variable 
+use WorldBillionaires1996minusUS, clear
+
+*Deleting duplicate observation of AndrT
+duplicates drop Name Country, force 
+
+replace Name_1996 = "Carlos Slim Helu" if Name_1996 == "Carlos Slim Hel7"
+replace Name_1996 = "Antonio Ermirio de Moraes" if Name_1996 == "Antonio Ermfrio de Moraes"
+replace Name_1996 = "Ananda Krishnan" if Name_1996 == "T. Ananda Krishnan"
+replace Name_1996 = "Roberto Gonzalez Barrera" if Name_1996 == "Roberto Gonz_lez Barrera"
+replace Name_1996 = "John Gokongwei, Jr." if Name_1996 == "John Gokongwei Jr."
+replace Name_1996 = "Julio Mario Santo Domingo" if Name_1996 == "Julio Santo Domingo"
+replace Name_1996 = "Maersk Mr-Kinney Moller" if Name_1996 == "Maersk McKinney Moller"
+replace Name_1996 = "Eugenio Garza Laguera" if Name_1996 == "Eugenio Garza Lagnera"
+replace Name_1996 = "Yosbiaki Tsutsumi" if Name_1996 == "Yoshiaki Tsutsumi"
+replace Name_1996 = "Luis Carlos Sarmiento" if Name_1996 == "Luis Carlos Sarmiento Angulo"
+replace Name_1996 = "Gianni Agnelli" if Name_1996 == "Giovanni Agnelli"
+replace Name_1996 = "Jaime Zobel de Ayala" if Name_1996 == "Jamie Zobel de Ayala"
+replace Name_1996 = "Gerard Mulliez" if Name_1996 == "GTrard Mulliez"
+replace Name_1996 = "Seydoux/Schlumberger" if Name_1996 == "Families Seydoux/Schlumberger"
+replace Name_1996 = "Hong Piow Teh" if Name_1996 == "Teh Hong Piow"
+replace Name_1996 = "Lee Kun-Hee" if Name_1996 == "Lee Kun-hee"
+replace Name_1996 = "John Dorrance, III." if Name_1996 == "John T. III Dorrance"
+replace Name_1996 = "Carlos Ardila LÃ¼lle" if Name_1996 == "Carlos Ardila Lulle"
+replace Name_1996 = "Emilio Botin" if Name_1996 == "Emilio Botfn"
+replace Name_1996 = "Reinhold Wuerth" if Name_1996 == "Reinhold Wnrth"
+replace Name_1996 = "Chang Yung Fa" if Name_1996 == "Chang Yung-fa"
+replace Name_1996 = "Guenter Herz" if Name_1996 == "Gnnter Herz"
+replace Name_1996 = "Brenninkmeyer" if Name_1996 == "Brenninkmeijer"
+replace Name_1996 = "Jean-Louis Dumas-Hermes" if Name_1996 == "Jean-Louis Dumas (HermFs)"
+replace Name_1996 = "Saleh Kamel" if Name_1996 == "Saleh Abdullah Kamel"
+replace Name_1996 = "Shi Wen Long" if Name_1996 == "Shi Wen-long"
+replace Name_1996 = "Alberto Bailleres Gonzalez" if Name_1996 == "Alberto BaillFres"
+replace Name_1996 = "Rafik al-Hariri" if Name_1996 == "Rafic Hariri"
+replace Name_1996 = "Julio Bozano" if Name_1996 == "Julio Rafael de Aragpo Bozano"
+replace Name_1996 = "Yue-che Wang" if Name_1996 == "Yue-Che (Y.C.) Wang"
+replace Name_1996 = "Henry Fok" if Name_1996 == "Henry Ying-tung Fok"
+replace Name_1996 = "Mustafa Rahmi Koc" if Name_1996 == "Rahmi Kot"
+replace Name_1996 = "Yeoh Tiong Lay" if Name_1996 == "Tiong-lay Yeoh"
+replace Name_1996 = "Abilio dos Santos Diniz" if Name_1996 == "Abflio Diniz"
+
+rename Name_1996 Name 
+rename Country_1996 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-97"
+
+*Ordering variables 
+order Name Country id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //84 name duplicates up to this point
+
+gen id_199615 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-96", replace
+
+*******************
+*199615-1995 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-96", clear
+
+matchit id_199615 Name using "WorldBillionaires1995minusUS.dta", idusing(id_1995) txtusing(Name_1995)
+
+joinby id_199615 using "${SavePath}/statadata/harmonized_names/15-96"
+joinby id_1995 using WorldBillionaires1995minusUS
+
+order id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1995 ///
+Name Name_1995 ///
+similscore ///
+Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1995 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-95", replace
+
+*Changes in 1995 name variable 
+use WorldBillionaires1995minusUS, clear
+
+replace Name_1995 = "Friedrich Karl Jr. Flick" if Name_1995 == "Friedrich Karl Flick Jr."
+replace Name_1995 = "Theo and Karl Albrecht" if Name_1995 == "Karl and Theo Albrecht"
+replace Name_1995 = "Kenkichi Nakajimi" if Name_1995 == "Kenkichi Nakajima"
+replace Name_1995 = "Ananda Krishnan" if Name_1995 == "T. Ananda Krishnan"
+replace Name_1995 = "Anacleto Angelini" if Name_1995 == "Ancleto Angelini"
+replace Name_1995 = "John Gokongwei, Jr." if Name_1995 == "John Gokongwei Jr."
+replace Name_1995 = "Emilio Azc_rraga Milmo" if Name_1995 == "Emilio Azcarraga Milmo"
+replace Name_1995 = "Julio Mario Santo Domingo" if Name_1995 == "Julio Santo Domingo"
+replace Name_1995 = "Kenneth Thomson" if Name_1995 == "Kenneth R. Thomson"
+replace Name_1995 = "Maersk Mr-Kinney Moller" if Name_1995 == "Maersk McKinney Moller"
+replace Name_1995 = "Albert von Thurn und Taxis" if Name_1995 == "Prince Albert von Thurn und Taxis"
+replace Name_1995 = "Paul Sacher and Oeri and Hoffman" if Name_1995 == "Paul Sacher and Hoffmann"
+replace Name_1995 = "Reinhold Wuerth" if Name_1995 == "Reinhold Wurth"
+replace Name_1995 = "Yosbiaki Tsutsumi" if Name_1995 == "Yoshiaki Tsutsumi"
+replace Name_1995 = "Luis Carlos Sarmiento" if Name_1995 == "Luis Carlos Sarmiento Angulo"
+replace Name_1995 = "Stefan Schwrghuber" if Name_1995 == "Stefan Schorghuber"
+replace Name_1995 = "Andrew Gotianun" if Name_1995 == "Andrew Gotianun Sr."
+replace Name_1995 = "Guenter Herz" if Name_1995 == "Gunter Herz"
+replace Name_1995 = "Mochtar Riady" if Name_1995 == "Mochter Riady"
+replace Name_1995 = "Lee Kun-Hee" if Name_1995 == "Lee Kun-hee"
+replace Name_1995 = "Alberto Bailleres Gonzalez" if Name_1995 == "Alberto Bailleres"
+replace Name_1995 = "John Dorrance, III." if Name_1995 == "John T. Dorrance III"
+replace Name_1995 = "Carlos Ardila LÃ¼lle" if Name_1995 == "Carlos Ardila Lulle"
+replace Name_1995 = "Lee Hon Chiu" if Name_1995 == "Hon Chiu Lee"
+replace Name_1995 = "Jaime Zobel de Ayala" if Name_1995 == "Zamie Zobel de Ayala"
+replace Name_1995 = "Chang Yung Fa" if Name_1995 == "Chang Yung-fa"
+replace Name_1995 = "Brenninkmeyer" if Name_1995 == "Brenninkmeijer"
+replace Name_1995 = "Yaw Teck-seng" if Name_1995 == "Yaw Teck Seng"
+replace Name_1995 = "Julio Bozano" if Name_1995 == "Julio Rafael de Aragao Bozano"
+replace Name_1995 = "Yue-che Wang" if Name_1995 == "Yue-Che (Y.C.) Wang"
+
+rename Name_1995 Name 
+rename Country_1995 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-96"
+
+*Ordering variables 
+order Name Country id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //86 name duplicates up to this point
+
+gen id_199515 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-95", replace
+
+*******************
+*199515-1994 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-95", clear
+
+matchit id_199515 Name using "WorldBillionaires1994minusUS.dta", idusing(id_1994) txtusing(Name_1994)
+
+joinby id_199515 using "${SavePath}/statadata/harmonized_names/15-95"
+joinby id_1994 using WorldBillionaires1994minusUS
+
+order id_199515 id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1994 ///
+Name Name_1994 ///
+similscore ///
+Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1994 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-94", replace
+
+*Changes in 1994 name variable 
+use WorldBillionaires1994minusUS, clear
+
+replace Name_1994 = "Friedrich Karl Jr. Flick" if Name_1994 == "Friedrich Karl Flick Jr."
+replace Name_1994 = "Baron Hans Heinrich Thyssen-Bornesmisza" if Name_1994 == "Baron Hans Heinrich Thyssen-Bornemisza"
+replace Name_1994 = "Theo and Karl Albrecht" if Name_1994 == "Karl and Theo Albrecht"
+replace Name_1994 = "Kenkichi Nakajimi" if Name_1994 == "Kenkichi Nakajima"
+replace Name_1994 = "John Gokongwei, Jr." if Name_1994 == "John Gokongwei Jr."
+replace Name_1994 = "Anacleto Angelini" if Name_1994 == "Ancleto Angelini"
+replace Name_1994 = "Michel David-Weill" if Name_1994 == "Michel David-Well"
+replace Name_1994 = "Emilio Azc_rraga Milmo" if Name_1994 == "Emilio Azcarraga Milmo"
+replace Name_1994 = "Paul Sacher and Oeri and Hoffman" if Name_1994 == "Paul Sacher and Hoffman"
+replace Name_1994 = "Kenneth Thomson" if Name_1994 == "Kenneth R. Thomson"
+replace Name_1994 = "Albert von Thurn und Taxis" if Name_1994 == "Prince Albert von Thurn und Taxis"
+replace Name_1994 = "Kenshin Oshima" if Name_1994 == "Kenshim Oshima"
+replace Name_1994 = "Roberto Marinho" if Name_1994 == "Robert Marinho"
+replace Name_1994 = "Yosbiaki Tsutsumi" if Name_1994 == "Yoshiaki Tsutsumi"
+replace Name_1994 = "Luis Carlos Sarmiento" if Name_1994 == "Luis Carlos Sarmiento Angulo"
+replace Name_1994 = "Ryoichi Jinnai" if Name_1994 == "Ryoichinnai"
+replace Name_1994 = "Eugenio Lopez" if Name_1994 == "Eugenio Lopez Jr."
+replace Name_1994 = "Schickedanz" if Name_1994 == "Schickendanz"
+replace Name_1994 = "Jaime Zobel de Ayala" if Name_1994 == "Zobel de Ayala"
+replace Name_1994 = "Kwok Brothers" if Name_1994 == "Kwok brothers"
+replace Name_1994 = "Rafik al-Hariri" if Name_1994 == "Rafik Hariri"
+replace Name_1994 = "Alberto Bailleres Gonzalez" if Name_1994 == "Alberto Bailleres"
+replace Name_1994 = "John Dorrance, III." if Name_1994 == "John T. Dorrance III"
+replace Name_1994 = "Hiroshi Yamauchi" if Name_1994 == "Hiroshi Yamuachi"
+replace Name_1994 = "Carlos Ardila LÃ¼lle" if Name_1994 == "Carlos Ardila Lulle"
+replace Name_1994 = "Lee Hon Chiu" if Name_1994 == "Hon Chiu Lee"
+replace Name_1994 = "Chang Yung Fa" if Name_1994 == "Chang Yung-fa"
+replace Name_1994 = "Jorge Larrea" if Name_1994 == "Jorge Larrea Ortega"
+replace Name_1994 = "Saleh Kamel" if Name_1994 == "Saleh Abdullah Kamel"
+replace Name_1994 = "Julio Bozano" if Name_1994 == "Juilo Bozano"
+replace Name_1994 = "Huang Shi-hui" if Name_1994 == "Huang Shi Hue"
+replace Name_1994 = "Yue-che Wang" if Name_1994 == "Yue-Che (Y.C.) Wang"
+
+replace Country_1994 = "?" if Name_1994 == "Lee" & Wealth_1994 == "1.3" //Doing this since there are 2 "Lee" with missing country and can't merge otherwise 
+
+rename Name_1994 Name 
+rename Country_1994 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-95" //won't really match any since no countries in 1994 dataset! Must figure out what to do with this later!
+
+*Ordering variables 
+order Name Country id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //382 single name duplicates up to this point, 24 double  name duplicates
+
+gen id_199415 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-94", replace
+
+*******************
+*199415-1993 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-94", clear
+
+matchit id_199415 Name using "WorldBillionaires1993minusUS.dta", idusing(id_1993) txtusing(Name_1993)
+
+joinby id_199415 using "${SavePath}/statadata/harmonized_names/15-94"
+joinby id_1993 using WorldBillionaires1993minusUS
+
+order id_199415 id_199515 id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1993 ///
+Name Name_1993 ///
+similscore ///
+Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1993 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-93", replace
+
+*Changes in 1993 name variable 
+use WorldBillionaires1993minusUS, clear
+
+replace Name_1993 = "Wilhelm and August von Finck" if Name_1993 == "August and Wilhelm von Finck"
+replace Name_1993 = "Baron Hans Heinrich Thyssen-Bornesmisza" if Name_1993 == "Baron Hans Heinrich Thyssen-Bornemisza"
+replace Name_1993 = "Sophonpanichi" if Name_1993 == "Sophonpanich"
+replace Name_1993 = "Kenkichi Nakajimi" if Name_1993 == "Kenkichi Nakajima"
+replace Name_1993 = "Fentener van Vlissingen" if Name_1993 == "Fentener Van Vlissingen"
+replace Name_1993 = "Friedrich Karl Jr. Flick" if Name_1993 == "Friedrich Karl Flick"
+replace Name_1993 = "Perez Companc" if Name_1993 == "Perez Compane"
+replace Name_1993 = "Emilio Azc_rraga Milmo" if Name_1993 == "Emilio Azcarraga Milmo"
+replace Name_1993 = "Paul Sacher and Oeri and Hoffman" if Name_1993 == "Paul Sacher and Hoffmann"
+replace Name_1993 = "Yosbiaki Tsutsumi" if Name_1993 == "Yoshiaki Tsutsumi"
+replace Name_1993 = "Jaime Zobel de Ayala" if Name_1993 == "Zobel de Ayala"
+replace Name_1993 = "Alberto Bailleres Gonzalez" if Name_1993 == "Alberto Bailleres"
+replace Name_1993 = "Chang Yung Fa" if Name_1993 == "Chang Yung-fa"
+replace Name_1993 = "Morita Akio" if Name_1993 == "Akio Morita"
+replace Name_1993 = "von Siemens" if Name_1993 == "Siemens"
+replace Name_1993 = "Saleh Kamel" if Name_1993 == "Saleh Abdullah Kamel"
+replace Name_1993 = "Quek" if Name_1993 == "Kwek/Quek"
+replace Name_1993 = "Rafik al-Hariri" if Name_1993 == "Rajik Hariri"
+replace Name_1993 = "Yue-che Wang" if Name_1993 == "Yue-Che (Y.C.) Wang"
+
+replace Country_1993 = "1" if Name_1993 == "Lee Shau Kee" & Wealth_1993 == "2.7" 
+replace Country_1993 = "2" if Name_1993 == "Lee Shau Kee" & Wealth_1993 == "1.6" 
+replace Country_1993 = "3" if Name_1993 == "Lee Shau Kee" & Wealth_1993 == "1" 
+
+drop if Name_1993 == "Servitje Sendra" & Family_1993 == 0
+
+rename Name_1993 Name 
+rename Country_1993 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-94" //will only match with observations from 1994 data since those have no countries either!
+
+*Ordering variables 
+order Name Country id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //396 single name duplicates up to this point, 24 double name duplicates (so 8 names), 4 triple name duplicates (so 1 name)
+
+gen id_199315 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-93", replace
+
+*******************
+*199315-1992 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-93", clear
+
+matchit id_199315 Name using "WorldBillionaires1992minusUS.dta", idusing(id_1992) txtusing(Name_1992)
+
+joinby id_199315 using "${SavePath}/statadata/harmonized_names/15-93"
+joinby id_1992 using WorldBillionaires1992minusUS
+
+order id_199315 id_199415 id_199515 id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1992 ///
+Name Name_1992 ///
+similscore ///
+Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1992 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-92", replace
+
+*Changes in 1992 name variable 
+use WorldBillionaires1992minusUS, clear
+
+replace Name_1992 = "Bennett Dorrance" if Name_1992 == "Bennett Dorance"
+replace Name_1992 = "Wilhelm and August von Finck" if Name_1992 == "August and Wilhelm von Finck"
+replace Name_1992 = "Baron Hans Heinrich Thyssen-Bornesmisza" if Name_1992 == "Baron Hans Heinrich Thyssen-Bornemisza"
+replace Name_1992 = "Edward Crosby Johnson III" if Name_1992 == "Edward Crosby III Johnson"
+replace Name_1992 = "Sophonpanichi" if Name_1992 == "Sophonpanich"
+replace Name_1992 = "Robert Preston Tisch" if Name_1992 == "Preston Robert Tisch"
+replace Name_1992 = "Kenkichi Nakajimi" if Name_1992 == "Kenkichi Nakajima"
+replace Name_1992 = "Fentener van Vlissingen" if Name_1992 == "Fentener Van Vlissingen"
+replace Name_1992 = "Edward (Ted) Rogers" if Name_1992 == "Edward S. (Ted) Rogers"
+replace Name_1992 = "Samuel Jason LeFrak" if Name_1992 == "Samuel Jayson LeFrak"
+replace Name_1992 = "Emilio Azc_rraga Milmo" if Name_1992 == "Emilio Azcarraga Milmo"
+replace Name_1992 = "Yohachiro Iwasaki" if Name_1992 == "Yohachiro Iawasaki"
+replace Name_1992 = "William Bernard Ziff Jr." if Name_1992 == "William Bernard Ziff"
+replace Name_1992 = "David Rockefeller" if Name_1992 == "David Sr. Rockefeller"
+replace Name_1992 = "Kunio Busujima" if Name_1992 == "Kunio Butsujima"
+replace Name_1992 = "Yosbiaki Tsutsumi" if Name_1992 == "Yoshiaki Tsutsumi"
+replace Name_1992 = "Kenneth Thomson" if Name_1992 == "Kenneth Roy Thomson"
+replace Name_1992 = "von Siemens" if Name_1992 == "vons Siemens"
+replace Name_1992 = "Yoshimoto" if Name_1992 == "Toshimoto"
+replace Name_1992 = "Sebastiao Camargo" if Name_1992 == "Sabastiao Camargo"
+replace Name_1992 = "Robert Edward Turner (Ted)" if Name_1992 == "Robert Edward (Ted) III Turner"
+replace Name_1992 = "Henry Hillman" if Name_1992 == "Henry Lea Hillman"
+replace Name_1992 = "Friedrich Karl Jr. Flick" if Name_1992 == "Friedrick Karl Flick Jr."
+replace Name_1992 = "Karl-Heinz Kipp" if Name_1992 == "Karl Heinz Kipp"
+replace Name_1992 = "Jaime Zobel de Ayala" if Name_1992 == "Zobel de Ayala"
+replace Name_1992 = "Roberto Hernandez Ramirez" if Name_1992 == "Roberto Hernandez"
+replace Name_1992 = "Brost and Funke" if Name_1992 == "Brost Funke"
+replace Name_1992 = "John Dorrance, III." if Name_1992 == "John T. III Dorrance"
+replace Name_1992 = "Engelhorn" if Name_1992 == "Englhorn"
+replace Name_1992 = "Bin-Mahfouz" if Name_1992 == "Bin Mahfouz"
+replace Name_1992 = "Lee Shau Kee" if Name_1992 == "Lee Shau-kee"
+replace Name_1992 = "Saleh Kamel" if Name_1992 == "Saleh Abdullah Kamel"
+replace Name_1992 = "Rafik al-Hariri" if Name_1992 == "Rafik B. Hariri"
+replace Name_1992 = "Maus and Nordmann" if Name_1992 == "Maus/Nordmann"
+replace Name_1992 = "Quek" if Name_1992 == "Quek/Kwek"
+replace Name_1992 = "Joan Kroc" if Name_1992 == "Joan Beverly Kroc"
+replace Name_1992 = "Erivan Haub" if Name_1992 == "Ervian Haub"
+replace Name_1992 = "Yue-che Wang" if Name_1992 == "Yue-Che (Y.C.) Wang"
+replace Name_1992 = "Mustafa Vehbi Koc" if Name_1992 == "Vehbi M. Koc"
+replace Name_1992 = "Shin Kyuk-ho" if Name_1992 == "Shin Kyuk-ho (a.k.a. Takeo Shigemitsu)"
+
+replace Country_1992 = "??" if Name_1992 == "Lee" & Wealth_1992 == "1.7"  
+replace Country_1992 = "???" if Name_1992 == "Lee" & Wealth_1992 == "1.4"  
+
+rename Name_1992 Name 
+rename Country_1992 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-93" 
+
+*Ordering variables 
+order Name Country id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //404 single name duplicates up to this point, 21 double name duplicates (so 7 names), 10 quadruple name duplicates (so 2 names)
+
+gen id_199215 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-92", replace
+
+*******************
+*199215-1991 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-92", clear
+
+matchit id_199215 Name using "WorldBillionaires1991minusUS.dta", idusing(id_1991) txtusing(Name_1991)
+
+joinby id_199215 using "${SavePath}/statadata/harmonized_names/15-92"
+joinby id_1991 using WorldBillionaires1991minusUS
+
+order id_199215 id_199315 id_199415 id_199515 id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1991 ///
+Name Name_1991 ///
+similscore ///
+Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1991 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-91", replace
+
+*Changes in 1991 name variable 
+use WorldBillionaires1991minusUS, clear
+
+replace Name_1991 = "Friedrich Karl Jr. Flick" if Name_1991 == "Friedrich Karl Flick Jr."
+replace Name_1991 = "Wilhelm and August von Finck" if Name_1991 == "August and Wilhelm von Finck"
+replace Name_1991 = "Sophonpanichi" if Name_1991 == "Sophonpanich"
+replace Name_1991 = "Theo and Karl Albrecht" if Name_1991 == "Karl and Theo Albrecht"
+replace Name_1991 = "Kenkichi Nakajimi" if Name_1991 == "Kenkichi Nakajima"
+replace Name_1991 = "Fentener van Vlissingen" if Name_1991 == "Fentener Van Vlissingen"
+replace Name_1991 = "von Siemens" if Name_1991 == "Von Siemens"
+replace Name_1991 = "Albert von Thurn und Taxis" if Name_1991 == "Prince Albert von Thurn und Taxis"
+replace Name_1991 = "Yosbiaki Tsutsumi" if Name_1991 == "Yoshiaki Tsutsumi"
+replace Name_1991 = "Kenneth Thomson" if Name_1991 == "Kenneth Roy Thomson"
+replace Name_1991 = "Baron Hans Heinrich Thyssen-Bornesmisza" if Name_1991 == "Hans Heinrich Thysen-Bornemisza"
+replace Name_1991 = "Gianni Agnelli" if Name_1991 == "Giovanni Agnelli"
+replace Name_1991 = "Tadahiro Yoshida" if Name_1991 == "Tadao Yoshida"
+replace Name_1991 = "Yung-fa Chang" if Name_1991 == "Chang Yung-fa"
+replace Name_1991 = "Karl-Heinz Kipp" if Name_1991 == "Karl Heinz Kipp"
+replace Name_1991 = "Heinz Bauer" if Name_1991 == "Heinz Heinrich Bauer"
+replace Name_1991 = "Lee Shau Kee" if Name_1991 == "Lee Shau-kee"
+replace Name_1991 = "Maus and Nordmann" if Name_1991 == "Maus/Nordmann"
+replace Name_1991 = "Quek" if Name_1991 == "Kwek/Quek"
+replace Name_1991 = "Shin Kyuk-ho" if Name_1991 == "Shin Kyuk-ho, a.k.a. Takeo Shigemitsu"
+
+rename Name_1991 Name 
+rename Country_1991 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-92" 
+
+*Ordering variables 
+order Name Country id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //484 single name duplicates up to this point, 27 double name duplicates (so 9 names), 12 quintuple name duplicates (so 2 names)
+
+gen id_199115 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-91", replace
+
+*******************
+*199115-1990 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-91", clear
+
+matchit id_199115 Name using "WorldBillionaires1990minusUS.dta", idusing(id_1990) txtusing(Name_1990)
+
+joinby id_199115 using "${SavePath}/statadata/harmonized_names/15-91"
+joinby id_1990 using WorldBillionaires1990minusUS
+
+order id_199115 id_199215 id_199315 id_199415 id_199515 id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1990 id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1990 ///
+Name Name_1990 ///
+similscore ///
+Age_1990 Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1990 Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1990 Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1990 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-90", replace
+
+*Changes in 1990 name variable 
+use WorldBillionaires1990minusUS, clear
+
+replace Name_1990 = "Samuel Lord Vestey and Edmund Vestey" if Name_1990 == "Samuel, Lord Vestey and Edmund Vestey"
+replace Name_1990 = "Abdul Aziz Al-Sulaiman" if Name_1990 == "Abdul Aziz A. Al-Sulaiman"
+replace Name_1990 = "Kenkichi Nakajimi" if Name_1990 == "Kenkichi Nakajima"
+replace Name_1990 = "Fentener van Vlissingen" if Name_1990 == "Fentener Van Vlissingen"
+replace Name_1990 = "Wilhelm and August von Finck" if Name_1990 == "Wilhelm and August Von Finck"
+replace Name_1990 = "Friedrich Karl Jr. Flick" if Name_1990 == "Friedrich Karl Flick"
+replace Name_1990 = "von Oppenheim" if Name_1990 == "Von Oppenheim"
+replace Name_1990 = "von Siemens" if Name_1990 == "Von Siemens"
+replace Name_1990 = "David Sainsbury" if Name_1990 == "David Sainbury"
+replace Name_1990 = "Yosbiaki Tsutsumi" if Name_1990 == "Yoshiaki Tsutsumi"
+replace Name_1990 = "Kenneth Thomson" if Name_1990 == "Kenneth Roy Thomson"
+replace Name_1990 = "Baron Hans Heinrich Thyssen-Bornesmisza" if Name_1990 == "Hans Heinrich Thyssen-Bornemisza"
+replace Name_1990 = "Sir Yue-kong Pao" if Name_1990 == "Sir Yue-Kong Pao"
+replace Name_1990 = "Gianni Agnelli" if Name_1990 == "Giovanni Agnelli"
+replace Name_1990 = "Tadahiro Yoshida" if Name_1990 == "Tadao Yoshida"
+replace Name_1990 = "Karl-Heinz Kipp" if Name_1990 == "Karl Heinz Kipp"
+replace Name_1990 = "Yung-fa Chang" if Name_1990 == "Chang Yung-fa"
+replace Name_1990 = "Suliman Olayan" if Name_1990 == "Suliman Saleh Olayan"
+replace Name_1990 = "Swarovski" if Name_1990 == "Swarovoski"
+replace Name_1990 = "Morita Akio" if Name_1990 == "Akio Morita"
+replace Name_1990 = "Bin-Mahfouz" if Name_1990 == "Bin Mahfouz"
+replace Name_1990 = "Garza-Sada" if Name_1990 == "Garza Sada"
+replace Name_1990 = "Rafik al-Hariri" if Name_1990 == "Rafik B. Hariri"
+replace Name_1990 = "Maus and Nordmann" if Name_1990 == "Maus-Nordmann"
+replace Name_1990 = "Kwek" if Name_1990 == "Kwek/Quek"
+replace Name_1990 = "Mustafa Vehbi Koc" if Name_1990 == "Vehbi M. Koc"
+replace Name_1990 = "Shin Kyuk-ho" if Name_1990 == "Shin Kyuk-ho a.k.a. Takeo Shigemitsu"
+
+rename Name_1990 Name 
+rename Country_1990 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-91" 
+
+*Ordering variables 
+order Name Country id_1990 id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1990 Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1990 Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1990 Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //502 single name duplicates up to this point, 39 double name duplicates (so 13 names), 12 quintuple name duplicates (so 2 names)
+
+gen id_199015 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-90", replace
+
+*******************
+*199015-1989 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-90", clear
+
+matchit id_199015 Name using "WorldBillionaires1989minusUS.dta", idusing(id_1989) txtusing(Name_1989)
+
+joinby id_199015 using "${SavePath}/statadata/harmonized_names/15-90"
+joinby id_1989 using WorldBillionaires1989minusUS
+
+order id_199015 id_199115 id_199215 id_199315 id_199415 id_199515 id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1989 id_1990 id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1989 ///
+Name Name_1989 ///
+similscore ///
+Age_1989 Age_1990 Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1989 Wealth_1990 Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1989 Family_1990 Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1989 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-89", replace
+
+*Changes in 1989 name variable 
+use WorldBillionaires1989minusUS, clear
+
+replace Name_1989 = "Seydoux/Schlumberger" if Name_1989 == "Schlumberger/Seydoux"
+replace Name_1989 = "Kenkichi Nakajimi" if Name_1989 == "Kenkichi Nakajima"
+replace Name_1989 = "Fentener van Vlissingen" if Name_1989 == "Fentener Van Vlissingen"
+replace Name_1989 = "Friedrich Karl Jr. Flick" if Name_1989 == "Friedrich Karl Flick"
+replace Name_1989 = "von Oppenheim" if Name_1989 == "Von Oppenheim"
+replace Name_1989 = "Paul, Albert and Ralph Reichmann" if Name_1989 == "Albert, Paul and Ralph Reichmann"
+replace Name_1989 = "Abdul Aziz Al-Sulaiman" if Name_1989 == "Abdul-Aziz A. Al-Sulaiman"
+replace Name_1989 = "Samuel Lord Vestey and Edmund Vestey" if Name_1989 == "Lord Vestey and Edmund"
+replace Name_1989 = "von Siemens" if Name_1989 == "Von Siemens"
+replace Name_1989 = "Kenneth Thomson" if Name_1989 == "Kenneth Roy Thomson"
+replace Name_1989 = "Baron Hans Heinrich Thyssen-Bornesmisza" if Name_1989 == "Hans Heinrich Thyssen-Bornemisza"
+replace Name_1989 = "Tadahiro Yoshida" if Name_1989 == "Tadao Yoshida"
+replace Name_1989 = "Hideki Yokoi" if Name_1989 == "Hieki Yokoi"
+replace Name_1989 = "Suliman Olayan" if Name_1989 == "Suliman Saleh Olayan"
+replace Name_1989 = "Swarovski" if Name_1989 == "Swaraovski"
+replace Name_1989 = "Bin-Mahfouz" if Name_1989 == "Bin Mahfouz"
+replace Name_1989 = "Garza-Sada" if Name_1989 == "Garza Sada"
+replace Name_1989 = "Wilhelm and August von Finck" if Name_1989 == "Wilhelm Von Finck August Von Finck"
+replace Name_1989 = "Mustafa Vehbi Koc" if Name_1989 == "Vehbi M. Koc"
+
+rename Name_1989 Name 
+rename Country_1989 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-90" 
+
+*Ordering variables 
+order Name Country id_1989 id_1990 id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1989 Age_1990 Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1989 Wealth_1990 Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1989 Family_1990 Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //510 single name duplicates up to this point, 39 double name duplicates (so 13 names), 12 quintuple name duplicates (so 2 names)
+
+gen id_198915 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-89", replace
+
+*******************
+*198915-1988 merge*
+*******************
+
+use "${SavePath}/statadata/harmonized_names/15-89", clear
+
+matchit id_198915 Name using "WorldBillionaires1988minusUS.dta", idusing(id_1988) txtusing(Name_1988)
+
+joinby id_198915 using "${SavePath}/statadata/harmonized_names/15-89"
+joinby id_1988 using WorldBillionaires1988minusUS
+
+order id_198915 id_199015 id_199115 id_199215 id_199315 id_199415 id_199515 id_199615 id_199715 id_199815 id_199915 id_200015 id_200115 id_200215 id_200315 id_200415 id_200515 id_200615 id_200715 id_200815 id_200915 id_201015 id_201115 id_201215 id_201315 id_201415 ///
+id_1988 id_1989 id_1990 id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Country Country_1988 ///
+Name Name_1988 ///
+similscore ///
+Age_1988 Age_1989 Age_1990 Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1988 Wealth_1989 Wealth_1990 Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1988 Family_1989 Family_1990 Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015 
+
+bys Name_1988 (similscore): keep if _n == _N
+keep if similscore != 1 
+gsort -similscore
+
+save "${SavePath}/statadata/harmonized_names/matchit/matchit_15-88", replace
+
+*Changes in 1988 name variable 
+use WorldBillionaires1988minusUS, clear
+
+replace Name_1988 = "Sheikh Zayed Bin Sultan Al Nahyan" if Name_1988 == "Sheikh Zayed Bin Sultan Al Nahayan"
+replace Name_1988 = "Prince Johannes Von Thurn Und Taxis" if Name_1988 == "Prince Johannes Thurn Und Taxis"
+replace Name_1988 = "Friedrich Karl Jr. Flick" if Name_1988 == "Friedrich Karl Flick"
+replace Name_1988 = "Theo and Karl Albrecht" if Name_1988 == "Karl Albrecht and Theo Albrecht"
+replace Name_1988 = "Baron Hans Heinrich Thyssen-Bornesmisza" if Name_1988 == "Baron Heinrich Thyssen-Bornemisza"
+replace Name_1988 = "Alfred Heineken" if Name_1988 == "Alfred Henry Heineken"
+replace Name_1988 = "Yosbiaki Tsutsumi" if Name_1988 == "Yoshiaki Tsutsumi"
+replace Name_1988 = "August von Finck" if Name_1988 == "August Von Finck"
+replace Name_1988 = "Gianni Agnelli" if Name_1988 == "Giovanni Agnelli"
+replace Name_1988 = "Abdul Aziz Al-Sulaiman" if Name_1988 == "Abdul-Aziz Al Suliman"
+replace Name_1988 = "Erivan Haub" if Name_1988 == "Erivan Karl Haub"
+replace Name_1988 = "Gerald Cavendish Grosvenor" if Name_1988 == "Gerald Grosvenor"
+replace Name_1988 = "Li Ka-shing" if Name_1988 == "Li Ka-Shing"
+replace Name_1988 = "Rudolf Oetker" if Name_1988 == "Rudolf August Oetker"
+replace Name_1988 = "Edgar Miles Sr. Bronfman" if Name_1988 == "Edgar M. Bronfman"
+replace Name_1988 = "Amir Jaber Al-Ahmed Al-Jaber Al-Sabah" if Name_1988 == "Sheikh Jaber Ahmed Al Sabah"
+replace Name_1988 = "Y.K. Pao" if Name_1988 == "Sir Y. K. Pao"
+replace Name_1988 = "Suliman Olayan" if Name_1988 == "Suliman Saleh Oyalan"
+replace Name_1988 = "Anton Dressmann" if Name_1988 == "Anton Caspar Rudolph Dreesmann"
+replace Name_1988 = "Sebastiao Camargo" if Name_1988 == "Sebastio Ferraz de Camargo Penteado"
+
+duplicates drop Name_1988 Country_1988, force //Dropping duplicate observation of Genshiro Kawamoto
+
+rename Name_1988 Name 
+rename Country_1988 Country 
+
+merge 1:1 Name Country using "${SavePath}/statadata/harmonized_names/15-89" 
+
+*Ordering variables 
+order Name Country id_1988 id_1989 id_1990 id_1991 id_1992 id_1993 id_1994 id_1995 id_1996 id_1997 id_1998 id_1999 id_2000 id_2001 id_2002 id_2003 id_2004 id_2005 id_2006 id_2007 id_2008 id_2009 id_2010 id_2011 id_2012 id_2013 id_2014 id_2015 ///
+Age_1988 Age_1989 Age_1990 Age_1991 Age_1992 Age_1993 Age_1994 Age_1995 Age_1996 Age_1997 Age_1998 Age_1999 Age_2000 Age_2001 Age_2002 Age_2003 Age_2004 Age_2005 Age_2006 Age_2007 Age_2008 Age_2009 Age_2010 Age_2011 Age_2012 Age_2013 Age_2014 Age_2015 ///
+Wealth_1988 Wealth_1989 Wealth_1990 Wealth_1991 Wealth_1992 Wealth_1993 Wealth_1994 Wealth_1995 Wealth_1996 Wealth_1997 Wealth_1998 Wealth_1999 Wealth_2000 Wealth_2001 Wealth_2002 Wealth_2003 Wealth_2004 Wealth_2005 Wealth_2006 Wealth_2007 Wealth_2008 Wealth_2009 Wealth_2010 Wealth_2011 Wealth_2012 Wealth_2013 Wealth_2014 Wealth_2015 ///
+Family_1988 Family_1989 Family_1990 Family_1991 Family_1992 Family_1993 Family_1994 Family_1995 Family_1996 Family_1997 Family_1998 Family_1999 Family_2000 Family_2001 Family_2002 Family_2003 Family_2004 Family_2005 Family_2006 Family_2007 Family_2008 Family_2009 Family_2010 Family_2011 Family_2012 Family_2013 Family_2014 Family_2015
+
+sort Name
+
+duplicates tag Name, gen(nametag) 
+tab nametag 
+browse if nametag > 0 //520 single name duplicates up to this point, 36 double name duplicates (12 names), 4 triple name duplicates (1 name) 12 quintuple name duplicates (2 names)
+
+gen id_198815 = _n
+ 
+drop nametag _merge 
+
+save "${SavePath}/statadata/harmonized_names/15-88", replace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
