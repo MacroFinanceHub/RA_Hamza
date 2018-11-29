@@ -1,0 +1,794 @@
+name,country,age,wealth,residence,year
+William Gates III,United States,50,50,United States,2006
+Warren Buffett,United States,75,42,United States,2006
+Carlos Slim Helu,Mexico,66,30,Mexico,2006
+Ingvar Kamprad,Sweden,79,28,Switzerland,2006
+Lakshmi Mittal,India,55,23.5,United Kingdom,2006
+Paul Allen,United States,53,22,United States,2006
+Bernard Arnault,France,57,21.5,France,2006
+Prince Alwaleed Bin Talal Alsaud,Saudi Arabia,49,20,Saudi Arabia,2006
+Kenneth Thomson & family,Canada,82,19.6,Canada,2006
+Li Ka-shing,Hong Kong,77,18.8,Hong Kong,2006
+Roman Abramovich,Russia,39,18.2,United Kingdom,2006
+Michael Dell,United States,41,17.1,United States,2006
+Karl Albrecht,Germany,86,17,Germany,2006
+Sheldon Adelson,United States,72,16.1,United States,2006
+Liliane Bettencourt,France,83,16,France,2006
+Lawrence Ellison,United States,61,16,United States,2006
+Christy Walton,United States,51,15.9,United States,2006
+Jim Walton,United States,58,15.9,United States,2006
+S Robson Walton,United States,62,15.8,United States,2006
+Alice Walton,United States,56,15.7,United States,2006
+Helen Walton,United States,86,15.6,United States,2006
+Theo Albrecht,Germany,83,15.2,Germany,2006
+Amancio Ortega,Spain,70,14.8,Spain,2006
+Steven Ballmer,United States,50,13.6,United States,2006
+Azim Premji,India,60,13.3,India,2006
+Sergey Brin,United States,32,12.9,United States,2006
+Larry Page,United States,33,12.8,United States,2006
+Abigail Johnson,United States,44,12.5,United States,2006
+Nasser Al-Kharafi & family,Kuwait,62,12.4,Kuwait,2006
+Barbara Cox Anthony,United States,82,12.4,United States,2006
+Anne Cox Chambers,United States,86,12.4,United States,2006
+Stefan Persson,Sweden,58,12.3,Sweden,2006
+Charles Koch,United States,70,12,United States,2006
+David Koch,United States,65,12,United States,2006
+"Raymond, Thomas & Walter Kwok",Hong Kong,n/a,11.6,Hong Kong,2006
+Adolf Merckle,Germany,71,11.5,Germany,2006
+Sulaiman Bin Abdul Al Rajhi,Saudi Arabia,86,11,Saudi Arabia,2006
+Vagit Alekperov,Russia,55,11,Russia,2006
+Silvio Berlusconi,Italy,69,11,Italy,2006
+Lee Shau Kee,Hong Kong,78,11,Hong Kong,2006
+Vladimir Lisin,Russia,49,10.7,Russia,2006
+Michael Otto & family,Germany,62,10.4,Germany,2006
+Pierre Omidyar,United States,38,10.1,United States,2006
+Leonardo Del Vecchio,Italy,70,10,Italy,2006
+Michele Ferrero & family,Italy,79,10,Monaco,2006
+Forrest Mars Jr,United States,74,10,United States,2006
+Jacqueline Mars,United States,66,10,United States,2006
+John Mars,United States,69,10,United States,2006
+Viktor Vekselberg,Russia,48,10,Russia,2006
+Mikhail Fridman,Russia,41,9.7,Russia,2006
+Spiro Latsis & family,Greece,59,9.1,Switzerland,2006
+John Kluge,United States,91,9,United States,2006
+Carl Icahn,United States,70,8.7,United States,2006
+Kirk Kerkorian,United States,88,8.7,United States,2006
+Birgit Rausing & family,Sweden,82,8.6,Switzerland,2006
+Mukesh Ambani,India,48,8.5,India,2006
+Serge Dassault & family,France,80,8.5,France,2006
+Hans Rausing,Sweden,80,8.5,United Kingdom,2006
+Galen Weston & family,Canada,65,8.4,Canada,2006
+Susanne Klatten,Germany,43,8.1,Germany,2006
+Rudolf August Oetker & family,Germany,89,8,Germany,2006
+Oleg Deripaska,Russia,37,7.8,Russia,2006
+Sumner Redstone,United States,82,7.7,United States,2006
+Alexei Mordashov,Russia,40,7.6,Russia,2006
+Donald Newhouse,United States,76,7.5,United States,2006
+Samuel Newhouse Jr,United States,78,7.5,United States,2006
+Alain & Gerard Wertheimer,France,n/a,7.5,France,2006
+Reinhold WÙrth,Germany,70,7.5,Germany,2006
+Joseph & Moise Safra,Brazil,n/a,7.4,Brazil,2006
+Philip Knight,United States,68,7.3,United States,2006
+George Soros,United States,75,7.2,United States,2006
+Ernesto Bertarelli,Switzerland,40,7.1,Switzerland,2006
+Suleiman Kerimov,Russia,40,7.1,Russia,2006
+Philip & Cristina Green,United Kingdom,n/a,7,Monaco,2006
+Francois Pinault,France,69,7,France,2006
+August von Finck,Germany,76,7,Switzerland,2006
+Mohammed Al Amoudi,Saudi Arabia,60,6.9,Saudi Arabia,2006
+Abdul Aziz Al Ghurair & family,United Arab Emirates,52,6.9,United Arab Emirates,2006
+Maria-Elisabeth & Georg Schaeffler,Germany,n/a,6.8,Germany,2006
+Charles Ergen,United States,53,6.7,United States,2006
+Edward Johnson III,United States,75,6.7,United States,2006
+Kun-Hee Lee & family,South Korea,64,6.6,South Korea,2006
+Stefan Quandt,Germany,40,6.6,Germany,2006
+Saleh Bin Abdul Aziz Al Rajhi,Saudi Arabia,94,6.5,Saudi Arabia,2006
+Rafael del Pino & family,Spain,85,6.5,Spain,2006
+Stanley Ho,Hong Kong,84,6.5,Hong Kong,2006
+Maersk Mc-Kinney Moller,Denmark,92,6.5,Denmark,2006
+Keith Murdoch,United States,75,6.5,United States,2006
+Philip Anschutz,United States,66,6.4,United States,2006
+Hasso Plattner,Germany,62,6.4,Germany,2006
+Vladimir Potanin,Russia,45,6.4,Russia,2006
+Mikhail Prokhorov,Russia,40,6.4,Russia,2006
+Vladimir Yevtushenkov,Russia,57,6.3,Russia,2006
+Micky Arison,United States,56,6.1,United States,2006
+Curt Engelhorn,Germany,79,6.1,Switzerland,2006
+Friedrich Flick Jr,Germany,79,6.1,Austria,2006
+German Khan,Russia,44,6.1,Russia,2006
+Ronald Perelman,United States,63,6.1,United States,2006
+Johanna Quandt,Germany,78,6.1,Germany,2006
+Dan Duncan,United States,73,6,United States,2006
+Gerald Cavendish Grosvenor & family,United Kingdom,54,6,United Kingdom,2006
+Jack Taylor,United States,83,6,United States,2006
+Eli Broad,United States,72,5.9,United States,2006
+Anil Ambani,India,46,5.7,India,2006
+Donald Bren,United States,73,5.7,United States,2006
+"James, Arthur & John Irving",Canada,n/a,5.5,Canada,2006
+Yasuo Takei & family,Japan,76,5.4,Japan,2006
+YC Wang,Taiwan,89,5.4,Taiwan,2006
+Shari Arison,Israel,48,5.2,Israel,2006
+Kunio Busujima & family,Japan,80,5.2,Japan,2006
+Nikolai Tsvetkov,Russia,45,5.2,Russia,2006
+Michael Bloomberg,United States,63,5.1,United States,2006
+Cheng Yu-tung,Hong Kong,80,5.1,Hong Kong,2006
+Leonard Blavatnik,United States,48,5,United Kingdom,2006
+Gustavo Cisneros & family,Venezuela,60,5,Venezuela,2006
+Charlene de Carvalho-Heineken,Netherlands,51,5,United Kingdom,2006
+John Fredriksen,Norway,61,5,Norway,2006
+Saleh Kamel,Saudi Arabia,64,5,Saudi Arabia,2006
+Karl-Heinz Kipp,Germany,82,5,Switzerland,2006
+Robert Kuok,Malaysia,82,5,Hong Kong,2006
+John Menard Jr,United States,66,5,United States,2006
+James Packer,Australia,38,5,Australia,2006
+Kushal Pal Singh,India,74,5,India,2006
+Jeffrey Skoll,Canada,41,5,United States,2006
+Alexander Abramov,Russia,47,4.9,Russia,2006
+Erivan Haub & family,Germany,73,4.9,Germany,2006
+Lorenzo Mendoza & family,Venezuela,40,4.9,Venezuela,2006
+Sunil Mittal,India,48,4.9,India,2006
+Alexei Kuzmichov,Russia,43,4.8,Russia,2006
+Robert Rowling,United States,52,4.8,United States,2006
+Onsi Sawiris,Egypt,76,4.8,Egypt,2006
+Eric Schmidt,United States,50,4.8,United States,2006
+Nobutada Saji & family,Japan,60,4.7,Japan,2006
+Jeronimo Arango,Mexico,80,4.6,Mexico,2006
+Nicky Oppenheimer & family,South Africa,60,4.6,South Africa,2006
+Iskander Makhmudov,Russia,43,4.5,Russia,2006
+Akira Mori & family,Japan,68,4.5,Japan,2006
+Julio Mario Santo Domingo,Colombia,82,4.5,Colombia,2006
+Shin Kyuk-Ho & family,South Korea,83,4.5,South Korea,2006
+Kumar Birla,India,38,4.4,India,2006
+David Geffen,United States,63,4.4,United States,2006
+Steven Jobs,United States,51,4.4,United States,2006
+George Kaiser,United States,63,4.4,United States,2006
+Luis Carlos Sarmiento,Colombia,73,4.4,Colombia,2006
+Thomas Schmidheiny,Switzerland,60,4.4,Switzerland,2006
+H Ty Warner,United States,62,4.4,United States,2006
+Jeffrey Bezos,United States,42,4.3,United States,2006
+Terry Gou,Taiwan,55,4.3,Taiwan,2006
+Walter Haefner,Switzerland,95,4.3,Switzerland,2006
+Charles Johnson,United States,73,4.3,United States,2006
+Ananda Krishnan,Malaysia,67,4.3,Malaysia,2006
+Reinhard Mohn & family,Germany,84,4.3,Germany,2006
+Henry Perot,United States,75,4.3,United States,2006
+Jean-Claude Decaux & family,France,68,4.2,France,2006
+Eitaro Itoyama,Japan,63,4.2,Japan,2006
+Nina Wang,Hong Kong,n/a,4.2,Hong Kong,2006
+Tadashi Yanai & family,Japan,57,4.2,Japan,2006
+Giorgio Armani,Italy,71,4.1,Italy,2006
+Vladimir Bogdanov,Russia,54,4.1,Russia,2006
+Lester Crown & family,United States,80,4.1,United States,2006
+James Goodnight,United States,63,4.1,United States,2006
+Bahaa Hariri,Switzerland,39,4.1,Switzerland,2006
+Saad Hariri,Saudi Arabia,35,4.1,Saudi Arabia,2006
+Antonia Johnson,Sweden,62,4.1,Sweden,2006
+Klaus-Michael KÙhne,Germany,68,4.1,Switzerland,2006
+Eliodoro Matte & family,Chile,60,4.1,Chile,2006
+Richard Schulze,United States,65,4.1,United States,2006
+Leonid Fedun,Russia,49,4,Russia,2006
+David Murdock,United States,82,4,United States,2006
+Shiv Nadar,India,60,4,India,2006
+Madeleine Schickedanz,Germany,62,4,Switzerland,2006
+Charles Schwab,United States,68,4,United States,2006
+Boris Ivanishvili,Russia,50,3.9,France,2006
+Abdullah Al Rajhi,Saudi Arabia,n/a,3.8,Saudi Arabia,2006
+Paul Desmarais,Canada,79,3.8,Canada,2006
+Aloysio de Andrade Faria,Brazil,85,3.8,Brazil,2006
+Michael Kadoorie & family,Hong Kong,65,3.8,Hong Kong,2006
+Frank Lowy & family,Australia,75,3.8,Australia,2006
+Ng Teng Fong,Singapore,77,3.8,Singapore,2006
+James Sorenson,United States,84,3.8,United States,2006
+Anacleto Angelini,Chile,92,3.7,Chile,2006
+Henry Fok,Hong Kong,82,3.7,Hong Kong,2006
+Gordon Moore,United States,77,3.7,United States,2006
+Bernard (Barry) Sherman,Canada,64,3.7,Canada,2006
+Masatoshi Ito,Japan,81,3.6,Japan,2006
+Rupert Johnson Jr,United States,64,3.6,United States,2006
+Kwek Leng Beng & family,Singapore,65,3.6,Singapore,2006
+Ralph Lauren,United States,66,3.6,United States,2006
+Pallonji Mistry,India,76,3.6,India,2006
+Viktor Rashnikov,Russia,57,3.6,Russia,2006
+David & Simon Reuben,United Kingdom,n/a,3.6,United Kingdom,2006
+Andreas StrÙngmann,Germany,56,3.6,Germany,2006
+Thomas StrÙngmann,Germany,56,3.6,Germany,2006
+William Davidson,United States,83,3.5,United States,2006
+Bradley Hughes,United States,72,3.5,United States,2006
+Edward Lampert,United States,43,3.5,United States,2006
+Alexander Lebedev,Russia,46,3.5,Russia,2006
+George Lucas,United States,61,3.5,United States,2006
+Jim Pattison,Canada,77,3.5,Canada,2006
+Robert Bass,United States,58,3.4,United States,2006
+Otto Beisheim,Germany,82,3.4,Switzerland,2006
+Richard DeVos,United States,80,3.4,United States,2006
+Bernard Ecclestone & family,United Kingdom,75,3.4,United Kingdom,2006
+Esther Koplowitz,Spain,55,3.4,Spain,2006
+Jorge Paulo Lemann,Brazil,66,3.4,Brazil,2006
+G_rard Louis-Dreyfus & family,France,73,3.4,United States,2006
+Chung Mong-Koo & family,South Korea,68,3.3,South Korea,2006
+Anurag Dikshit,India,34,3.3,Gibraltar,2006
+Johann Rupert & family,South Africa,55,3.3,South Africa,2006
+Rainer & Michael Schmidt-Ruthenbeck,Germany,n/a,3.3,Germany,2006
+Tsai Wan Tsai & family,Taiwan,76,3.3,Taiwan,2006
+Klaus Tschira,Germany,65,3.3,Germany,2006
+Karl Wlaschek,Austria,88,3.3,Austria,2006
+Khalid Bin Mahfouz & family,Saudi Arabia,59,3.2,Saudi Arabia,2006
+Martin Bouygues & family,France,53,3.2,France,2006
+William Cook,United States,74,3.2,United States,2006
+Antonio Ermirio de Moraes & family,Brazil,77,3.2,Brazil,2006
+Yoshitaka Fukuda & family,Japan,58,3.2,Japan,2006
+Maurice Greenberg,United States,80,3.2,United States,2006
+Charoen Sirivadhanabhakdi,Thailand,61,3.2,Thailand,2006
+Ricardo Salinas Pliego & family,Mexico,50,3.1,Mexico,2006
+Stephan Schmidheiny,Switzerland,58,3.1,Switzerland,2006
+Masayoshi Son,Japan,48,3.1,Japan,2006
+Gianluigi & Rafaela Aponte,Switzerland,n/a,3,Switzerland,2006
+Roland Arnall,United States,67,3,United States,2006
+Pyotr Aven,Russia,51,3,Russia,2006
+Edgar Bronfman Sr,United States,76,3,United States,2006
+Albert Frere,Belgium,80,3,Belgium,2006
+Frits Goldschmeding,Netherlands,72,3,Netherlands,2006
+Heidi Horten,Austria,65,3,Austria,2006
+Petr Kellner,Czech Republic,41,3,Czech Republic,2006
+Lee Seng Wee & family,Singapore,81,3,Singapore,2006
+Hiroshi Mikitani,Japan,41,3,Japan,2006
+Robert Miller,Canada,60,3,Canada,2006
+Sammy Ofer & family,Israel,84,3,Monaco,2006
+Edward Rogers,Canada,72,3,Canada,2006
+Anton Schlecker,Germany,61,3,Germany,2006
+Takemitsu Takizaki,Japan,60,3,Japan,2006
+William Wrigley Jr,United States,42,3,United States,2006
+David Filo,United States,39,2.9,United States,2006
+Michael Herz,Germany,60,2.9,Germany,2006
+Leonard Lauder,United States,73,2.9,United States,2006
+Arnon Milchan,Israel,61,2.9,Israel,2006
+A Jerrold Perenchio,United States,75,2.9,United States,2006
+Anil Agarwal,India,52,2.8,United Kingdom,2006
+Alberto Bailleres,Mexico,73,2.8,Mexico,2006
+David & Frederick Barclay,United Kingdom,n/a,2.8,United Kingdom,2006
+Richard Branson,United Kingdom,55,2.8,United Kingdom,2006
+Charles Cadogan & family,United Kingdom,69,2.8,United Kingdom,2006
+Wolfgang Herz,Germany,55,2.8,Germany,2006
+Kjeld Kirk Kristiansen,Denmark,58,2.8,Denmark,2006
+Lim Goh Tong,Malaysia,88,2.8,Malaysia,2006
+Carl Pohlad,United States,90,2.8,United States,2006
+Ravi & Shashi Ruia,India,n/a,2.8,India,2006
+Haim Saban,United States,61,2.8,United States,2006
+Stefan Sch_rghuber,Germany,44,2.8,Germany,2006
+Steven Spielberg,United States,59,2.8,United States,2006
+John Abele,United States,69,2.7,United States,2006
+Charles Bronfman,Canada,74,2.7,Canada,2006
+Matthew Bucksbaum & family,United States,80,2.7,United States,2006
+John Calamos,United States,65,2.7,United States,2006
+Francesco Gaetano Caltagirone,Italy,63,2.7,Italy,2006
+Jesus de Polanco,Spain,76,2.7,Spain,2006
+Otto Happel,Germany,58,2.7,Switzerland,2006
+Ayman Hariri,Saudi Arabia,27,2.7,Saudi Arabia,2006
+Fahd Hariri,Lebanon,25,2.7,France,2006
+Henry Hillman,United States,87,2.7,United States,2006
+Martha Ingram & family,United States,70,2.7,United States,2006
+Manuel Jove,Spain,64,2.7,Spain,2006
+Vladimir Kim,Kazakhstan,45,2.7,Kazakhstan,2006
+Ronald Lauder,United States,62,2.7,United States,2006
+Andrey Melnichenko,Russia,34,2.7,Russia,2006
+Henry Nicholas III,United States,46,2.7,United States,2006
+Sergei Popov,Russia,34,2.7,Russia,2006
+Leonard Stern,United States,67,2.7,United States,2006
+Leslie Wexner,United States,70,2.7,United States,2006
+Michael Ying,Hong Kong,56,2.7,Hong Kong,2006
+Chen Din Hwa,Hong Kong,83,2.6,Hong Kong,2006
+Adi Godrej & family,India,63,2.6,India,2006
+Barbara Piasecka Johnson,United States,69,2.6,Monaco,2006
+Peter Kellogg,United States,64,2.6,United States,2006
+Ann Walton Kroenke,United States,56,2.6,United States,2006
+Lev Leviev,Israel,50,2.6,Israel,2006
+Hugo Mann & family,Germany,92,2.6,Germany,2006
+Naguib Sawiris,Egypt,n/a,2.6,Egypt,2006
+Harold Simmons,United States,74,2.6,United States,2006
+Melvin Simon,United States,79,2.6,United States,2006
+James Simons,United States,68,2.6,United States,2006
+John Simplot & family,United States,97,2.6,United States,2006
+Donald Trump,United States,60,2.6,United States,2006
+Alisher Usmanov,Russia,52,2.6,Russia,2006
+Riley Bechtel,United States,54,2.5,United States,2006
+Stephen Bechtel Jr,United States,80,2.5,United States,2006
+Carlo Benetton,Italy,62,2.5,Italy,2006
+Gilberto Benetton,Italy,64,2.5,Italy,2006
+Giuliana Benetton,Italy,68,2.5,Italy,2006
+Luciano Benetton,Italy,70,2.5,Italy,2006
+Steven Cohen,United States,50,2.5,United States,2006
+Barbara Davis & family,United States,76,2.5,United States,2006
+John Dorrance III,Ireland,62,2.5,Ireland,2006
+Jean-Louis Dumas & family,France,67,2.5,France,2006
+Nicolas Hayek,Switzerland,77,2.5,Switzerland,2006
+Ray Hunt,United States,63,2.5,United States,2006
+Fukuzo Iwasaki,Japan,81,2.5,Japan,2006
+Bruce Kovner,United States,60,2.5,United States,2006
+Henry Kravis,United States,62,2.5,United States,2006
+Leonid Mikhelson,Russia,50,2.5,Russia,2006
+Miuccia Prada & family,Italy,56,2.5,Italy,2006
+Sean Quinn & family,Ireland,59,2.5,Ireland,2006
+J Ricketts & family,United States,64,2.5,United States,2006
+George Roberts,United States,61,2.5,United States,2006
+David Rockefeller Sr,United States,90,2.5,United States,2006
+Bruno Schroder & family,United Kingdom,73,2.5,United Kingdom,2006
+Stephen Schwarzman,United States,59,2.5,United States,2006
+Dennis Washington,United States,71,2.5,United States,2006
+Chaleo Yoovidhya,Thailand,74,2.5,Thailand,2006
+Clive Calder,United Kingdom,59,2.4,Cayman Islands,2006
+Dhanin Chearavanont & family,Thailand,66,2.4,Thailand,2006
+Stein Erik Hagen,Norway,49,2.4,Norway,2006
+Indu Jain,India,69,2.4,India,2006
+Richard Kinder,United States,62,2.4,United States,2006
+Sergio Mantegazza,Switzerland,78,2.4,Switzerland,2006
+Dietrich Mateschitz,Austria,61,2.4,Austria,2006
+George Mitchell,United States,86,2.4,United States,2006
+Axel Oberwelland,Germany,39,2.4,Germany,2006
+Didier Primat,France,61,2.4,France,2006
+Henry Samueli,United States,51,2.4,United States,2006
+Emanuele (Lino) Saputo & family,Canada,69,2.4,Canada,2006
+Dilip Shanghvi,India,50,2.4,India,2006
+Steven Udvar-Hazy,United States,60,2.4,United States,2006
+Wee Cho Yaw,Singapore,77,2.4,Singapore,2006
+Stef Wertheimer & family,Israel,80,2.4,Israel,2006
+Jerry Yang,United States,37,2.4,United States,2006
+Samuel Zell,United States,64,2.4,United States,2006
+Khalaf Al Habtoor,United Arab Emirates,n/a,2.3,United Arab Emirates,2006
+Mohammed Al Issa,Saudi Arabia,n/a,2.3,Saudi Arabia,2006
+Elena Baturina,Russia,43,2.3,Russia,2006
+Hubert Burda,Germany,66,2.3,Germany,2006
+Ronald Burkle,United States,53,2.3,United States,2006
+Alexander Frolov,Russia,41,2.3,Russia,2006
+Wallace McCain,Canada,76,2.3,Canada,2006
+Peter Nicholas,United States,64,2.3,United States,2006
+Richard Pratt,Australia,71,2.3,Australia,2006
+Richard Rainwater,United States,61,2.3,United States,2006
+Hermann Schnabel,Germany,84,2.3,Germany,2006
+Yasumitsu Shigeta,Japan,41,2.3,Japan,2006
+Clemmie Spangler Jr,United States,73,2.3,United States,2006
+Friede Springer,Germany,63,2.3,Germany,2006
+Peter Woo & family,Hong Kong,60,2.3,Hong Kong,2006
+Bjorgolfur Thor Bjorgolfsson,Iceland,39,2.2,United Kingdom,2006
+Charles Butt,United States,67,2.2,United States,2006
+Belmiro de Azevedo,Portugal,68,2.2,Portugal,2006
+John de Mol,Netherlands,51,2.2,Netherlands,2006
+Ennio Doris & family,Italy,65,2.2,Italy,2006
+Gordon Getty,United States,73,2.2,United States,2006
+Leona Mindy Rosenthal Helmsley,United States,85,2.2,United States,2006
+Amos Hostetter Jr,United States,69,2.2,United States,2006
+Nancy Walton Laurie,United States,54,2.2,United States,2006
+Carl Lindner Jr & family,United States,86,2.2,United States,2006
+Bernard Marcus,United States,76,2.2,United States,2006
+Rosalia Mera,Spain,62,2.2,Spain,2006
+Mario Moretti Polegato,Italy,53,2.2,Italy,2006
+Mitchell Rales,United States,49,2.2,United States,2006
+Zhengrong Shi,Australia,43,2.2,China,2006
+Mohammed Al Rajhi,Saudi Arabia,n/a,2.1,Saudi Arabia,2006
+Heinz-Horst Deichmann,Germany,79,2.1,Germany,2006
+H Huizenga,United States,68,2.1,United States,2006
+Herbert Kohler & family,United States,67,2.1,United States,2006
+Michael Lee-Chin,Canada,55,2.1,Canada,2006
+Fredrik Lundberg,Sweden,54,2.1,Sweden,2006
+Alfred Mann,United States,80,2.1,United States,2006
+Craig McCaw,United States,56,2.1,United States,2006
+Ernest Rady,United States,68,2.1,United States,2006
+Steven Rales,United States,54,2.1,United States,2006
+Evgeny (Eugene) Shvidler,United States,41,2.1,Russia,2006
+Frederick Smith,United States,61,2.1,United States,2006
+Glen Taylor,United States,64,2.1,United States,2006
+Teh Hong Piow,Malaysia,76,2.1,Malaysia,2006
+Patrick Wang & family,Hong Kong,55,2.1,Hong Kong,2006
+Cher Wang & Wenchi Chen,Taiwan,n/a,2.1,Taiwan,2006
+Stephen Wynn,United States,64,2.1,United States,2006
+Leonore Annenberg,United States,88,2,United States,2006
+Maria Asuncion Aramburuzabala & family,Mexico,42,2,Mexico,2006
+Nadhmi Auchi,United Kingdom,68,2,United Kingdom,2006
+Charles Brandes,United States,63,2,United States,2006
+Richard & Christopher Chandler,New Zealand,n/a,2,New Zealand,2006
+Patokh Chodiev,Belgium,53,2,Kazakhstan,2006
+Philippe Foriel-Destezet,France,70,2,United Kingdom,2006
+David Green,United States,64,2,United States,2006
+William Hearst III,United States,56,2,United States,2006
+Roberto Hernandez Ramirez,Mexico,64,2,Mexico,2006
+Daniela Herz,Germany,52,2,Germany,2006
+GÙnter Herz,Germany,65,2,Germany,2006
+Alijan Ibragimov,Kazakhstan,52,2,Kazakhstan,2006
+Paul Jones II,United States,52,2,United States,2006
+Peter Lewis,United States,72,2,United States,2006
+Alexander Machkevich,Israel,52,2,Kazakhstan,2006
+Margaret Magerko,United States,40,2,United States,2006
+Patrick McGovern,United States,68,2,United States,2006
+Michael Milken,United States,59,2,United States,2006
+Roger Penske,United States,69,2,United States,2006
+Quek Leng Chan,Malaysia,65,2,Malaysia,2006
+Clayton Riddell,Canada,68,2,Canada,2006
+John Sall,United States,56,2,United States,2006
+John Sobrato,United States,66,2,United States,2006
+Zygmunt Solorz-Zak,Poland,49,2,Poland,2006
+Yitzhak Tshuva,Israel,57,2,Israel,2006
+Robert E (Ted) Turner,United States,67,2,United States,2006
+Mortimer Zuckerman,United States,68,2,United States,2006
+Herbert Allen Jr,United States,66,1.9,United States,2006
+Heinz Bauer,Germany,66,1.9,Germany,2006
+Phoebe Hearst Cooke,United States,79,1.9,United States,2006
+Louis Gonda,United States,57,1.9,United States,2006
+Rachman Halim & family,Indonesia,58,1.9,Indonesia,2006
+Austin Hearst,United States,53,1.9,United States,2006
+David Hearst Jr,United States,60,1.9,United States,2006
+George Hearst Jr,United States,78,1.9,United States,2006
+Joachim Herz,Germany,63,1.9,Germany,2006
+Irwin Jacobs,United States,72,1.9,United States,2006
+S Curtis Johnson,United States,50,1.9,United States,2006
+Clayton Mathile,United States,65,1.9,United States,2006
+Thomas Pritzker,United States,55,1.9,United States,2006
+Tamir Sapir,United States,58,1.9,United States,2006
+Ronda Stryker,United States,51,1.9,United States,2006
+Roustam Tariko,Russia,44,1.9,Russia,2006
+Albert von Thurn und Taxis,Germany,22,1.9,Germany,2006
+Hiroshi Yamauchi,Japan,78,1.9,Japan,2006
+S Daniel Abraham,United States,81,1.8,United States,2006
+Isak Andic,Spain,51,1.8,Spain,2006
+Lee Bass,United States,49,1.8,United States,2006
+Pierre Bellon & family,France,76,1.8,France,2006
+Franklin Booth Jr,United States,83,1.8,United States,2006
+James Cargill,United States,81,1.8,United States,2006
+Margaret Cargill,United States,86,1.8,United States,2006
+Mark Cuban,United States,48,1.8,United States,2006
+J DeLeon,United States,40,1.8,Gibraltar,2006
+Stanley Druckenmiller,United States,53,1.8,United States,2006
+Donald Hall,United States,77,1.8,United States,2006
+R Budi Hartono,Indonesia,65,1.8,Indonesia,2006
+Hans-Werner Hector,Germany,66,1.8,Germany,2006
+Jess Jackson,United States,76,1.8,United States,2006
+Ruth Parasol,United States,39,1.8,Gibraltar,2006
+Stefano Pessina,Italy,64,1.8,Monaco,2006
+Penny Pritzker,United States,46,1.8,United States,2006
+Fayez Sarofim,United States,77,1.8,United States,2006
+Ernest Stempel,United States,89,1.8,Bermuda,2006
+Jon Stryker,United States,47,1.8,United States,2006
+Olav Thon,Norway,82,1.8,Norway,2006
+Eugen Viehof & family,Germany,89,1.8,Germany,2006
+Lorenzo Zambrano & family,Mexico,62,1.8,Mexico,2006
+Rinat Akhmetov,Ukraine,39,1.7,Ukraine,2006
+Emilio Azcàrraga Jean,Mexico,38,1.7,Mexico,2006
+Vincent Bollore,France,53,1.7,France,2006
+Emilio Botin,Spain,71,1.7,Spain,2006
+Charles Dolan,United States,79,1.7,United States,2006
+Bennett Dorrance,United States,57,1.7,United States,2006
+Gustaf Douglas,Sweden,68,1.7,Sweden,2006
+Gabriel Escarrer,Spain,71,1.7,Spain,2006
+Thomas Frist Jr & family,United States,67,1.7,United States,2006
+Tetsuro Funai,Japan,79,1.7,Japan,2006
+Tom Gores,United States,41,1.7,United States,2006
+Nazek Hariri,Lebanon,n/a,1.7,France,2006
+Graeme Hart,New Zealand,50,1.7,New Zealand,2006
+Vladimir Iorikh,Russia,47,1.7,Russia,2006
+Rahmi Koc,Turkey,75,1.7,Turkey,2006
+E Kroenke,United States,58,1.7,United States,2006
+Joseph Lau,Hong Kong,54,1.7,Hong Kong,2006
+Mary Alice Dorrance Malone,United States,56,1.7,United States,2006
+Gregorio Perez Companc & family,Argentina,71,1.7,Argentina,2006
+Anthony Pritzker,United States,45,1.7,United States,2006
+Daniel Pritzker,United States,47,1.7,United States,2006
+James Pritzker,United States,54,1.7,United States,2006
+Jay Robert (JB) Pritzker,United States,41,1.7,United States,2006
+Jean (Gigi) Pritzker,United States,44,1.7,United States,2006
+John Pritzker,United States,53,1.7,United States,2006
+Karen Pritzker,United States,48,1.7,United States,2006
+Linda Pritzker,United States,52,1.7,United States,2006
+Larry Rong Zhijian,China,64,1.7,China,2006
+Omer Sabanci,Turkey,47,1.7,Turkey,2006
+Sevket Sabanci,Turkey,70,1.7,Turkey,2006
+Walter Scott Jr,United States,74,1.7,United States,2006
+Sylvia Str_her,Germany,51,1.7,Germany,2006
+Lucio Tan,Philippines,71,1.7,Philippines,2006
+Wong Kwong Yu,China,36,1.7,China,2006
+Igor Zyuzin,Russia,45,1.7,Russia,2006
+Julio Bozano,Brazil,70,1.6,Brazil,2006
+Jim Davis & family,United States,62,1.6,United States,2006
+Abilio dos Santos Diniz,Brazil,69,1.6,Brazil,2006
+Aydin Dogan,Turkey,70,1.6,Turkey,2006
+Ray Dolby,United States,73,1.6,United States,2006
+Donald Gordon,South Africa,75,1.6,United Kingdom,2006
+Jon Huntsman,United States,68,1.6,United States,2006
+Ryoichi Jinnai,Japan,79,1.6,Japan,2006
+Min Kao,United States,57,1.6,United States,2006
+Daryl Katz,Canada,44,1.6,Canada,2006
+Barry Lam,Taiwan,56,1.6,Taiwan,2006
+Lee Shin Cheng,Malaysia,66,1.6,Malaysia,2006
+Joseph Lewis,United Kingdom,69,1.6,Bahamas,2006
+John Malone,United States,65,1.6,United States,2006
+John Marriott Jr,United States,74,1.6,United States,2006
+E Marshall,United States,67,1.6,United States,2006
+Alain Merieux & family,France,68,1.6,France,2006
+William Pulte,United States,73,1.6,United States,2006
+Dmitry Rybolovlev,Russia,39,1.6,Russia,2006
+David Sainsbury,United Kingdom,65,1.6,United Kingdom,2006
+Eduard Shifrin,United Kingdom,45,1.6,United Kingdom,2006
+Alexander Shnaider,Canada,37,1.6,Canada,2006
+Thomas Siebel,United States,53,1.6,United States,2006
+Patrick Soon-Shiong,United States,54,1.6,United States,2006
+Arne Wilhelmsen & family,Norway,75,1.6,Norway,2006
+Elizabeth Wiskemann,United States,n/a,1.6,United States,2006
+Peter Buck,United States,75,1.5,United States,2006
+John Caudwell,United Kingdom,53,1.5,United Kingdom,2006
+Turgay Ciner,Turkey,50,1.5,Turkey,2006
+Hasan Colakoglu,Turkey,n/a,1.5,Turkey,2006
+Jean Coutu,Canada,78,1.5,Canada,2006
+Fred DeLuca,United States,58,1.5,United States,2006
+Archie Aldis (Red) Emmerson,United States,76,1.5,United States,2006
+Gerald Ford,United States,61,1.5,United States,2006
+James France,United States,62,1.5,United States,2006
+William France Jr,United States,74,1.5,United States,2006
+Victor Fung,United States,61,1.5,Hong Kong,2006
+William Fung,Hong Kong,58,1.5,Hong Kong,2006
+Rolf Gerling,Germany,51,1.5,Switzerland,2006
+Naresh Goyal,India,56,1.5,United Kingdom,2006
+Kenneth Griffin,United States,37,1.5,United States,2006
+Marguerite Harbert,United States,82,1.5,United States,2006
+Kenneth Hendricks,United States,64,1.5,United States,2006
+Thomas Hunter,United Kingdom,44,1.5,Scotland,2006
+Stephen Jarislowsky,Canada,80,1.5,Canada,2006
+H Fisk Johnson,United States,47,1.5,United States,2006
+Imogene Powers Johnson,United States,76,1.5,United States,2006
+Helen Johnson-Leipold,United States,49,1.5,United States,2006
+Winnie Johnson-Marquart,United States,46,1.5,United States,2006
+James Kim & family,United States,70,1.5,United States,2006
+Alicia Koplowitz,Spain,53,1.5,Spain,2006
+Michael Krasny,United States,52,1.5,United States,2006
+Tracy Krohn,United States,51,1.5,United States,2006
+George Lindemann & family,United States,70,1.5,United States,2006
+Lui Che Woo,Hong Kong,76,1.5,Hong Kong,2006
+Richard Marriott,United States,67,1.5,United States,2006
+Charles Munger,United States,82,1.5,United States,2006
+Husnu Ozyegin,Turkey,61,1.5,Turkey,2006
+Liselott Persson,Sweden,n/a,1.5,Sweden,2006
+T Pickens,United States,77,1.5,United States,2006
+Stewart Rahr,United States,60,1.5,United States,2006
+Marc Rich,United States,71,1.5,Switzerland,2006
+Ferit Sahenk,Turkey,42,1.5,Turkey,2006
+Bernard Saul II,United States,73,1.5,United States,2006
+Kavitark Shriram,United States,50,1.5,United States,2006
+John Sperling,United States,85,1.5,United States,2006
+Pat Stryker,United States,49,1.5,United States,2006
+Henry Sy & family,Philippines,81,1.5,Philippines,2006
+Marcel Herman Telles,Brazil,56,1.5,Brazil,2006
+Andreas von Bechtolsheim,Germany,50,1.5,United States,2006
+Margaret Whitman,United States,49,1.5,United States,2006
+John Whittaker,United Kingdom,64,1.5,United Kingdom,2006
+Arthur Williams Jr,United States,63,1.5,United States,2006
+Daniel Ziff,United States,34,1.5,United States,2006
+Dirk Ziff,United States,41,1.5,United States,2006
+Robert Ziff,United States,39,1.5,United States,2006
+Abdulla Al Futtaim,United Arab Emirates,n/a,1.4,United Arab Emirates,2006
+Bassam Alghanim,Kuwait,n/a,1.4,Kuwait,2006
+Kutayba Alghanim,Kuwait,49,1.4,Kuwait,2006
+John Anderson,United States,88,1.4,United States,2006
+George Argyros,United States,69,1.4,United States,2006
+Sid Bass,United States,63,1.4,United States,2006
+Frank Batten Sr,United States,79,1.4,United States,2006
+Neil Bluhm,United States,68,1.4,United States,2006
+William Boyd,United States,74,1.4,United States,2006
+Robert Day,United States,61,1.4,United States,2006
+Edward Debartolo Jr,United States,59,1.4,United States,2006
+N Murray Edwards,Canada,46,1.4,Canada,2006
+Barbara Carlson Gage & family,United States,64,1.4,United States,2006
+John Gandel,Australia,71,1.4,Australia,2006
+Leslie Gonda,United States,85,1.4,United States,2006
+Hind Hariri,Lebanon,22,1.4,Lebanon,2006
+Jonathan Harmsworth,United Kingdom,38,1.4,United Kingdom,2006
+Alfredo Harp Helu,Mexico,62,1.4,Mexico,2006
+Richard Hayne,United States,58,1.4,United States,2006
+Ming Hsieh,United States,50,1.4,United States,2006
+Joseph Jamail Jr,United States,80,1.4,United States,2006
+Baba Kalyani,India,57,1.4,India,2006
+Guy Laliberte,Canada,46,1.4,Canada,2006
+Guilherme Peirao Leal,Brazil,55,1.4,Brazil,2006
+Myung-Hee Lee,South Korea,62,1.4,South Korea,2006
+Nancy Lerner,United States,45,1.4,United States,2006
+Norma Lerner,United States,69,1.4,United States,2006
+Randolph Lerner,United States,43,1.4,United States,2006
+Vincent Lo,Hong Kong,57,1.4,Hong Kong,2006
+Robert McNair,United States,69,1.4,United States,2006
+James Moran,United States,87,1.4,United States,2006
+Marilyn Carlson Nelson & family,United States,67,1.4,United States,2006
+Anthony O'Reilly,Ireland,69,1.4,Ireland,2006
+Michael Price,United States,53,1.4,United States,2006
+Hans Riegel,Germany,83,1.4,Germany,2006
+Paul Riegel,Germany,79,1.4,Germany,2006
+Isaac Saba Raffoul & family,Mexico,82,1.4,Mexico,2006
+Antonio Luiz Seabra,Brazil,63,1.4,Brazil,2006
+Ollen Smith,United States,79,1.4,United States,2006
+Peter Sperling,United States,46,1.4,United States,2006
+Tulsi Tanti,India,48,1.4,India,2006
+Albert Ueltschi,United States,88,1.4,United States,2006
+Sanford Weill,United States,73,1.4,United States,2006
+Oprah Winfrey,United States,52,1.4,United States,2006
+Vasiliy Anisimov,Russia,54,1.3,Russia,2006
+Semahat Arsel,Turkey,78,1.3,Turkey,2006
+Arthur Blank,United States,63,1.3,United States,2006
+Barry Diller,United States,64,1.3,United States,2006
+Lloyd Dorfman,United Kingdom,53,1.3,United Kingdom,2006
+Richard Egan,United States,70,1.3,United States,2006
+Richard Farmer,United States,71,1.3,United States,2006
+John J Fisher,United States,44,1.3,United States,2006
+Robert Fisher,United States,52,1.3,United States,2006
+William Fisher,United States,48,1.3,United States,2006
+Thomas Flatley,United States,73,1.3,United States,2006
+Alan Gerry,United States,76,1.3,United States,2006
+Malcolm Glazer,United States,77,1.3,United States,2006
+Christopher Goldsbury,United States,63,1.3,United States,2006
+Tom Golisano,United States,64,1.3,United States,2006
+Alec Gores,United States,53,1.3,United States,2006
+Robert Holding,United States,79,1.3,United States,2006
+Elie Horn,Brazil,60,1.3,Brazil,2006
+Donald Horton,United States,56,1.3,United States,2006
+James Jannard,United States,56,1.3,United States,2006
+Brad Kelley,United States,49,1.3,United States,2006
+Thomas Lee,United States,61,1.3,United States,2006
+James Leprino,United States,69,1.3,United States,2006
+Liu Yongxing,China,57,1.3,China,2006
+Gary Michelson,United States,57,1.3,United States,2006
+John Morgridge,United States,72,1.3,United States,2006
+Hideo Morita & family,Japan,54,1.3,Japan,2006
+Nicholas Pritzker II,United States,62,1.3,United States,2006
+James Ratcliffe,United Kingdom,53,1.3,United Kingdom,2006
+Phillip Ruffin,United States,70,1.3,United States,2006
+Erol Sabanci,Turkey,68,1.3,Turkey,2006
+Filiz Sahenk,Turkey,39,1.3,Turkey,2006
+Carlos Alberto Sicupira,Brazil,58,1.3,Brazil,2006
+Alexander Spanos,United States,82,1.3,United States,2006
+Harry Triguboff,Australia,73,1.3,Australia,2006
+Joop van den Ende,Netherlands,64,1.3,Netherlands,2006
+Martin Viessmann,Germany,52,1.3,Germany,2006
+Dean White,United States,82,1.3,United States,2006
+Jaime Zobel de Ayala & family,Philippines,71,1.3,Philippines,2006
+Thomas Bailey,United States,69,1.2,United States,2006
+Edward Bass,United States,61,1.2,United States,2006
+Carl Berg,United States,68,1.2,United States,2006
+Timothy Blixseth,United States,55,1.2,United States,2006
+Amar Bose,United States,77,1.2,United States,2006
+Alan Casden,United States,60,1.2,United States,2006
+Harvey Chaplin & family,United States,77,1.2,United States,2006
+William Connor II,United States,56,1.2,Hong Kong,2006
+Scott Cook,United States,53,1.2,United States,2006
+David Copley,United States,54,1.2,United States,2006
+William Ding,China,35,1.2,China,2006
+Roy Disney,United States,76,1.2,United States,2006
+J Flowers,United States,48,1.2,United States,2006
+Robert Friedland,United States,55,1.2,Hong Kong,2006
+Phillip Frost,United States,69,1.2,United States,2006
+Soichiro Fukutake,Japan,60,1.2,Japan,2006
+Ernest Gallo,United States,97,1.2,United States,2006
+Pincus Green,United States,70,1.2,Switzerland,2006
+Ingeburg Herz,Germany,86,1.2,Germany,2006
+Stanley Stub Hubbard,United States,72,1.2,United States,2006
+Pauline MacMillan Keinath,United States,74,1.2,United States,2006
+Suna Kirac,Turkey,64,1.2,Turkey,2006
+Jerome Kohlberg Jr,United States,80,1.2,United States,2006
+Cargill MacMillan Jr,United States,79,1.2,United States,2006
+John MacMillan III,United States,78,1.2,United States,2006
+W MacMillan,United States,76,1.2,United States,2006
+Whitney MacMillan,United States,77,1.2,United States,2006
+Billy Joe (Red) McCombs,United States,78,1.2,United States,2006
+Robert McLane Jr,United States,69,1.2,United States,2006
+William Morean,United States,50,1.2,United States,2006
+Arturo Moreno,United States,59,1.2,United States,2006
+NR Narayana Murthy,India,59,1.2,India,2006
+Kazuo Okada & family,Japan,63,1.2,Japan,2006
+Kenshin Oshima,Japan,58,1.2,Japan,2006
+Tuncay Ozilhan,Turkey,59,1.2,Turkey,2006
+Jorge Perez,United States,57,1.2,United States,2006
+Marion MacMillan Pictet,United States,74,1.2,Bermuda,2006
+Victor Pinchuk,Ukraine,45,1.2,Ukraine,2006
+Winthrop Rockefeller,United States,57,1.2,United States,2006
+Steven Roth,United States,64,1.2,United States,2006
+Herbert Sandler,United States,74,1.2,United States,2006
+Richard Scaife,United States,74,1.2,United States,2006
+Donald Schneider,United States,70,1.2,United States,2006
+Doroth_a Steinbruch & family,Brazil,n/a,1.2,Brazil,2006
+Serhiy Taruta,Ukraine,51,1.2,Ukraine,2006
+A Alfred Taubman,United States,82,1.2,United States,2006
+Phyllis Taylor,United States,64,1.2,United States,2006
+David Tepper,United States,48,1.2,United States,2006
+Wilma Tisch & family,United States,78,1.2,United States,2006
+Yoshiaki Tsutsumi,Japan,71,1.2,Japan,2006
+Peter Unger,Germany,61,1.2,Germany,2006
+Theodore Waitt,United States,43,1.2,United States,2006
+Tadahiro Yoshida & family,Japan,59,1.2,Japan,2006
+Edmund Ansin,United States,70,1.1,United States,2006
+John Arrillaga,United States,68,1.1,United States,2006
+Anneliese Brost,Germany,85,1.1,Germany,2006
+Gary Burrell,United States,68,1.1,United States,2006
+James Cayne,United States,72,1.1,United States,2006
+Chu Mang Yee,China,n/a,1.1,China,2006
+Henrique Constantino,Brazil,34,1.1,Brazil,2006
+Joaquim Constantino Neto,Brazil,40,1.1,Brazil,2006
+Ricardo Constantino,Brazil,42,1.1,Brazil,2006
+Constantino de Oliveira Jr,Brazil,37,1.1,Brazil,2006
+David Duffield,United States,65,1.1,United States,2006
+Bulent Eczacibasi,Turkey,56,1.1,Turkey,2006
+Paul Fireman,United States,62,1.1,United States,2006
+Kenneth Fisher,United States,55,1.1,United States,2006
+William Ford Sr,United States,81,1.1,United States,2006
+Mario Gabelli,United States,63,1.1,United States,2006
+Robert Galvin,United States,83,1.1,United States,2006
+David Gottesman,United States,79,1.1,United States,2006
+William Gross,United States,61,1.1,United States,2006
+Guo Guangchang,China,39,1.1,China,2006
+Albert Gubay,United Kingdom,77,1.1,United Kingdom,2006
+Han Chang-Woo & family,Japan,75,1.1,Japan,2006
+Dietmar Hopp,Germany,65,1.1,Germany,2006
+Hui Wing Mau,China,n/a,1.1,Hong Kong,2006
+Jerral Jones,United States,63,1.1,United States,2006
+George Joseph,United States,84,1.1,United States,2006
+Katsuhiro Kinoshita,Japan,n/a,1.1,Japan,2006
+Kyosuke Kinoshita,Japan,65,1.1,Japan,2006
+Shigeyoshi Kinoshita,Japan,56,1.1,Japan,2006
+Uday Kotak,India,47,1.1,India,2006
+Robert Kraft,United States,64,1.1,United States,2006
+Kenneth Langone,United States,70,1.1,United States,2006
+Richard Li,Hong Kong,39,1.1,Hong Kong,2006
+Robert Naify,United States,84,1.1,United States,2006
+Richard Peery,United States,65,1.1,United States,2006
+Nelson Peltz,United States,63,1.1,United States,2006
+Jesse Robinson,United States,82,1.1,United States,2006
+Edward Roski Jr,United States,67,1.1,United States,2006
+Marion Sandler,United States,75,1.1,United States,2006
+Hajime Satomi,Japan,64,1.1,Japan,2006
+Herbert Siegel,United States,77,1.1,United States,2006
+Herbert Simon,United States,71,1.1,United States,2006
+Joyce Raley Teel,United States,76,1.1,United States,2006
+Kenny Troutt,United States,58,1.1,United States,2006
+Charlotte Colket Weber,United States,63,1.1,United States,2006
+Kamil Yazici,Turkey,76,1.1,Turkey,2006
+Yeoh Tiong Lay & family,Malaysia,76,1.1,Malaysia,2006
+Ahmet Zorlu,Turkey,61,1.1,Turkey,2006
+Majid Al Futtaim,United Arab Emirates,n/a,1,United Arab Emirates,2006
+Mahdi Al-Tajir,United Arab Emirates,73,1,United Kingdom,2006
+Calvin Ayre,Canada,44,1,Costa Rica,2006
+Louis Bacon,United States,50,1,United Kingdom,2006
+Perry Bass,United States,91,1,United States,2006
+Subhash Chandra,India,55,1,India,2006
+David Cheriton,Canada,n/a,1,United States,2006
+Gary Comer,United States,78,1,United States,2006
+Leszek Czarnecki,Poland,44,1,Poland,2006
+Dermot Desmond,Ireland,56,1,Ireland,2006
+Richard Desmond,United Kingdom,54,1,United Kingdom,2006
+Omer Dinckok,Turkey,n/a,1,Turkey,2006
+L Doerr,United States,55,1,United States,2006
+James Dyson,United Kingdom,58,1,United Kingdom,2006
+John Edson,United States,73,1,United States,2006
+Marvin Herb,United States,69,1,United States,2006
+William Hilton,United States,78,1,United States,2006
+Jeremy Jacobs Sr,United States,66,1,United States,2006
+Michael Jaharis,United States,78,1,United States,2006
+Morris Kahn,Israel,76,1,Israel,2006
+Mehmet Karamehmet & family,Turkey,61,1,Turkey,2006
+William Kellogg,United States,62,1,United States,2006
+Nasser Khalili,United Kingdom,60,1,United Kingdom,2006
+Habil Khorakiwala,India,63,1,India,2006
+Asim Kibar,Turkey,73,1,Turkey,2006
+Jan Kulczyk,Poland,56,1,Poland,2006
+Liu Yonghao,China,54,1,China,2006
+Vijay Mallya,India,50,1,India,2006
+Anne Windfohr Marion,United States,66,1,United States,2006
+Bernard Osher,United States,78,1,United States,2006
+Wilbur Ross Jr,United States,68,1,United States,2006
+Joanne (JK) Rowling,United Kingdom,40,1,Scotland,2006
+Lily Safra,Monaco,68,1,Monaco,2006
+Silvio Scaglia,Italy,47,1,Italy,2006
+Monika Schoeller,Germany,67,1,Germany,2006
+Charles Simonyi,United States,58,1,United States,2006
+Sheldon Solow,United States,77,1,United States,2006
+John Stanton,United States,50,1,United States,2006
+Kerry Stokes,Australia,64,1,Australia,2006
+Tiong Hiew King,Malaysia,70,1,Malaysia,2006
+Hope Hill Van Beuren,United States,72,1,United States,2006
+Murat Vargi,Turkey,57,1,Turkey,2006
+Dieter von Holtzbrinck,Germany,64,1,Germany,2006
+Stefan von Holtzbrinck,Germany,42,1,Germany,2006
+Todd Wagner,United States,45,1,United States,2006
+Samuel Wyly,United States,70,1,United States,2006
+Faruk Yalcin,Turkey,81,1,Turkey,2006
+Jerry Zucker,United States,56,1,United States,2006

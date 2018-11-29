@@ -1024,5 +1024,3 @@ saveold "${SavePath}/statadata/harmonized_names/88-15_final", replace
 browse if year >= 1991 & prefillin == 1 & wealth == .
 
 
-
-

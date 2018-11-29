@@ -1,0 +1,2044 @@
+name,wealth,age,source,country,year
+Bill Gates,86,61,Microsoft,United States,2017
+Warren Buffett,75.6,86,Berkshire Hathaway,United States,2017
+Jeff Bezos,72.8,53,Amazon.com,United States,2017
+Amancio Ortega,71.3,80,Zara,Spain,2017
+Mark Zuckerberg,56,32,Facebook,United States,2017
+Carlos Slim Helu,54.5,77,telecom,Mexico,2017
+Larry Ellison,52.2,72,software,United States,2017
+Charles Koch,48.3,81,diversified,United States,2017
+David Koch,48.3,76,diversified,United States,2017
+Michael Bloomberg,47.5,75,Bloomberg LP,United States,2017
+Bernard Arnault,41.5,68,LVMH,France,2017
+Larry Page,40.7,43,Google,United States,2017
+Sergey Brin,39.8,43,Google,United States,2017
+Liliane Bettencourt,39.5,94,L'Oreal,France,2017
+S. Robson Walton,34.1,72,Wal-Mart,United States,2017
+Jim Walton,34,68,Wal-Mart,United States,2017
+Alice Walton,33.8,67,Wal-Mart,United States,2017
+Wang Jianlin,31.3,62,real estate,China,2017
+Li Ka-shing,31.2,88,diversified,Hong Kong,2017
+Sheldon Adelson,30.4,83,casinos,United States,2017
+Steve Ballmer,30,61,Microsoft,United States,2017
+Jorge Paulo Lemann,29.2,77,beer,Brazil,2017
+Jack Ma,28.3,52,e-commerce,China,2017
+Beate Heister & Karl Albrecht Jr.,27.2,n/a,supermarkets,Germany,2017
+David Thomson,27.2,59,media,Canada,2017
+Jacqueline Mars,27,77,candy,United States,2017
+John Mars,27,81,candy,United States,2017
+Phil Knight,26.2,79,Nike,United States,2017
+Maria Franca Fissolo,25.2,82,"Nutella, chocolates",Italy,2017
+George Soros,25.2,86,hedge funds,United States,2017
+Ma Huateng,24.9,45,internet media,China,2017
+Lee Shau Kee,24.4,89,real estate,Hong Kong,2017
+Mukesh Ambani,23.2,59,"petrochemicals, oil & gas",India,2017
+Masayoshi Son,21.2,59,"internet, telecom",Japan,2017
+Kjeld Kirk Kristiansen,21.1,69,Lego,Denmark,2017
+Georg Schaeffler,20.7,52,automotive,Germany,2017
+Joseph Safra,20.5,78,banking,Brazil,2017
+Michael Dell,20.4,52,Dell computers,United States,2017
+Susanne Klatten,20.4,54,"BMW, pharmaceuticals",Germany,2017
+Len Blavatnik,20,59,diversified,United States,2017
+Laurene Powell Jobs,20,53,"Apple, Disney",United States,2017
+Paul Allen,19.9,64,"Microsoft, investments",United States,2017
+Stefan Persson,19.6,69,H&M,Sweden,2017
+"Theo Albrecht, Jr.",18.8,66,"Aldi, Trader Joe's",Germany,2017
+Prince Alwaleed Bin Talal Alsaud,18.7,62,investments,Saudi Arabia,2017
+Leonid Mikhelson,18.4,61,"gas, chemicals",Russia,2017
+Charles Ergen,18.3,64,satellite TV,United States,2017
+Stefan Quandt,18.3,50,BMW,Germany,2017
+James Simons,18,78,hedge funds,United States,2017
+Leonardo Del Vecchio,17.9,81,eyeglasses,Italy,2017
+Alexey Mordashov,17.5,51,"steel, investments",Russia,2017
+William Ding,17.3,45,online games,China,2017
+Dieter Schwarz,17,77,retail,Germany,2017
+Ray Dalio,16.8,67,hedge funds,United States,2017
+Carl Icahn,16.6,81,investments,United States,2017
+Lakshmi Mittal,16.4,66,steel,India,2017
+Serge Dassault,16.1,91,diversified,France,2017
+Vladimir Lisin,16.1,60,"steel, transport",Russia,2017
+Gennady Timchenko,16,64,"oil, gas",Russia,2017
+Wang Wei,15.9,46,package delivery,China,2017
+Tadashi Yanai,15.9,68,fashion retail,Japan,2017
+Charoen Sirivadhanabhakdi,15.8,72,"drinks, real estate",Thailand,2017
+Francois Pinault,15.7,80,luxury goods,France,2017
+Hinduja family,15.4,n/a,diversified,United Kingdom,2017
+David & Simon Reuben,15.3,74,"investments, real estate",United Kingdom,2017
+Donald Bren,15.2,84,real estate,United States,2017
+Alisher Usmanov,15.2,63,"steel, telecom, investments",Russia,2017
+Lee Kun-Hee,15.1,75,Samsung,South Korea,2017
+Thomas & Raymond Kwok,15,n/a,real estate,Hong Kong,2017
+Joseph Lau,15,65,real estate,Hong Kong,2017
+Gina Rinehart,15,63,mining,Australia,2017
+Azim Premji,14.9,71,software services,India,2017
+Marcel Herrmann Telles,14.8,67,beer,Brazil,2017
+Vagit Alekperov,14.5,66,oil,Russia,2017
+Mikhail Fridman,14.4,52,"oil, banking, telecom",Russia,2017
+Abigail Johnson,14.4,55,money management,United States,2017
+Pallonji Mistry,14.3,87,construction,Ireland,2017
+Vladimir Potanin,14.3,56,metals,Russia,2017
+Wang Wenyin,14,49,"mining, copper products",China,2017
+Elon Musk,13.9,45,Tesla Motors,United States,2017
+Stefano Pessina,13.9,75,drugstores,Italy,2017
+German Larrea Mota Velasco,13.8,63,mining,Mexico,2017
+Thomas Peterffy,13.8,72,discount brokerage,United States,2017
+Iris Fontbona,13.7,74,mining,Chile,2017
+Dilip Shanghvi,13.7,61,pharmaceuticals,India,2017
+Dietrich Mateschitz,13.4,72,Red Bull,Austria,2017
+Harold Hamm,13.3,71,oil & gas,United States,2017
+Robin Li,13.3,48,internet search,China,2017
+Andrey Melnichenko,13.2,45,"coal, fertilizers",Russia,2017
+Rupert Murdoch,13.1,86,"newspapers, TV network",United States,2017
+Heinz Hermann Thiele,13.1,75,brakes,Germany,2017
+Steve Cohen,13,60,hedge funds,United States,2017
+Patrick Drahi,13,53,telecom,France,2017
+Henry Sy,12.7,92,SM Investments Corporation,Philippines,2017
+Charlene de Carvalho-Heineken,12.6,62,Heineken,Netherlands,2017
+Philip Anschutz,12.5,77,investments,United States,2017
+Ronald Perelman,12.5,74,leveraged buyouts,United States,2017
+Hans Rausing,12.5,90,packaging,Sweden,2017
+Carlos Alberto Sicupira,12.5,69,beer,Brazil,2017
+Klaus-Michael Kuehne,12.4,79,shipping,Germany,2017
+Viktor Vekselberg,12.4,59,"metals, energy",Russia,2017
+He Xiangjian,12.3,74,home appliances,China,2017
+Shiv Nadar,12.3,71,software services,India,2017
+Takemitsu Takizaki,12.3,71,sensors,Japan,2017
+Aliko Dangote,12.2,59,"cement, sugar, flour",Nigeria,2017
+Petr Kellner,12.2,52,"banking, insurance",Czech Republic,2017
+Jim Kennedy,12.2,69,media,United States,2017
+Blair Parry-Okeden,12.2,66,media,United States,2017
+Lui Che Woo,12.1,87,casinos,Hong Kong,2017
+Donald Newhouse,12.1,87,media,United States,2017
+"Samuel Newhouse, Jr.",12.1,89,media,United States,2017
+Stephen Schwarzman,11.8,70,investments,United States,2017
+Alain Wertheimer,11.8,68,Chanel,France,2017
+Gerard Wertheimer,11.8,66,Chanel,France,2017
+Robert Kuok,11.4,93,"palm oil, shipping, property",Malaysia,2017
+Emmanuel Besnier,11.3,46,cheese,France,2017
+Lukas Walton,11.3,30,Wal-Mart,United States,2017
+Hasso Plattner,11.2,73,software,Germany,2017
+Eric Schmidt,11.1,61,Google,United States,2017
+Luis Carlos Sarmiento,11,84,banking,Colombia,2017
+David Tepper,11,59,hedge funds,United States,2017
+Udo & Harald Tschira,11,n/a,software,Germany,2017
+Alberto Bailleres Gonzalez,10.8,85,mining,Mexico,2017
+Dustin Moskovitz,10.7,32,Facebook,United States,2017
+Majid Al Futtaim,10.6,n/a,"real estate, retail",United Arab Emirates,2017
+Peter Woo,10.5,70,real estate,Hong Kong,2017
+Andrew Beal,10.4,64,"banks, real estate",United States,2017
+Hui Ka Yan,10.2,58,real estate,China,2017
+"John Menard, Jr.",10.2,77,home improvement stores,United States,2017
+Reinhold Wuerth,10,81,fasteners,Germany,2017
+John Fredriksen,9.9,72,shipping,Cyprus,2017
+Dhanin Chearavanont,9.7,77,diversified,Thailand,2017
+Kumar Birla,9.5,49,commodities,India,2017
+Graeme Hart,9.5,61,investments,New Zealand,2017
+Massimiliana Landini Aleotti,9.5,74,pharmaceuticals,Italy,2017
+Galen Weston,9.5,76,retail,Canada,2017
+James Goodnight,9.4,74,software,United States,2017
+German Khan,9.3,55,"oil, banking, telecom",Russia,2017
+Roman Abramovich,9.1,50,"steel, investments",Russia,2017
+R. Budi Hartono,9,76,"banking, tobacco",Indonesia,2017
+Dietmar Hopp,9,76,software,Germany,2017
+Jan Koum,9,41,WhatsApp,United States,2017
+James Ratcliffe,9,64,chemicals,United Kingdom,2017
+Yang Huiyan,9,35,real estate,China,2017
+Michael Hartono,8.9,77,"banking, tobacco",Indonesia,2017
+Leonard Lauder,8.9,80,Estee Lauder,United States,2017
+Eyal Ofer,8.9,66,"real estate, shipping",Israel,2017
+Mikhail Prokhorov,8.9,51,investments,Russia,2017
+"Thomas Frist, Jr.",8.8,78,health care,United States,2017
+Robert & Philip Ng,8.7,n/a,real estate,Singapore,2017
+Ernesto Bertarelli,8.6,51,"biotech, investments",Switzerland,2017
+Patrick Soon-Shiong,8.6,64,pharmaceuticals,United States,2017
+Harry Triguboff,8.5,84,property,Australia,2017
+Yao Zhenhua,8.4,47,conglomerate,China,2017
+Zhang Zhidong,8.4,45,internet media,China,2017
+Viktor Rashnikov,8.3,68,steel,Russia,2017
+Charles Schwab,8.3,79,discount brokerage,United States,2017
+Shahid Khan,8.2,66,auto parts,United States,2017
+Mohammed Al Amoudi,8.1,70,"oil, diversified",Saudi Arabia,2017
+Micky Arison,8.1,67,Carnival Cruises,United States,2017
+James Chambers,8.1,59,media,United States,2017
+Xavier Niel,8.1,49,"internet, telecom",France,2017
+Cyrus Poonawalla,8.1,75,vaccines,India,2017
+Katharine Rayner,8.1,72,media,United States,2017
+Margaretta Taylor,8.1,74,media,United States,2017
+Ken Griffin,8,48,hedge funds,United States,2017
+"Herbert Kohler, Jr.",8,78,plumbing fixtures,United States,2017
+Uday Kotak,8,58,banking,India,2017
+Pierre Omidyar,8,49,eBay,United States,2017
+George Kaiser,7.9,74,"oil & gas, banking",United States,2017
+John Paulson,7.9,61,hedge funds,United States,2017
+Eduardo Saverin,7.9,35,Facebook,Brazil,2017
+"Edward Johnson, III.",7.8,86,money management,United States,2017
+Eli Broad,7.7,83,investments,United States,2017
+Heinrich Deichmann,7.7,54,footwear,Germany,2017
+Liu Qiangdong,7.7,42,e-commerce,China,2017
+John Malone,7.7,76,cable television,United States,2017
+Michael Otto,7.7,73,"retail, real estate",Germany,2017
+Walter Droege,7.6,64,consulting,Germany,2017
+James Irving,7.6,89,diversified,Canada,2017
+Aloys Wobben,7.6,65,wind turbines,Germany,2017
+Gianluigi & Rafaela Aponte,7.5,n/a,shipping,Switzerland,2017
+Terry Gou,7.5,66,electronics,Taiwan,2017
+Stanley Kroenke,7.5,69,"sports, real estate",United States,2017
+Sunil Mittal,7.5,59,telecom,India,2017
+Carl Cook,7.4,54,medical devices,United States,2017
+Stephen Ross,7.4,76,real estate,United States,2017
+August von Finck,7.4,87,investments,Germany,2017
+Zhou Qunfei,7.4,47,smartphone screens,Hong Kong,2017
+David Geffen,7.3,74,"movies, record labels",United States,2017
+Walter Kwok,7.3,66,real estate,Hong Kong,2017
+Gordon Moore,7.3,88,Intel,United States,2017
+Dmitry Rybolovlev,7.3,50,fertilizer,Russia,2017
+Johann Graf,7.2,70,gambling,Austria,2017
+Richard Kinder,7.2,72,pipelines,United States,2017
+Alexei Kuzmichev,7.2,54,"oil, banking, telecom",Russia,2017
+Hank & Doug Meijer,7.2,n/a,supermarkets,United States,2017
+Zong Qinghou,7.2,71,beverages,China,2017
+Silvio Berlusconi,7,80,media,Italy,2017
+Nicky Oppenheimer,7,71,diamonds,South Africa,2017
+Andrei Skoch,6.9,51,steel,Russia,2017
+Abdulla bin Ahmad Al Ghurair,6.8,n/a,diversified,United Arab Emirates,2017
+Sergei Galitsky,6.8,49,retail,Russia,2017
+Pauline MacMillan Keinath,6.8,83,Cargill,United States,2017
+Lei Jun,6.8,47,smartphones,China,2017
+Frederik Paulsen,6.8,66,health care,Sweden,2017
+Quek Leng Chan,6.8,75,"banking, property",Malaysia,2017
+Melker Schorling,6.8,69,investments,Sweden,2017
+David Duffield,6.7,76,business software,United States,2017
+Michael Kadoorie,6.7,75,"hotels, energy",Hong Kong,2017
+Li Shufu,6.7,53,automobiles,China,2017
+Sandra Ortega Mera,6.7,48,Zara,Spain,2017
+Suh Kyung-Bae,6.7,54,cosmetics,South Korea,2017
+Zhang Shiping,6.7,70,aluminum products,China,2017
+Giorgio Armani,6.6,82,luxury goods,Italy,2017
+John Grayken,6.6,60,private equity,Ireland,2017
+Liu Yongxing,6.6,68,agribusiness,China,2017
+Xu Shihui,6.6,59,"snacks, beverages",China,2017
+Goh Cheng Liang,6.5,89,paints,Singapore,2017
+Bruce Halle,6.5,86,tires,United States,2017
+Ananda Krishnan,6.5,78,"telecoms, media, oil-services",Malaysia,2017
+Richard LeFrak,6.5,71,real estate,United States,2017
+Iskander Makhmudov,6.5,53,"mining, metals, machinery",Russia,2017
+John A. Sobrato,6.4,77,real estate,United States,2017
+Les Wexner,6.4,79,retail,United States,2017
+Garrett Camp,6.3,38,Uber Technologies,Canada,2017
+Leonid Fedun,6.3,60,oil,Russia,2017
+Guo Guangchang,6.3,50,conglomerate,China,2017
+Mikhail Gutseriev,6.3,59,"oil, real estate",Russia,2017
+Travis Kalanick,6.3,40,Uber,United States,2017
+Suleiman Kerimov,6.3,51,investments,Russia,2017
+Carrie Perrodo,6.3,66,oil,France,2017
+Anders Holch Povlsen,6.3,44,fashion retail,Denmark,2017
+David Green,6.2,75,retail,United States,2017
+Robert Rowling,6.2,63,investments,United States,2017
+Tsai Eng-Meng,6.2,60,"food, beverages",Taiwan,2017
+Jorn Rausing,6.1,57,packaging,Sweden,2017
+Johann Rupert,6.1,66,luxury goods,South Africa,2017
+Marian Ilitch,6,84,"pizza, sports team",United States,2017
+Ann Walton Kroenke,6,68,Wal-Mart,United States,2017
+Jay Y. Lee,6,48,Samsung,South Korea,2017
+Pan Zhengmin,6,47,electronics,China,2017
+Finn Rausing,6,62,packaging,Sweden,2017
+Kirsten Rausing,6,64,packaging,Sweden,2017
+Dennis Washington,6,82,"construction, mining",United States,2017
+Xu Chuanhua,6,82,"chemicals, logistics",China,2017
+Francis Choi,5.9,69,real estate,Hong Kong,2017
+Erivan Haub,5.9,84,retail,Germany,2017
+Wei Jianjun,5.9,53,automobiles,China,2017
+Gautam Adani,5.8,54,"commodities, ports",India,2017
+Mike Adenuga,5.8,63,"telecom, oil",Nigeria,2017
+Maria Asuncion Aramburuzabala,5.8,53,"beer, investments",Mexico,2017
+Daniel Gilbert,5.8,55,Quicken Loans,United States,2017
+"John Gokongwei, Jr.",5.8,90,diversified,Philippines,2017
+Gong Hongjia,5.8,52,investments,Hong Kong,2017
+Charles Johnson,5.8,84,money management,United States,2017
+Ian & Richard Livingstone,5.8,n/a,real estate,United Kingdom,2017
+Hiroshi Mikitani,5.8,52,online retail,Japan,2017
+Augusto & Giorgio Perfetti,5.8,n/a,candy,Italy,2017
+Joseph Tsai,5.8,53,e-commerce,Canada,2017
+Dannine Avara,5.7,53,pipelines,United States,2017
+Scott Duncan,5.7,34,pipelines,United States,2017
+Andrew Forrest,5.7,55,mining,Australia,2017
+Milane Frantz,5.7,47,pipelines,United States,2017
+Lu Guanqiu,5.7,72,conglomerate,China,2017
+Ludwig Merckle,5.7,52,pharmaceuticals,Germany,2017
+Randa Williams,5.7,55,pipelines,United States,2017
+Yan Zhi,5.7,44,real estate,China,2017
+Brian Acton,5.6,45,WhatsApp,United States,2017
+Chan Laiwa,5.6,76,real estate,China,2017
+Richard DeVos,5.6,91,Amway,United States,2017
+Eva Gonda de Rivera,5.6,n/a,beverages,Mexico,2017
+Joe Lewis,5.6,80,investments,United Kingdom,2017
+Frank Lowy,5.6,86,shopping malls,Australia,2017
+Whitney MacMillan,5.6,87,Cargill,United States,2017
+Jim Pattison,5.6,88,diversified,Canada,2017
+Emanuele (Lino) Saputo,5.6,80,cheese,Canada,2017
+Nassef Sawiris,5.6,56,"construction, chemicals",Egypt,2017
+Stef Wertheimer,5.6,90,metalworking tools,Israel,2017
+Christoffel Wiese,5.6,75,retail,South Africa,2017
+Leon Black,5.5,65,private equity,United States,2017
+Antonia Johnson,5.5,73,diversified,Sweden,2017
+Bruce Kovner,5.5,72,hedge funds,United States,2017
+Ralph Lauren,5.5,77,Ralph Lauren,United States,2017
+Lin Yu-lin,5.5,81,real estate,Taiwan,2017
+Shashi & Ravi Ruia,5.5,n/a,diversified,India,2017
+Hansjoerg Wyss,5.5,82,medical devices,Switzerland,2017
+Hui Wing Mau,5.4,66,real estate,Hong Kong,2017
+Vikram Lal,5.4,75,motorcycles,India,2017
+Sri Prakash Lohia,5.4,64,polyester,Indonesia,2017
+Sumner Redstone,5.4,93,media,United States,2017
+David Shaw,5.4,65,hedge funds,United States,2017
+Christy Walton,5.4,68,Wal-Mart,United States,2017
+Guenther Fielmann,5.3,77,optometry,Germany,2017
+Law Kar Po,5.3,68,real estate,Hong Kong,2017
+Ted Lerner,5.3,91,real estate,United States,2017
+Margarita Louis-Dreyfus,5.3,54,commodities,Switzerland,2017
+George Lucas,5.3,72,Star Wars,United States,2017
+Trevor Rees-Jones,5.3,65,oil & gas,United States,2017
+Odd Reitan,5.3,65,"retail, real estate",Norway,2017
+David Sun,5.3,65,computer hardware,United States,2017
+John Tu,5.3,75,computer hardware,United States,2017
+Benu Gopal Bangur,5.2,85,cement,India,2017
+Juan Francisco Beckmann Vidal,5.2,77,tequila,Mexico,2017
+Vincent Bollore,5.2,64,investments,France,2017
+John Doerr,5.2,65,venture capital,United States,2017
+Israel Englander,5.2,68,hedge funds,United States,2017
+Savitri Jindal,5.2,67,steel,India,2017
+Jerry Jones,5.2,74,Dallas Cowboys,United States,2017
+Tom & Judy Love,5.2,80,retail & gas stations,United States,2017
+Wolfgang Marguerre,5.2,76,pharmaceuticals,Germany,2017
+Arnon Milchan,5.2,72,movie making,Israel,2017
+Pankaj Patel,5.2,64,pharmaceuticals,India,2017
+Maria-Elisabeth Schaeffler,5.2,75,auto parts,Germany,2017
+Jim Davis,5.1,73,New Balance,United States,2017
+Oleg Deripaska,5.1,49,"aluminum, utilities",Russia,2017
+Ivan Glasenberg,5.1,60,mining,Switzerland,2017
+"Rupert Johnson, Jr.",5.1,76,money management,United States,2017
+Robert Kraft,5.1,75,New England Patriots,United States,2017
+Kwee family,5.1,72,Real Estate,Singapore,2017
+Steven Rales,5.1,65,manufacturing,United States,2017
+Juan Roig,5.1,67,supermarkets,Spain,2017
+Bruno Schroder,5.1,84,banking,United Kingdom,2017
+David & Frederick Barclay,5,83,"media, retail",United Kingdom,2017
+Pierre Bellon,5,87,food services,France,2017
+Richard Branson,5,66,Virgin,United Kingdom,2017
+Tamara Gustavson,5,55,self storage,United States,2017
+Henry Kravis,5,73,private equity,United States,2017
+Dan Olsson,5,70,diversified,Sweden,2017
+George Roberts,5,73,private equity,United States,2017
+"Edward Roski, Jr.",5,78,real estate,United States,2017
+Wee Cho Yaw,5,88,banking,Singapore,2017
+Sam Zell,5,75,"real estate, private equity",United States,2017
+Shari Arison,4.9,59,Carnival Cruises,Israel,2017
+Pollyanna Chu,4.9,58,financial services,Hong Kong,2017
+Chung Mong-Koo,4.9,79,motor vehicles,South Korea,2017
+Albert Frere,4.9,91,investments,Belgium,2017
+Kwon Hyuk-Bin,4.9,43,online games,South Korea,2017
+Philip & Cristina Green,4.8,65,fashion retail,United Kingdom,2017
+Ray Lee Hunt,4.8,73,"oil, real estate",United States,2017
+Willi & Isolde Liebherr,4.8,n/a,construction,Switzerland,2017
+Lu Zhiqiang,4.8,64,real estate,China,2017
+John Overdeck,4.8,47,hedge funds,United States,2017
+David Siegel,4.8,55,hedge funds,United States,2017
+Daniel Ziff,4.8,45,investments,United States,2017
+Dirk Ziff,4.8,52,investments,United States,2017
+Robert Ziff,4.8,50,investments,United States,2017
+Stanley Druckenmiller,4.7,63,hedge funds,United States,2017
+Desh Bandhu Gupta,4.7,79,pharmaceuticals,India,2017
+"Paul Tudor Jones, II.",4.7,62,hedge funds,United States,2017
+Lee Shin Cheng,4.7,78,"palm oil, property",Malaysia,2017
+Denis O'Brien,4.7,58,telecom,Ireland,2017
+Pan Sutong,4.7,53,"real estate, finance",Hong Kong,2017
+Horst Paulmann,4.7,82,retail,Chile,2017
+Alejandro Santo Domingo,4.7,40,beer,United States,2017
+Andres Santo Domingo,4.7,38,beer,United States,2017
+Thomas Schmidheiny,4.7,71,cement,Switzerland,2017
+Hong Piow Teh,4.7,87,banking,Malaysia,2017
+Rinat Akhmetov,4.6,50,"steel, coal",Ukraine,2017
+Pyotr Aven,4.6,62,"oil, banking, telecom",Russia,2017
+Rahel Blocher,4.6,41,chemicals,Switzerland,2017
+Charles Dolan,4.6,90,cable television,United States,2017
+Laurence Graff,4.6,78,diamond jewelry,United Kingdom,2017
+Liu Yonghao,4.6,65,agribusiness,China,2017
+Chairul Tanjung,4.6,54,diversified,Indonesia,2017
+Zhao Tao,4.6,51,pharmaceuticals,Singapore,2017
+Alexander Abramov,4.5,58,"steel, mining",Russia,2017
+Clive Calder,4.5,70,record label,United Kingdom,2017
+Andrei Guriev,4.5,57,fertilizers,Russia,2017
+Arthur Irving,4.5,87,oil,Canada,2017
+Bidzina Ivanishvili,4.5,61,investments,Georgia,2017
+Micky Jagtiani,4.5,65,retail,India,2017
+Karl-Heinz Kipp,4.5,93,retail,Germany,2017
+Magdalena Martullo-Blocher,4.5,48,chemicals,Switzerland,2017
+Michael Platt,4.5,49,hedge funds,United Kingdom,2017
+Sergei Popov,4.5,45,banking,Russia,2017
+Mitchell Rales,4.5,60,"manufacturing, investments",United States,2017
+Leandro Rizzuto,4.5,78,consumer products,United States,2017
+John Sall,4.5,68,software,United States,2017
+Mark Scheinberg,4.5,43,online gambling,Canada,2017
+Andreas von Bechtolsheim,4.5,61,Google,Germany,2017
+Kelcy Warren,4.5,61,pipelines,United States,2017
+Wu Yajun,4.5,53,real estate,China,2017
+M.A. Yusuff Ali,4.5,61,retail,India,2017
+Americo Amorim,4.4,82,"energy, investments",Portugal,2017
+Dona Bertarelli,4.4,49,biotech,Switzerland,2017
+Subhash Chandra,4.4,66,media,India,2017
+Frits Goldschmeding,4.4,83,temp agency,Netherlands,2017
+Michael Herz,4.4,73,coffee,Germany,2017
+Wolfgang Herz,4.4,66,coffee,Germany,2017
+Richard Li,4.4,50,telecom,Hong Kong,2017
+Akira Mori,4.4,80,real estate,Japan,2017
+Axel Oberwelland,4.4,50,candy,Germany,2017
+Anthony Pratt,4.4,56,packaging,Australia,2017
+Karen Pritzker,4.4,59,"hotels, investments",United States,2017
+Paolo & Gianfelice Mario Rocca,4.4,n/a,pipe manufacturing,Italy,2017
+Reinhold Schmieding,4.4,62,medical devices,United States,2017
+Sheldon Solow,4.4,88,real estate,United States,2017
+Ronda Stryker,4.4,62,medical equipment,United States,2017
+Tong Jinquan,4.4,62,real estate,China,2017
+Wang Wenxue,4.4,49,real estate,China,2017
+Jeffery Hildebrand,4.3,58,oil,United States,2017
+"Jeremy Jacobs, Sr.",4.3,77,concessions,United States,2017
+Kim Jung-Ju,4.3,49,online games,South Korea,2017
+Andrei Kozitsyn,4.3,56,metals,Russia,2017
+Nancy Walton Laurie,4.3,65,Wal-Mart,United States,2017
+Gwendolyn Sontheim Meyer,4.3,55,Cargill,United States,2017
+Elisabeth Mohn,4.3,76,publishing,Germany,2017
+Jeffrey Skoll,4.3,52,eBay,United States,2017
+Frederick Smith,4.3,72,FedEx,United States,2017
+Sun Piaoyang,4.3,58,pharmaceuticals,China,2017
+Martin Viessmann,4.3,63,heating equipment,Germany,2017
+Yeung Kin-man,4.3,n/a,electronics,Hong Kong,2017
+Jeronimo Arango,4.2,91,retail,Mexico,2017
+David Cheriton,4.2,65,Google,Canada,2017
+James Dyson,4.2,69,vacuums,United Kingdom,2017
+Pansy Ho,4.2,54,casinos,Hong Kong,2017
+Martha Ingram,4.2,81,"book distribution, transportation",United States,2017
+Michel Leclercq,4.2,77,sporting goods,France,2017
+Theo Mueller,4.2,77,dairy,Germany,2017
+Michael Pieper,4.2,71,kitchen appliances,Switzerland,2017
+Vichai Srivaddhanaprabha,4.2,59,duty-free,Thailand,2017
+Leonard Stern,4.2,78,real estate,United States,2017
+Keiichiro Takahara,4.2,86,diapers,Japan,2017
+Wang Chuanfu,4.2,51,"batteries, automobiles",China,2017
+Samuel Yin,4.2,66,diversified,Taiwan,2017
+Abdulla Al Futtaim,4.1,n/a,"auto dealers, investments",United Arab Emirates,2017
+Suhail Bahwan,4.1,78,diversified,Oman,2017
+Lam Wai Ying,4.1,n/a,smartphone screens,Hong Kong,2017
+Angela Leong,4.1,56,casinos,Hong Kong,2017
+Fredrik Lundberg,4.1,65,"real estate, investments",Sweden,2017
+Ma Jianrong,4.1,53,"textiles, apparel",China,2017
+Gabe Newell,4.1,54,videogames,United States,2017
+Terrence Pegula,4.1,65,natural gas,United States,2017
+Ira Rennert,4.1,82,investments,United States,2017
+J. Christopher Reyes,4.1,63,food distribution,United States,2017
+Jude Reyes,4.1,61,food distribution,United States,2017
+Kushal Pal Singh,4.1,85,real estate,India,2017
+Xu Bo,4.1,39,mobile games,China,2017
+Zhang Jindong,4.1,53,appliance retailer,China,2017
+Robert Bass,4,69,"oil, investments",United States,2017
+Marc Benioff,4,52,business software,United States,2017
+Jean-Michel Besnier,4,49,cheese,France,2017
+Marie Besnier Beauvalot,4,36,cheese,France,2017
+John Gandel,4,82,shopping malls,Australia,2017
+Bertil Hult,4,76,education,Sweden,2017
+James Jannard,4,67,sunglasses,United States,2017
+Jason Jiang,4,44,advertising,China,2017
+Patrick Lee,4,74,paper,Hong Kong,2017
+Bernard Marcus,4,87,Home Depot,United States,2017
+Alain Merieux,4,79,pharmaceuticals,France,2017
+John Morris,4,69,sporting goods retail,United States,2017
+Bobby Murphy,4,28,Snapchat,United States,2017
+Isaac Perlmutter,4,74,Marvel comics,United States,2017
+"H. Ross Perot, Sr.",4,86,"computer services, real estate",United States,2017
+Stewart and Lynda Resnick,4,n/a,"agriculture, water",United States,2017
+"Robert Rich, Jr.",4,76,frozen foods,United States,2017
+Evan Spiegel,4,26,Snapchat,United States,2017
+Russ Weiner,4,46,energy drinks,United States,2017
+"Austen Cargill, II.",3.9,66,Cargill,United States,2017
+"James Cargill, II.",3.9,67,Cargill,United States,2017
+Vanich Chaiyawan,3.9,85,"insurance, beverages",Thailand,2017
+Traudl Engelhorn,3.9,n/a,"pharmaceuticals, medical equipment",Germany,2017
+Diane Hendricks,3.9,70,roofing,United States,2017
+Ji Changqun,3.9,49,real estate,China,2017
+Nathan Kirsh,3.9,85,"retail, real estate",Swaziland,2017
+Marianne Liebmann,3.9,63,Cargill,United States,2017
+Luo Jye,3.9,91,tires,Taiwan,2017
+Mary Alice Dorrance Malone,3.9,67,Campbell Soup,United States,2017
+Ermirio Pereira de Moraes,3.9,84,diversified,Brazil,2017
+Maria Helena Moraes Scripilliti,3.9,86,diversified,Brazil,2017
+Naguib Sawiris,3.9,62,telecom,Egypt,2017
+Friede Springer,3.9,74,publishing,Germany,2017
+Prince Sultan bin Mohammed bin Saud Al Kabeer,3.8,63,dairy farms,Saudi Arabia,2017
+Stephen Bisciotti,3.8,56,"staffing, Baltimore Ravens",United States,2017
+Nathan Blecharczyk,3.8,33,Airbnb,United States,2017
+Rick Caruso,3.8,58,real estate,United States,2017
+Bubba Cathy,3.8,62,Chick-Fil-A,United States,2017
+Dan Cathy,3.8,64,Chick-Fil-A,United States,2017
+Brian Chesky,3.8,35,Airbnb,United States,2017
+Giuseppe De'Longhi,3.8,77,coffee makers,Italy,2017
+Ralph Dommermuth,3.8,53,internet service provider,Germany,2017
+Joe Gebbia,3.8,35,Airbnb,United States,2017
+Jia Yueting,3.8,44,online video,China,2017
+H. Fisk Johnson,3.8,58,cleaning products,United States,2017
+Imogene Powers Johnson,3.8,86,cleaning products,United States,2017
+S. Curtis Johnson,3.8,61,cleaning products,United States,2017
+Helen Johnson-Leipold,3.8,60,cleaning products,United States,2017
+Winnie Johnson-Marquart,3.8,57,cleaning products,United States,2017
+Barry Lam,3.8,67,electronics,Taiwan,2017
+Liang Wengen,3.8,60,construction equipment,China,2017
+Niels Peter Louis-Hansen,3.8,69,medical devices,Denmark,2017
+Kalanithi Maran,3.8,51,media,India,2017
+Jose Roberto Marinho,3.8,61,media,Brazil,2017
+Roberto Irineu Marinho,3.8,69,media,Brazil,2017
+Clayton Mathile,3.8,76,pet food,United States,2017
+Siegfried Meister,3.8,78,appliances,Germany,2017
+"Julian Robertson, Jr.",3.8,84,hedge funds,United States,2017
+"Walter Scott, Jr.",3.8,85,"utilities, telecom",United States,2017
+Joan Tisch,3.8,89,diversified,United States,2017
+Martin & Olivier Bouygues,3.7,n/a,"construction, media",France,2017
+Archie Aldis Emmerson,3.7,87,"timberland, lumber mills",United States,2017
+Juan Carlos Escotet,3.7,57,banking,Venezuela,2017
+Ken Fisher,3.7,66,money management,United States,2017
+Joao Roberto Marinho,3.7,63,media,Brazil,2017
+Igor Olenicoff,3.7,74,real estate,United States,2017
+Ajay Piramal,3.7,61,pharmaceuticals,India,2017
+Wolfgang Reimann,3.7,64,consumer goods,Germany,2017
+Matthias Reimann-Andersen,3.7,51,consumer goods,Germany,2017
+Stefan Reimann-Andersen,3.7,53,consumer goods,Germany,2017
+Renate Reimann-Haas,3.7,65,consumer goods,Germany,2017
+Hussain Sajwani,3.7,64,real estate,United Arab Emirates,2017
+Vivek Chaand Sehgal,3.7,60,auto parts,Australia,2017
+"Clemmie Spangler, Jr.",3.7,84,investments,United States,2017
+Jerry Speyer,3.7,76,real estate,United States,2017
+Steven Spielberg,3.7,70,Movies,United States,2017
+Lucio Tan,3.7,82,diversified,Philippines,2017
+Yitzhak Tshuva,3.7,68,real estate,Israel,2017
+Steven Udvar-Hazy,3.7,71,aircraft leasing,United States,2017
+Murat Ulker,3.7,58,food manufacturing,Turkey,2017
+Roger Wang,3.7,68,retail,United States,2017
+Juergen Blickle,3.6,70,auto parts,Germany,2017
+Vivien Chen,3.6,58,real estate,Hong Kong,2017
+Denise Coates,3.6,49,online gambling,United Kingdom,2017
+Dan Friedkin,3.6,52,Toyota dealerships,United States,2017
+Phillip Frost,3.6,80,pharmaceuticals,United States,2017
+Jimmy Haslam,3.6,63,"gas stations, retail",United States,2017
+Huang Rulun,3.6,65,real estate,China,2017
+Masatoshi Ito,3.6,92,retail,Japan,2017
+Dmitry Kamenshchik,3.6,48,airport,Russia,2017
+Dominika & Sebastian Kulczyk,3.6,n/a,diversified,Poland,2017
+Masahiro Miki,3.6,61,shoes,Japan,2017
+Michael Milken,3.6,70,investments,United States,2017
+Shigenobu Nagamori,3.6,72,motors,Japan,2017
+Gary Rollins,3.6,72,pest control,United States,2017
+Randall Rollins,3.6,85,pest control,United States,2017
+Ricardo Salinas Pliego,3.6,61,"retail, media",Mexico,2017
+Henry Samueli,3.6,62,semiconductors,United States,2017
+"Bernard Saul, II.",3.6,84,"banking, real estate",United States,2017
+Jeff Sutton,3.6,57,real estate,United States,2017
+Frank Wang,3.6,36,drones,China,2017
+Yu Huijiao,3.6,50,package delivery,China,2017
+Zhou Jianping,3.6,56,fashion retail,China,2017
+Bajaj brothers,3.5,n/a,diversified,India,2017
+Rahul Bajaj,3.5,78,motorcycles,India,2017
+Dagmar Dolby,3.5,75,Dolby Laboratories,United States,2017
+Jaime Gilinski Bacal,3.5,59,banking,Colombia,2017
+Antti Herlin,3.5,60,"elevators, escalators",Finland,2017
+Daniela Herz,3.5,63,coffee,Germany,2017
+Guenter Herz,3.5,76,coffee,Germany,2017
+Peter Kellogg,3.5,74,investments,United States,2017
+Lars Larsen,3.5,68,retail,Denmark,2017
+Robert McNair,3.5,80,"energy, sports",United States,2017
+Yuri Milner,3.5,55,"Facebook, investments",Russia,2017
+Pang Kang,3.5,61,soy sauce maker,China,2017
+Ravi Pillai,3.5,63,construction,India,2017
+Alexandra Schoerghuber,3.5,58,real estate,Germany,2017
+Donald Sterling,3.5,82,real estate,United States,2017
+Harry Stine,3.5,75,agriculture,United States,2017
+Donald Trump,3.5,70,"television, real estate",United States,2017
+George Ty,3.5,84,banking,Philippines,2017
+Nusli Wadia,3.5,73,consumer products,India,2017
+Vladimir Yevtushenkov,3.5,68,telecom,Russia,2017
+Andrej Babis,3.4,62,agriculture,Czech Republic,2017
+Che Jianxing,3.4,50,furniture retailing,China,2017
+Mark Cuban,3.4,58,online media,United States,2017
+David Filo,3.4,50,Yahoo,United States,2017
+Jeff Greene,3.4,62,"real estate, investments",United States,2017
+Han Chang-Woo,3.4,86,pachinko parlors,Japan,2017
+Sumet Jiaravanon,3.4,82,diversified,Thailand,2017
+Samvel Karapetyan,3.4,51,real estate,Russia,2017
+Randal Kirk,3.4,63,pharmaceuticals,United States,2017
+Li Shuirong,3.4,60,petrochemicals,China,2017
+George Lindemann,3.4,80,investments,United States,2017
+Anthony Pritzker,3.4,56,"hotels, investments",United States,2017
+Jay Robert (J.B.) Pritzker,3.4,52,"hotels, investments",United States,2017
+"Enrique Razon, Jr.",3.4,57,ports,Philippines,2017
+Sun Guangxin,3.4,54,diversified,China,2017
+Tony Tan Caktiong,3.4,64,fast food,Philippines,2017
+Yu Yong,3.4,56,mining,China,2017
+Arthur Blank,3.3,74,Home Depot,United States,2017
+Rainer Blickle,3.3,69,auto parts,Germany,2017
+Alain Bouchard,3.3,68,retail,Canada,2017
+Bernard Broermann,3.3,73,hospitals,Germany,2017
+Alejandro Bulgheroni,3.3,n/a,oil & gas,Argentina,2017
+John Catsimatidis,3.3,68,"oil, real estate",United States,2017
+Jaran Chiaravanont,3.3,86,diversified,Thailand,2017
+Abilio dos Santos Diniz,3.3,80,retail,Brazil,2017
+Gustaf Douglas,3.3,79,investments,Sweden,2017
+Walter Faria,3.3,61,beer,Brazil,2017
+Miguel Fluxa Rossello,3.3,78,hotels,Spain,2017
+Tom Gores,3.3,52,private equity,United States,2017
+Montri Jiaravanont,3.3,85,diversified,Thailand,2017
+Johan Johannson,3.3,50,grocery stores,Norway,2017
+Edwin Leong,3.3,65,real estate,Hong Kong,2017
+Lin Xiucheng,3.3,61,electronics,China,2017
+Qiu Guanghe,3.3,65,fashion retail,China,2017
+"David Rockefeller, Sr.",3.3,101,"real estate, investments",United States,2017
+Shaul Shani,3.3,62,telecom,Israel,2017
+Shi Yuzhu,3.3,54,"online games, investments",China,2017
+Alexander Svetakov,3.3,49,"banking, real estate",Russia,2017
+Wang Yusuo,3.3,53,natural gas distribution,China,2017
+Anil Agarwal,3.2,63,"mining, metals",India,2017
+Patrizio Bertelli,3.2,71,luxury goods,Italy,2017
+Kapil & Rahul Bhatia,3.2,n/a,airlines,India,2017
+Neil Bluhm,3.2,79,real estate,United States,2017
+Chey Tae-Won,3.2,56,"IT, telecom",South Korea,2017
+Jack & Laura Dangermond,3.2,71,mapping software,United States,2017
+Kuldip Singh & Gurbachan Singh Dhingra,3.2,n/a,paints,India,2017
+Bennett Dorrance,3.2,71,Campbell Soup,United States,2017
+Lindsay Fox,3.2,79,"logistics, real estate",Australia,2017
+"Amos Hostetter, Jr.",3.2,80,cable television,United States,2017
+Jiang Bin,3.2,50,acoustic components,China,2017
+Ronald Lauder,3.2,73,Estee Lauder,United States,2017
+Sudhir & Samir Mehta,3.2,n/a,diversified,India,2017
+Jorge Moll Filho,3.2,72,hospitals,Brazil,2017
+Fernando Roberto Moreira Salles,3.2,70,"banking, minerals",Brazil,2017
+Joao Moreira Salles,3.2,55,"banking, minerals",Brazil,2017
+Pedro Moreira Salles,3.2,57,"banking, minerals",Brazil,2017
+Walther Moreira Salles Junior,3.2,60,"banking, minerals",Brazil,2017
+Michael Moritz,3.2,62,venture capital,United States,2017
+Nie Tengyun,3.2,41,logistics,China,2017
+Daniel Och,3.2,56,hedge funds,United States,2017
+Miuccia Prada,3.2,67,luxury goods,Italy,2017
+Thomas Pritzker,3.2,66,"hotels, investments",United States,2017
+Richard Schulze,3.2,76,Best Buy,United States,2017
+Lottie Tham,3.2,67,H&M,Sweden,2017
+Ye Chenghai,3.2,73,pharmaceuticals,Hong Kong,2017
+Zhang Xin,3.2,51,real estate,China,2017
+Riley Bechtel,3.1,64,"engineering, construction",United States,2017
+"Stephen Bechtel, Jr.",3.1,91,"engineering, construction",United States,2017
+Rossana Camargo de Arruda Botelho,3.1,67,construction,Brazil,2017
+Andrew & Peggy Cherng,3.1,n/a,restaurants,United States,2017
+David Consunji,3.1,95,construction,Philippines,2017
+John Paul DeJoria,3.1,72,"hair products, tequila",United States,2017
+Isabel dos Santos,3.1,43,investments,Angola,2017
+Andreas Halvorsen,3.1,55,hedge funds,Norway,2017
+Reid Hoffman,3.1,49,LinkedIn,United States,2017
+Viatcheslav Kantor,3.1,63,"fertilizer, real estate",Russia,2017
+Marc Ladreit de Lacharriere,3.1,76,finance,France,2017
+Liu Zhongtian,3.1,53,aluminum products,China,2017
+Yusaku Maezawa,3.1,41,online retail,Japan,2017
+Sergio Mantegazza,3.1,89,travel,Switzerland,2017
+Ronald McAulay,3.1,81,energy,Hong Kong,2017
+Pawan Munjal,3.1,63,motorcycles,India,2017
+Renata de Camargo Nascimento,3.1,66,construction,Brazil,2017
+God Nisanov,3.1,44,real estate,Russia,2017
+Idan Ofer,3.1,61,"drilling, shipping",Israel,2017
+Regina de Camargo Pires Oliveira Dias,3.1,63,construction,Brazil,2017
+Julio Ponce Lerou,3.1,71,fertilizer,Chile,2017
+Issad Rebrab,3.1,73,food,Algeria,2017
+Teddy Sagi,3.1,45,gambling software,Israel,2017
+Lynn Schusterman,3.1,78,"oil & gas, investments",United States,2017
+Andreas Struengmann,3.1,67,pharmaceuticals,Germany,2017
+Thomas Struengmann,3.1,67,pharmaceuticals,Germany,2017
+Daniel Tsai,3.1,60,finance,Taiwan,2017
+Richard Tsai,3.1,59,finance,Taiwan,2017
+Simon Xie,3.1,47,online payment service,China,2017
+Yang Kai,3.1,60,dairy products,China,2017
+John Arnold,3,43,hedge funds,United States,2017
+Clifford Asness,3,50,hedge funds,United States,2017
+Edward Bass,3,71,"oil, investments",United States,2017
+Leon G. Cooperman,3,73,hedge funds,United States,2017
+Andrew Currie,3,61,chemicals,United Kingdom,2017
+Antonio Del Valle Ruiz,3,78,chemicals,Mexico,2017
+Allan Goldman,3,74,real estate,United States,2017
+Jane Goldman,3,61,real estate,United States,2017
+Amy Goldman Fowler,3,62,real estate,United States,2017
+Tom Golisano,3,75,payroll services,United States,2017
+Zarakh Iliev,3,50,real estate,Russia,2017
+Diane Kemper,3,71,real estate,United States,2017
+Kenneth Langone,3,81,investments,United States,2017
+Samuel Tak Lee,3,77,real estate,Hong Kong,2017
+James Leprino,3,79,cheese,United States,2017
+Erwin Franz Mueller,3,84,drug stores,Germany,2017
+"Henry Nicholas, III.",3,57,semiconductors,United States,2017
+Akio Nitori,3,73,home furnishings,Japan,2017
+Husnu Ozyegin,3,72,"finance, diversified",Turkey,2017
+James Packer,3,49,casinos,Australia,2017
+Robert Pera,3,39,wireless networking gear,United States,2017
+Alexander Ponomarenko,3,52,ports,Russia,2017
+John Reece,3,60,chemicals,United Kingdom,2017
+Renzo Rosso,3,61,fashion,Italy,2017
+Haim Saban,3,72,"TV network, investments",United States,2017
+Howard Schultz,3,63,Starbucks,United States,2017
+Bernard (Barry) Sherman,3,75,pharmaceuticals,Canada,2017
+B.R. Shetty,3,75,healthcare,India,2017
+Alexander Skorobogatko,3,49,ports,Russia,2017
+Romesh T. Wadhwani,3,69,software,United States,2017
+Oprah Winfrey,3,63,TV shows,United States,2017
+Xiao Wenge,3,50,entertainment,China,2017
+Jacky Xu,3,45,apparel,St. Kitts and Nevis,2017
+Anthony Bamford,2.9,71,construction equipment,United Kingdom,2017
+Lee Bass,2.9,60,"oil, investments",United States,2017
+Jean Pierre Cayard,2.9,74,spirits,France,2017
+Jason Chang,2.9,72,electronics,Singapore,2017
+"Edward DeBartolo, Jr.",2.9,70,shopping centers,United States,2017
+Bernard Ecclestone,2.9,86,Formula One,United Kingdom,2017
+Tilman Fertitta,2.9,59,"restaurants, casinos",United States,2017
+Kieu Hoang,2.9,72,medical products,United States,2017
+Min Kao,2.9,68,navigation equipment,United States,2017
+Daryl Katz,2.9,55,pharmacies,Canada,2017
+Ke Zunhong,2.9,62,pharmaceuticals,China,2017
+Kurt Krieger,2.9,68,furniture retailing,Germany,2017
+Meisong Lai,2.9,n/a,package delivery,China,2017
+Douglas Leone,2.9,59,venture capital,United States,2017
+Daniel Loeb,2.9,55,hedge funds,United States,2017
+Park Hyeon-Joo,2.9,58,mutual funds,South Korea,2017
+Kjell Inge Rokke,2.9,58,"shipping, seafood",Norway,2017
+Chanchai Ruayrungruang,2.9,63,real estate,China,2017
+Mark Shoen,2.9,66,U-Haul,United States,2017
+Juan-Miguel Villar Mir,2.9,85,construction,Spain,2017
+Zhang Fan,2.9,51,biometrics,China,2017
+Zhang Xiaojuan,2.9,47,logistics,China,2017
+Anita Zucker,2.9,65,chemicals,United States,2017
+Mortimer Zuckerman,2.9,79,"real estate, media",United States,2017
+Sid Bass,2.8,74,"oil, investments",United States,2017
+Yvonne Bauer,2.8,39,media,Germany,2017
+Jim Breyer,2.8,55,venture capital,United States,2017
+Do Won & Jin Sook Chang,2.8,61,fashion retail,United States,2017
+Chen Fashu,2.8,56,investments,China,2017
+Charles Cohen,2.8,65,real estate,United States,2017
+Rafael Del Pino y Calvo-Sotelo,2.8,58,construction,Spain,2017
+Barry Diller,2.8,75,online media,United States,2017
+Gao Tianguo,2.8,65,"real estate, finance",China,2017
+Peter Hargreaves,2.8,70,financial services,United Kingdom,2017
+Hortensia Herrero,2.8,66,supermarkets,Spain,2017
+Heidi Horten,2.8,76,retail,Austria,2017
+Huang Shih Tsai,2.8,65,real estate,Hong Kong,2017
+B. Wayne Hughes,2.8,83,self storage,United States,2017
+Bernardo Matte,2.8,61,paper,Chile,2017
+Eliodoro Matte,2.8,71,paper,Chile,2017
+Patricia Matte,2.8,73,paper,Chile,2017
+Hans Melchers,2.8,78,"chemicals, investments",Netherlands,2017
+John Middleton,2.8,62,tobacco,United States,2017
+A. Jerrold Perenchio,2.8,86,"television, Univision",United States,2017
+Jorge Perez,2.8,67,real estate,United States,2017
+Prasert Prasarttong-Osoth,2.8,83,hospitals,Thailand,2017
+Gil Shwed,2.8,49,software,Israel,2017
+Herbert Simon,2.8,82,real estate,United States,2017
+Pat Stryker,2.8,60,medical equipment,United States,2017
+Tahir,2.8,64,diversified,Indonesia,2017
+Arne Wilhelmsen,2.8,86,cruise ships,Norway,2017
+"William Wrigley, Jr.",2.8,53,chewing gum,United States,2017
+Anil Ambani,2.7,57,diversified,India,2017
+Carlo Benetton,2.7,73,"fashion retail, investments",Italy,2017
+Gilberto Benetton,2.7,75,"fashion retail, investments",Italy,2017
+Giuliana Benetton,2.7,79,"fashion retail, investments",Italy,2017
+Luciano Benetton,2.7,81,"fashion retail, investments",Italy,2017
+John Brown,2.7,82,medical equipment,United States,2017
+Cai Kui,2.7,54,real estate,China,2017
+Cao Longxiang,2.7,59,pharmaceuticals,China,2017
+Ashwin Dani,2.7,74,paints,India,2017
+Ray Davis,2.7,75,pipelines,United States,2017
+"John Dorrance, III.",2.7,73,Campbell Soup,Ireland,2017
+Martin Haefner,2.7,63,"software, investments",Switzerland,2017
+Otto Happel,2.7,69,engineering,Germany,2017
+Joshua Harris,2.7,52,private equity,United States,2017
+Jen-Hsun Huang,2.7,54,semiconductors,United States,2017
+Huang Wei,2.7,57,real estate,China,2017
+H. Wayne Huizenga,2.7,79,investments,United States,2017
+Johnelle Hunt,2.7,85,trucking,United States,2017
+Kwek Leng Beng,2.7,76,real estate,Singapore,2017
+Friedhelm Loh,2.7,70,manufacturing,Germany,2017
+Lu Xiangyang,2.7,54,"automobiles, batteries",China,2017
+Mohamed Mansour,2.7,69,diversified,Egypt,2017
+Robert Miller,2.7,71,electronics components,Canada,2017
+David Murdock,2.7,93,"Dole, real estate",United States,2017
+Sebastian Pií±era,2.7,67,investments,Chile,2017
+Carlos Rodriguez-Pastor,2.7,57,finance,Peru,2017
+Marc Rowan,2.7,54,private equity,United States,2017
+Stephan Schmidheiny,2.7,69,investments,Switzerland,2017
+Michael & Reiner Schmidt-Ruthenbeck,2.7,n/a,retail,Germany,2017
+Yasumitsu Shigeta,2.7,52,mobile phone retailer,Japan,2017
+Paul Singer,2.7,72,hedge funds,United States,2017
+Alexandre Soares dos Santos,2.7,82,supermarkets,Portugal,2017
+Michal Solowow,2.7,54,investments,Poland,2017
+Peter Thiel,2.7,49,"Facebook, Palantir",United States,2017
+Rita Tong Liu,2.7,68,real estate,Hong Kong,2017
+Wang Xicheng,2.7,68,tires,China,2017
+Christoph Zeller,2.7,59,dental implants,Liechtenstein,2017
+Mohammed Al Issa,2.6,92,investments,Saudi Arabia,2017
+Carlos Ardila Lí_lle,2.6,86,"soft drinks, diversified",Colombia,2017
+Michael Ashley,2.6,52,sports retailing,United Kingdom,2017
+Tom Benson,2.6,89,New Orleans Saints,United States,2017
+Otto Philipp Braun,2.6,39,medical technology,Germany,2017
+Chung Eui-Sun,2.6,46,logistics,South Korea,2017
+Robert Duggan,2.6,72,pharmaceuticals,United States,2017
+Martin Ebner,2.6,71,investments,Switzerland,2017
+Doris Fisher,2.6,85,Gap,United States,2017
+Philippe Foriel-Destezet,2.6,81,employment agency,France,2017
+Fiona Geminder,2.6,52,packaging,Australia,2017
+Bill Haslam,2.6,58,truck stops,United States,2017
+Henry Hillman,2.6,98,investments,United States,2017
+Louis Le Duff,2.6,70,bakeries,France,2017
+Lei Jufang,2.6,64,pharmaceuticals,China,2017
+Scott Lin,2.6,n/a,optical components,Taiwan,2017
+"Stephen Mandel, Jr.",2.6,61,hedge funds,United States,2017
+Najib Mikati,2.6,61,telecom,Lebanon,2017
+Taha Mikati,2.6,72,telecom,Lebanon,2017
+Robert Miller,2.6,83,retail,United Kingdom,2017
+Yoshiko Mori,2.6,76,real estate,Japan,2017
+Sean Parker,2.6,37,Facebook,United States,2017
+Karsanbhai Patel,2.6,73,consumer goods,India,2017
+Rajan Raheja,2.6,62,diversified,India,2017
+P.V. Ramprasad Reddy,2.6,58,pharmaceuticals,India,2017
+Dirk Rossmann,2.6,70,drugstores,Germany,2017
+Arkady Rotenberg,2.6,65,"construction, pipes, banking",Russia,2017
+Svein Stole,2.6,53,investments,Norway,2017
+Lawrence Stroll,2.6,57,fashion investments,Canada,2017
+Tsai Hong-tu,2.6,64,finance,Taiwan,2017
+Hans Peter Wild,2.6,75,flavorings,Switzerland,2017
+Zhang Jing,2.6,45,diversified,China,2017
+John Arrillaga,2.5,79,real estate,United States,2017
+Acharya Balkrishna,2.5,44,consumer goods,India,2017
+Carl Bennet,2.5,65,investments,Sweden,2017
+George Bishop,2.5,79,oil & gas,United States,2017
+David Bonderman,2.5,74,private equity,United States,2017
+Eva Maria Bucher-Haefner,2.5,60,Computer Associates,Switzerland,2017
+Peter Buck,2.5,86,Subway sandwich shops,United States,2017
+"William Conway, Jr.",2.5,67,private equity,United States,2017
+Smita Crishna-Godrej,2.5,66,consumer goods,India,2017
+Daniel D'Aniello,2.5,70,private equity,United States,2017
+Jim Davis,2.5,57,staffing & recruiting,United States,2017
+Kenneth Feld,2.5,68,"circus, live entertainment",United States,2017
+Fu Liquan,2.5,49,surveillance equipment,China,2017
+Adi Godrej,2.5,74,consumer goods,India,2017
+Jamshyd Godrej,2.5,68,consumer goods,India,2017
+Nadir Godrej,2.5,66,consumer goods,India,2017
+Bill Gross,2.5,72,investments,United States,2017
+Caroline Hagen Kjos,2.5,33,conglomerate,Norway,2017
+Don Hankey,2.5,73,auto loans,United States,2017
+John Henry,2.5,67,sports,United States,2017
+James Irsay,2.5,57,Indianapolis Colts,United States,2017
+Alicia Koplowitz,2.5,62,"construction, investments",Spain,2017
+Guenther Lehmann,2.5,n/a,drug stores,Germany,2017
+Li Gaiteng,2.5,44,hair dryers,China,2017
+Alexander Mamut,2.5,57,investments,Russia,2017
+Rishad Naoroji,2.5,65,consumer goods,India,2017
+Adam Neumann,2.5,37,WeWork,Israel,2017
+Philip Niarchos,2.5,63,art collection,Greece,2017
+"Carolus Nolet, Sr.",2.5,76,Ketel One vodka,Netherlands,2017
+Bob Parsons,2.5,66,web hosting,United States,2017
+Jay Paul,2.5,69,real estate,United States,2017
+Richard Peery,2.5,78,real estate,United States,2017
+Jean (Gigi) Pritzker,2.5,54,"hotels, investments",United States,2017
+Penny Pritzker,2.5,57,"hotels, investments",United States,2017
+Chandru Raheja,2.5,76,real estate,India,2017
+"Wilbur Ross, Jr.",2.5,79,investments,United States,2017
+David Rubenstein,2.5,67,private equity,United States,2017
+Phillip Ruffin,2.5,82,"casinos, real estate",United States,2017
+Patrick Ryan,2.5,79,insurance,United States,2017
+Alvaro Saieh Bendeck,2.5,67,banking,Chile,2017
+E. Joe Shoen,2.5,67,U-Haul,United States,2017
+Thomas Siebel,2.5,64,business software,United States,2017
+Robert Smith,2.5,54,private equity,United States,2017
+Zygmunt Solorz-Zak,2.5,60,TV broadcasting,Poland,2017
+Warren Stephens,2.5,60,investment banking,United States,2017
+Jon Stryker,2.5,58,medical equipment,United States,2017
+Andrew Tan,2.5,64,diversified,Philippines,2017
+Mark Walter,2.5,56,finance,United States,2017
+Wang Xing,2.5,44,e-commerce,China,2017
+Ty Warner,2.5,72,"real estate, plush toys",United States,2017
+Steve Wynn,2.5,75,"casinos, hotels",United States,2017
+Michael Ying,2.5,67,retail,Hong Kong,2017
+Zhang Bangxin,2.5,37,after-school tutoring,China,2017
+Faisal Bin Qassim Al Thani,2.4,69,"hotels, diversified",Qatar,2017
+Semahat Sevim Arsel,2.4,88,diversified,Turkey,2017
+Tatiana Casiraghi,2.4,33,beer,Monaco,2017
+Hasmukh Chudgar,2.4,83,pharmaceuticals,India,2017
+Aloysio de Andrade Faria,2.4,96,banking,Brazil,2017
+Judy Faulkner,2.4,73,health IT,United States,2017
+Fong Yun Wah,2.4,92,real estate,Hong Kong,2017
+Baba Kalyani,2.4,68,engineering,India,2017
+Igor Kesaev,2.4,50,"tobacco distribution, retail",Russia,2017
+Raj Kumar & Kishin RK,2.4,62,real estate,Singapore,2017
+Kuok Khoon Hong,2.4,67,palm oil,Singapore,2017
+Manuel Lao Hernandez,2.4,72,gambling,Spain,2017
+Li Wa,2.4,51,real estate,Hong Kong,2017
+C. Dean Metropoulos,2.4,70,investments,United States,2017
+Alexander Nesis,2.4,54,"metals, banking, fertilizers",Russia,2017
+Kazuo Okada,2.4,74,casinos,Japan,2017
+John Pritzker,2.4,64,"hotels, investments",United States,2017
+Qiu Jianping,2.4,55,hand tools,China,2017
+"Julio Mario Santo Domingo, III.",2.4,31,beer,United States,2017
+Thomas Secunda,2.4,62,Bloomberg LP,United States,2017
+Shen Guojun,2.4,54,retail,China,2017
+Alexander Spanos,2.4,93,"real estate, San Diego Chargers",United States,2017
+Sarik Tara,2.4,86,construction,Turkey,2017
+Clemens Toennies,2.4,60,meat processing,Germany,2017
+Hanni Toosbuy Kasprzak,2.4,59,shoes,Denmark,2017
+Sunil Vaswani,2.4,53,diversified,United Kingdom,2017
+Radovan Vitek,2.4,45,real estate,Czech Republic,2017
+Pham Nhat Vuong,2.4,48,real estate,Vietnam,2017
+Denise York,2.4,66,San Francisco 49ers,United States,2017
+Charles Bronfman,2.3,85,liquor,Canada,2017
+Nick Caporella,2.3,81,beverages,United States,2017
+Chan Tan Ching-fen,2.3,n/a,real estate,Hong Kong,2017
+Chu Mang Yee,2.3,57,real estate,China,2017
+Scott Cook,2.3,64,software,United States,2017
+Radhakishan Damani,2.3,62,"investments, retail",India,2017
+Eduardo Eurnekian,2.3,84,"airports, investments",Argentina,2017
+Feng Hailiang,2.3,56,"copper, real estate",China,2017
+Gerald Ford,2.3,72,banking,United States,2017
+Bernard Fraisse,2.3,60,pharmaceuticals,France,2017
+Mitchell Goldhar,2.3,55,real estate,Canada,2017
+Noam Gottesman,2.3,55,hedge funds,United States,2017
+Stein Erik Hagen,2.3,60,consumer goods,Norway,2017
+Stanley Hubbard,2.3,83,DirecTV,United States,2017
+Erman Ilicak,2.3,49,construction,Turkey,2017
+Jiang Rensheng,2.3,63,vaccine production,China,2017
+Saleh Kamel,2.3,75,"banking, healthcare",Saudi Arabia,2017
+Lee Joong-Keun,2.3,76,"construction, real estate",South Korea,2017
+Bernard Lewis,2.3,91,fashion retailer,United Kingdom,2017
+Liang Xinjun,2.3,49,conglomerate,China,2017
+Rudolf Maag,2.3,71,medical devices,Switzerland,2017
+Farhad Moshiri,2.3,61,diversified,United Kingdom,2017
+Vadim Moshkovich,2.3,49,"agriculture, land",Russia,2017
+Stefan Olsson,2.3,68,diversified,Sweden,2017
+Nicolas Puech,2.3,74,Hermes,France,2017
+Qi Shi,2.3,47,financial information,China,2017
+Krit Ratanarak,2.3,70,"media, real estate",Thailand,2017
+Jeff Rothschild,2.3,62,Facebook,United States,2017
+Michael Rubin,2.3,44,online retail,United States,2017
+Mikail Shishkhanov,2.3,44,"oil, banking, real estate",Russia,2017
+Sit Kwong Lam,2.3,49,"oil, transportation",Hong Kong,2017
+Song Zuowen,2.3,70,"aluminum, diversified",China,2017
+Tang Yiu,2.3,82,fashion retail,Hong Kong,2017
+Tsai Cheng-da,2.3,n/a,finance,Taiwan,2017
+Ted Turner,2.3,78,cable television,United States,2017
+Bulat Utemuratov,2.3,59,"mining, banking, hotels",Kazakhstan,2017
+Meg Whitman,2.3,60,eBay,United States,2017
+Chip Wilson,2.3,60,Lululemon,Canada,2017
+Xu Jingren,2.3,72,pharmaceuticals,China,2017
+Jerry Yang,2.3,48,Yahoo,United States,2017
+Yuan Yafei,2.3,53,"retail, investments",China,2017
+Zhou Yaoting,2.3,74,"apparel, real estate",China,2017
+Zhu Gongshan,2.3,59,solar panel materials,China,2017
+Isak Andic,2.2,63,fashion retail,Spain,2017
+George Argyros,2.2,80,"real estate, investments",United States,2017
+Ron Baron,2.2,73,money management,United States,2017
+Nikolai Buinov,2.2,49,"oil, gas",Russia,2017
+John Caudwell,2.2,64,mobile phones,United Kingdom,2017
+Jose Luis Cutrale,2.2,70,orange juice,Brazil,2017
+Ennio Doris,2.2,76,financial services,Italy,2017
+Du Jiangtao,2.2,47,chemicals,China,2017
+Fang Wei,2.2,43,steel,China,2017
+John Fisher,2.2,55,Gap,United States,2017
+Joseph Grendys,2.2,55,poultry,United States,2017
+Bahaa Hariri,2.2,50,"real estate, investments, logistics",Lebanon,2017
+Hui Lin Chit,2.2,63,hygiene products,China,2017
+Rakesh Jhunjhunwala,2.2,56,investments,India,2017
+Brad Kelley,2.2,60,tobacco,United States,2017
+Mustafa Rahmi Koc,2.2,86,diversified,Turkey,2017
+Karel Komarek,2.2,48,oil & gas,Czech Republic,2017
+Thomas Lee,2.2,72,private equity,United States,2017
+Jeffrey Lorberbaum,2.2,62,flooring,United States,2017
+Joe Mansueto,2.2,60,investment research,United States,2017
+Marius Nacht,2.2,51,software,Israel,2017
+Hans Georg Naeder,2.2,55,prosthetics,Germany,2017
+Daniel Pritzker,2.2,57,"hotels, investments",United States,2017
+Stewart Rahr,2.2,71,drug distribution,United States,2017
+Ren Zhengfei,2.2,73,telecom equipment,China,2017
+Helena Revoredo,2.2,70,private security,Spain,2017
+Seo Jung-Jin,2.2,59,biotech,South Korea,2017
+Dan Snyder,2.2,52,Washington Redskins,United States,2017
+Charlotte Soderstrom,2.2,40,H&M,Sweden,2017
+Ralph Sonnenberg,2.2,82,blinds,Netherlands,2017
+Sun Xishuang,2.2,63,real estate,China,2017
+Sze Man Bok,2.2,67,hygiene products,China,2017
+Wu Jianshu,2.2,53,auto parts,Hong Kong,2017
+Xue Xiangdong,2.2,58,software,China,2017
+S. Daniel Abraham,2.1,92,Slim-Fast,United States,2017
+Saif Al Ghurair,2.1,93,diversified,United Arab Emirates,2017
+Emilio Azcarraga Jean,2.1,49,TV broadcasting,Mexico,2017
+Miriam Baumann-Blocher,2.1,42,chemicals,Switzerland,2017
+Koos Bekker,2.1,64,"media, investments",South Africa,2017
+Mike Cannon-Brookes,2.1,37,software,Australia,2017
+Demetrio Carceller Coll,2.1,n/a,"gas, beer",Portugal,2017
+Chen Bang,2.1,51,hospitals,China,2017
+Chen Dongsheng,2.1,59,insurance,China,2017
+Tony Chen,2.1,48,eletronics,Taiwan,2017
+Todd Christopher,2.1,54,hair care products,United States,2017
+James Coulter,2.1,57,private equity,United States,2017
+Ding Shijia,2.1,53,sportswear,China,2017
+Ding Shizhong,2.1,46,sports apparel,China,2017
+Hedda im Brahm Droege,2.1,62,consulting,Germany,2017
+Scott Farquhar,2.1,37,software,Australia,2017
+Rakesh Gangwal,2.1,63,airline,United States,2017
+Gordon Getty,2.1,83,Getty Oil,United States,2017
+Sam Goi,2.1,68,frozen foods,Singapore,2017
+Alec Gores,2.1,64,private equity,United States,2017
+Gudrun Heine,2.1,62,medical devices,Germany,2017
+Michael Hintze,2.1,63,investment,Australia,2017
+Christopher Hohn,2.1,50,Hedge fund,United Kingdom,2017
+Jiang Weiping,2.1,62,chemicals,China,2017
+Vladimir Kim,2.1,56,mining,Kazakhstan,2017
+Timur Kulibaev,2.1,50,banking,Kazakhstan,2017
+Dinara Kulibaeva,2.1,49,banking,Kazakhstan,2017
+Heikki Kyostila,2.1,71,dental products,Finland,2017
+Edward Lampert,2.1,54,Sears,United States,2017
+Lau Cho Kun,2.1,81,"palm oil,property",Malaysia,2017
+Lee Jay-Hyun,2.1,57,"food products, entertainment",South Korea,2017
+Peter Lim,2.1,63,investments,Singapore,2017
+Igor Makarov,2.1,54,gas,Russia,2017
+Daniel Mate,2.1,53,"mining, commodities",Spain,2017
+Kiran Mazumdar-Shaw,2.1,64,biotech,India,2017
+Aristotelis Mistakidis,2.1,55,"mining, commodities",Greece,2017
+Arturo Moreno,2.1,70,"billboards, Anaheim Angels",United States,2017
+Ni Zugen,2.1,60,appliances,China,2017
+Maja Oeri,2.1,62,Roche Holding,Switzerland,2017
+Ong Beng Seng and Christina Ong,2.1,72,diversified,Singapore,2017
+Karl-Johan Persson,2.1,41,H&M,Sweden,2017
+Tom Persson,2.1,32,H&M,Sweden,2017
+Peter Peterson,2.1,90,investments,United States,2017
+Murdaya Poo,2.1,76,diversified,Indonesia,2017
+Ferit Faik Sahenk,2.1,53,"banking, media",Turkey,2017
+Erik Selin,2.1,49,real estate,Sweden,2017
+Mark Stevens,2.1,57,venture capital,United States,2017
+Sybill Storz,2.1,79,medical devices,Germany,2017
+Torbjorn Tornqvist,2.1,63,oil trading,Sweden,2017
+T.Y. Tsai,2.1,n/a,finance,Taiwan,2017
+Wu Zhigang,2.1,82,bakery chain,China,2017
+Xie Zhikun,2.1,56,investments,China,2017
+Yeoh Tiong Lay,2.1,87,"construction, property, power",Malaysia,2017
+William Young,2.1,76,plastics,United States,2017
+Zhang Li,2.1,64,real estate,China,2017
+Zhao Yan,2.1,50,"real estate, finance",China,2017
+Zhou Chengjian,2.1,51,fashion retail,China,2017
+Juan Abello,2,75,investments,Spain,2017
+Igor Altushkin,2,46,metals,Russia,2017
+Hubertus Benteler,2,70,auto parts,Germany,2017
+Pierre Chen,2,59,"art, electronics",Taiwan,2017
+James Clark,2,73,"Netscape, investments",United States,2017
+Dermot Desmond,2,66,finance,Ireland,2017
+Bergit Douglas,2,70,consumer goods,Germany,2017
+Glenn Dubin,2,59,hedge funds,United States,2017
+"Frank Fertitta, III.",2,55,"casinos, mixed martial arts",United States,2017
+Lorenzo Fertitta,2,48,"casinos, mixed martial arts",United States,2017
+Carlo Fidani,2,62,real estate,Canada,2017
+James France,2,72,"Nascar, racing",United States,2017
+Peter Gilgan,2,66,homebuilding,Canada,2017
+Alexandre Grendene Bartelle,2,67,shoes,Brazil,2017
+David Hains,2,86,finance,Australia,2017
+W. Herbert Hunt,2,88,oil,United States,2017
+Bruce Karsh,2,61,private equity,United States,2017
+Kei Hoi Pang,2,51,real estate,China,2017
+Danil Khachaturov,2,45,"insurance, banking, real estate",Russia,2017
+Osman Kibar,2,45,biotech,United States,2017
+Suna Kirac,2,75,diversified,Turkey,2017
+Daniel Kretinsky,2,41,energy generation,Czech Republic,2017
+Lam Kong,2,52,pharmaceuticals,China,2017
+Herman Langness,2,n/a,food wholesale and retail,Germany,2017
+Maritsa Lazari,2,72,real estate,United Kingdom,2017
+Li Sze Lim,2,59,real estate,Hong Kong,2017
+Li Zhongchu,2,53,software,China,2017
+Liao Long-Shing,2,64,petrochemicals,Taiwan,2017
+Suhon Lin,2,88,petrochemicals,Taiwan,2017
+Vincent Lo,2,67,real estate,Hong Kong,2017
+Mangal Prabhat Lodha,2,61,real estate,India,2017
+Howard Marks,2,70,private equity,United States,2017
+Willy Michel,2,70,medical devices,Switzerland,2017
+Tom Morris,2,62,retail,United Kingdom,2017
+Jonathan Nelson,2,60,private equity,United States,2017
+Alfred Oetker,2,50,consumer goods,Germany,2017
+August Oetker,2,73,consumer goods,Germany,2017
+Carl Ferdinand Oetker,2,44,consumer goods,Germany,2017
+Christian Oetker,2,68,consumer goods,Germany,2017
+Julia Oetker,2,38,consumer goods,Germany,2017
+Richard Oetker,2,66,consumer goods,Germany,2017
+Kevin Plank,2,44,Under Armour,United States,2017
+Qin Yinglin,2,51,pig breeding,China,2017
+Phillip Ragon,2,67,health IT,United States,2017
+Larry Robbins,2,47,hedge funds,United States,2017
+Alberto Roemmers,2,90,pharmaceuticals,Argentina,2017
+Luigi Rovati,2,88,pharmaceuticals,Italy,2017
+"Karl Scheufele, III.",2,78,jewelry,Switzerland,2017
+Rosely Schweizer,2,76,consumer goods,Germany,2017
+Kavitark Ram Shriram,2,60,"venture capital, Google",United States,2017
+Charles Simonyi,2,68,Microsoft,United States,2017
+Eric Smidt,2,57,hardware stores,United States,2017
+Peter Spuhler,2,57,train cars,Switzerland,2017
+Sun Hongbin,2,54,real estate,United States,2017
+Leena Tewari,2,59,pharmaceuticals,India,2017
+Tiong Hiew King,2,81,"timber, media",Malaysia,2017
+Robert Toennies,2,38,meat processing,Germany,2017
+Tseng Shin-Yi,2,89,petrochemicals,Taiwan,2017
+John Tyson,2,63,food processing,United States,2017
+Peter Unger,2,72,auto repair,Germany,2017
+Rufino Vigil Gonzalez,2,68,steel,Mexico,2017
+Vincent Viola,2,61,electronic trading,United States,2017
+Georg von Opel,2,50,"real estate, investments",Germany,2017
+David Walentas,2,78,real estate,United States,2017
+Ronald Wanek,2,75,furniture,United States,2017
+Horst Wortmann,2,75,footwear,Germany,2017
+Wu Lanlan,2,43,packaging,China,2017
+Zheng Yuewen,2,55,investments,China,2017
+Antti Aarnio-Wihuri,1.9,77,diversified,Finland,2017
+Abdullah Al Rajhi,1.9,n/a,banking,Saudi Arabia,2017
+Leslie Alexander,1.9,73,Houston Rockets,United States,2017
+Anne Beaufour,1.9,53,pharmaceuticals,France,2017
+Henri Beaufour,1.9,51,pharmaceuticals,France,2017
+Othman Benjelloun,1.9,84,"banking, insurance",Morocco,2017
+Vladimir Bogdanov,1.9,65,oil,Russia,2017
+Cai Dongqing,1.9,47,animation,China,2017
+Francesco Gaetano Caltagirone,1.9,74,"cement, diversified",Italy,2017
+Richard Chandler,1.9,58,investments,New Zealand,2017
+Chen Hua,1.9,51,real estate,China,2017
+Chen Jianhua,1.9,46,chemicals,China,2017
+Choo Chong Ngen,1.9,63,hotels,Singapore,2017
+Chu Lam Yiu,1.9,47,flavorings,Hong Kong,2017
+Christopher Cline,1.9,58,coal,United States,2017
+"Chase Coleman, III.",1.9,41,hedge fund,United States,2017
+Jean Coutu,1.9,89,drugstores,Canada,2017
+Alexandra Daitch,1.9,54,Cargill,United States,2017
+Alfredo Egydio Arruda Villela Filho,1.9,47,banking,Brazil,2017
+Abhay Firodia,1.9,72,automobiles,India,2017
+Gu Yuhua,1.9,67,furniture,China,2017
+Thomas Hagen,1.9,81,insurance,United States,2017
+Carlos Hank Rhon,1.9,69,banking,Mexico,2017
+Huang Zhenda,1.9,69,construction,China,2017
+Alijan Ibragimov,1.9,63,"mining, metals",Kazakhstan,2017
+Mustafa Kucuk,1.9,53,fashion retail,Turkey,2017
+Stephen Lansdown,1.9,64,financial services,Guernsey,2017
+Spiro Latsis,1.9,70,"banking, shipping",Greece,2017
+Eric Lefkofsky,1.9,47,Groupon,United States,2017
+Li Hejun,1.9,49,renewable energy,China,2017
+Lim Sung-Ki,1.9,77,pharmaceuticals,South Korea,2017
+Lin Li,1.9,53,investments,China,2017
+Brandt Louie,1.9,73,drugstores,Canada,2017
+Alexander Machkevich,1.9,63,"mining, metals",Israel,2017
+Sarah MacMillan,1.9,63,Cargill,United States,2017
+Gilles Martin,1.9,53,laboratory services,France,2017
+"Drayton McLane, Jr.",1.9,80,"Wal-Mart, logistics",United States,2017
+David Nahmad,1.9,69,art collection,Monaco,2017
+Madeleine Olsson Ericksson,1.9,72,diversified,Sweden,2017
+Or Wai Sheun,1.9,65,real estate,Hong Kong,2017
+Stanley Perron,1.9,94,"property, retail",Australia,2017
+Theodore Rachmat,1.9,73,diversified,Indonesia,2017
+Ren Jianhua,1.9,60,kitchen appliances,China,2017
+Mochtar Riady,1.9,87,diversified,Indonesia,2017
+Jacques Saade,1.9,80,shipping,France,2017
+Filiz Sahenk,1.9,50,"bank, media",Turkey,2017
+Shin Chang-Jae,1.9,63,insurance,South Korea,2017
+Lucy Stitzer,1.9,57,Cargill,United States,2017
+Thomas Straumann,1.9,53,dental implants,Switzerland,2017
+Katherine Tanner,1.9,61,Cargill,United States,2017
+Glen Taylor,1.9,75,printing,United States,2017
+Tung Chee Chen,1.9,75,shipping,Hong Kong,2017
+Sunny Varkey,1.9,59,education,India,2017
+Wong Luen Hei,1.9,55,home building materials,China,2017
+Wong Man Li,1.9,52,furniture,Hong Kong,2017
+Wu Guangming,1.9,55,medical equipment,China,2017
+Wu Xu,1.9,53,real estate,St. Kitts and Nevis,2017
+Luis Enrique Yarur Rey,1.9,66,banking,Chile,2017
+Yi Zheng,1.9,46,software,China,2017
+Eddie & Sol Zakay,1.9,66,real estate,United Kingdom,2017
+Charles Zegar,1.9,69,Bloomberg LP,United States,2017
+Zhang Guiping,1.9,65,real estate,China,2017
+Zhu Xingliang,1.9,57,construction,China,2017
+Mohamed Al Fayed,1.8,88,"retail, investments",Egypt,2017
+Syed Mokhtar AlBukhary,1.8,65,"engineering, energy, construction",Malaysia,2017
+An Kang,1.8,68,pharmaceuticals,China,2017
+Louis Bacon,1.8,60,hedge funds,United States,2017
+Nicolas Berggruen,1.8,55,investments,United States,2017
+Thor Bjorgolfsson,1.8,50,investments,Iceland,2017
+Jaime Botin,1.8,80,banking,Spain,2017
+Julio Bozano,1.8,81,banking,Brazil,2017
+Cai Wensheng,1.8,47,photo sharing app,China,2017
+Chen Dejun,1.8,46,package delivery,China,2017
+Chen Jinxia,1.8,48,investments,China,2017
+Chen Yung-Tai,1.8,81,real estate,Taiwan,2017
+Cho Tak Wong,1.8,70,auto parts,Hong Kong,2017
+Patokh Chodiev,1.8,64,"mining, metals",Belgium,2017
+John Coates,1.8,47,online gambling,United Kingdom,2017
+Mark Coombs,1.8,56,finance,United Kingdom,2017
+Dulce Pugliese de Godoy Bueno,1.8,69,"hospitals, health care",Brazil,2017
+James Dinan,1.8,57,hedge funds,United States,2017
+N. Murray Edwards,1.8,57,oil & gas,Canada,2017
+Marcel Erni,1.8,52,private equity,Switzerland,2017
+Andre Esteves,1.8,48,banking,Brazil,2017
+Clement Fayat,1.8,85,construction,France,2017
+Alexander Frolov,1.8,52,"mining, steel",Russia,2017
+Alfred Gantner,1.8,48,private equity,Switzerland,2017
+Geng Jianming,1.8,54,real estate,China,2017
+David Gottesman,1.8,90,investments,United States,2017
+Allan Gray,1.8,79,money management,South Africa,2017
+Jonathan Gray,1.8,47,investments,United States,2017
+Esther Grether,1.8,81,"art collection, Swatch",Switzerland,2017
+Gerry Harvey,1.8,77,retail,Australia,2017
+Reed Hastings,1.8,56,Netflix,United States,2017
+He Qiaonv,1.8,51,landscape architecture,China,2017
+Christoph Henkel,1.8,59,consumer goods,Germany,2017
+Roberto Hernandez Ramirez,1.8,75,banking,Mexico,2017
+Hong Ra-Hee,1.8,71,Samsung,South Korea,2017
+Huang Hongyun,1.8,50,real estate,China,2017
+Manuel Jove,1.8,75,real estate,Spain,2017
+Erich Kellerhals,1.8,78,electronics retailer,Germany,2017
+Wolfgang Leitner,1.8,63,engineering,Austria,2017
+Catherine Lozick,1.8,72,valve manufacturing,United States,2017
+Jeffrey Lurie,1.8,65,Philadelphia Eagles,United States,2017
+Yasseen Mansour,1.8,55,diversified,Egypt,2017
+Harsh Mariwala,1.8,65,consumer goods,India,2017
+Craig McCaw,1.8,67,telecom,United States,2017
+Miao Shouliang,1.8,62,real estate,China,2017
+Gail Miller,1.8,73,"basketball, car dealers",United States,2017
+Patrice Motsepe,1.8,55,mining,South Africa,2017
+N.R. Narayana Murthy,1.8,70,software services,India,2017
+Prajogo Pangestu,1.8,72,petrochemicals,Indonesia,2017
+Florentino Perez,1.8,70,construction,Spain,2017
+Jennifer Pritzker,1.8,66,"hotels, investments",United States,2017
+Linda Pritzker,1.8,63,"hotels, investments",United States,2017
+Antony Ressler,1.8,55,finance,United States,2017
+J. Joe Ricketts,1.8,75,TD Ameritrade,United States,2017
+Stephen Rubin,1.8,80,sports apparel,United Kingdom,2017
+Carlos Sanchez,1.8,55,generic drugs,Brazil,2017
+T. Denny Sanford,1.8,81,"banking, credit cards",United States,2017
+Klaus-Peter Schulenberg,1.8,n/a,ticketing service,Germany,2017
+Gerald Schwartz,1.8,75,finance,Canada,2017
+Helmut Sohmen,1.8,77,shipping,Austria,2017
+Kerry Stokes,1.8,76,"media, mining",Australia,2017
+Sylvia Stroeher,1.8,61,cosmetics,Germany,2017
+Sun Qinghuan,1.8,43,lighting,China,2017
+Arvind Tiku,1.8,47,"oil & gas, investments",India,2017
+Torsten Toeller,1.8,50,pet food,Germany,2017
+Heloise Waislitz,1.8,54,packaging,Australia,2017
+Wang Changtian,1.8,51,"TV, movie production",China,2017
+Urs Wietlisbach,1.8,55,private equity,Switzerland,2017
+Elaine Wynn,1.8,74,"casinos, hotels",United States,2017
+Amy Wyss,1.8,46,medical equipment,United States,2017
+Xiong Xuqiang,1.8,60,real estate,Hong Kong,2017
+Jon Yarbrough,1.8,59,video games,United States,2017
+"Richard Yuengling, Jr.",1.8,74,beer,United States,2017
+Aras Agalarov,1.7,61,real estate,Russia,2017
+Maurice Alter,1.7,91,real estate,Australia,2017
+Roberto Angelini Rossi,1.7,68,"forestry, mining",Chile,2017
+Carol Jenkins Barnett,1.7,60,Publix supermarkets,United States,2017
+Andrei Bokarev,1.7,50,"coal mining, machine building",Russia,2017
+Timothy Boyle,1.7,67,Columbia Sportswear,United States,2017
+Norman Braman,1.7,84,"art, car dealerships",United States,2017
+Chang Yun Chung,1.7,98,shipping,Singapore,2017
+Chen Xiaoying,1.7,40,package delivery,China,2017
+Jack Cowin,1.7,74,fast food,Australia,2017
+Cui Lijie,1.7,58,gambling,Hong Kong,2017
+Ana Lucia de Mattos Barretto Villela,1.7,43,banking,Brazil,2017
+Sanford Diller,1.7,89,real estate,United States,2017
+Fritz Draexlmaier,1.7,n/a,auto parts,Germany,2017
+Gabriel Escarrer,1.7,82,hotels,Spain,2017
+Yakir Gabay,1.7,50,real estate,Cyprus,2017
+Harsh Goenka,1.7,59,diversified,India,2017
+Suat Gunsel,1.7,64,"real estate, education",Cyprus,2017
+He Simo,1.7,52,power supply manufacturer,China,2017
+John Kapoor,1.7,73,healthcare,United States,2017
+Kim Beom-Su,1.7,50,online services,South Korea,2017
+Koo Bon-Moo,1.7,72,"electronics, chemicals, household products",South Korea,2017
+Willibert Krueger,1.7,76,food processing,Germany,2017
+Lim Oon Kuin,1.7,73,oil trading,Singapore,2017
+Lin Jianhua,1.7,54,solar panel components,China,2017
+Aloke Lohia,1.7,58,petrochemicals,India,2017
+Miguel McKelvey,1.7,42,WeWork,United States,2017
+Gary Michelson,1.7,68,medical patents,United States,2017
+Nirav Modi,1.7,46,diamond jewelry,India,2017
+Mofatraj Munot,1.7,72,real estate,India,2017
+Martin Naughton,1.7,77,heating equipment,Ireland,2017
+Ranjan Pai,1.7,44,education,India,2017
+Tor Peterson,1.7,52,commodities,United States,2017
+Matthias Reinhart,1.7,57,finance,Switzerland,2017
+Brian Roberts,1.7,57,Comcast,United States,2017
+Vito Rodriguez Rodriguez,1.7,78,processed milk,Peru,2017
+Daniel Roullier,1.7,80,animal feed,France,2017
+Dieter Schnabel,1.7,71,chemicals,Germany,2017
+Thaksin Shinawatra,1.7,67,investments,Thailand,2017
+Shuai Fangwen,1.7,50,pharmaceuticals,China,2017
+Peter Sondakh,1.7,67,investments,Indonesia,2017
+Henry Swieca,1.7,59,hedge funds,United States,2017
+Katsumi Tada,1.7,71,real estate,Japan,2017
+Hamdi Ulukaya,1.7,44,Chobani yogurt,Turkey,2017
+Masateru Uno,1.7,70,drugstores,Japan,2017
+Sandro Veronesi,1.7,57,fashion,Italy,2017
+Jitendra Virwani,1.7,51,real estate,India,2017
+Christine Volkmann,1.7,n/a,auto parts,Germany,2017
+Todd Wagner,1.7,56,online media,United States,2017
+Wang Jiufang,1.7,53,real estate,China,2017
+Wang Laichun,1.7,49,electronics components,China,2017
+Wang Laisheng,1.7,52,electronics components,China,2017
+Charlotte Colket Weber,1.7,74,Campbell Soup,United States,2017
+Xiao Yongming,1.7,52,fertilizer,China,2017
+Yu Minhong,1.7,55,education,China,2017
+Zhu Baoguo,1.7,54,pharmaceuticals,China,2017
+Folorunsho Alakija,1.6,66,oil,Nigeria,2017
+Mohed Altrad,1.6,69,"scaffolding, cement mixers",France,2017
+Joy Alukkas,1.6,60,jewelry,India,2017
+Michael Ashcroft,1.6,71,security,United Kingdom,2017
+Sezai Bacaksiz,1.6,67,diversified,Turkey,2017
+William Berkley,1.6,70,insurance,United States,2017
+O. Francis Biondi,1.6,52,hedge fund,United States,2017
+David Booth,1.6,71,mutual funds,United States,2017
+Josef Boquoi,1.6,83,frozen foods,Germany,2017
+Hubert Burda,1.6,77,publishing,Germany,2017
+Vivek Chand Burman,1.6,79,consumer goods,India,2017
+Edouard Carmignac,1.6,69,asset management,France,2017
+Michel Chalhoub,1.6,85,retail,France,2017
+Chen Lip Keong,1.6,69,"casinos, property",Malaysia,2017
+Chen Qingzhou,1.6,51,communications equipment,China,2017
+Chen Xueli,1.6,66,pharmaceuticals,China,2017
+Cheung Yan,1.6,60,paper manufacturing,China,2017
+Chin Jong Hwa,1.6,58,auto parts,Taiwan,2017
+Turgay Ciner,1.6,61,diversified,Turkey,2017
+Ciputra,1.6,85,real estate,Indonesia,2017
+Jacques D'Amours,1.6,60,retail,Canada,2017
+Kommer Damen,1.6,72,shipbuilding,Netherlands,2017
+Diego Della Valle,1.6,63,shoes,Italy,2017
+Gustavo Denegri,1.6,81,medical tests,Italy,2017
+Murali Divi,1.6,66,pharmaceuticals,India,2017
+Piero Ferrari,1.6,71,automobiles,Italy,2017
+Bernd Freier,1.6,60,fashion retail,Germany,2017
+Valentin Gapontsev,1.6,78,lasers,Russia,2017
+Philippe Ginestet,1.6,63,retail stores,France,2017
+Sanjiv Goenka,1.6,56,diversified,India,2017
+Christopher Goldsbury,1.6,74,salsa,United States,2017
+Senapathy Gopalakrishnan,1.6,61,software services,India,2017
+Ryan Graves,1.6,33,uber,United States,2017
+Mehmet Nazif Gunal,1.6,69,"tourism, construction",Turkey,2017
+Jeffrey Gundlach,1.6,58,investments,United States,2017
+Sait-Salam Gutseriev,1.6,57,"oil, banking, real estate",Russia,2017
+He Yamin,1.6,60,manufacturing,China,2017
+Timothy Headington,1.6,66,"oil & gas, investments",United States,2017
+Lutz Mario Helmig,1.6,70,medical facilities,Germany,2017
+Brian Higgins,1.6,52,hedge funds,United States,2017
+Lawrence Ho,1.6,40,casinos,Hong Kong,2017
+Stewart Horejsi,1.6,79,Berkshire Hathaway,United States,2017
+Hur Young-In,1.6,67,"bakeries, fast food",South Korea,2017
+Hamilton James,1.6,65,investments,United States,2017
+George Joseph,1.6,95,insurance,United States,2017
+"Jim Justice, II.",1.6,65,coal,United States,2017
+Johannes Kaercher,1.6,66,"vacuums, cleaning products",Germany,2017
+Alexander Karp,1.6,49,software firm,United States,2017
+Vinod Khosla,1.6,62,venture capital,United States,2017
+Kim Nam-Jung,1.6,44,food,South Korea,2017
+Marc Lasry,1.6,56,hedge funds,United States,2017
+Christian Latouche,1.6,76,accounting services,France,2017
+Thomas Lau,1.6,62,department stores,Hong Kong,2017
+Jane Lauder,1.6,44,cosmetics,United States,2017
+Aerin Lauder Zinterhofer,1.6,46,cosmetics,United States,2017
+Lee Boo-Jin,1.6,46,computer services/tourism,South Korea,2017
+Thai Lee,1.6,58,IT provider,United States,2017
+Li Li,1.6,53,pharmaceuticals,China,2017
+Lin Tianfu,1.6,54,"footwear, apparel",Hong Kong,2017
+Ma Hong,1.6,49,fashion retail,China,2017
+Billy Joe (Red) McCombs,1.6,89,"real estate, oil, cars",United States,2017
+P.N.C. Menon,1.6,68,real estate,Oman,2017
+Mario Moretti Polegato,1.6,64,shoes,Italy,2017
+Robert Mouawad,1.6,72,fine jewelry,Lebanon,2017
+Kerr Neilson,1.6,67,investment,Australia,2017
+Nandan Nilekani,1.6,61,software services,India,2017
+Nihat Ozdemir,1.6,66,diversified,Turkey,2017
+Roger Penske,1.6,80,cars,United States,2017
+"H. Ross Perot, Jr.",1.6,58,real estate,United States,2017
+Horst Julius Pudwill,1.6,72,manufacturing,Germany,2017
+Fayez Sarofim,1.6,88,money management,United States,2017
+Yuri Shefler,1.6,49,alcohol,Russia,2017
+Ben Silbermann,1.6,34,Pinterest,United States,2017
+Thomas Steyer,1.6,59,hedge funds,United States,2017
+Petter Stordalen,1.6,54,hotels,Norway,2017
+Gabriele Stoschek,1.6,n/a,auto parts,Germany,2017
+Su Suyu,1.6,68,"utilities, real estate",China,2017
+David Teoh,1.6,60,telecom,Australia,2017
+Alan N. Trefler,1.6,61,software,United States,2017
+Roman Trotsenko,1.6,46,"transport, engineering, real estate",Russia,2017
+Wang Qingtao,1.6,55,steel smelting,China,2017
+Wen Pengcheng,1.6,54,agribusiness,China,2017
+Gustav Magnar Witzoe,1.6,23,fish farming,Norway,2017
+Wong Kwong Yu,1.6,47,retail,China,2017
+Ye Cheng,1.6,55,conglomerate,China,2017
+Susanne Zimmermann von Siefart Œæ,1.6,60,"vacuums, home cleaning products",Germany,2017
+Marcel Adams,1.5,96,real estate,Canada,2017
+Aziz Akhannouch,1.5,56,"petroleum, diversified",Morocco,2017
+"Herbert Allen, Jr.",1.5,77,investment banking,United States,2017
+Albert Berner,1.5,81,fasteners,Germany,2017
+Ron Burkle,1.5,64,"supermarkets, investments",United States,2017
+Chang Pyung-Soon,1.5,66,educational services,South Korea,2017
+Chao Teng-Hsiung,1.5,73,real estate,Taiwan,2017
+Chen Liying,1.5,41,package delivery,China,2017
+Chen Qixing,1.5,57,electronics components,China,2017
+Kiat Chiaravanont,1.5,n/a,food,Thailand,2017
+Jean-Paul Clozel,1.5,61,pharmaceuticals,Switzerland,2017
+"Robert Coyiuto, Jr.",1.5,64,power,Philippines,2017
+Belmiro de Azevedo,1.5,79,retail,Portugal,2017
+John de Mol,1.5,62,television,Netherlands,2017
+Benjamin de Rothschild,1.5,53,banking,Switzerland,2017
+Dou Zhenggang,1.5,63,"energy, chemicals",China,2017
+Charles Dunstone,1.5,53,mobile phones,United Kingdom,2017
+Bulent Eczacibasi,1.5,67,"pharmaceuticals, diversified",Turkey,2017
+Faruk Eczacibasi,1.5,62,"pharmaceuticals, diversified",Turkey,2017
+David Einhorn,1.5,48,hedge funds,United States,2017
+Fang Tonghua,1.5,54,pharmaceuticals,China,2017
+Robert Fisher,1.5,63,Gap,United States,2017
+William Fisher,1.5,59,Gap,United States,2017
+Martha Ford,1.5,91,Ford Motor,United States,2017
+Fu Guangming,1.5,63,poultry,China,2017
+William Fung,1.5,68,sourcing,Hong Kong,2017
+Mario Gabelli,1.5,74,money management,United States,2017
+Luca Garavoglia,1.5,48,spirits,Italy,2017
+Jayme Garfinkel,1.5,71,insurance,Brazil,2017
+Rolf Gerling,1.5,62,insurance,Germany,2017
+Alan Gerry,1.5,87,cable television,United States,2017
+Serge Godin,1.5,67,information technology,Canada,2017
+Sergei Gordeev,1.5,44,real estate,Russia,2017
+Yusuf Hamied,1.5,80,pharmaceuticals,India,2017
+David Harding,1.5,55,finance,United Kingdom,2017
+William Heinecke,1.5,68,hotels,Thailand,2017
+Eduardo Hochschild,1.5,53,mining,Peru,2017
+Hong Seok-Joh,1.5,64,convenience stores,South Korea,2017
+Hu Kaijun,1.5,55,pharmaceuticals,China,2017
+Huang Chulong,1.5,58,real estate,Canada,2017
+Huang Li,1.5,53,imaging systems,China,2017
+Huang Qiaoling,1.5,58,amusement parks,China,2017
+Huo Qinghua,1.5,55,coal,China,2017
+Mitchell Jacobson,1.5,66,industrial equipment,United States,2017
+Ravi Jaipuria,1.5,62,soft drinks,India,2017
+Jiang Xuefei,1.5,47,printed circuit boards,China,2017
+Kenji Kasahara,1.5,41,social network,Japan,2017
+Ke Xiping,1.5,56,investments,China,2017
+King Pak Fu,1.5,47,real estate,Hong Kong,2017
+Seth Klarman,1.5,59,investments,United States,2017
+Anthony Langley,1.5,62,manufacturing,United Kingdom,2017
+Lee Seo-Hyun,1.5,43,"computer services, tourism",South Korea,2017
+Rodney Lewis,1.5,63,natural gas,United States,2017
+Li Zongsong,1.5,49,pharmaceuticals,China,2017
+Liang Zhaoxian,1.5,52,appliances,China,2017
+David Lichtenstein,1.5,55,real estate,United States,2017
+Liu Ming Chung,1.5,54,paper manufacturing,Brazil,2017
+Ana Maria Marcondes Penido Sant'Anna,1.5,61,toll roads,Brazil,2017
+Kishore Mariwala,1.5,82,consumer goods,India,2017
+Martin Moller Nielsen,1.5,52,aircraft leasing,Denmark,2017
+Massimo Moratti,1.5,71,oil refinery,Italy,2017
+Manuel Moroun,1.5,89,transportation,United States,2017
+Charles Munger,1.5,93,Berkshire Hathaway,United States,2017
+Ezra Nahmad,1.5,71,art,Monaco,2017
+Vikas Oberoi,1.5,46,real estate,India,2017
+Neal Patterson,1.5,67,health IT,United States,2017
+Nelson Peltz,1.5,74,investments,United States,2017
+Jose Isaac Peres,1.5,76,shopping malls,Brazil,2017
+Gregorio Perez Companc,1.5,81,oil & gas,Argentina,2017
+Qi Jinxing,1.5,54,real estate,China,2017
+Hilton Schlosberg,1.5,64,energy drinks,United Kingdom,2017
+Shen Wenrong,1.5,71,steel production,China,2017
+Shin Dong-Bin,1.5,62,retail,South Korea,2017
+Martua Sitorus,1.5,57,palm oil,Indonesia,2017
+Frank Stronach,1.5,84,auto parts,Canada,2017
+Georg Stumpf,1.5,n/a,"real estate, construction",Austria,2017
+Tang Hsiang-chien,1.5,93,"textiles, electronics",Hong Kong,2017
+Sukanto Tanoto,1.5,67,diversified,Indonesia,2017
+Alain Taravella,1.5,69,real estate,France,2017
+Jim Thompson,1.5,77,logistics,United States,2017
+Wichai Thongtang,1.5,70,investments,Thailand,2017
+Tung Chee Hwa,1.5,79,shipping,Hong Kong,2017
+Manuel Villar,1.5,67,real estate,Philippines,2017
+Wang Miaotong,1.5,59,auto parts,China,2017
+Wang Wenjing,1.5,52,business software,China,2017
+Ian Wood,1.5,74,energy services,United Kingdom,2017
+Wu Yiling,1.5,67,pharmaceuticals,China,2017
+Takao Yasuda,1.5,67,retail,Japan,2017
+Albert Yeung,1.5,74,"real estate, retail",Hong Kong,2017
+Zhang Jingzhang,1.5,81,precision machinery,China,2017
+Zhong Sheng Jian,1.5,59,real estate,Singapore,2017
+Zhou Hongyi,1.5,46,security software,China,2017
+William Ackman,1.4,50,hedge funds,United States,2017
+Radhe Shyam Agarwal,1.4,72,consumer goods,India,2017
+Bill Alfond,1.4,68,shoes,United States,2017
+Peter Alfond,1.4,64,shoes,United States,2017
+Susan Alfond,1.4,71,shoes,United States,2017
+Ted Alfond,1.4,72,shoes,United States,2017
+Bassam Alghanim,1.4,65,diversified,Kuwait,2017
+Kutayba Alghanim,1.4,71,diversified,Kuwait,2017
+Joao Alves de Queiroz Filho,1.4,64,consumer goods,Brazil,2017
+Alexei Ananyev,1.4,52,"banking, IT, real estate",Russia,2017
+Dmitry Ananyev,1.4,48,"banking, IT, real estate",Russia,2017
+Ramon Ang,1.4,63,Diversified,Philippines,2017
+Vasily Anisimov,1.4,65,real estate,Russia,2017
+Mika Anttonen,1.4,50,oil & gas,Finland,2017
+William F. Austin,1.4,75,hearing aids,United States,2017
+Lesley Bamberger,1.4,51,real estate,Netherlands,2017
+Alex Beard,1.4,49,"mining, commodities",United Kingdom,2017
+Angela Bennett,1.4,72,mining,Australia,2017
+Henadiy Boholyubov,1.4,55,"banking, investments",Ukraine,2017
+Ana Maria Brescia Cafferata,1.4,92,"mining, banking",Peru,2017
+Anand Burman,1.4,64,consumer goods,India,2017
+Ahmet Calik,1.4,59,"energy, banking, construction",Turkey,2017
+Cao Kejian,1.4,54,air compressors,China,2017
+Che Fengsheng,1.4,54,pharmaceuticals,China,2017
+Chen Dakui,1.4,65,shrink-wrap film,China,2017
+Chen Nianci,1.4,65,retail,China,2017
+Bruce Cheng,1.4,81,electronics,Taiwan,2017
+Chua Thian Poh,1.4,68,real estate,Singapore,2017
+Gustavo Cisneros,1.4,71,media,Venezuela,2017
+Robert Defares,1.4,55,electronic trading,Netherlands,2017
+Richard Desmond,1.4,65,publishing,United Kingdom,2017
+Mohammed Dewji,1.4,41,diversified,Tanzania,2017
+John Edson,1.4,84,leisure craft,United States,2017
+Paul Foster,1.4,59,oil refining,United States,2017
+Fu Mingkang,1.4,54,manufacturing,China,2017
+Victor Fung,1.4,71,trading company,United States,2017
+Reinold Geiger,1.4,69,beauty products,Austria,2017
+Radhe Shyam Goenka,1.4,71,consumer goods,India,2017
+Gu Wei,1.4,52,consumer electronics,China,2017
+Han Tao,1.4,56,electronics components,China,2017
+Hans-Werner Hector,1.4,77,SAP,Germany,2017
+Ilkka Herlin,1.4,58,"elevators, escalators",Finland,2017
+Niklas Herlin,1.4,53,"elevators, escalators",Finland,2017
+Alan Howard,1.4,53,hedge funds,United Kingdom,2017
+Huang Wen Tsai,1.4,63,real estate,China,2017
+Huang Wenji,1.4,48,umbrellas,China,2017
+Hal Jackman,1.4,84,"insurance, investments",Canada,2017
+Devendra Jain,1.4,88,chemicals,India,2017
+Ji Qi,1.4,50,"hotels, motels",China,2017
+Jiang Wei,1.4,55,pharmaceuticals,China,2017
+Jiang Yehua,1.4,54,real estate,China,2017
+Ronald Joyce,1.4,86,restaurants,Canada,2017
+T.S. Kalyanaraman,1.4,69,jewelry,India,2017
+Keeree Kanjanapas,1.4,67,transportation,Thailand,2017
+Friedrich Knapp,1.4,65,fashion retail,Germany,2017
+Pyotr Kondrashev,1.4,67,fertilizers,Russia,2017
+Michael Krasny,1.4,63,retail,United States,2017
+Guy Laliberte,1.4,57,Cirque du Soleil,Canada,2017
+Peter Leibinger,1.4,50,machine tools,Germany,2017
+Regine Leibinger,1.4,54,machine tools,Germany,2017
+Lin Ming-Hsiung,1.4,67,supermarkets,Taiwan,2017
+Liu Bing,1.4,48,retail,China,2017
+Liu Xuejing,1.4,66,"copper, poultry",China,2017
+Lo Siu Yu,1.4,47,conglomerate,Hong Kong,2017
+Anatoly Lomakin,1.4,64,fertilizers,Russia,2017
+Lou Zhongfu,1.4,63,real estate,China,2017
+Gary Magness,1.4,63,"cable TV, investments",United States,2017
+Ziyavudin Magomedov,1.4,48,"port, gas",Russia,2017
+Lachhman Das Mittal,1.4,86,tractors,India,2017
+Rubens Ometto Silveira Mello,1.4,67,"sugar, ethanol",Brazil,2017
+Lirio Parisotto,1.4,63,investments,Brazil,2017
+Peng Jianhu,1.4,60,tourism,China,2017
+Markus Persson,1.4,37,computer games,Sweden,2017
+Alberto Prada,1.4,n/a,luxury goods,Italy,2017
+Marina Prada,1.4,n/a,luxury goods,Italy,2017
+Forrest Preston,1.4,84,health care,United States,2017
+"Nicholas Pritzker, II.",1.4,73,"hotels, investments",United States,2017
+Dmitry Pumpyansky,1.4,53,steel pipes,Russia,2017
+Que Wenbin,1.4,53,pharmaceuticals,China,2017
+Megdet Rahimkulov,1.4,71,investments,Russia,2017
+Jerry Reinsdorf,1.4,81,sports teams,United States,2017
+Clayton Riddell,1.4,79,oil & gas,Canada,2017
+Remo Ruffini,1.4,55,winter jackets,Italy,2017
+Rodney Sacks,1.4,67,energy drinks,United States,2017
+Jean Salata,1.4,51,finance,Chile,2017
+Sheryl Sandberg,1.4,47,Facebook,United States,2017
+Eddy Kusnadi Sariaatmadja,1.4,63,"media, tech",Indonesia,2017
+Leonard Schleifer,1.4,64,pharmaceuticals,United States,2017
+Bhadresh Shah,1.4,65,engineering,India,2017
+Nobutoshi Shimamura,1.4,91,retail,Japan,2017
+Rajju Shroff,1.4,83,agrochemicals,India,2017
+Peter Sperling,1.4,57,education,United States,2017
+Manny Stul,1.4,n/a,toys,Australia,2017
+Wilma Tisch,1.4,89,diversified,United States,2017
+Kenny Troutt,1.4,69,telecom,United States,2017
+Wen Jianping,1.4,55,sewage treatment,China,2017
+John Whittaker,1.4,75,real estate,United Kingdom,2017
+Evan Williams,1.4,44,Twitter,United States,2017
+Wu Daohong,1.4,51,energy services,China,2017
+Lina Maria Aguiar,1.3,79,banking,Brazil,2017
+Farkhad Akhmedov,1.3,61,natural gas,Russia,2017
+Hamad bin Jassim bin Jaber Al Thani,1.3,57,investments,Qatar,2017
+Fawzi Al-Kharafi,1.3,n/a,diversified,Kuwait,2017
+Mohannad Al-Kharafi,1.3,n/a,diversified,Kuwait,2017
+Patricia Angelini Rossi,1.3,62,"forestry, mining",Chile,2017
+Mori Arkin,1.3,64,pharmaceuticals,Israel,2017
+Roman Avdeev,1.3,49,"banking, development",Russia,2017
+Achal Bakeri,1.3,57,air coolers,India,2017
+Bao Hongxing,1.3,n/a,agribusiness,China,2017
+Emanuella Barilla,1.3,50,Barilla pasta,Italy,2017
+Guido Barilla,1.3,58,Barilla pasta,Italy,2017
+Luca Barilla,1.3,57,Barilla pasta,Italy,2017
+Paolo Barilla,1.3,55,Barilla pasta,Italy,2017
+Aneel Bhusri,1.3,51,business software,United States,2017
+Maurizio Billi,1.3,n/a,generic drugs,Brazil,2017
+Bo Shijiu,1.3,52,logsitics,China,2017
+Bernhard Braun-Luedicke,1.3,40,medical technology,Germany,2017
+Eva Maria Braun-Luedicke,1.3,30,medical technology,Germany,2017
+Friederike Braun-Luedicke,1.3,33,medical technology,Germany,2017
+Jorge Horacio Brito,1.3,64,banking,Argentina,2017
+Thomas Bruch,1.3,66,food retailing,Germany,2017
+Nicola Bulgari,1.3,76,luxury goods,Italy,2017
+Paolo Bulgari,1.3,79,luxury goods,Italy,2017
+Steve Case,1.3,58,AOL,United States,2017
+Herb Chambers,1.3,75,car dealerships,United States,2017
+Binod Chaudhary,1.3,61,diversified,Nepal,2017
+Luigi Cremonini,1.3,77,meat processing,Italy,2017
+Jack Dorsey,1.3,40,Twitter,United States,2017
+Alexander Dzhaparidze,1.3,61,oil services,Russia,2017
+Charles Edelstenne,1.3,79,aviation,France,2017
+Bob Ell,1.3,72,property,Australia,2017
+Bruce Flatt,1.3,51,money management,Canada,2017
+Walter Frey,1.3,73,Emil Frey Group,Switzerland,2017
+Robert Friedland,1.3,66,mining,United States,2017
+Filaret Galchev,1.3,53,construction materials,Russia,2017
+Gao Don,1.3,52,power tools,China,2017
+Sameer Gehlaut,1.3,43,finance,India,2017
+Balkrishan Goenka,1.3,50,textiles,India,2017
+Dorrance Hamilton,1.3,88,Campbell Soup,United States,2017
+Jost Hellmann,1.3,64,logistics,Germany,2017
+Klaus Hellmann,1.3,68,logistics,Germany,2017
+"B. Wayne Hughes, Jr.",1.3,56,storage facilities,United States,2017
+Irwin Jacobs,1.3,83,semiconductors,United States,2017
+Stephen Jarislowsky,1.3,91,money management,Canada,2017
+Jiang Zhaobai,1.3,53,real estate,China,2017
+Michael Jordan,1.3,54,"Charlotte Hornets, endorsements",United States,2017
+Eugene Kaspersky,1.3,51,software,Russia,2017
+Habil Khorakiwala,1.3,74,pharmaceuticals,India,2017
+Sidney Kimmel,1.3,89,retail,United States,2017
+Alexander Klyachin,1.3,49,real estate,Russia,2017
+William Koch,1.3,76,"oil, investments",United States,2017
+Lee Myung-Hee,1.3,73,retail,South Korea,2017
+Nicola Leibinger-Kammueller,1.3,57,manufacturing,Germany,2017
+James Leininger,1.3,71,medical products,United States,2017
+Li San Yim,1.3,67,manufacturing,China,2017
+Li Weiwei,1.3,40,online games,China,2017
+Liang Guangwei,1.3,53,conglomerate,China,2017
+Liang Yunchao,1.3,48,nutrition supplements,China,2017
+Liu Baolin,1.3,63,pharmacies,China,2017
+Liu Fuhai,1.3,62,"textiles, energy",China,2017
+Liu Ruopeng,1.3,34,technology,China,2017
+Jose Llado Fernandez-Urrutia,1.3,82,construction,Spain,2017
+Pier Luigi Loro Piana,1.3,65,fashion,Italy,2017
+Lu Di,1.3,n/a,drones,China,2017
+Ma Xingtian,1.3,47,pharmaceuticals,China,2017
+Ma Xiuhui,1.3,46,LED lighting,China,2017
+Maggie Magerko,1.3,51,building materials,United States,2017
+Anand Mahindra,1.3,61,automobiles,India,2017
+Vincent McMahon,1.3,71,wrestling,United States,2017
+Boris Mints,1.3,58,real estate,Russia,2017
+Andrei Molchanov,1.3,45,construction materials,Russia,2017
+Gian Marco Moratti,1.3,80,oil refinery,Italy,2017
+Thomas Prinzhorn,1.3,74,paper and packaging,Austria,2017
+Nevaldo Rocha,1.3,87,retail,Brazil,2017
+Fernando Roig,1.3,69,supermarkets,Spain,2017
+Alexander Rovt,1.3,64,"fertilizer, real estate",United States,2017
+Lily Safra,1.3,79,banking,Monaco,2017
+Thomas Sandell,1.3,56,hedge funds,Sweden,2017
+Yoshiyuki Sankai,1.3,58,robotics,Japan,2017
+Antonio Luiz Seabra,1.3,74,cosmetics,Brazil,2017
+Kirill Shamalov,1.3,35,petrochemicals,Russia,2017
+Vijay Shekhar Sharma,1.3,38,financial technology,India,2017
+Bryan Sheffield,1.3,38,oil & gas,United States,2017
+Shin Dong-Joo,1.3,63,retail,South Korea,2017
+Evgeny (Eugene) Shvidler,1.3,53,"oil & gas, investments",United States,2017
+Jasminder Singh,1.3,66,hotels,United Kingdom,2017
+William Stone,1.3,61,software,United States,2017
+Julia Stoschek,1.3,n/a,auto parts,Germany,2017
+Maximilian Stoschek,1.3,n/a,auto parts,Germany,2017
+Sun Shangchuan,1.3,53,electronics components,China,2017
+Djoko Susanto,1.3,67,supermarkets,Indonesia,2017
+Satoshi Suzuki,1.3,63,cosmetics,Japan,2017
+Kenneth Tuchman,1.3,57,outsourcing,United States,2017
+Pavel Tykac,1.3,52,coal mines,Czech Republic,2017
+Shamsheer Vayalil,1.3,40,healthcare,India,2017
+Thongma Vijitpongpun,1.3,58,real estate,Thailand,2017
+Lang Walker,1.3,71,property,Australia,2017
+Wang Chaobin,1.3,61,real estate,China,2017
+Wang Han,1.3,29,airline,China,2017
+Wang Junjin,1.3,48,airline,China,2017
+Wei Yin-Chun,1.3,60,"food, beverages",Taiwan,2017
+Wei Yin-Heng,1.3,58,"food, beverages",Taiwan,2017
+Dan Wilks,1.3,60,natural gas,United States,2017
+Farris Wilks,1.3,65,natural gas,United States,2017
+Allan Wong,1.3,66,electronics,Hong Kong,2017
+Wu Xushun,1.3,68,"internet, auto parts",China,2017
+Xu Qiming,1.3,53,"food, art",China,2017
+Xu Ziquan,1.3,58,software,China,2017
+Zan Shengda,1.3,53,diversified,China,2017
+Ahmet Nazif Zorlu,1.3,72,diversified,Turkey,2017
+Soegiarto Adikoesoemo,1.2,79,chemicals,Indonesia,2017
+Somphote Ahunai,1.2,49,energy,Thailand,2017
+Alberto Alcocer,1.2,74,investments,Spain,2017
+Abdul Majeed Alhokair,1.2,47,"retail, real estate",Saudi Arabia,2017
+Fawaz Alhokair,1.2,51,"retail, shopping malls",Saudi Arabia,2017
+Salman Alhokair,1.2,50,"retail, shopping malls",Saudi Arabia,2017
+Alexandra Andresen,1.2,20,investments,Norway,2017
+Katharina Andresen,1.2,21,investments,Norway,2017
+Edmund Ansin,1.2,81,television,United States,2017
+Mehmet Aydinlar,1.2,60,hospitals,Turkey,2017
+Oleg Boyko,1.2,52,diversified,Russia,2017
+Charles Brandes,1.2,74,money management,United States,2017
+Chi Yufeng,1.2,46,software,China,2017
+Chu Jinfu,1.2,59,electrical equipment,China,2017
+Eduardo Cojuangco,1.2,81,"food, drinks",Philippines,2017
+Cui Genliang,1.2,58,electric components,China,2017
+Darwin Deason,1.2,76,Xerox,United States,2017
+K. Dinesh,1.2,62,software services,India,2017
+Sefik Yilmaz Dizdar,1.2,79,fashion retail,Turkey,2017
+Husain Djojonegoro,1.2,67,consumer goods,Indonesia,2017
+Domenico Dolce,1.2,58,luxury goods,Italy,2017
+Carl Douglas,1.2,55,investments,Sweden,2017
+Eric Douglas,1.2,48,investments,Sweden,2017
+John Farber,1.2,91,chemicals,United States,2017
+Gary Fegel,1.2,43,commodities trading,Switzerland,2017
+Stephen Feinberg,1.2,56,private equity,United States,2017
+Gleb Fetisov,1.2,50,investments,Russia,2017
+J. Christopher Flowers,1.2,59,investments,United States,2017
+Donald Friese,1.2,76,manufacturing,United States,2017
+Yasuhiro Fukushima,1.2,69,video games,Japan,2017
+Stefano Gabbana,1.2,54,luxury goods,Italy,2017
+Dan Gertler,1.2,43,mining,Israel,2017
+Anne Gittinger,1.2,81,Nordstrom department stores,United States,2017
+Alfredo Harp Helu,1.2,73,banking,Mexico,2017
+Richard Hayne,1.2,69,Urban Outfitters,United States,2017
+Ilona Herlin,1.2,52,"elevators, escalators",Finland,2017
+J. Tomilson Hill,1.2,68,investments,United States,2017
+Asok Kumar Hiranandani,1.2,62,real estate,Singapore,2017
+Niranjan Hiranandani,1.2,67,real estate,India,2017
+Surendra Hiranandani,1.2,62,real estate,India,2017
+Huang Qisen,1.2,52,real estate,China,2017
+Huang Yi,1.2,55,auto distribution,Hong Kong,2017
+Archie Hwang,1.2,n/a,semiconductors,Taiwan,2017
+Masayuki Ishihara,1.2,68,pachinko machines,Japan,2017
+Ajay Kalsi,1.2,56,oil & gas,India,2017
+Raghuvinder Kataria,1.2,67,diversified,United Kingdom,2017
+Viktor Kharitonin,1.2,44,pharmaceuticals,Russia,2017
+Kim Jun-Ki,1.2,72,conglomerate,South Korea,2017
+Kim Taek-Jin,1.2,50,online games,South Korea,2017
+Yuriy Kosiuk,1.2,48,agriculture,Ukraine,2017
+Andrei Kosogov,1.2,56,"oil, banking, telecom",Russia,2017
+Miguel Krigsner,1.2,67,cosmetics,Brazil,2017
+Lev Kvetnoi,1.2,51,"cement, airport",Russia,2017
+Lev Leviev,1.2,61,diamonds,Israel,2017
+Solomon Lew,1.2,72,retail,Australia,2017
+Li Denghai,1.2,67,seed production,China,2017
+Li Rucheng,1.2,65,apparel,China,2017
+Li Tan,1.2,52,pharmaceuticals,China,2017
+Liu Xiaodong,1.2,49,flavorings,China,2017
+Lo Siu-tong,1.2,86,"real estate, hotels",Hong Kong,2017
+"Cargill MacMillan, III.",1.2,57,Cargill,United States,2017
+John MacMillan,1.2,67,Cargill,United States,2017
+Martha MacMillan,1.2,65,Cargill,United States,2017
+William MacMillan,1.2,62,Cargill,United States,2017
+Terence (Terry) Matthews,1.2,73,telecom,Canada,2017
+Nguyen Thi Phuong Thao,1.2,46,airlines,Vietnam,2017
+Ni Zhaoxing,1.2,61,real estate,China,2017
+Bruce Nordstrom,1.2,83,Nordstrom department stores,United States,2017
+Oei Hong Leong,1.2,69,investments,Singapore,2017
+David Penaloza Alanis,1.2,43,toll roads,Mexico,2017
+Mark Pincus,1.2,51,online games,United States,2017
+Mahendra Prasad,1.2,77,pharmaceuticals,India,2017
+Michael Price,1.2,64,investments,United States,2017
+Ruan Shuilong,1.2,81,chemicals,China,2017
+Stephen Saad,1.2,52,pharmaceuticals,South Africa,2017
+Chris Sacca,1.2,41,venture capital investing,United States,2017
+K. Rai Sahi,1.2,70,real estate,Canada,2017
+Nobutada Saji,1.2,71,beverages,Japan,2017
+Onsi Sawiris,1.2,87,"construction, telecom",Egypt,2017
+Monika Schoeller,1.2,78,publishing,Germany,2017
+Shao Zhongyi,1.2,48,soybean trading,China,2017
+Neil Shen,1.2,47,venture capital investing,Hong Kong,2017
+Leonid Simanovsky,1.2,67,investments,Russia,2017
+Analjit Singh,1.2,63,healthcare,India,2017
+Edward Stack,1.2,62,Dick's Sporting Goods,United States,2017
+Su Weizhong,1.2,48,"oil, fertilizers",China,2017
+Harjo Sutanto,1.2,90,consumer goods,Indonesia,2017
+Kevin Systrom,1.2,33,Instagram,United States,2017
+Tang Jianfang,1.2,n/a,packaged foods,China,2017
+Mehmet Sinan Tara,1.2,58,construction,Turkey,2017
+Rit Thirakomen,1.2,65,restaurants,Thailand,2017
+Tian Ming,1.2,63,measuring instruments,China,2017
+Oleg Tinkov,1.2,49,banking,Russia,2017
+Tse Ping,1.2,65,pharmaceuticals,China,2017
+Wim Van Der Leegte,1.2,69,manufacturing,Netherlands,2017
+John Van Lieshout,1.2,71,real estate,Australia,2017
+Stefan von Holtzbrinck,1.2,53,publishing,Germany,2017
+Wang Jianfeng,1.2,47,auto parts,China,2017
+Wang Jing,1.2,44,telecom services,China,2017
+Wang Wenliang,1.2,62,shipping ports,China,2017
+Wang Yaohai,1.2,50,lighting,China,2017
+Wei Ing-Chou,1.2,64,"food, beverages",Taiwan,2017
+Wei Ying-Chiao,1.2,62,"food, beverages",Taiwan,2017
+Wen Yibo,1.2,51,wastewater treatment,China,2017
+Vadim Yakunin,1.2,54,pharmacy,Russia,2017
+Yang Zhimao,1.2,54,"utilities, real estate",China,2017
+Gavril Yushvaev,1.2,59,"precious metals, real estate",Russia,2017
+Zeng Kaitian,1.2,42,online games,China,2017
+Zhang Anqiang,1.2,60,software,Hong Kong,2017
+Zhang Wanzhen,1.2,67,advanced ceramics,China,2017
+Zhang Xinghai,1.2,54,machinery,China,2017
+Zhang Xiugen,1.2,56,automobiles,China,2017
+Zhang Yue,1.2,57,air conditioning,China,2017
+Zhang Zhangsun,1.2,60,real estate,China,2017
+Kostyantin Zhevago,1.2,43,mining,Ukraine,2017
+Zhou Guohui,1.2,52,logistics,China,2017
+Zhu Wenchen,1.2,51,pharmaceuticals,China,2017
+Lia Maria Aguiar,1.1,79,banking,Brazil,2017
+Len Ainsworth,1.1,93,betting machines,Australia,2017
+Jose Maria Aristrain,1.1,54,steel,Spain,2017
+Ayman Asfari,1.1,58,oil services,United Kingdom,2017
+Thomas Bailey,1.1,80,money management,United States,2017
+Bang Jun-Hyuk,1.1,48,online gaming,South Korea,2017
+Mehmet Rustu Basaran,1.1,70,"bank, gas",Turkey,2017
+Eduardo Belmont Anderson,1.1,71,cosmetics,Peru,2017
+Sara Blakely,1.1,46,Spanx,United States,2017
+Markus Blocher,1.1,46,chemicals,Switzerland,2017
+Leonid Boguslavsky,1.1,65,venture capital,Russia,2017
+Anna Maria Braun,1.1,38,medical technology,Germany,2017
+Johanna Braun,1.1,37,medical technology,Germany,2017
+Karl Friedrich Braun,1.1,34,medical technology,Germany,2017
+Ludwig Theodor Braun,1.1,27,medical technology,Germany,2017
+Hideyuki Busujima,1.1,64,pachinko machines,Japan,2017
+Richard Chang,1.1,70,"real estate, electronics",Taiwan,2017
+Chen Baozhen,1.1,74,internet services,China,2017
+Chen Xiaxin,1.1,54,manufacturing,China,2017
+Chen Zuyuan,1.1,n/a,"real estate, pharmaceuticals",China,2017
+Cheng Xianfeng,1.1,48,pharmaceuticals,China,2017
+Cheng Xue,1.1,47,soy sauce,China,2017
+Cho Jung-Ho,1.1,58,finance,South Korea,2017
+Cho Yang-Rai,1.1,79,tire manufacturing,South Korea,2017
+Ivan Chrenko,1.1,49,real estate,Slovakia,2017
+Chung Mong-Joon,1.1,65,"shipbuilding, industrial machines",South Korea,2017
+Chung Yong-Jin,1.1,48,retail,South Korea,2017
+Robert Citrone,1.1,52,hedge fund,United States,2017
+Arnold Clark,1.1,89,Arnold Clark Automobiles,United Kingdom,2017
+John Collison,1.1,26,Stripe,Ireland,2017
+Patrick Collison,1.1,28,Stripe,Ireland,2017
+Alberto Cortina,1.1,71,investments,Spain,2017
+Sol Daurella,1.1,51,Coca-Cola,Spain,2017
+D. Leopoldo Del Pino y Calvo-Sotelo,1.1,54,construction,Spain,2017
+Maria Del Pino y Calvo-Sotelo,1.1,61,construction,Spain,2017
+Andrea Della Valle,1.1,51,shoes,Italy,2017
+Norbert Dentressangle,1.1,62,"transport, logistics",France,2017
+Dominique Desseigne,1.1,72,casinos,France,2017
+Jamie Dimon,1.1,61,banking,United States,2017
+Ding Yuhua,1.1,68,tires,China,2017
+Mark Dixon,1.1,58,office real estate,United Kingdom,2017
+Dong Fan,1.1,47,medical devices,China,2017
+Henry Engelhardt,1.1,59,insurance,United States,2017
+Fan Zhaoxia,1.1,49,photovoltaic equipment,China,2017
+Fu Kwan,1.1,59,"real estate, diversified",China,2017
+Fu Meicheng,1.1,59,"TV shows, movies",China,2017
+Soichiro Fukutake,1.1,71,education,Japan,2017
+Gao Dekang,1.1,65,apparel,China,2017
+Polys Haji-Ioannou,1.1,57,EasyJet,Cyprus,2017
+Hon Kwok Lung,1.1,62,real estate,Hong Kong,2017
+Hu Baifan,1.1,54,pharmaceuticals,China,2017
+Mohammed Ibrahim,1.1,70,communications,United Kingdom,2017
+Daisy Igel,1.1,89,"gas, petrochemicals",Brazil,2017
+Thomas James,1.1,74,finance,United States,2017
+Jin Huiming,1.1,64,real estate,China,2017
+Rana Kapoor,1.1,59,banking,India,2017
+Sergei Katsiev,1.1,59,"retail, wholesale",Russia,2017
+Koh Wee Meng,1.1,53,"real estate, hotels",Singapore,2017
+Ihor Kolomoyskyy,1.1,54,"banking, investments",Ukraine,2017
+Kong Jian Min,1.1,49,real estate,China,2017
+Kagemasa Kozuki,1.1,76,video games,Japan,2017
+Isaac Larian,1.1,62,toys,United States,2017
+Martin Lau,1.1,43,e-commerce,Hong Kong,2017
+William Lauder,1.1,56,Estee Lauder,United States,2017
+Lee Hae-Jin,1.1,49,Internet portal,South Korea,2017
+Lee Ho-Jin,1.1,54,"petrochemicals, finance, media, electronics",South Korea,2017
+Li Dongjun,1.1,n/a,logistics,China,2017
+Li Fucheng,1.1,71,agribusiness,China,2017
+Li Hongxin,1.1,64,paper & related products,China,2017
+Li Liufa,1.1,59,"steel, diversified",China,2017
+Li Yong,1.1,n/a,chemicals,China,2017
+Lin Yi,1.1,n/a,real estate,China,2017
+Louise Lindh,1.1,37,investments,Sweden,2017
+Harald Link,1.1,62,diversified,Thailand,2017
+Liu Shaoxi,1.1,53,real estate,China,2017
+Liu Zhenguo,1.1,52,sewage treatment,China,2017
+Lo Ka Shui,1.1,70,real estate,Hong Kong,2017
+Kenneth Lo,1.1,78,textiles,United Kingdom,2017
+Lu Jonathan,1.1,n/a,Alibaba,China,2017
+Ma Yunsheng,1.1,54,energy,China,2017
+Prayudh Mahagitsiri,1.1,71,"coffee, shipping",Thailand,2017
+Youssef Mansour,1.1,71,diversified,Egypt,2017
+John Martin,1.1,65,pharmaceuticals,United States,2017
+Katarina Martinson,1.1,35,investments,Sweden,2017
+Satish Mehta,1.1,66,pharmaceuticals,India,2017
+Thomas Meyer,1.1,57,apparel retailer,Switzerland,2017
+Dariusz Milek,1.1,49,"real estate, retail",Poland,2017
+Judith Neilson,1.1,70,investments,Australia,2017
+Georg Nemetschek,1.1,n/a,software,Germany,2017
+Masahiro Noda,1.1,78,software,Japan,2017
+Liora Ofer,1.1,63,investments,Israel,2017
+Roberto Ongpin,1.1,80,diversified,Philippines,2017
+Ou Zongrong,1.1,53,real estate,China,2017
+Pan Weiming,1.1,53,real estate,China,2017
+Lucy Peng,1.1,44,Alibaba,China,2017
+Victor Pinchuk,1.1,56,"steel pipes, diversified",Ukraine,2017
+Andrei Rappoport,1.1,53,investments,Russia,2017
+Andrea Reimann-Ciardelli,1.1,60,consumer goods,United States,2017
+Steven Roth,1.1,75,real estate,United States,2017
+Alan Rydge,1.1,64,entertainment,Australia,2017
+Deniz Sahenk,1.1,71,"bank, media",Turkey,2017
+Anas Sefrioui,1.1,59,real estate,Morocco,2017
+Mohammed Serafi,1.1,n/a,investments,Saudi Arabia,2017
+Airat Shaimiev,1.1,55,"refinery, chemicals",Russia,2017
+Radik Shaimiev,1.1,52,"refinery, chemicals",Russia,2017
+Shang Jiyong,1.1,49,"tires, chemicals",China,2017
+Brian Sheth,1.1,41,investments,United States,2017
+S.D. Shibulal,1.1,62,software services,India,2017
+Yoshiko Shinohara,1.1,82,staffing,Japan,2017
+Ron Sim,1.1,58,retail,Singapore,2017
+Samprada Singh,1.1,91,pharmaceuticals,India,2017
+Bruno Steinhoff,1.1,79,furniture,Germany,2017
+Beny Steinmetz,1.1,60,"mining, diamonds, real estate",Israel,2017
+Sun Shoukuan,1.1,67,metals. coal,China,2017
+Sun Yinhuan,1.1,n/a,diversified,China,2017
+Yoshikazu Tanaka,1.1,40,social network,Japan,2017
+Hary Tanoesoedibjo,1.1,51,media,Indonesia,2017
+Ion Tiriac,1.1,77,"banking, insurance",Romania,2017
+Tsai Ming-Kai,1.1,66,semiconductors,Taiwan,2017
+Thomas Tull,1.1,46,movies,United States,2017
+Shoji Uehara,1.1,89,pharmaceuticals,Japan,2017
+Arkady Volozh,1.1,53,search engine,Russia,2017
+Wang Liping,1.1,51,hydraulic machinery,China,2017
+Wang Zhenghua,1.1,72,budget airline,China,2017
+Wang Zhenhua,1.1,55,real estate,China,2017
+Sanford Weill,1.1,84,Citigroup,United States,2017
+Gordon Wu,1.1,81,real estate,Hong Kong,2017
+Thomas Wu,1.1,66,finance,Taiwan,2017
+Xia Dinghu,1.1,72,auto parts,China,2017
+Xiao Chunhong,1.1,49,real estate,China,2017
+Swift Xie,1.1,n/a,drones,China,2017
+Xiu Laigui,1.1,62,pharmaceuticals,China,2017
+Xu Xiong,1.1,45,driving schools,China,2017
+Yang Keng,1.1,56,real estate,China,2017
+Yao Liangsong,1.1,52,furniture,China,2017
+Yu Peidi,1.1,57,real estate,Hong Kong,2017
+Zhang Daocai,1.1,67,valves,China,2017
+Zhang Desheng,1.1,67,manufacturing,China,2017
+Zhang Zhirong,1.1,48,"real estate, shipbuilding",Hong Kong,2017
+Zhao Weiguo,1.1,50,technology,China,2017
+Zhao Xiaoqiang,1.1,50,"fashion, entertainment",China,2017
+Zheng Jianjiang,1.1,56,electrical equipment,China,2017
+Zhou Mingjie,1.1,59,lighting installations,China,2017
+Zhou Yifeng,1.1,48,chemicals,China,2017
+Zhou Yunjie,1.1,55,packaging,China,2017
+Ali Ibrahim Agaoglu,1,63,construction,Turkey,2017
+Hamdi Akin,1,62,diversified,Turkey,2017
+Chirayu Amin,1,70,pharmaceuticals,India,2017
+Marc Andreessen,1,45,venture capital investing,United States,2017
+Ao Xiaoqiang,1,52,electrical equipment,China,2017
+Mohammed Bahwan,1,n/a,auto dealerships,Oman,2017
+Shishir Bajaj,1,69,consumer goods,India,2017
+Harindarpal Banga,1,66,commodities,India,2017
+Elena Baturina,1,54,construction,Russia,2017
+Aldo Bensadoun,1,78,shoes,Canada,2017
+John Bloor,1,73,"real estate, manufacturing",United Kingdom,2017
+Alexei Bogachev,1,46,"retail, banking",Russia,2017
+Saket Burman,1,40,consumer goods,United Kingdom,2017
+Fred Chang,1,60,online retailing,United States,2017
+Chen Jiancheng,1,58,manufacturing,China,2017
+Chey Ki-Won,1,52,"computer services, telecom",South Korea,2017
+Yvon Chouinard,1,n/a,Patagonia,United States,2017
+Eduardo Costantini,1,70,real estate,Argentina,2017
+Brunello Cucinelli,1,63,fashion,Italy,2017
+Philip Day,1,51,clothing retail,United Kingdom,2017
+Bharat Desai,1,64,IT consulting,United States,2017
+Beda Diethelm,1,76,hearing aids,Switzerland,2017
+Paul Fireman,1,73,Reebok,United States,2017
+Marcos Galperin,1,n/a,e-commerce,Argentina,2017
+Ken Grossman,1,62,beer,United States,2017
+Yuri Gushchin,1,72,"candy, real estate",Russia,2017
+Torstein Hagen,1,74,cruises,Norway,2017
+Clelia Haji-Ioannou,1,46,EasyJet,Cyprus,2017
+Stelios Haji-Ioannou,1,50,EasyJet,Cyprus,2017
+He Zhiping,1,53,investments,China,2017
+David Hindawi,1,72,software,United States,2017
+Orion Hindawi,1,37,software,United States,2017
+Hoi Kin Hong,1,65,real estate,Macau,2017
+Drew Houston,1,34,Dropbox,United States,2017
+Hua Yong,1,53,software,China,2017
+Huang Bingwen,1,63,cigarette packaging,Australia,2017
+Jon Huntsman,1,79,chemicals,United States,2017
+Howard Jenkins,1,66,Publix,United States,2017
+David Kabiller,1,53,hedge funds,United States,2017
+Morris Kahn,1,87,software,Israel,2017
+Jonas Kamprad,1,51,IKEA,Sweden,2017
+Mathias Kamprad,1,47,IKEA,Sweden,2017
+Peter Kamprad,1,52,IKEA,Sweden,2017
+Billy Kan,1,64,"finance, energy",Hong Kong,2017
+Thomas Kaplan,1,54,investments,United States,2017
+Yuri Kovalchuk,1,65,"banking, insurance, media",Russia,2017
+Kuan Kam Hon,1,69,synthetic gloves,Malaysia,2017
+Lee Hwa-Kyung,1,61,snack foods,South Korea,2017
+Lee Sang-Hyuk,1,45,investments,South Korea,2017
+Nancy Lerner,1,56,finance,United States,2017
+Norma Lerner,1,80,finance,United States,2017
+Randolph Lerner,1,55,finance,United States,2017
+Li Yihai,1,54,pharmaceuticals,China,2017
+Liao Chang,1,50,wine,China,2017
+John Liew,1,49,hedge funds,United States,2017
+Desmond Lim Siew Choon,1,56,property,Malaysia,2017
+Liu Canglong,1,62,conglomerate,China,2017
+Liu Hanyuan,1,53,agribusiness,China,2017
+Liu Jianjun,1,56,mining,China,2017
+Liu Ming Hui,1,54,natural gas distribution,China,2017
+Liu Zhendong,1,n/a,industrial parks,China,2017
+William Macaulay,1,71,energy investments,United States,2017
+George Marcus,1,75,real estate,United States,2017
+David McMurtry,1,76,manufacturing,United Kingdom,2017
+Mi Enhua,1,58,retail,China,2017
+Lowell Milken,1,68,investments,United States,2017
+Azad Moopen,1,63,healthcare,India,2017
+Jannie Mouton,1,70,financial services,South Africa,2017
+Nan Cunhui,1,53,power equipment,China,2017
+Simon Nixon,1,49,price comparison website,United Kingdom,2017
+Kentaro Ogawa,1,68,restaurants,Japan,2017
+Jonathan Oringer,1,42,stock photos,United States,2017
+Erik Paulsson,1,75,"construction, real estate",Sweden,2017
+Pierre Karl Pí©ladeau,1,55,communications,Canada,2017
+Boris Rotenberg,1,60,"construction, pipes, chemicals",Russia,2017
+John Schnatter,1,55,Papa John's,United States,2017
+Martin Selig,1,79,real estate,United States,2017
+Evan Sharp,1,34,Pinterest,United States,2017
+Eric Ya Shen,1,46,online apparel retail,China,2017
+Albert Shigaboutdinov,1,62,"refinery, chemicals",Russia,2017
+Edgar Sia,1,40,fast food,Philippines,2017
+O. Bruton Smith,1,90,Nascar racetracks,United States,2017
+Terry Snow,1,73,"airports, property",Australia,2017
+Axel Stawski,1,66,real estate,United States,2017
+Michael Steinhardt,1,76,finance,United States,2017
+Rustem Sulteev,1,63,"refinery, chemicals",Russia,2017
+Tang Shing-bor,1,83,real estate,Hong Kong,2017
+Alexander Tedja,1,71,real estate,Indonesia,2017
+Mustafa Latif Topbas,1,73,"food manufacturing, retail",Turkey,2017
+Surin Upatkoon,1,67,"telecom, lotteries, insurance",Thailand,2017
+Murat Vargi,1,69,telecom,Turkey,2017
+Alexander Vik,1,62,investments,Norway,2017
+Wang Jinshu,1,60,chemicals,China,2017
+Wang Junmin,1,48,pharmaceuticals,China,2017
+Wang Qunbin,1,47,conglomerate,China,2017
+Wang Yong,1,66,food sweeteners,China,2017
+Wei Shaojun,1,54,real estate,China,2017
+David Shou-Yeh Wong,1,76,banking,Hong Kong,2017
+Wu Chung-Yi,1,58,manufacturing,Taiwan,2017
+Yao Xinyi,1,52,air conditioning,China,2017
+Fatma Yazici,1,43,diversified,Turkey,2017
+Zhang Changhong,1,59,financial information service,China,2017
+Zhang Cheng Fei,1,49,paper & related products,China,2017
+Zhou Yifeng,1,38,liquefied petroleum gas,China,2017

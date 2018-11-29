@@ -1,0 +1,947 @@
+name,country,age,wealth,residence,year
+William Gates III,United States,51,56,United States,2007
+Warren Buffett,United States,76,52,United States,2007
+Carlos Slim Helu,Mexico,67,49,Mexico,2007
+Ingvar Kamprad & family,Sweden,80,33,Switzerland,2007
+Lakshmi Mittal,India,56,32,United Kingdom,2007
+Sheldon Adelson,United States,73,26.5,United States,2007
+Bernard Arnault,France,58,26,France,2007
+Amancio Ortega,Spain,71,24,Spain,2007
+Li Ka-shing,Hong Kong,78,23,Hong Kong,2007
+David Thomson & family,Canada,49,22,Canada,2007
+Lawrence Ellison,United States,62,21.5,United States,2007
+Liliane Bettencourt,France,84,20.7,France,2007
+Prince Alwaleed Bin Talal Alsaud,Saudi Arabia,50,20.3,Saudi Arabia,2007
+Mukesh Ambani,India,49,20.1,India,2007
+Karl Albrecht,Germany,87,20,Germany,2007
+Roman Abramovich,Russia,40,18.7,United Kingdom,2007
+Stefan Persson,Sweden,59,18.4,Sweden,2007
+Anil Ambani,India,47,18.2,India,2007
+Paul Allen,United States,54,18,United States,2007
+Theo Albrecht,Germany,84,17.5,Germany,2007
+Azim Premji,India,61,17.1,India,2007
+Lee Shau Kee,Hong Kong,79,17,Hong Kong,2007
+Jim Walton,United States,59,16.8,United States,2007
+Christy Walton & family,United States,52,16.7,United States,2007
+S Robson Walton,United States,63,16.7,United States,2007
+Sergey Brin,United States,33,16.6,United States,2007
+Larry Page,United States,34,16.6,United States,2007
+Alice Walton,United States,57,16.6,United States,2007
+Helen Walton,United States,87,16.4,United States,2007
+Michael Dell,United States,42,15.8,United States,2007
+Steven Ballmer,United States,51,15,United States,2007
+Kirk Kerkorian,United States,89,15,United States,2007
+"Raymond, Thomas & Walter Kwok",Hong Kong,n/a,15,Hong Kong,2007
+Francois Pinault,France,70,14.5,France,2007
+Suleiman Kerimov,Russia,41,14.4,Russia,2007
+Vladimir Lisin,Russia,50,14.3,Russia,2007
+Jack Taylor & family,United States,84,13.9,United States,2007
+Vladimir Potanin,Russia,46,13.5,Russia,2007
+Mikhail Prokhorov,Russia,41,13.5,Russia,2007
+Oleg Deripaska,Russia,39,13.3,Russia,2007
+Michael Otto & family,Germany,63,13.3,Germany,2007
+Carl Icahn,United States,71,13,United States,2007
+Abigail Johnson,United States,45,13,United States,2007
+Adolf Merckle,Germany,72,12.8,Germany,2007
+Barbara Cox Anthony,United States,83,12.6,United States,2007
+Anne Cox Chambers,United States,87,12.6,United States,2007
+Mikhail Fridman,Russia,42,12.6,Russia,2007
+Vagit Alekperov,Russia,56,12.4,Russia,2007
+Charles Koch,United States,71,12,United States,2007
+David Koch,United States,66,12,United States,2007
+Silvio Berlusconi & family,Italy,70,11.8,Italy,2007
+Nasser Al-Kharafi & family,Kuwait,63,11.5,Kuwait,2007
+Leonardo Del Vecchio,Italy,71,11.5,Italy,2007
+Alexei Mordashov,Russia,41,11.2,Russia,2007
+Gerald Cavendish Grosvenor & family,United Kingdom,55,11,United Kingdom,2007
+Spiro Latsis & family,Greece,60,11,Switzerland,2007
+Birgit Rausing & family,Sweden,83,11,Switzerland,2007
+Forrest Mars Jr,United States,75,10.5,United States,2007
+Jacqueline Mars,United States,67,10.5,United States,2007
+John Mars,United States,70,10.5,United States,2007
+Viktor Vekselberg,Russia,49,10.4,Russia,2007
+Serge Dassault & family,France,81,10,France,2007
+Charles Ergen,United States,54,10,United States,2007
+Michele Ferrero & family,Italy,80,10,Monaco,2007
+Naguib Sawiris,Egypt,52,10,Egypt,2007
+Kushal Pal Singh,India,75,10,India,2007
+Alain & Gerard Wertheimer,France,n/a,10,n/a,2007
+Susanne Klatten,Germany,44,9.6,Germany,2007
+Philip Knight,United States,69,9.5,United States,2007
+Sunil Mittal & family,India,49,9.5,India,2007
+John Kluge,United States,92,9.1,United States,2007
+Vladimir Yevtushenkov,Russia,58,9.1,Russia,2007
+Rupert Murdoch,United States,76,9,United States,2007
+Hans Rausing,Sweden,81,9,United Kingdom,2007
+Reinhold WŸrth,Germany,71,9,Germany,2007
+Ernesto Bertarelli,Switzerland,41,8.8,Switzerland,2007
+Pierre Omidyar,United States,39,8.8,United States,2007
+Maria-Elisabeth & Georg Schaeffler,Germany,n/a,8.7,Germany,2007
+Rafael del Pino & family,Spain,86,8.6,Spain,2007
+Donald Bren,United States,74,8.5,United States,2007
+George Kaiser,United States,64,8.5,United States,2007
+George Soros,United States,76,8.5,United States,2007
+Nikolai Tsvetkov,Russia,46,8.4,Russia,2007
+August von Finck,Germany,77,8.4,Switzerland,2007
+Dan Duncan,United States,74,8.2,United States,2007
+Mohammed Al Amoudi,Saudi Arabia,61,8,Saudi Arabia,2007
+Abdul Aziz Al Ghurair & family,United Arab Emirates,53,8,United Arab Emirates,2007
+Kumar Birla,India,39,8,India,2007
+German Khan,Russia,45,8,Russia,2007
+Iskander Makhmudov,Russia,43,8,Russia,2007
+Sumner Redstone,United States,83,8,United States,2007
+Shashi & Ravi Ruia,India,n/a,8,India,2007
+Philip Anschutz,United States,67,7.9,United States,2007
+Galen Weston & family,Canada,66,7.9,Canada,2007
+Enrique Ba–uelos,Spain,41,7.7,Spain,2007
+Stefan Quandt,Germany,41,7.6,Germany,2007
+Maan Al-Sanea,Saudi Arabia,52,7.5,Saudi Arabia,2007
+Edward Johnson III,United States,76,7.5,United States,2007
+Sulaiman Al Rajhi,Saudi Arabia,87,7.4,Saudi Arabia,2007
+Donald Newhouse,United States,77,7.3,United States,2007
+Samuel Newhouse Jr,United States,79,7.3,United States,2007
+Leonard Blavatnik,United States,49,7.2,United States,2007
+Charlene de Carvalho-Heineken,Netherlands,52,7.2,United Kingdom,2007
+John Fredriksen,Cyprus,62,7,United Kingdom,2007
+Philip & Cristina Green,United Kingdom,55,7,Monaco,2007
+Stanley Ho,Hong Kong,85,7,Hong Kong,2007
+Robert Kuok,Malaysia,83,7,Hong Kong,2007
+Ronald Perelman,United States,64,7,United States,2007
+Viktor Rashnikov,Russia,58,7,Russia,2007
+Tsai Hong-tu & family,Taiwan,54,7,Taiwan,2007
+Johanna Quandt,Germany,80,6.7,Germany,2007
+Antonia Johnson,Sweden,63,6.6,Sweden,2007
+Cheng Yu-tung,Hong Kong,81,6.5,Hong Kong,2007
+Ramesh Chandra,India,67,6.4,India,2007
+Curt Engelhorn,Germany,80,6.4,Switzerland,2007
+Alexei Kuzmichov,Russia,44,6.2,Russia,2007
+Eric Schmidt,United States,51,6.2,United States,2007
+Ng Teng Fong,Singapore,78,6.1,Singapore,2007
+Anacleto Angelini,Chile,93,6,Chile,2007
+Eli Broad,United States,73,6,United States,2007
+Gustavo Cisneros & family,Venezuela,61,6,Venezuela,2007
+Erivan Haub & family,Germany,74,6,Germany,2007
+Petr Kellner,Czech Republic,42,6,Czech Republic,2007
+Ananda Krishnan,Malaysia,68,6,Malaysia,2007
+Lorenzo Mendoza & family,Venezuela,41,6,Venezuela,2007
+Hasso Plattner,Germany,63,6,Germany,2007
+Joseph Safra,Brazil,68,6,Brazil,2007
+Klaus-Michael KŸhne,Germany,69,5.9,Switzerland,2007
+Micky Arison,United States,57,5.8,United States,2007
+"James, Arthur & John Irving",Canada,n/a,5.8,Canada,2007
+Masayoshi Son,Japan,49,5.8,Japan,2007
+Steven Jobs,United States,52,5.7,United States,2007
+Karl-Heinz Kipp,Germany,83,5.7,Switzerland,2007
+Akira Mori & family,Japan,69,5.7,Japan,2007
+Dmitry Pumpyansky,Russia,43,5.7,Russia,2007
+Julio Mario Santo Domingo,Colombia,83,5.7,Colombia,2007
+Alexander Abramov,Russia,48,5.6,Russia,2007
+Charles Johnson,United States,74,5.6,United States,2007
+Esther Koplowitz,Spain,56,5.6,Spain,2007
+Eliodoro Matte & family,Chile,61,5.6,Chile,2007
+Pallonji Mistry,India,77,5.6,India,2007
+Robert Bass,United States,59,5.5,United States,2007
+Michael Bloomberg,United States,65,5.5,United States,2007
+Terry Gou,Taiwan,56,5.5,Taiwan,2007
+Vladimir Kim,Kazakhstan,46,5.5,Kazakhstan,2007
+James Packer,Australia,39,5.5,Australia,2007
+Madeleine Schickedanz,Germany,63,5.5,Switzerland,2007
+Thomas Schmidheiny,Switzerland,61,5.5,Switzerland,2007
+Alisher Usmanov,Russia,53,5.5,Russia,2007
+Robert Rowling,United States,53,5.4,United States,2007
+Roustam Tariko,Russia,45,5.4,Russia,2007
+Leonid Fedun,Russia,50,5.3,Russia,2007
+Bradley Hughes,United States,73,5.3,United States,2007
+Michael Kadoorie & family,Hong Kong,66,5.3,Hong Kong,2007
+John Menard Jr,United States,67,5.2,United States,2007
+Charles Schwab,United States,69,5.2,United States,2007
+YC Wang & family,Taiwan,90,5.1,Taiwan,2007
+Alberto Bailleres,Mexico,74,5,Mexico,2007
+Jean-Claude Decaux & family,France,69,5,France,2007
+Alicia Koplowitz,Spain,54,5,Spain,2007
+Ralph Lauren,United States,67,5,United States,2007
+Nicky Oppenheimer & family,South Africa,61,5,South Africa,2007
+Onsi Sawiris,Egypt,77,5,Egypt,2007
+Samuel Zell,United States,65,5,United States,2007
+Jorge Paulo Lemann,Brazil,67,4.9,Brazil,2007
+Edward Rogers,Canada,73,4.9,Canada,2007
+David Geffen,United States,64,4.7,United States,2007
+Boris Ivanishvili,Russia,51,4.7,France,2007
+Nobutada Saji & family,Japan,61,4.7,Japan,2007
+Luis Carlos Sarmiento,Colombia,74,4.7,Colombia,2007
+Wee Cho Yaw,Singapore,78,4.7,Singapore,2007
+Rupert Johnson Jr,United States,65,4.6,United States,2007
+Frank Lowy & family,Australia,76,4.6,Australia,2007
+Andrey Melnichenko,Russia,35,4.6,Russia,2007
+Sergei Popov,Russia,35,4.6,Russia,2007
+Ricardo Salinas Pliego,Mexico,51,4.6,Mexico,2007
+Giorgio Armani,Italy,72,4.5,Italy,2007
+Otto Beisheim,Germany,83,4.5,Switzerland,2007
+Martin & Olivier Bouygues,France,54/56,4.5,France,2007
+Lester Crown & family,United States,81,4.5,United States,2007
+James Goodnight,United States,64,4.5,United States,2007
+Herbert Kohler & family,United States,68,4.5,United States,2007
+Edward Lampert,United States,44,4.5,United States,2007
+Sean Quinn & family,Ireland,60,4.5,Ireland,2007
+David & Simon Reuben,United Kingdom,n/a,4.5,United Kingdom,2007
+James Sorenson,United States,85,4.5,United States,2007
+Ty Warner,United States,63,4.5,United States,2007
+Saleh Al Rajhi,Saudi Arabia,95,4.4,Saudi Arabia,2007
+Jeffrey Bezos,United States,43,4.4,United States,2007
+Kunio Busujima & family,Japan,81,4.4,Japan,2007
+Henry Ross Perot,United States,76,4.4,United States,2007
+Bernard (Barry) Sherman,Canada,65,4.4,Canada,2007
+Stef Wertheimer & family,Israel,81,4.4,Israel,2007
+Jeronimo Arango,Mexico,81,4.3,Mexico,2007
+Shari Arison,Israel,49,4.3,Israel,2007
+Hubert Burda,Germany,67,4.3,Germany,2007
+Walter Haefner,Switzerland,96,4.3,Switzerland,2007
+Simon Halabi,United Kingdom,57,4.3,United Kingdom,2007
+Kwek Leng Beng & family,Singapore,66,4.3,Singapore,2007
+Leonid Mikhelson,Russia,51,4.3,Russia,2007
+Johann Rupert & family,South Africa,56,4.3,South Africa,2007
+Michael & Rainer Schmidt-Ruthenbeck,Germany,n/a,4.3,Germany,2007
+Hiroko Takei & family,Japan,n/a,4.3,Japan,2007
+Robert Holding,United States,80,4.2,United States,2007
+Lim Goh Tong & family,Malaysia,89,4.2,Malaysia,2007
+Ronald McAulay,Hong Kong,70,4.2,Hong Kong,2007
+David Murdock,United States,83,4.2,United States,2007
+Jeffrey Skoll,Canada,42,4.2,United States,2007
+Nina Wang,Hong Kong,n/a,4.2,Hong Kong,2007
+Matthew Bucksbaum & family,United States,81,4.1,United States,2007
+William Davidson,United States,84,4.1,United States,2007
+Adi Godrej & family,India,64,4.1,India,2007
+Lev Leviev,Israel,51,4.1,Israel,2007
+Rinat Akhmetov,Ukraine,40,4,Ukraine,2007
+Paul Desmarais,Canada,80,4,Canada,2007
+Aloysio de Andrade Faria,Brazil,86,4,Brazil,2007
+Michael Herz,Germany,61,4,Germany,2007
+Wolfgang Herz,Germany,56,4,Germany,2007
+Shiv Nadar,India,61,4,India,2007
+Richard Schulze,United States,66,4,United States,2007
+Harold Simmons,United States,75,4,United States,2007
+James Simons,United States,69,4,United States,2007
+Andreas StrŸngmann,Germany,57,4,Germany,2007
+Thomas StrŸngmann,Germany,57,4,Germany,2007
+Yitzhak Tshuva,Israel,58,4,Israel,2007
+Antonio Ermirio de Moraes & family,Brazil,78,3.9,Brazil,2007
+Sammy Ofer & family,Israel,85,3.9,Monaco,2007
+Nassef Sawiris,Egypt,n/a,3.9,Egypt,2007
+Hiroshi Yamauchi,Japan,79,3.9,Japan,2007
+Anil Agarwal,India,53,3.8,United Kingdom,2007
+Richard Branson,United Kingdom,56,3.8,United Kingdom,2007
+Frits Goldschmeding,Netherlands,73,3.8,Netherlands,2007
+Stein Erik Hagen & family,Norway,50,3.8,Norway,2007
+Eitaro Itoyama,Japan,64,3.8,Japan,2007
+Jim Pattison,Canada,78,3.8,Canada,2007
+Anton Schlecker,Germany,62,3.8,Germany,2007
+Vladimir Bogdanov,Russia,55,3.7,Russia,2007
+Alexander Lebedev,Russia,47,3.7,Russia,2007
+Luis Portillo,Spain,45,3.7,Spain,2007
+Leonard Stern,United States,68,3.7,United States,2007
+Joan Tisch,United States,81,3.7,United States,2007
+Tadashi Yanai & family,Japan,58,3.7,Japan,2007
+Pyotr Aven,Russia,52,3.6,Russia,2007
+Charles Cadogan & family,United Kingdom,70,3.6,United Kingdom,2007
+Bernard Ecclestone & family,United Kingdom,76,3.6,United Kingdom,2007
+George Lucas,United States,62,3.6,United States,2007
+Gordon Moore,United States,78,3.6,United States,2007
+Stephan Schmidheiny,Switzerland,59,3.6,Switzerland,2007
+Bjorgolfur Thor Bjorgolfsson,Iceland,40,3.5,United Kingdom,2007
+Richard DeVos,United States,81,3.5,United States,2007
+Kenneth Hendricks,United States,65,3.5,United States,2007
+Hui Wing Mau,Hong Kong,56,3.5,Hong Kong,2007
+Ray Hunt,United States,64,3.5,United States,2007
+Manuel Jove,Spain,65,3.5,Spain,2007
+Saleh Kamel,Saudi Arabia,65,3.5,Saudi Arabia,2007
+Peter Kellogg,United States,65,3.5,United States,2007
+Leonard Lauder,United States,74,3.5,United States,2007
+Paul Milstein & family,United States,84,3.5,United States,2007
+Reinhard Mohn & family,Germany,85,3.5,Germany,2007
+Husnu Ozyegin,Turkey,62,3.5,Turkey,2007
+Stephen Schwarzman,United States,60,3.5,United States,2007
+Patrick Soon-Shiong,United States,55,3.5,United States,2007
+Karl Wlaschek,Austria,89,3.5,Austria,2007
+Isak Andic,Spain,52,3.4,Spain,2007
+Heidi Horten,Austria,66,3.4,Austria,2007
+G_rard Louis-Dreyfus & family,France,74,3.4,United States,2007
+Rosal’a Mera,Spain,63,3.4,Spain,2007
+Melvin Simon,United States,80,3.4,United States,2007
+Charoen Sirivadhanabhakdi,Thailand,62,3.4,Thailand,2007
+Stephen Wynn,United States,65,3.4,United States,2007
+Kjeld Kirk Kristiansen,Denmark,59,3.3,Denmark,2007
+Dmitry Rybolovlev,Russia,40,3.3,Russia,2007
+William Cook,United States,75,3.2,United States,2007
+Nicolas Hayek,Switzerland,78,3.2,Switzerland,2007
+John Simplot & family,United States,98,3.2,United States,2007
+Friede Springer,Germany,64,3.2,Germany,2007
+Steven Udvar-Hazy,United States,61,3.2,United States,2007
+Leslie Wexner,United States,69,3.2,United States,2007
+Nadhmi Auchi,United Kingdom,69,3.1,United Kingdom,2007
+Elena Baturina,Russia,44,3.1,Russia,2007
+Khalid Bin Mahfouz & family,Saudi Arabia,60,3.1,Saudi Arabia,2007
+Edgar Bronfman Sr,United States,77,3.1,United States,2007
+Albert Frere,Belgium,81,3.1,Belgium,2007
+Dilip Shanghvi,India,51,3.1,India,2007
+Michael Ying,Hong Kong,57,3.1,Hong Kong,2007
+Chaleo Yoovidhya,Thailand,75,3.1,Thailand,2007
+Abdulla Al Futtaim,United Arab Emirates,n/a,3,United Arab Emirates,2007
+David & Frederick Barclay,United Kingdom,n/a,3,United Kingdom,2007
+Lee Bass,United States,50,3,United States,2007
+Sid Bass,United States,64,3,United States,2007
+Clive Calder,United Kingdom,60,3,Cayman Islands,2007
+Francesco Gaetano Caltagirone,Italy,64,3,Italy,2007
+Steven Cohen,United States,51,3,United States,2007
+Jesœs de Polanco,Spain,77,3,Spain,2007
+Maurice Greenberg,United States,81,3,United States,2007
+Otto Happel,Germany,59,3,Switzerland,2007
+Henry Hillman,United States,88,3,United States,2007
+Indu Jain*,India,70,3,India,2007
+Bruce Kovner,United States,61,3,United States,2007
+Ronald Lauder,United States,63,3,United States,2007
+Fredrik Lundberg,Sweden,55,3,Sweden,2007
+Dietrich Mateschitz,Austria,62,3,Austria,2007
+Patrick McGovern,United States,69,3,United States,2007
+Arnon Milchan,Israel,62,3,Israel,2007
+Mario Moretti Polegato,Italy,54,3,Italy,2007
+A Jerrold Perenchio,United States,76,3,United States,2007
+Cyrus Poonawalla,India,65,3,India,2007
+Stefan Sch_rghuber,Germany,45,3,Germany,2007
+Steven Spielberg,United States,60,3,United States,2007
+Teh Hong Piow,Malaysia,77,3,Malaysia,2007
+Tsai Wan-Tsai & family,Taiwan,77,3,Taiwan,2007
+Klaus Tschira,Germany,66,3,Germany,2007
+Peter Woo & family,Hong Kong,61,3,Hong Kong,2007
+Mikhail Goutseriev,Russia,49,2.9,Russia,2007
+Martha Ingram & family,United States,71,2.9,United States,2007
+Lee Kun-Hee,South Korea,65,2.9,South Korea,2007
+Hiroshi Mikitani,Japan,42,2.9,Japan,2007
+Robert Miller,Canada,61,2.9,Canada,2007
+Quek Leng Chan,Malaysia,66,2.9,Malaysia,2007
+Moise Safra,Brazil,72,2.9,Brazil,2007
+Bruno Schroder & family,United Kingdom,74,2.9,United Kingdom,2007
+Donald Trump,United States,60,2.9,United States,2007
+Pierre Bellon & family,France,77,2.8,France,2007
+Carlo Benetton,Italy,63,2.8,Italy,2007
+Gilberto Benetton,Italy,65,2.8,Italy,2007
+Giuliana Benetton,Italy,69,2.8,Italy,2007
+Luciano Benetton,Italy,71,2.8,Italy,2007
+Barbara Piasecka Johnson,United States,70,2.8,Monaco,2007
+Richard Kinder,United States,63,2.8,United States,2007
+Victor Pinchuk,Ukraine,46,2.8,Ukraine,2007
+Mitchell Rales,United States,50,2.8,United States,2007
+Haim Saban,United States,62,2.8,United States,2007
+Takemitsu Takizaki,Japan,61,2.8,Japan,2007
+Dennis Washington,United States,72,2.8,United States,2007
+Mortimer Zuckerman,United States,69,2.8,United States,2007
+Juan Abell—,Spain,65,2.7,Spain,2007
+Riley Bechtel,United States,55,2.7,United States,2007
+Stephen Bechtel Jr,United States,81,2.7,United States,2007
+Charles Dolan & family,United States,80,2.7,United States,2007
+David Gottesman,United States,80,2.7,United States,2007
+Graeme Hart,New Zealand,51,2.7,New Zealand,2007
+Amos Hostetter Jr,United States,70,2.7,United States,2007
+Ann Walton Kroenke,United States,57,2.7,United States,2007
+Hugo Mann & family,Germany,93,2.7,Germany,2007
+Sergio Mantegazza,Switzerland,79,2.7,Switzerland,2007
+Axel Oberwelland,Germany,40,2.7,Germany,2007
+Steven Rales,United States,55,2.7,United States,2007
+Kjell Inge Rokke,Norway,48,2.7,Norway,2007
+Abdullah Al Rajhi,Saudi Arabia,n/a,2.6,Saudi Arabia,2007
+Heinz Bauer,Germany,67,2.6,Germany,2007
+Chen Din Hwa,Hong Kong,84,2.6,Hong Kong,2007
+Heinz-Horst Deichmann,Germany,80,2.6,Germany,2007
+John Dorrance III,Ireland,63,2.6,Ireland,2007
+Gabriel Escarrer,Spain,72,2.6,Spain,2007
+Masatoshi Ito,Japan,82,2.6,Japan,2007
+Henry Kravis,United States,63,2.6,United States,2007
+Lee Shin Cheng,Malaysia,67,2.6,Malaysia,2007
+Lui Che Woo,Hong Kong,77,2.6,Hong Kong,2007
+Kalanithi Maran,India,41,2.6,India,2007
+Wallace McCain,Canada,77,2.6,Canada,2007
+George Mitchell,United States,87,2.6,United States,2007
+Carl Pohlad,United States,91,2.6,United States,2007
+Grandhi Rao,India,57,2.6,India,2007
+George Roberts,United States,63,2.6,United States,2007
+David Rockefeller Sr,United States,91,2.6,United States,2007
+Clemmie Spangler Jr,United States,74,2.6,United States,2007
+Henry Sy,Philippines,82,2.6,Philippines,2007
+Jaime Zobel de Ayala & family,Philippines,72,2.6,Philippines,2007
+Majid Al Futtaim,United Arab Emirates,n/a,2.5,United Arab Emirates,2007
+Khalaf Al Habtoor,United Arab Emirates,57,2.5,United Arab Emirates,2007
+Roland Arnall,United States,68,2.5,United States,2007
+Edward Bass,United States,62,2.5,United States,2007
+Ronald Burkle,United States,54,2.5,United States,2007
+Ray Dolby,United States,74,2.5,United States,2007
+Ennio Doris & family,Italy,66,2.5,Italy,2007
+Wesley Edens,United States,45,2.5,United States,2007
+David Filo,United States,40,2.5,United States,2007
+Leona Mindy Rosenthal Helmsley,United States,86,2.5,United States,2007
+Joachim Herz,Germany,64,2.5,Germany,2007
+Paul Tudor Jones II,United States,53,2.5,United States,2007
+Min Kao,United States,58,2.5,United States,2007
+Joseph Lewis,United Kingdom,70,2.5,Bahamas,2007
+T Boone Pickens,United States,78,2.5,United States,2007
+Richard Pratt,Australia,72,2.5,Australia,2007
+Richard Rainwater,United States,62,2.5,United States,2007
+Stephen Ross,United States,66,2.5,United States,2007
+Evgeny (Eugene) Shvidler,United States,42,2.5,United Kingdom,2007
+Ronda Stryker,United States,52,2.5,United States,2007
+John Whittaker,United Kingdom,65,2.5,United Kingdom,2007
+Gianluigi & Rafaela Aponte,Switzerland,n/a,2.4,Switzerland,2007
+Charles Bronfman,Canada,75,2.4,Canada,2007
+Dhanin Chearavanont & family,Thailand,67,2.4,Thailand,2007
+Yan Cheung,China,49,2.4,Hong Kong,2007
+Alexander Frolov,Russia,42,2.4,Russia,2007
+Victor Fung,United States,62,2.4,Hong Kong,2007
+William Fung,Hong Kong,59,2.4,Hong Kong,2007
+Filaret Galchev,Russia,44,2.4,Russia,2007
+Savitri Jindal & family,India,57,2.4,India,2007
+Mehmet Karamehmet,Turkey,62,2.4,Turkey,2007
+Liu Ming Chung,Brazil,44,2.4,Hong Kong,2007
+Alfred Mann,United States,81,2.4,United States,2007
+James Moran,United States,88,2.4,United States,2007
+Hermann Schnabel,Germany,85,2.4,Germany,2007
+Frederick Smith,United States,62,2.4,United States,2007
+John Sobrato,United States,67,2.4,United States,2007
+Tulsi Tanti,India,49,2.4,India,2007
+Peter Briger Jr,United States,43,2.3,United States,2007
+Subhash Chandra,India,56,2.3,India,2007
+Mark Cuban,United States,48,2.3,United States,2007
+Belmiro de Azevedo,Portugal,69,2.3,Portugal,2007
+Luis del Rivero,Spain,58,2.3,Spain,2007
+Yoshitaka Fukuda,Japan,59,2.3,Japan,2007
+Gordon Getty,United States,74,2.3,United States,2007
+Saad Hariri,Saudi Arabia,36,2.3,Saudi Arabia,2007
+GŸnter Herz,Germany,66,2.3,Germany,2007
+Nancy Walton Laurie,United States,55,2.3,United States,2007
+Jos_ Manuel Loureda,Spain,67,2.3,Spain,2007
+Mary Alice Dorrance Malone,United States,57,2.3,United States,2007
+Najib Mikati,Lebanon,51,2.3,Lebanon,2007
+Taha Mikati,Lebanon,n/a,2.3,Lebanon,2007
+Michael Novogratz,United States,42,2.3,United States,2007
+Stefano Pessina,Italy,65,2.3,Monaco,2007
+Didier Primat,France,62,2.3,Switzerland,2007
+Thomas Pritzker,United States,56,2.3,United States,2007
+J Joseph Ricketts & family,United States,65,2.3,United States,2007
+Michal Solowow,Poland,44,2.3,Poland,2007
+Lucio Tan,Philippines,72,2.3,Philippines,2007
+Glen Taylor,United States,65,2.3,United States,2007
+Olav Thon,Norway,83,2.3,Norway,2007
+Harry Triguboff,Australia,74,2.3,Australia,2007
+Wong Kwong Yu,China,37,2.3,China,2007
+John Abele,United States,70,2.2,United States,2007
+Emilio Bot’n,Spain,72,2.2,Spain,2007
+Charles Butt & family,United States,69,2.2,United States,2007
+John Caudwell,United Kingdom,54,2.2,United Kingdom,2007
+Chung Mong-Koo,South Korea,69,2.2,South Korea,2007
+John de Mol,Netherlands,52,2.2,Netherlands,2007
+Bennett Dorrance,United States,58,2.2,United States,2007
+Philippe Foriel-Destezet,France,71,2.2,United Kingdom,2007
+Donald Gordon,South Africa,76,2.2,United Kingdom,2007
+Bahaa Hariri,Switzerland,40,2.2,Switzerland,2007
+Daniela Herz,Germany,53,2.2,Germany,2007
+Jess Jackson,United States,77,2.2,United States,2007
+Uday Kotak,India,48,2.2,India,2007
+Marc Ladreit de Lacharrière,France,66,2.2,France,2007
+Bernard Marcus,United States,77,2.2,United States,2007
+Richard Marriott,United States,68,2.2,United States,2007
+Henry Nicholas III,United States,47,2.2,United States,2007
+Kazuo Okada & family,Japan,64,2.2,Japan,2007
+Roger Penske,United States,70,2.2,United States,2007
+Ernest Rady,United States,69,2.2,United States,2007
+David Sainsbury,United Kingdom,66,2.2,United Kingdom,2007
+John Sall,United States,57,2.2,United States,2007
+Shi Zhengrong,Australia,44,2.2,China,2007
+Marcel Herrmann Telles,Brazil,57,2.2,Brazil,2007
+Jerry Yang,United States,38,2.2,United States,2007
+Larry Yung,China,65,2.2,Hong Kong,2007
+Emilio Azcarraga Jean,Mexico,39,2.1,Mexico,2007
+Vincent Bollore,France,54,2.1,France,2007
+Franklin Booth Jr,United States,83,2.1,United States,2007
+John Calamos & family,United States,66,2.1,United States,2007
+William Randolph Hearst III,United States,57,2.1,United States,2007
+H Wayne Huizenga,United States,69,2.1,United States,2007
+Fukuzo Iwasaki,Japan,82,2.1,Japan,2007
+Baba Kalyani,India,58,2.1,India,2007
+Omid Kordestani,United States,43,2.1,United States,2007
+E Stanley Kroenke,United States,59,2.1,United States,2007
+Timur Kulibaev,Kazakhstan,40,2.1,Kazakhstan,2007
+Dinara Kulibaeva,Kazakhstan,39,2.1,Kazakhstan,2007
+Barry Lam,Taiwan,57,2.1,Taiwan,2007
+Joseph Lau,Hong Kong,55,2.1,Hong Kong,2007
+Li Sze Lim,Hong Kong,50,2.1,China,2007
+Carl Lindner Jr & family,United States,87,2.1,United States,2007
+John Marriott Jr,United States,75,2.1,United States,2007
+Craig McCaw,United States,57,2.1,United States,2007
+Alain Merieux & family,France,69,2.1,France,2007
+Michael Milken,United States,60,2.1,United States,2007
+Penny Pritzker,United States,47,2.1,United States,2007
+Erol Sabanci,Turkey,69,2.1,Turkey,2007
+Sevket Sabanci,Turkey,71,2.1,Turkey,2007
+Henry Samueli,United States,52,2.1,United States,2007
+T Denny Sanford,United States,71,2.1,United States,2007
+Jon Stryker,United States,48,2.1,United States,2007
+Wilma Tisch & family,United States,79,2.1,United States,2007
+Eugen Viehof & family,Germany,90,2.1,Germany,2007
+Zhang Li,China,53,2.1,China,2007
+Igor Zyuzin,Russia,46,2.1,Russia,2007
+Herbert Allen Jr,United States,67,2,United States,2007
+Vassily Anisimov,Russia,55,2,Russia,2007
+Leonore Annenberg,United States,89,2,United States,2007
+Maria Asuncion Aramburuzabala & family,Mexico,43,2,Mexico,2007
+Michael Ashley,United Kingdom,47,2,United Kingdom,2007
+Leon Black,United States,56,2,United States,2007
+Charles Brandes,United States,64,2,United States,2007
+Christopher Chandler,New Zealand,n/a,2,New Zealand,2007
+Richard Chandler,New Zealand,49,2,New Zealand,2007
+Phoebe Hearst Cooke,United States,80,2,United States,2007
+Mark Coombs,United Kingdom,46,2,United Kingdom,2007
+Leszek Czarnecki,Poland,45,2,Poland,2007
+Jim Davis & family,United States,63,2,United States,2007
+Edward Debartolo Jr,United States,60,2,United States,2007
+Stanley Druckenmiller,United States,54,2,United States,2007
+Barbara Carlson Gage & family,United States,64,2,United States,2007
+Malcolm Glazer & family,United States,78,2,United States,2007
+Tom Gores,United States,42,2,United States,2007
+Vitaliy Hayduk,Ukraine,49,2,Ukraine,2007
+Austin Hearst,United States,54,2,United States,2007
+David Hearst Jr,United States,61,2,United States,2007
+George Hearst Jr,United States,79,2,United States,2007
+Roberto Hernandez Ramirez,Mexico,65,2,Mexico,2007
+James Kim & family,United States,71,2,United States,2007
+Vincent Lo,Hong Kong,58,2,Hong Kong,2007
+Margaret Magerko,United States,41,2,United States,2007
+John Malone,United States,66,2,United States,2007
+Clayton Mathile,United States,66,2,United States,2007
+Marilyn Carlson Nelson & family,United States,67,2,United States,2007
+Rubens Ometto Silveira Mello,Brazil,n/a,2,Brazil,2007
+Liselott Persson,Sweden,n/a,2,Sweden,2007
+Anthony Pritzker,United States,46,2,United States,2007
+Daniel Pritzker,United States,48,2,United States,2007
+James Pritzker,United States,55,2,United States,2007
+Jay Robert (JB) Pritzker,United States,42,2,United States,2007
+Jean (Gigi) Pritzker,United States,45,2,United States,2007
+John Pritzker,United States,54,2,United States,2007
+Karen Pritzker,United States,49,2,United States,2007
+Linda Pritzker,United States,53,2,United States,2007
+Ural Rakhimov,Russia,45,2,Russia,2007
+Tamir Sapir,United States,59,2,United States,2007
+Carlos Alberto Sicupira,Brazil,59,2,Brazil,2007
+Malvinder & Shivinder Singh,India,n/a,2,India,2007
+Sarik Tara,Turkey,76,2,Turkey,2007
+Serhiy Taruta,Ukraine,52,2,Ukraine,2007
+A Alfred Taubman,United States,83,2,United States,2007
+"Robert E ""Ted"" Turner",United States,68,2,United States,2007
+Albert von Thurn und Taxis,Germany,23,2,Germany,2007
+Romain Zaleski,France,74,2,Italy,2007
+Zhang Jindong,China,44,2,China,2007
+S Daniel Abraham,United States,82,1.9,United States,2007
+John Anderson,United States,89,1.9,United States,2007
+Julio Bozano,Brazil,71,1.9,Brazil,2007
+Patokh Chodiev,Belgium,54,1.9,Kazakhstan,2007
+Abilio dos Santos Diniz,Brazil,70,1.9,Brazil,2007
+Gustaf Douglas,Sweden,69,1.9,Sweden,2007
+Rachman Halim & family,Indonesia,59,1.9,Indonesia,2007
+Hans-Werner Hector,Germany,67,1.9,Germany,2007
+Alijan Ibragimov,Kazakhstan,53,1.9,Kazakhstan,2007
+Stephen Jarislowsky,Canada,81,1.9,Canada,2007
+Daryl Katz,Canada,45,1.9,Canada,2007
+Alexander Machkevich,Israel,53,1.9,Kazakhstan,2007
+Charles Munger,United States,83,1.9,United States,2007
+Peter Nicholas,United States,65,1.9,United States,2007
+Florentino P_rez,Spain,60,1.9,Spain,2007
+Bernard Saul II,United States,74,1.9,United States,2007
+Eduard Shifrin,United Kingdom,46,1.9,United Kingdom,2007
+Sylvia Str_her,Germany,52,1.9,Germany,2007
+Andreas von Bechtolsheim,Germany,51,1.9,United States,2007
+Jos_ Maria Aristrain,Spain,44,1.8,Spain,2007
+Dermot Desmond,Ireland,57,1.8,Ireland,2007
+Thomas Frist Jr & family,United States,68,1.8,United States,2007
+John Gandel,Australia,72,1.8,Australia,2007
+B Thomas Golisano,United States,65,1.8,United States,2007
+Ingeburg Herz,Germany,87,1.8,Germany,2007
+Roman Karkosik,Poland,56,1.8,Poland,2007
+Robert Kauffman,United States,43,1.8,United Kingdom,2007
+Lee Myung-Hee,South Korea,63,1.8,South Korea,2007
+Maersk Mc-Kinney Moller,Denmark,93,1.8,Denmark,2007
+John Morgridge,United States,73,1.8,United States,2007
+NR Narayana Murthy,India,60,1.8,India,2007
+Randal Nardone,United States,51,1.8,United States,2007
+Jorge Perez,United States,58,1.8,United States,2007
+Stanley Perron,Australia,84,1.8,Australia,2007
+Edward Roski Jr,United States,68,1.8,United States,2007
+Isaac Saba Raffoul & family,Mexico,83,1.8,Mexico,2007
+Emanuele (Lino) Saputo,Canada,70,1.8,Canada,2007
+Shin Dong-Bin,South Korea,52,1.8,South Korea,2007
+Alexander Shnaider,Canada,38,1.8,Canada,2007
+Doroth_a Steinbruch & family,Brazil,n/a,1.8,Brazil,2007
+Ernest Stempel,United States,90,1.8,Bermuda,2007
+Pat Stryker,United States,50,1.8,United States,2007
+Albert Ueltschi,United States,89,1.8,United States,2007
+William Wrigley Jr,United States,43,1.8,United States,2007
+Ahmet Zorlu,Turkey,62,1.8,Turkey,2007
+Alexei Ananyev,Russia,42,1.7,Russia,2007
+Dmitry Ananyev,Russia,38,1.7,Russia,2007
+George Argyros,United States,70,1.7,United States,2007
+Chu Mang Yee,China,48,1.7,China,2007
+Gerald J Ford,United States,62,1.7,United States,2007
+Sergei Galitsky,Russia,39,1.7,Russia,2007
+Rolf Gerling,Germany,52,1.7,Switzerland,2007
+Louis Gonda,United States,58,1.7,United States,2007
+Kenneth Griffin,United States,38,1.7,United States,2007
+Stanley Stub Hubbard,United States,73,1.7,United States,2007
+Irwin Jacobs,United States,73,1.7,United States,2007
+Michael Jaharis,United States,79,1.7,United States,2007
+James Jannard,United States,57,1.7,United States,2007
+Pauline MacMillan Keinath,United States,73,1.7,United States,2007
+Michael Krasny,United States,53,1.7,United States,2007
+Mike Lazaridis,Canada,46,1.7,Canada,2007
+Lee Jay-Yong,South Korea,38,1.7,South Korea,2007
+Patrick Lee,Hong Kong,n/a,1.7,Hong Kong,2007
+Cargill MacMillan Jr,United States,79,1.7,United States,2007
+John MacMillan III,United States,79,1.7,United States,2007
+Whitney MacMillan,United States,78,1.7,United States,2007
+Anthony O'Reilly,Ireland,70,1.7,Ireland,2007
+Gregorio Perez Companc & family,Argentina,72,1.7,Argentina,2007
+Marion MacMillan Pictet,United States,75,1.7,Bermuda,2007
+Joaqu’n Rivero,Spain,64,1.7,Spain,2007
+Shin Dong-Joo,South Korea,53,1.7,Japan,2007
+Kavitark Shriram,United States,51,1.7,United States,2007
+Andrei Skoch,Russia,41,1.7,Russia,2007
+Sheldon Solow,United States,78,1.7,United States,2007
+Benny Steinmetz,Israel,50,1.7,Israel,2007
+Theodore Waitt,United States,44,1.7,United States,2007
+Arthur Williams Jr,United States,64,1.7,United States,2007
+Yeoh Tiong Lay & family,Malaysia,77,1.7,Malaysia,2007
+Lorenzo Zambrano & family,Mexico,62,1.7,Mexico,2007
+Zhong Shen Jian,Singapore,48,1.7,Singapore,2007
+Bassam Alghanim,Kuwait,n/a,1.6,Kuwait,2007
+Kutayba Alghanim,Kuwait,60,1.6,Kuwait,2007
+James Balsillie,Canada,46,1.6,Canada,2007
+Neil Bluhm,United States,69,1.6,United States,2007
+Gary Burrell,United States,69,1.6,United States,2007
+Alan Casden,United States,61,1.6,United States,2007
+Shalva Chigirinsky,Russia,57,1.6,Russia,2007
+Jean Coutu,Canada,79,1.6,Canada,2007
+Venugopal Dhoot,India,55,1.6,India,2007
+Anurag Dikshit,India,35,1.6,Gibraltar,2007
+Aydin Dogan,Turkey,70,1.6,Turkey,2007
+James Dyson,United Kingdom,59,1.6,United Kingdom,2007
+"Archie Aldis ""Red"" Emmerson",United States,77,1.6,United States,2007
+Tetsuro Funai,Japan,80,1.6,Japan,2007
+Donald Hall,United States,78,1.6,United States,2007
+Ayman Hariri,Saudi Arabia,28,1.6,Saudi Arabia,2007
+Fahd Hariri,Lebanon,26,1.6,France,2007
+Jonathan Harmsworth,United Kingdom,39,1.6,United Kingdom,2007
+Alfredo Harp Helu,Mexico,63,1.6,Mexico,2007
+Elie Horn,Brazil,61,1.6,Brazil,2007
+Jon Huntsman,United States,69,1.6,United States,2007
+H Fisk Johnson,United States,48,1.6,United States,2007
+Imogene Powers Johnson,United States,77,1.6,United States,2007
+S Curtis Johnson,United States,51,1.6,United States,2007
+Helen Johnson-Leipold,United States,50,1.6,United States,2007
+Winnie Johnson-Marquart,United States,47,1.6,United States,2007
+Michael Lee-Chin,Canada,56,1.6,Canada,2007
+Nancy Lerner,United States,46,1.6,United States,2007
+Norma Lerner,United States,70,1.6,United States,2007
+Randolph Lerner,United States,44,1.6,United States,2007
+George Lindemann & family,United States,71,1.6,United States,2007
+Manuel Manrique,Spain,53,1.6,Spain,2007
+Kenneth Morrison,United Kingdom,75,1.6,United Kingdom,2007
+Igor Olenicoff,United States,64,1.6,United States,2007
+Nicholas Pritzker II,United States,63,1.6,United States,2007
+Steven Roth,United States,65,1.6,United States,2007
+Dieter Schnabel,Germany,61,1.6,Germany,2007
+Antonio Luiz Seabra,Brazil,64,1.6,United Kingdom,2007
+Yasumitsu Shigeta,Japan,42,1.6,Japan,2007
+O Bruton Smith,United States,80,1.6,United States,2007
+Phyllis Taylor,United States,65,1.6,United States,2007
+Tom Ward,United States,48,1.6,United States,2007
+Sanford Weill,United States,74,1.6,United States,2007
+Arne Wilhelmsen & family,Norway,76,1.6,Norway,2007
+Igor Yakovlev,Russia,41,1.6,Russia,2007
+Zhang Cheng Fei,China,39,1.6,China,2007
+Farkhad Akhmedov,Russia,51,1.5,Russia,2007
+Mohammed Al Rajhi,Saudi Arabia,n/a,1.5,Saudi Arabia,2007
+Leslie Alexander,United States,63,1.5,United States,2007
+Frank Batten Sr,United States,80,1.5,United States,2007
+Amar Bose,United States,77,1.5,United States,2007
+William Boyd,United States,75,1.5,United States,2007
+Oleg Boyko,Russia,42,1.5,Russia,2007
+Peter Buck,United States,76,1.5,United States,2007
+Turgay Ciner,Turkey,51,1.5,Turkey,2007
+Fred DeLuca,United States,59,1.5,United States,2007
+Gleb Fetisov,Russia,40,1.5,Russia,2007
+John J Fisher,United States,45,1.5,United States,2007
+James France,United States,63,1.5,United States,2007
+William France Jr,United States,75,1.5,United States,2007
+Jaiprakash Gaur,India,76,1.5,India,2007
+David Green,United States,65,1.5,United States,2007
+Guo Guangchang,China,40,1.5,China,2007
+R Budi Hartono & family,Indonesia,66,1.5,Indonesia,2007
+Douglas Hsu,Taiwan,65,1.5,Taiwan,2007
+Michael Ilitch,United States,77,1.5,United States,2007
+Brad Kelley,United States,50,1.5,United States,2007
+William Kellogg,United States,63,1.5,United States,2007
+Andrei Kozitsyn,Russia,46,1.5,Russia,2007
+Guy Laliberte,Canada,47,1.5,Canada,2007
+Guilherme Peirao Leal,Brazil,56,1.5,Brazil,2007
+James Leprino,United States,70,1.5,United States,2007
+Theodore Lerner,United States,81,1.5,United States,2007
+Liu Yongxing,China,58,1.5,China,2007
+Vijay Mallya,India,51,1.5,India,2007
+Aubrey McClendon,United States,48,1.5,United States,2007
+Robert McNair,United States,70,1.5,United States,2007
+Robert Naify,United States,85,1.5,United States,2007
+Michael Price,United States,54,1.5,United States,2007
+Stewart Rahr,United States,61,1.5,United States,2007
+James Ratcliffe,United Kingdom,54,1.5,United Kingdom,2007
+Trevor Rees-Jones,United States,56,1.5,United States,2007
+Marc Rich,United States,72,1.5,Switzerland,2007
+Robert Rich Jr,United States,66,1.5,United States,2007
+Hans Riegel,Germany,84,1.5,Germany,2007
+Paul Riegel,Germany,80,1.5,Germany,2007
+Fayez Sarofim,United States,78,1.5,United States,2007
+Hajime Satomi,Japan,65,1.5,Japan,2007
+Samih Sawiris,Egypt,50,1.5,Egypt,2007
+Thomas Siebel,United States,54,1.5,United States,2007
+Herbert Simon,United States,72,1.5,United States,2007
+Zygmunt Solorz-Zak,Poland,50,1.5,Poland,2007
+Nurzhan Subkhanberdin,Kazakhstan,41,1.5,Kazakhstan,2007
+David Tepper,United States,49,1.5,United States,2007
+Martin Viessmann,Germany,53,1.5,Germany,2007
+Oprah Winfrey,United States,53,1.5,United States,2007
+Daniel Ziff,United States,35,1.5,United States,2007
+Dirk Ziff,United States,42,1.5,United States,2007
+Robert Ziff,United States,40,1.5,United States,2007
+Mohamed Al-Bahar,Kuwait,n/a,1.4,Kuwait,2007
+Sulaiman Algosaibi,Saudi Arabia,n/a,1.4,Saudi Arabia,2007
+Semahat Arsel,Turkey,78,1.4,Turkey,2007
+Arthur Blank,United States,64,1.4,United States,2007
+David Cheriton,Canada,55,1.4,United States,2007
+Scott Cook,United States,54,1.4,United States,2007
+Barry Diller,United States,65,1.4,United States,2007
+Richard Farmer,United States,72,1.4,United States,2007
+Robert Fisher,United States,53,1.4,United States,2007
+William Fisher,United States,49,1.4,United States,2007
+Robert Friedland,United States,56,1.4,Singapore,2007
+Phillip Frost,United States,70,1.4,United States,2007
+Alan Gerry,United States,77,1.4,United States,2007
+Christopher Goldsbury,United States,64,1.4,United States,2007
+Leslie Gonda,United States,86,1.4,United States,2007
+Marguerite Harbert,United States,83,1.4,United States,2007
+Joseph Jamail Jr,United States,81,1.4,United States,2007
+Ryoichi Jinnai,Japan,80,1.4,Japan,2007
+Vyacheslav Kantor,Russia,53,1.4,Switzerland,2007
+Rahmi Koc,Turkey,76,1.4,Turkey,2007
+Tracy Krohn,United States,53,1.4,United States,2007
+Lev Kvetnoi,Russia,41,1.4,Russia,2007
+Thomas Lee,United States,62,1.4,United States,2007
+Peter Lewis,United States,73,1.4,United States,2007
+Joseph Mansueto,United States,50,1.4,United States,2007
+Gary Michelson,United States,58,1.4,United States,2007
+Shigenobu Nagamori,Japan,53,1.4,Japan,2007
+Vikas Oberoi,India,36,1.4,India,2007
+Nelson Peltz,United States,64,1.4,United States,2007
+Clayton Riddell,Canada,69,1.4,Canada,2007
+Phillip Ruffin,United States,71,1.4,United States,2007
+Herbert Siegel,United States,78,1.4,United States,2007
+Bautista Soler,Spain,78,1.4,Spain,2007
+Kerry Stokes,Australia,65,1.4,Australia,2007
+Todd Wagner,United States,46,1.4,United States,2007
+Alfred West Jr,United States,64,1.4,United States,2007
+Dean White,United States,83,1.4,United States,2007
+Syed Mokhtar AlBukhary,Malaysia,55,1.3,Malaysia,2007
+Carl Berg,United States,69,1.3,United States,2007
+Anneliese Brost,Germany,86,1.3,Germany,2007
+John Brown,United States,72,1.3,United States,2007
+James Cayne,United States,73,1.3,United States,2007
+Yong Keu Cha,South Korea,50,1.3,United Kingdom,2007
+Chu Lam Yiu,China,37,1.3,Hong Kong,2007
+Chung Mong-Joon,South Korea,55,1.3,South Korea,2007
+Robert Day,United States,63,1.3,United States,2007
+Richard Desmond,United Kingdom,55,1.3,United Kingdom,2007
+Roy Disney,United States,77,1.3,United States,2007
+Lloyd Dorfman,United Kingdom,54,1.3,United Kingdom,2007
+N Murray Edwards,Canada,47,1.3,Canada,2007
+Richard Egan,United States,71,1.3,United States,2007
+Kenneth Fisher,United States,56,1.3,United States,2007
+Thomas Flatley,United States,74,1.3,United States,2007
+Andrew Forrest,Australia,45,1.3,Australia,2007
+Soichiro Fukutake,Japan,61,1.3,Japan,2007
+Ernest Gallo & family,United States,97,1.3,United States,2007
+Naresh Goyal,India,57,1.3,United Kingdom,2007
+Richard Hayne,United States,59,1.3,United States,2007
+William Hilton,United States,79,1.3,United States,2007
+Vladimir Iorikh,Russia,48,1.3,Russia,2007
+Jerral Jones,United States,64,1.3,United States,2007
+Nasser Khalili,United Kingdom,61,1.3,United Kingdom,2007
+William Koch,United States,67,1.3,United States,2007
+Robert Kraft,United States,65,1.3,United States,2007
+Richard Li,Hong Kong,40,1.3,Hong Kong,2007
+Gary Magness,United States,53,1.3,United States,2007
+Anne Windfohr Marion,United States,67,1.3,United States,2007
+Manny Mashouf & family,United States,69,1.3,United States,2007
+"Billy Joe ""Red"" McCombs",United States,79,1.3,United States,2007
+Robert McLane Jr,United States,70,1.3,United States,2007
+PNC Menon,Oman,58,1.3,India,2007
+Nandan Nilekani,India,51,1.3,India,2007
+William Pulte,United States,74,1.3,United States,2007
+Ferit Sahenk,Turkey,43,1.3,Turkey,2007
+Donald Schneider,United States,71,1.3,United States,2007
+Walter Scott Jr,United States,75,1.3,United States,2007
+Peter Unger,Germany,62,1.3,Germany,2007
+Hope Hill Van Beuren,United States,73,1.3,United States,2007
+Joop van den Ende,Netherlands,65,1.3,Netherlands,2007
+Charlotte Colket Weber,United States,64,1.3,United States,2007
+Margaret Whitman,United States,50,1.3,United States,2007
+Xu Jiayin,China,49,1.3,China,2007
+Dennis Albaugh,United States,57,1.2,United States,2007
+Edmund Ansin,United States,71,1.2,United States,2007
+Thomas Bailey,United States,70,1.2,United States,2007
+Timothy Blixseth,United States,56,1.2,United States,2007
+Henadiy Boholyubov,Ukraine,45,1.2,Ukraine,2007
+S Truett Cathy,United States,86,1.2,United States,2007
+William Connor II,United States,57,1.2,Hong Kong,2007
+David Duffield,United States,66,1.2,United States,2007
+Bulent Eczacibasi,Turkey,57,1.2,Turkey,2007
+Israel Englander,United States,59,1.2,United States,2007
+J Christopher Flowers,United States,49,1.2,United States,2007
+Thomas Friedkin,United States,71,1.2,United States,2007
+Daniel Gilbert,United States,45,1.2,United States,2007
+Senapathy Gopalakrishnan,India,51,1.2,India,2007
+Alec Gores,United States,54,1.2,United States,2007
+Pincus Green,United States,71,1.2,Switzerland,2007
+William Gross,United States,62,1.2,United States,2007
+Bjorgolfur Gudmundsson,Iceland,66,1.2,Iceland,2007
+Gerald Harvey,Australia,67,1.2,Australia,2007
+Dietmar Hopp,Germany,66,1.2,Germany,2007
+Suna Kirac,Turkey,65,1.2,Turkey,2007
+Jerome Kohlberg Jr,United States,81,1.2,United States,2007
+Ihor Kolomoyskyy,Ukraine,n/a,1.2,Ukraine,2007
+L Lowry Mays,United States,71,1.2,United States,2007
+Arturo Moreno,United States,60,1.2,United States,2007
+Or Wai Sheun,Hong Kong,55,1.2,Hong Kong,2007
+Tuncay Ozilhan,Turkey,59,1.2,Turkey,2007
+Sebastian Pinera,Chile,57,1.2,Chile,2007
+Wilbur Ross Jr,United States,69,1.2,United States,2007
+Silvio Scaglia,Italy,48,1.2,Italy,2007
+Richard Scaife,United States,74,1.2,United States,2007
+Anatoly Sedykh,Russia,42,1.2,Russia,2007
+John Sperling,United States,86,1.2,United States,2007
+Peter Sperling,United States,47,1.2,United States,2007
+Eliezer Steinbruch,Brazil,n/a,1.2,Brazil,2007
+Toichi Takenaka,Japan,64,1.2,Japan,2007
+Kenny Troutt,United States,59,1.2,United States,2007
+Kenneth Tuchman,United States,47,1.2,United States,2007
+Murat Vargi,Turkey,58,1.2,Turkey,2007
+Jan Wejchert,Poland,57,1.2,Poland,2007
+Olgun Zorlu,Turkey,43,1.2,Turkey,2007
+Rahul Bajaj,India,68,1.1,India,2007
+Boris Berezovsky,Russia,61,1.1,Russia,2007
+Stephen Bisciotti,United States,46,1.1,United States,2007
+Cao Dewang,China,61,1.1,Hong Kong,2007
+Chung Yong-Jin,South Korea,38,1.1,South Korea,2007
+James Clark,United States,63,1.1,United States,2007
+Henrique Constantino,Brazil,35,1.1,Brazil,2007
+Joaquim Constantino Neto,Brazil,41,1.1,Brazil,2007
+Ricardo Constantino,Brazil,43,1.1,Brazil,2007
+Constantino de Oliveira Jr,Brazil,38,1.1,Brazil,2007
+William Ding,China,36,1.1,China,2007
+John Edson,United States,74,1.1,United States,2007
+Albert Gubay,United Kingdom,78,1.1,United Kingdom,2007
+Dorrance Hamilton,United States,78,1.1,United States,2007
+Han Chang-Woo & family,Japan,76,1.1,Japan,2007
+Timothy Headington,United States,56,1.1,United States,2007
+Marvin Herb,United States,70,1.1,United States,2007
+Thomas Hunter,United Kingdom,45,1.1,Scotland,2007
+Pradeep Jain,India,41,1.1,India,2007
+Robert Johnson,United States,60,1.1,United States,2007
+George Joseph,United States,85,1.1,United States,2007
+Morris Kahn,Israel,77,1.1,Israel,2007
+Alexander Knaster,United States,48,1.1,United Kingdom,2007
+Andrei Kosogov,Russia,46,1.1,Russia,2007
+Kenneth Langone,United States,71,1.1,United States,2007
+Edward Linde,United States,65,1.1,United States,2007
+Liu Yonghao,China,55,1.1,China,2007
+Jonathan Lovelace Jr & family,United States,80,1.1,United States,2007
+Lu Guanqiu,China,62,1.1,China,2007
+Keshub Mahindra,India,83,1.1,India,2007
+John P Manning,United States,59,1.1,United States,2007
+Yalcin Sabanci,Turkey,63,1.1,Turkey,2007
+Filiz Sahenk,Turkey,40,1.1,Turkey,2007
+Monika Schoeller,Germany,68,1.1,Germany,2007
+Howard Schultz,United States,53,1.1,United States,2007
+Alexander Spanos & family,United States,83,1.1,United States,2007
+John Stanton,United States,51,1.1,United States,2007
+Suh Kyung-Bae,South Korea,44,1.1,South Korea,2007
+Joyce Raley Teel,United States,76,1.1,United States,2007
+Tiong Hiew King,Malaysia,71,1.1,Malaysia,2007
+Ion Tiriac,Romania,67,1.1,Romania,2007
+Dieter von Holtzbrinck,Germany,65,1.1,Germany,2007
+Stefan von Holtzbrinck,Germany,43,1.1,Germany,2007
+Roger Wang,United States,57,1.1,China,2007
+Gary West,United States,61,1.1,United States,2007
+Mary West,United States,61,1.1,United States,2007
+Samuel Wyly,United States,71,1.1,United States,2007
+Kamil Yazici,Turkey,77,1.1,Turkey,2007
+Tadahiro Yoshida & family,Japan,60,1.1,Japan,2007
+Zong Qinghou,China,61,1.1,China,2007
+Jerry Zucker,United States,57,1.1,United States,2007
+Mohamed Bin Issa Al Jaber,Saudi Arabia,48,1,Saudi Arabia,2007
+Mahdi Al-Tajir,United Arab Emirates,74,1,United Kingdom,2007
+Mary Anselmo,United States,78,1,United States,2007
+Louis Bacon,United States,51,1,United Kingdom,2007
+Thomas Barrack,United States,59,1,United States,2007
+Marc Benioff,United States,42,1,United States,2007
+Timothy Boyle,United States,57,1,United States,2007
+Stephen Case,United States,49,1,United States,2007
+Chen Fashu,China,47,1,China,2007
+Francis Choi,Hong Kong,59,1,Hong Kong,2007
+Hasan Colakoglu,Turkey,51,1,Turkey,2007
+Weili Dai,United States,45,1,United States,2007
+David Davidovich,Russia,44,1,Russia,2007
+L John Doerr,United States,56,1,United States,2007
+Michael Eisner,United States,65,1,United States,2007
+Paul Fireman,United States,63,1,United States,2007
+Richard Fuld Jr,United States,60,1,United States,2007
+Robert Galvin,United States,84,1,United States,2007
+Bruce Gordon,Australia,78,1,Bermuda,2007
+Suat Gunsel,Cyprus,54,1,Cyprus,2007
+Nazek Hariri,Lebanon,n/a,1,France,2007
+Michael Heisley Sr,United States,70,1,United States,2007
+Jeffrey Hildebrand,United States,48,1,United States,2007
+Jeremy Jacobs Sr,United States,67,1,United States,2007
+Stephen Karp,United States,66,1,United States,2007
+Asim Kibar,Turkey,74,1,Turkey,2007
+Li Wei,China,38,1,China,2007
+Liang Wengen,China,50,1,China,2007
+Leonard Litwin,United States,92,1,United States,2007
+Friedhelm Loh,Germany,60,1,Germany,2007
+Richard Manoogian,United States,70,1,United States,2007
+Miroslav Miskovic,Serbia,61,1,Serbia,2007
+William Moncrief Jr,United States,86,1,United States,2007
+William Morean,United States,51,1,United States,2007
+Dwight Opperman,United States,84,1,United States,2007
+Kenshin Oshima,Japan,59,1,Japan,2007
+Richard Peery,United States,66,1,United States,2007
+Paul Raymond,United Kingdom,82,1,United Kingdom,2007
+Ira Rennert,United States,73,1,United States,2007
+Gina Rinehart,Australia,53,1,Australia,2007
+Julian Robertson Jr,United States,75,1,United States,2007
+Arthur Rock,United States,80,1,United States,2007
+Joanne (JK) Rowling,United Kingdom,41,1,Scotland,2007
+Omer Sabanci,Turkey,47,1,Turkey,2007
+Lily Safra,Monaco,69,1,Monaco,2007
+David Shaw,United States,55,1,United States,2007
+Charles Simonyi,United States,59,1,United States,2007
+Song Weiping,China,48,1,China,2007
+Sehat Sutardja,United States,45,1,United States,2007
+Mehmet Sinan Tara,Turkey,48,1,Turkey,2007
+Tsai Eng Meng,Taiwan,50,1,Taiwan,2007
+Donald Tyson,United States,76,1,United States,2007
+Murat Ulker,Turkey,47,1,Turkey,2007
+Gary Wang,Taiwan,52,1,Taiwan,2007
+Faruk Yalcin,Turkey,83,1,Turkey,2007
+Kostyantin Zhevago,Ukraine,33,1,Ukraine,2007

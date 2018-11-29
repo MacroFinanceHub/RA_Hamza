@@ -1,6 +1,6 @@
 *#################################################*
 *							                      *
-*THIS DO FILE FILLS IN COUNTRIES FOR YEARS 1994-96*				
+*THIS DO FILE FILLS IN COUNTRIES FOR YEARS 1994-96, WEALTH FOR 1991, AND LOWERCASES VARIABLE NAMES FOR 1988-95*				
 *							  					  *
 *#################################################*
 
@@ -886,5 +886,3 @@ replace Wealth_1989 = 3 if Name_1989 == "Rinji Shino"
 replace Wealth_1989 = 3.2 if Name_1989 == "Yoneichi Otani"
 
 save WorldBillionaires1989minusUS.dta, replace 
-
-

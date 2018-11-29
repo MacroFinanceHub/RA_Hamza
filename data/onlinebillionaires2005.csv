@@ -1,0 +1,692 @@
+name,age,wealth,country,residence,year
+William Gates III,49,46.5,United States,"United States , WA , Medina",2005
+Warren Buffett,74,44,United States,"United States , NE , Omaha",2005
+Lakshmi Mittal,54,25,India,"United Kingdom , London",2005
+Carlos Slim Helu,65,23.8,Mexico,"Mexico , Mexico City",2005
+Prince Alwaleed Bin Talal Alsaud,48,23.7,Saudi Arabia,"Saudi Arabia , Riyadh",2005
+Ingvar Kamprad,78,23,Sweden,"Switzerland , Lausanne",2005
+Paul Allen,52,21,United States,"United States , WA , Seattle",2005
+Karl Albrecht,85,18.5,Germany,"Germany , MÙlheim an der Ruhr",2005
+Lawrence Ellison,60,18.4,United States,"United States , CA , Silicon Valley",2005
+S Robson Walton,61,18.3,United States,"United States , AR , Bentonville",2005
+Jim Walton,57,18.2,United States,"United States , AR , Bentonville",2005
+John Walton,59,18.2,United States,"United States , AR , Bentonville",2005
+Alice Walton,56,18,United States,"United States , TX , Fort Worth",2005
+Helen Walton,85,18,United States,"United States , AR , Bentonville",2005
+Kenneth Thomson & family,81,17.9,Canada,"Canada , Toronto",2005
+Liliane Bettencourt,82,17.2,France,"France , Paris",2005
+Bernard Arnault,56,17,France,"France , Paris",2005
+Michael Dell,40,16,United States,"United States , TX , Austin",2005
+Sheldon Adelson,71,15.6,United States,"United States , NV , Las Vegas",2005
+Theo Albrecht,83,15.5,Germany,"Germany , Foehr",2005
+Roman Abramovich,38,13.3,Russia,"United Kingdom , London",2005
+Li Ka-shing,76,13,Hong Kong,"Hong Kong , Hong Kong",2005
+Amancio Ortega,69,12.6,Spain,"Spain , La Coruna",2005
+Steven Ballmer,49,12.1,United States,"United States , WA , Redmond",2005
+Silvio Berlusconi,68,12,Italy,"Italy , North of Milan",2005
+Abigail Johnson,43,12,United States,"United States , MA , Boston",2005
+Barbara Cox Anthony,81,11.7,United States,"United States , HI , Honolulu",2005
+Anne Cox Chambers,85,11.7,United States,"United States , GA , Atlanta",2005
+Stefan Persson,57,11.2,Sweden,"Sweden , Stockholm",2005
+John Kluge,90,11,United States,"United States , FL , Palm Beach",2005
+"Raymond, Thomas & Walter Kwok",--,10.9,Hong Kong,"Hong Kong , Hong Kong",2005
+Forrest Mars Jr,73,10.4,United States,"United States , VA , McLean",2005
+Jacqueline Mars,65,10.4,United States,"United States , NJ , Bedminster",2005
+John Mars,68,10.4,United States,"United States , VA , Arlington",2005
+Luciano Benetton & family,69,9.9,Italy,"Italy , Treviso",2005
+Pierre Omidyar,37,9.9,United States,"United States , NV , Henderson",2005
+Galen Weston & family,64,9.9,Canada,"Canada , Toronto",2005
+Lee Shau Kee,77,9.3,Hong Kong,"Hong Kong , Hong Kong",2005
+Azim Premji,59,9.3,India,"India , Bangalore",2005
+Nasser Al-Kharafi & family,61,9,Kuwait,"Kuwait , Kuwait City",2005
+Kirk Kerkorian,87,8.9,United States,"United States , CA , Los Angeles",2005
+Sumner Redstone,81,8.8,United States,"United States , CA , Beverly Hills",2005
+Leonardo Del Vecchio,69,8.5,Italy,"Italy , Milan",2005
+Michele Ferrero & family,78,8.5,Italy,"Belgium , Brussels",2005
+Michael Otto & family,61,8.3,Germany,"Germany , Hamburg",2005
+Susanne Klatten,43,8.2,Germany,"Germany , Bad Homburg",2005
+Philip Knight,67,8.2,United States,"United States , OR , Beaverton",2005
+Hans Rausing,79,8.2,Sweden,"United Kingdom , Wadhurst",2005
+Serge Dassault & family,80,7.8,France,"France , Paris",2005
+Carl Icahn,69,7.8,United States,"United States , NY , New York",2005
+Keith Murdoch,74,7.8,United States,"United States , NY , New York",2005
+Rudolf August Oetker & family,88,7.7,Germany,"Germany , Bielefeld",2005
+Birgit Rausing & family,81,7.6,Sweden,"Switzerland , Vaud",2005
+Spiro Latsis & family,58,7.5,Greece,"Switzerland , Geneva",2005
+Sergey Brin,31,7.2,United States,"United States , CA , San Francisco",2005
+Charles Ergen,52,7.2,United States,"United States , CO , Denver",2005
+Larry Page,32,7.2,United States,"United States , CA , San Francisco",2005
+George Soros,74,7.2,United States,"United States , NY , New York",2005
+Reinhold WÙrth,69,7.2,Germany,"Germany , Kuenzelsau",2005
+Mukesh & Anil Ambani,--,7,India,"India , Mumbai",2005
+Mikhail Fridman,40,7,Russia,"Russia , Moscow",2005
+Vladimir Lisin,48,7,Russia,"Russia , Moscow",2005
+Donald Newhouse,75,7,United States,"United States , NJ , Somerset County",2005
+Samuel Newhouse Jr,77,7,United States,"United States , NY , New York",2005
+Adolf Merckle,70,6.9,Germany,"Germany , Manheim",2005
+Stefan Quandt,39,6.7,Germany,"Germany , Bad Homburg",2005
+Micky Arison,55,6.5,United States,"United States , FL , Bal Harbour",2005
+Philip & Cristina Green,--,6.3,United Kingdom,Monaco,2005
+Maria-Elisabeth & Georg Schaeffler,--,6.3,Germany,"Germany , Herzogenaurach",2005
+August von Finck,74,6.3,Germany,"Switzerland , Thurgau",2005
+Eli Broad,71,6.1,United States,"United States , CA , Los Angeles",2005
+Curt Engelhorn,78,6,Germany,"Switzerland , Gstaad",2005
+Friedrich Flick Jr,78,6,Germany,"Austria , Vienna",2005
+Edward Johnson III,74,6,United States,"United States , MA , Boston",2005
+Nicky Oppenheimer & family,59,6,South Africa,"South Africa , Johannesburg",2005
+Francois Pinault,68,5.9,France,"France , Paris",2005
+Philip Anschutz,65,5.8,United States,"United States , CO , Denver",2005
+Ernesto Bertarelli,39,5.8,Switzerland,"Switzerland , Geneva",2005
+Nobutada Saji & family,59,5.8,Japan,"Japan , Hyogo",2005
+Sulaiman Bin Abdul Al Rajhi,85,5.6,Saudi Arabia,"Saudi Arabia , Jeddah",2005
+Yoshitaka Fukuda & family,57,5.6,Japan,"Japan , Kyoto",2005
+Gerald Cavendish Grosvenor & family,53,5.6,United Kingdom,"United Kingdom , Chester",2005
+Reinhard Mohn & family,83,5.6,Germany,"Germany , Guetersloh",2005
+Shari Arison,47,5.5,Israel,"Israel , Tel Aviv",2005
+Oleg Deripaska,36,5.5,Russia,"Russia , Moscow",2005
+Yasuo Takei & family,75,5.5,Japan,"Japan , Tokyo",2005
+Jean-Claude Decaux & family,67,5.4,France,"France , Paris",2005
+Antonia Johnson,61,5.4,Sweden,"Sweden , Stockholm",2005
+Johanna Quandt,77,5.4,Germany,"Germany , Bad Homburg",2005
+Maersk Mc-Kinney Moller,91,5.3,Denmark,"Denmark , Copenhagen",2005
+Joseph & Moise Safra,--,5.2,Brazil,"Brazil , Sao Paulo",2005
+Onsi Sawiris & family,75,5.2,Egypt,"Egypt , Cairo",2005
+Dan Duncan,72,5.1,United States,"United States , TX , Houston",2005
+Michael Bloomberg,62,5,United States,"United States , NY , New York",2005
+Gustavo Cisneros & family,59,5,Venezuela,"Venezuela , Caracas",2005
+Rafael del Pino,84,5,Spain,"Spain , Madrid",2005
+Robert Kuok,81,5,Malaysia,"Hong Kong , Hong Kong",2005
+Kerry Packer,67,5,Australia,"Australia , Sydney",2005
+Hasso Plattner,61,5,Germany,"Germany , Heidelberg",2005
+Jeffrey Skoll,40,5,Canada,"United States , CA , Los Angeles",2005
+Viktor Vekselberg,47,5,Russia,"Russia , Moscow",2005
+H Ty Warner,61,5,United States,"United States , IL , Chicago",2005
+Charlene de Carvalho-Heineken,50,4.9,Netherlands,"United Kingdom , London",2005
+Eitaro Itoyama,62,4.9,Japan,"Japan , Tokyo",2005
+Rahmi Koc & family,74,4.9,Turkey,"Turkey , Istanbul",2005
+Ronald Perelman,62,4.9,United States,"United States , NY , New York",2005
+Karl-Heinz Kipp,81,4.8,Germany,"Switzerland , Arosa",2005
+Alexei Mordashov,39,4.8,Russia,"Russia , Moscow",2005
+Jim Pattison,76,4.8,Canada,"Canada , Vancouver",2005
+Alain & Gerard Wertheimer,--,4.8,France,"France , Paris",2005
+Kunio Busujima & family,79,4.7,Japan,"Japan , Kiryu",2005
+Michael Kadoorie & family,64,4.7,Hong Kong,"Hong Kong , Hong Kong",2005
+Kyosuke Kinoshita & family,64,4.7,Japan,"Japan , Tokyo",2005
+Ferit Sahenk & family,41,4.7,Turkey,"Turkey , Istanbul",2005
+Robert Bosch Jr & family,77,4.6,Germany,"Germany , Stuttgart",2005
+Giorgio Armani,70,4.5,Italy,"Italy , Milan",2005
+David Geffen,62,4.4,United States,"United States , CA , Malibu",2005
+"James, Arthur & John Irving",--,4.4,Canada,"Canada , Saint John",2005
+Fukuzo Iwasaki,80,4.4,Japan,"Japan , Kagoshima",2005
+Vladimir Potanin,44,4.4,Russia,"Russia , Moscow",2005
+Mikhail Prokhorov,39,4.4,Russia,"Russia , Moscow",2005
+Vagit Alekperov,54,4.3,Russia,"Russia , Moscow",2005
+Donald Bren,72,4.3,United States,"United States , CA , Newport Beach",2005
+Walter Haefner,94,4.3,Switzerland,"Switzerland , Zurich",2005
+Erivan Haub & family,72,4.3,Germany,"Germany , MÙlheim an der Ruhr",2005
+Kun-Hee Lee & family,63,4.3,South Korea,"South Korea , Seoul",2005
+Gordon Moore,76,4.3,United States,"United States , CA , Woodside",2005
+Henry Ross Perot & family,74,4.3,United States,"United States , TX , Dallas",2005
+David Sainsbury & family,64,4.3,United Kingdom,"United Kingdom , London",2005
+Masayoshi Son,47,4.3,Japan,"Japan , Tokyo",2005
+William Wrigley Jr,41,4.3,United States,"United States , IL , Lake Forest",2005
+John Abele,68,4.2,United States,"United States , MA , Boston",2005
+Cheng Yu-tung,79,4.2,Hong Kong,"Hong Kong , Hong Kong",2005
+George Kaiser,62,4.2,United States,"United States , OK , Tulsa",2005
+Andronico Luksic & family,78,4.2,Chile,"Chile , Antofagasta",2005
+Jeffrey Bezos,41,4.1,United States,"United States , WA , Seattle",2005
+Lorenzo Mendoza & family,39,4.1,Venezuela,"Venezuela , Caracas",2005
+Charles Koch,68,4,United States,"United States , KS , Wichita",2005
+David Koch,63,4,United States,"United States , KS , Wichita",2005
+Ananda Krishnan,66,4,Malaysia,"Malaysia , Kuala Lumpur",2005
+Kwek Leng Beng & family,64,4,Singapore,Singapore,2005
+James Sorenson,83,4,United States,"United States , UT , Salt Lake City",2005
+Abdul Aziz Al Ghurair & family,51,3.9,United Arab Emirates,"United Arab Emirates , Dubai",2005
+Lester Crown & family,79,3.8,United States,"United States , IL , Wilmette",2005
+John Menard Jr,65,3.8,United States,"United States , WI , Eau Claire",2005
+Thomas Schmidheiny,59,3.8,Switzerland,"Switzerland , Balgach",2005
+Andreas StrÙngmann,55,3.8,Germany,"Germany , Tegernsee",2005
+Thomas StrÙngmann,55,3.8,Germany,"Germany , Tegernsee",2005
+Kumar Birla,37,3.7,India,"India , Mumbai",2005
+Yoshiaki Tsutsumi,70,3.7,Japan,"Japan , Tokyo",2005
+Jeronimo Arango,79,3.6,Mexico,Mexico,2005
+Bernard Ecclestone & family,74,3.6,United Kingdom,"United Kingdom , London",2005
+Stanley Ho,83,3.6,Hong Kong,"Hong Kong , Hong Kong",2005
+Frank Lowy & family,74,3.6,Australia,"Australia , Sydney",2005
+Victor Rashnikov,56,3.6,Russia,"Russia , Magnitogorsk",2005
+Jorgen Clausen & family,56,3.5,Denmark,"Denmark , Nordborg",2005
+Willi & Isolde Liebherr & family,--,3.5,Switzerland,"Switzerland , Bulle",2005
+Peter Nicholas,63,3.5,United States,"United States , MA , Boston",2005
+Julio Mario Santo Domingo,81,3.5,Colombia,"Colombia , Bogota",2005
+David & Frederick Barclay,--,3.4,United Kingdom,"United Kingdom , Island of Brecquou",2005
+Otto Beisheim,81,3.4,Germany,"Switzerland , Zoug",2005
+John Fredriksen,60,3.4,Norway,"Norway , Oslo",2005
+Preston Tisch,78,3.4,United States,"United States , NY , New York",2005
+Robert Bass,57,3.3,United States,"United States , TX , Fort Worth",2005
+Paul Desmarais,78,3.3,Canada,"Canada , Montreal",2005
+Charles Johnson,72,3.3,United States,"United States , CA , San Mateo",2005
+Sunil Mittal,47,3.3,India,"India , Delhi",2005
+Robert Rowling,51,3.3,United States,"United States , TX , Dallas",2005
+Rainer & Michael Schmidt-Ruthenbeck,--,3.3,Germany,"Germany , Duisburg",2005
+Saleh Bin Abdul Aziz Al Rajhi,93,3.2,Saudi Arabia,"Saudi Arabia , Jeddah",2005
+Richard Branson,54,3.2,United Kingdom,"United Kingdom , London",2005
+William Cook,73,3.2,United States,"United States , IN , Bloomington",2005
+Aloysio de Andrade Faria,84,3.2,Brazil,"Brazil , Sao Paulo",2005
+Rolf Gerling,50,3.2,Germany,"Switzerland , Zurich",2005
+James Goodnight,62,3.2,United States,"United States , NC , Cary",2005
+Terry Gou,54,3.2,Taiwan,"Taiwan , Taipei",2005
+Maurice Greenberg,79,3.2,United States,"United States , NY , New York",2005
+Klaus-Michael KÙhne,67,3.2,Germany,"Switzerland , Schindellegi",2005
+Leonard Lauder,72,3.2,United States,"United States , NY , New York",2005
+G_rard Louis-Dreyfus & family,72,3.2,France,"United States , NY , New York",2005
+Pallonji Mistry,75,3.2,India,"India , Mumbai",2005
+Akira Mori,67,3.2,Japan,"Japan , Tokyo",2005
+Madeleine Schickedanz,61,3.2,Germany,"Switzerland , Grisous",2005
+Charles Schwab,67,3.2,United States,"United States , CA , Atherton",2005
+Jack Taylor,82,3.2,United States,"United States , MO , St Louis",2005
+Klaus Tschira,64,3.2,Germany,"Germany , Heidelberg",2005
+Tadashi Yanai,56,3.2,Japan,"Japan , Yamaguchi",2005
+David Filo,38,3.1,United States,"United States , CA , Mountain View",2005
+Heidi Horten,64,3.1,Austria,"Austria , Vienna",2005
+Sami & Yuli Ofer,--,3.1,Israel,"Israel , Tel Aviv",2005
+Nina Wang,--,3.1,Hong Kong,"Hong Kong , Hong Kong",2005
+YC Wang,88,3.1,Taiwan,"Taiwan , Taipei",2005
+Leslie Wexner,69,3.1,United States,"United States , OH , Columbus",2005
+Richard DeVos,79,3,United States,"United States , MI , Ada",2005
+Henry Fok,81,3,Hong Kong,"Hong Kong , Hong Kong",2005
+Steven Jobs,50,3,United States,"United States , CA , Palo Alto",2005
+Ann Walton Kroenke,55,3,United States,"United States , MO , Columbia",2005
+George Lucas,60,3,United States,"United States , CA , Marin County",2005
+Sergio Mantegazza,77,3,Switzerland,"Switzerland , Lugano",2005
+Miuccia Prada & family,55,3,Italy,"Italy , Rome",2005
+Anton Schlecker,60,3,Germany,"Germany , Ehingen",2005
+Charoen Sirivadhanabhakdi,60,3,Thailand,"Thailand , Bangkok",2005
+Anacleto Angelini,91,2.9,Chile,"Chile , Santiago",2005
+Masatoshi Ito,80,2.9,Japan,"Japan , Tokyo",2005
+Barbara Piasecka Johnson,68,2.9,United States,"Monaco , Monte Carlo",2005
+Richard Schulze,64,2.9,United States,"United States , MN , Edina",2005
+Stefan Sch_rghuber,43,2.9,Germany,"Germany , Munich",2005
+Tsai Wan Tsai & family,75,2.9,Taiwan,"Taiwan , Taipei",2005
+Karl Wlaschek,87,2.9,Austria,"Austria , Vienna",2005
+Khalid Bin Mahfouz & family,58,2.8,Saudi Arabia,"Saudi Arabia , Jeddah",2005
+Charles Bronfman,73,2.8,Canada,"Canada , Montreal",2005
+William Davidson,82,2.8,United States,"United States , MI , Bloomfield Hills",2005
+Jesus de Polanco,75,2.8,Spain,"Spain , Madrid",2005
+Rachman Halim & family,57,2.8,Indonesia,"Indonesia , Jawa Timur",2005
+Henry Hillman,86,2.8,United States,"United States , PA , Pittsburgh",2005
+Ralph Lauren,65,2.8,United States,"United States , NY , New York",2005
+Stephan Schmidheiny,57,2.8,Switzerland,"Switzerland , Zurich",2005
+Eric Schmidt,50,2.8,United States,"United States , CA , Atherton",2005
+Alberto Bailleres,72,2.7,Mexico,"Mexico , Mexico City",2005
+Edgar Bronfman Sr,76,2.7,United States,"United States , NY , New York",2005
+Charles Cadogan & family,68,2.7,United Kingdom,"United Kingdom , London",2005
+Otto Happel,57,2.7,Germany,"Switzerland , Luzerne",2005
+Bradley Hughes,71,2.7,United States,"United States , CA , Bel Air",2005
+Ronald Lauder,61,2.7,United States,"United States , NY , New York",2005
+Eliodoro Matte & family,59,2.7,Chile,"Chile , Santiago",2005
+Luis Carlos Sarmiento,72,2.7,Colombia,"Colombia , Bogota",2005
+Steven Spielberg,58,2.7,United States,"United States , CA , Pacific Palisades",2005
+Hubert Burda,65,2.6,Germany,"Germany , Munich",2005
+Michael Hilti & family,58,2.6,Liechtenstein,"Liechtenstein , Schaan",2005
+Martha Ingram & family,69,2.6,United States,"United States , TN , Nashville",2005
+Boris Ivanishvili,49,2.6,Russia,"France , Paris",2005
+Rupert Johnson Jr,63,2.6,United States,"United States , CA , San Mateo",2005
+Saleh Kamel,63,2.6,Saudi Arabia,"Saudi Arabia , Makkah Al-Minkarramah",2005
+Jorge Paulo Lemann,65,2.6,Brazil,"Brazil , Rio de Janeiro",2005
+Lev Leviev,49,2.6,Israel,"Israel , B'nei Brak",2005
+Hugo Mann & family,91,2.6,Germany,"Germany , Karlsruhe",2005
+Ng Teng Fong,76,2.6,Singapore,"Singapore , Singapore",2005
+Ricardo Salinas Pliego & family,49,2.6,Mexico,"Mexico , Mexico City",2005
+Yasumitsu Shigeta,40,2.6,Japan,"Japan , Tokyo",2005
+Takemitsu Takizaki,59,2.6,Japan,"Japan , Osaka",2005
+Donald Trump,59,2.6,United States,"United States , NY , New York",2005
+Jerry Yang,36,2.6,United States,"United States , CA , Los Altos",2005
+Mohammed Al Amoudi,59,2.5,Saudi Arabia,"Saudi Arabia , Jeddah",2005
+Gianluigi & Rafaela Aponte,--,2.5,Switzerland,"Switzerland , Geneva",2005
+John Dorrance III,61,2.5,Ireland,"Ireland , Dublin",2005
+Antonio Ermirio de Moraes & family,76,2.5,Brazil,"Brazil , Sao Paulo",2005
+Jeffrey Koo Jr,--,2.5,Taiwan,Taiwan,2005
+Esther Koplowitz,54,2.5,Spain,"Spain , Barcelona",2005
+Kjeld Kirk Kristiansen,57,2.5,Denmark,"Denmark , Billund",2005
+Edward Lampert,42,2.5,United States,"United States , CT , Greenwich",2005
+Nancy Walton Laurie,53,2.5,United States,"United States , MO , Columbia",2005
+Michael Lee-Chin,54,2.5,Canada,"Canada , Burlington",2005
+David Rockefeller Sr,89,2.5,United States,"United States , NY , New York",2005
+Bernard (Barry) Sherman,63,2.5,Canada,"Canada , Toronto",2005
+James Simons,67,2.5,United States,"United States , NY , East Setauket",2005
+Leonard Stern,67,2.5,United States,"United States , NY , New York",2005
+Michael Ying,55,2.5,Hong Kong,"Hong Kong , Hong Kong",2005
+Rinat Akhmetov,38,2.4,Ukraine,"Ukraine , Donetsk",2005
+Riley Bechtel,53,2.4,United States,"United States , CA , San Francisco",2005
+Stephen Bechtel Jr,79,2.4,United States,"United States , CA , San Francisco",2005
+Leonard Blavatnik,47,2.4,United States,"United States , NY , New York",2005
+Martin Bouygues & family,53,2.4,France,"France , Paris",2005
+Michael Herz,59,2.4,Germany,"Germany , Hamburg",2005
+Lee Seng Wee & family,80,2.4,Singapore,"Singapore , Singapore",2005
+Lim Goh Tong,87,2.4,Malaysia,"Malaysia , Kuala Lumpur",2005
+Bernard Marcus,75,2.4,United States,"United States , GA , Atlanta",2005
+A Jerrold Perenchio,74,2.4,United States,"United States , CA , Bel Air",2005
+Edward Rogers,71,2.4,Canada,"Canada , Toronto",2005
+Teh Hong Piow,74,2.4,Malaysia,"Malaysia , Kuala Lumpur",2005
+Steven Udvar-Hazy,59,2.4,United States,"United States , CA , Beverly Hills",2005
+Vladimir Yevtushenkov,56,2.4,Russia,"Russia , Moscow",2005
+Alexander Abramov,46,2.3,Russia,"Russia , Moscow",2005
+Vladimir Bogdanov,53,2.3,Russia,"Russia , Surgut",2005
+Ronald Burkle,52,2.3,United States,"United States , CA , Los Angeles",2005
+Clive Calder,58,2.3,United Kingdom,Cayman Islands,2005
+Jean-Louis Dumas & family,66,2.3,France,"France , Paris",2005
+Melinda Esterhazy,84,2.3,Austria,"Switzerland , Zurich",2005
+Tetsuro Funai,78,2.3,Japan,"Japan , Osaka",2005
+Frits Goldschmeding,71,2.3,Netherlands,"Netherlands , Amsterdam",2005
+Stein Erik Hagen,48,2.3,Norway,"Norway , Oslo",2005
+Ray Hunt,62,2.3,United States,"United States , TX , Dallas",2005
+Shiv Nadar,59,2.3,India,"India , New Delhi",2005
+Carl Pohlad,89,2.3,United States,"United States , MN , Minneapolis",2005
+Quek Leng Chan & family,64,2.3,Malaysia,"Malaysia , Kuala Lumpur",2005
+Johann Rupert & family,54,2.3,South Africa,"South Africa , Stellenbosch",2005
+Haim Saban,60,2.3,United States,"United States , CA , Beverly Hills",2005
+John Simplot & family,96,2.3,United States,"United States , ID , Boise",2005
+Clemmie Spangler Jr,72,2.3,United States,"United States , NC , Charlotte",2005
+Friede Springer,62,2.3,Germany,"Germany , Berlin",2005
+Wee Cho Yaw,76,2.3,Singapore,Singapore,2005
+Tadahiro Yoshida,58,2.3,Japan,"Japan , Fujisawa",2005
+Vincent Bollore,52,2.2,France,"France , Paris",2005
+Charles Butt,66,2.2,United States,"United States , TX , San Antonio",2005
+John Calamos,65,2.2,United States,"United States , IL , Naperville",2005
+Leona Mindy Rosenthal Helmsley,85,2.2,United States,"United States , NY , New York",2005
+Wolfgang Herz,54,2.2,Germany,"Germany , Hamburg",2005
+Amos Hostetter Jr,68,2.2,United States,"United States , MA , Boston",2005
+Ryoichi Jinnai & family,78,2.2,Japan,"Japan , Hokkaido",2005
+Peter Kellogg,63,2.2,United States,"United States , NJ , Short Hills",2005
+Mikhail Khodorkovsky,41,2.2,Russia,"Russia , Moscow",2005
+Emanuele (Lino) Saputo & family,68,2.2,Canada,"Canada , Quebec",2005
+Stef Wertheimer & family,79,2.2,Israel,"Israel , Tefen",2005
+Chaleo Yoovidhya,73,2.2,Thailand,"Thailand , Bangkok",2005
+Lorenzo Zambrano & family,61,2.2,Mexico,"Mexico , Monterrey",2005
+Samuel Zell,63,2.2,United States,"United States , IL , Chicago",2005
+Heinz Bauer,65,2.1,Germany,"Germany , Hamburg",2005
+Francesco Gaetano Caltagirone & family,62,2.1,Italy,Italy,2005
+Gordon Getty,72,2.1,United States,"United States , CA , San Francisco",2005
+Nicolas Hayek,76,2.1,Switzerland,"Switzerland , Biel",2005
+German Khan,43,2.1,Russia,"Russia , Moscow",2005
+Herbert Kohler & family,66,2.1,United States,"United States , WI , Kohler",2005
+Craig McCaw,55,2.1,United States,"United States , WA , Seattle",2005
+Richard Rainwater,60,2.1,United States,"United States , TX , Fort Worth",2005
+Harold Simmons,73,2.1,United States,"United States , TX , Dallas",2005
+Frederick Smith,60,2.1,United States,"United States , TN , Memphis",2005
+Jon Stryker,46,2.1,United States,"United States , MI , Kalamazoo",2005
+Ronda Stryker,50,2.1,United States,"United States , MI , Kalamazoo",2005
+Nikolai Tsvetkov,44,2.1,Russia,"Russia , Moscow",2005
+Patrick Wang & family,54,2.1,Hong Kong,"Hong Kong , Hong Kong",2005
+Stephen Wynn,64,2.1,United States,"United States , NV , Las Vegas",2005
+Herbert Allen Jr,65,2,United States,"United States , NY , New York",2005
+Isak Andic,50,2,Spain,"Spain , Barcelona",2005
+Leonore Annenberg,87,2,United States,"United States , PA , Wynnewood",2005
+Roland Arnall,66,2,United States,"United States , CA , Holmby Hills",2005
+Matthew Bucksbaum & family,79,2,United States,"United States , IL , Chicago",2005
+Chen Din Hwa,82,2,Hong Kong,"Hong Kong , Hong Kong",2005
+Steven Cohen,49,2,United States,"United States , CT , Greenwich",2005
+John de Mol,50,2,Netherlands,"Netherlands , Blaricum",2005
+Ennio Doris & family,64,2,Italy,"Italy , Tombolo",2005
+Leonid Fedun,48,2,Russia,"Russia , Moscow",2005
+Philippe Foriel-Destezet,69,2,France,"United Kingdom , London",2005
+Louis Gonda,56,2,United States,"United States , CA , Beverly Hills",2005
+R Budi Hartono,64,2,Indonesia,"Indonesia , Kudus",2005
+Roberto Hernandez,63,2,Mexico,"Mexico , Mexico City",2005
+GÙnter Herz,64,2,Germany,"Germany , Hamburg",2005
+Jon Huntsman,67,2,United States,"United States , UT , Salt Lake City",2005
+Richard Kinder,61,2,United States,"United States , TX , Houston",2005
+Bruce Kovner,59,2,United States,"United States , NY , New York",2005
+Fredrik Lundberg,53,2,Sweden,"Sweden , Stockholm",2005
+John Malone,64,2,United States,"United States , CO , Parker",2005
+Dietrich Mateschitz,60,2,Austria,"Austria , Fuschl am See",2005
+Patrick McGovern,67,2,United States,"United States , NH , Hollis",2005
+Rosalia Mera,61,2,Spain,"Spain , La Coruna",2005
+Richard Pratt,70,2,Australia,"Australia , Melbourne",2005
+Mitchell Rales,48,2,United States,"United States , DC , Washington",2005
+Steven Rales,52,2,United States,"United States , DC , Washington",2005
+Robert Rich Sr,91,2,United States,"United States , FL , Palm Beach",2005
+Hermann Schnabel,83,2,Germany,"Germany , Hamburg",2005
+Bruno Schroder & family,72,2,United Kingdom,"United Kingdom , London",2005
+Evgeny (Eugene) Shvidler,40,2,United States,"Russia , Moscow",2005
+Robert E (Ted) Turner,66,2,United States,"United States , FL , Lamont",2005
+Eugen Viehof,88,2,Germany,"Germany , Moenchengladbach",2005
+Albert von Thurn und Taxis,21,2,Germany,"Germany , Regensburg",2005
+Peter Woo & family,59,2,Hong Kong,"Hong Kong , Hong Kong",2005
+Lee Bass,48,1.9,United States,"United States , TX , Fort Worth",2005
+Emilio Botin,70,1.9,Spain,"Spain , Santander",2005
+Charles Dolan,78,1.9,United States,"United States , NY , Oyster Bay",2005
+Adi Godrej & family,62,1.9,India,"India , Mumbai",2005
+William Hearst III,55,1.9,United States,"United States , CA , San Francisco",2005
+Daniela Herz,51,1.9,Germany,"Germany , Hamburg",2005
+H Huizenga,67,1.9,United States,"United States , FL , Fort Lauderdale",2005
+Melvin Simon,78,1.9,United States,"United States , IN , Indianapolis",2005
+Ernest Stempel,88,1.9,United States,"Bermuda , Hamilton",2005
+Henry Sy & family,80,1.9,Philippines,"Philippines , Manila",2005
+Glen Taylor,63,1.9,United States,"United States , MN , Mankato",2005
+S Daniel Abraham,80,1.8,United States,"United States , FL , Palm Beach",2005
+Maria Asuncion Aramburuzabala & family,41,1.8,Mexico,"Mexico , Mexico City",2005
+Franklin Booth Jr,82,1.8,United States,"United States , CA , Los Angeles",2005
+Phoebe Hearst Cooke,78,1.8,United States,"United States , CA , San Francisco",2005
+Jean Coutu,77,1.8,Canada,"Canada , Quebec",2005
+Albert Frere,79,1.8,Belgium,"Belgium , Charleroi",2005
+Austin Hearst,52,1.8,United States,"United States , NY , New York",2005
+David Hearst Jr,59,1.8,United States,"United States , CA , Los Angeles",2005
+George Hearst Jr,78,1.8,United States,"United States , CA , Los Angeles",2005
+Ming Hsieh,49,1.8,United States,"United States , CA , San Francisco",2005
+Jess Jackson,75,1.8,United States,"United States , CA , Healdsburg",2005
+Carl Lindner Jr & family,85,1.8,United States,"United States , OH , Cincinnati",2005
+Clayton Mathile,64,1.8,United States,"United States , OH , Dayton",2005
+Wallace McCain,75,1.8,Canada,"Canada , Toronto",2005
+Fayez Sarofim,76,1.8,United States,"United States , TX , Houston",2005
+Patrick Soon-Shiong,53,1.8,United States,"United States , CA , Los Angeles",2005
+Sylvia Str_her,50,1.8,Germany,"Germany , Darmstadt",2005
+Wilma Tisch,79,1.8,United States,"United States , NY , New York",2005
+Alisher Usmanov,51,1.8,Russia,Russia,2005
+Dennis Washington,70,1.8,United States,"United States , MT , Missoula",2005
+Hiroshi Yamauchi,77,1.8,Japan,"Japan , Kyoto",2005
+Dhanin Chearavanont & family,65,1.7,Thailand,"Thailand , Bangkok",2005
+Belmiro de Azevedo,67,1.7,Portugal,"Portugal , Oporto",2005
+Stanley Druckenmiller,52,1.7,United States,"United States , NY , New York",2005
+John J Fisher,43,1.7,United States,"United States , CA , San Francisco",2005
+Robert Fisher,51,1.7,United States,"United States , CA , San Francisco",2005
+Tom Gores,40,1.7,United States,"United States , CA , Beverly Hills",2005
+Joachim Herz,62,1.7,Germany,Germany,2005
+E Kroenke,57,1.7,United States,"United States , MO , Columbia",2005
+Peter Lewis,70,1.7,United States,"United States , FL , Coconut Grove",2005
+Mary Alice Dorrance Malone,55,1.7,United States,"United States , PA , Coatesville",2005
+Richard Marriott,66,1.7,United States,"United States , MD , Potomac",2005
+Charles Munger,80,1.7,United States,"United States , CA , Los Angeles",2005
+David Murdock,81,1.7,United States,"United States , CA , Los Angeles",2005
+Henry Nicholas III,45,1.7,United States,"United States , CA , Laguna Hills",2005
+Kazuo Okada,62,1.7,Japan,"Japan , Tokyo",2005
+Roger Penske,68,1.7,United States,"United States , MI , Birmingham",2005
+Gregorio Perez Companc & family,70,1.7,Argentina,"Argentina , Buenos Aires",2005
+Stefano Pessina,63,1.7,Italy,"Monaco , Monte Carlo",2005
+Didier Primat,60,1.7,France,"France , Paris",2005
+Thomas Pritzker,54,1.7,United States,"United States , IL , Chicago",2005
+Shin Kyuk-Ho & family,82,1.7,South Korea,"South Korea , Seoul",2005
+John Sperling,84,1.7,United States,"United States , AZ , Phoenix",2005
+Peter Sperling,45,1.7,United States,"United States , AZ , Phoenix",2005
+Pat Stryker,48,1.7,United States,"United States , CO , Fort Collins",2005
+Lucio Tan,70,1.7,Philippines,"Philippines , Manila",2005
+John Whittaker,63,1.7,United Kingdom,"United Kingdom , Isle of Man",2005
+Julio Bozano,69,1.6,Brazil,"Brazil , Rio de Janeiro",2005
+Heinz-Horst Deichmann,78,1.6,Germany,"Germany , Essen",2005
+Bennett Dorrance,56,1.6,United States,"United States , AZ , Paradise Valley",2005
+Sidney Frank,85,1.6,United States,"United States , NY , New Rochelle",2005
+Donald Gordon,74,1.6,South Africa,"United Kingdom , London",2005
+Donald Hall,76,1.6,United States,"United States , KS , Mission Hills",2005
+Alfredo Harp Helu,61,1.6,Mexico,"Mexico , Mexico City",2005
+Hans-Werner Hector,65,1.6,Germany,"Germany , Weinheim",2005
+Irwin Jacobs,71,1.6,United States,"United States , CA , La Jolla",2005
+Manuel Jove,63,1.6,Spain,"Spain , La Coruna",2005
+Daryl Katz,43,1.6,Canada,"Canada , Edmonton",2005
+Michael Krasny,51,1.6,United States,"United States , IL , Highland Park",2005
+Alexei Kuzmichov,42,1.6,Russia,Russia,2005
+Alexander Lebedev,45,1.6,Russia,Russia,2005
+Joseph Lewis,68,1.6,United Kingdom,"Bahamas , Lyford Cay",2005
+Iskander Makhmudov,42,1.6,Russia,Russia,2005
+John Marriott Jr,73,1.6,United States,"United States , MD , Potomac",2005
+E Marshall,66,1.6,United States,"United States , TX , Dallas",2005
+Penny Pritzker,45,1.6,United States,"United States , IL , Chicago",2005
+Larry Rong Zhijian,63,1.6,China,"China , Shanghai",2005
+Henry Samueli,50,1.6,United States,"United States , CA , Newport Beach",2005
+Ollen Smith,78,1.6,United States,"United States , NC , Charlotte",2005
+Arthur Williams Jr,62,1.6,United States,"United States , FL , Palm Beach",2005
+Mortimer Zuckerman,67,1.6,United States,"United States , NY , New York",2005
+Sid Bass,62,1.5,United States,"United States , TX , Fort Worth",2005
+Peter Buck,74,1.5,United States,"United States , CT , Danbury",2005
+James Cargill,80,1.5,United States,"United States , MN , Minneapolis",2005
+Margaret Cargill,85,1.5,United States,"United States , CA , La Jolla",2005
+Chung Mong-Koo,67,1.5,South Korea,South Korea,2005
+Fred DeLuca,57,1.5,United States,"United States , FL , Fort Lauderdale",2005
+Ray Dolby,71,1.5,United States,"United States , CA , San Francisco",2005
+Gustaf Douglas,67,1.5,Sweden,"Sweden , Stockholm",2005
+Archie Aldis (Red) Emmerson,75,1.5,United States,"United States , CA , Redding",2005
+Richard Farmer,70,1.5,United States,"United States , OH , Cincinnati",2005
+Gerald Ford,60,1.5,United States,"United States , TX , Dallas",2005
+Soichiro Fukutake & family,59,1.5,Japan,"Japan , Okayama",2005
+Charles Gates Jr,83,1.5,United States,"United States , CO , Denver",2005
+Leslie Gonda,84,1.5,United States,"United States , CA , Beverly Hills",2005
+Naresh Goyal,55,1.5,India,"United Kingdom , London",2005
+Jonathan Harmsworth,37,1.5,United Kingdom,"United Kingdom , London",2005
+Vladimir Iorich,46,1.5,Russia,"Russia , Moscow",2005
+H Fisk Johnson,46,1.5,United States,"United States , WI , Racine",2005
+Imogene Powers Johnson,75,1.5,United States,"United States , WI , Racine",2005
+Helen Johnson-Leipold,48,1.5,United States,"United States , WI , Racine",2005
+Winnie Johnson-Marquart,45,1.5,United States,"United States , VA , Virginia Beach",2005
+S Curtis Johnson,49,1.5,United States,"United States , WI , Racine",2005
+Henry Kravis,61,1.5,United States,"United States , NY , New York",2005
+Robert McNair,67,1.5,United States,"United States , TX , Houston",2005
+George Mitchell,85,1.5,United States,"United States , TX , Houston",2005
+Jorgen Philip-Sorensen,66,1.5,Sweden,"United Kingdom , Broadway",2005
+Anthony Pritzker,44,1.5,United States,"United States , CA , Los Angeles",2005
+Daniel Pritzker,46,1.5,United States,"United States , CA , Marin County",2005
+James Pritzker,53,1.5,United States,"United States , IL , Chicago",2005
+Jay Robert (JB) Pritzker,40,1.5,United States,"United States , IL , Evanston",2005
+Jean (Gigi) Pritzker,43,1.5,United States,"United States , IL , Chicago",2005
+John Pritzker,52,1.5,United States,"United States , CA , San Francisco",2005
+Karen Pritzker,47,1.5,United States,"United States , CT , New Haven",2005
+Linda Pritzker,51,1.5,United States,"United States , MT , St Ignatius",2005
+William Pulte,72,1.5,United States,"United States , MI , Detroit",2005
+Ernest Rady,67,1.5,United States,"United States , CA , San Diego",2005
+J Ricketts & family,63,1.5,United States,"United States , NE , Omaha",2005
+George Roberts,60,1.5,United States,"United States , CA , Los Angeles",2005
+John Sall,55,1.5,United States,"United States , NC , Cary",2005
+Dilip Shanghvi,49,1.5,India,"India , Mumbai",2005
+John Sobrato,65,1.5,United States,"United States , CA , Atherton",2005
+Jackson Stephens & family,81,1.5,United States,"United States , AR , Little Rock",2005
+Albert Ueltschi,87,1.5,United States,"United States , TX , Irving",2005
+Sanford Weill,72,1.5,United States,"United States , NY , New York",2005
+Margaret Whitman,48,1.5,United States,"United States , CA , Palo Alto",2005
+Wong Kwong Yu,35,1.5,China,"China , Beijing",2005
+Daniel Ziff,33,1.5,United States,"United States , NY , New York",2005
+Dirk Ziff,40,1.5,United States,"United States , NY , New York",2005
+Robert Ziff,38,1.5,United States,"United States , NY , New York",2005
+Jaime Zobel de Ayala & family,70,1.5,Philippines,"Philippines , Manila",2005
+Igor Zyuzin,44,1.5,Russia,"Russia , Moscow",2005
+Anil Agarwal,51,1.4,India,"United Kingdom , London",2005
+Frank Batten Sr,78,1.4,United States,"United States , VA , Virginia Beach",2005
+Nancy Lerner Beck,44,1.4,United States,"United States , OH , Cleveland",2005
+Bjorgolfur Thor Bjorgolfsson,38,1.4,Iceland,"United Kingdom , London",2005
+Arthur Blank,62,1.4,United States,"United States , GA , Atlanta",2005
+Edward Debartolo Jr,58,1.4,United States,"United States , FL , Tampa",2005
+Barbara Carlson Gage & family,63,1.4,United States,"United States , MN , Minneapolis",2005
+Marguerite Harbert,81,1.4,United States,"United States , AL , Birmingham",2005
+Alicia Koplowitz,52,1.4,Spain,"Spain , Madrid",2005
+Norma Lerner,69,1.4,United States,"United States , OH , Cleveland",2005
+Randolph Lerner,42,1.4,United States,"United States , OH , Cleveland",2005
+George Lindemann & family,69,1.4,United States,"United States , FL , Palm Beach",2005
+Alfred Mann,79,1.4,United States,"United States , CA , Los Angeles",2005
+James Moran,86,1.4,United States,"United States , FL , Deerfield Beach",2005
+Marilyn Carlson Nelson & family,66,1.4,United States,"United States , MN , Minneapolis",2005
+Kenshin Oshima,57,1.4,Japan,"Japan , Tokyo",2005
+Paul Raymond,80,1.4,United Kingdom,"United Kingdom , London",2005
+Alexander Shnaider,36,1.4,Canada,"Canada , Toronto",2005
+Theodore Waitt,42,1.4,United States,"United States , CA , San Diego",2005
+Elena Baturina,42,1.3,Russia,"Russia , Moscow",2005
+Pierre Bellon & family,75,1.3,France,"France , Paris",2005
+William Boyd,73,1.3,United States,"United States , NV , Las Vegas",2005
+Chang Yung Fa,78,1.3,Taiwan,"Taiwan , Taipei",2005
+Mark Cuban,47,1.3,United States,"United States , TX , Dallas",2005
+Barry Diller,63,1.3,United States,"United States , NY , New York",2005
+Abilio dos Santos Diniz & family,68,1.3,Brazil,"Brazil , Sao Paulo",2005
+David Duffield,64,1.3,United States,"United States , NV , Incline Village",2005
+Gabriel Escarrer,70,1.3,Spain,"Spain , Palma de Majorca",2005
+Donald Fisher,76,1.3,United States,"United States , CA , San Francisco",2005
+Doris Fisher,73,1.3,United States,"United States , CA , San Francisco",2005
+James France,60,1.3,United States,"United States , FL , Daytona Beach",2005
+William France Jr,72,1.3,United States,"United States , FL , Daytona Beach",2005
+John Gandel & family,70,1.3,Australia,"Australia , Melbourne",2005
+Christopher Goldsbury,62,1.3,United States,"United States , TX , San Antonio",2005
+Alec Gores,52,1.3,United States,"United States , CA , Beverly Hills",2005
+John Hargreaves & family,61,1.3,United Kingdom,"United Kingdom , Lancashire County",2005
+Robert Holding,78,1.3,United States,"United States , UT , Salt Lake City",2005
+Joseph Jamail Jr,79,1.3,United States,"United States , TX , Houston",2005
+James Jannard,55,1.3,United States,"United States , WA , San Juan Islands",2005
+Stephen Jarislowsky,79,1.3,Canada,"Canada , Montreal",2005
+Min Kao,56,1.3,United States,"United States , KS , Mission Hills",2005
+Barry Lam,55,1.3,Taiwan,Taiwan,2005
+Vincent Lo,--,1.3,Hong Kong,"Hong Kong , Hong Kong",2005
+Robert McLane Jr,68,1.3,United States,"United States , TX , Temple",2005
+John Morgridge,71,1.3,United States,"United States , CA , Portola Valley",2005
+Hideo Morita & family,53,1.3,Japan,"Japan , Tokyo",2005
+Robert Naify,83,1.3,United States,"United States , CA , San Francisco",2005
+Liselott Persson,--,1.3,Sweden,"Sweden , Stockholm",2005
+Victor Pinchuk,44,1.3,Ukraine,"Ukraine , Dniepropetrovsk",2005
+Hans Riegel,82,1.3,Germany,"Germany , Bonn",2005
+Paul Riegel,78,1.3,Germany,"Germany , Bonn",2005
+Phillip Ruffin,69,1.3,United States,"United States , KS , Wichita",2005
+Eduard Shifrin,44,1.3,United Kingdom,"United Kingdom , London",2005
+Thomas Siebel,52,1.3,United States,"United States , CA , San Mateo",2005
+Harry Triguboff,72,1.3,Australia,"Australia , Sydney",2005
+Peter Unger,60,1.3,Germany,"Germany , Weiden",2005
+Joop van den Ende,63,1.3,Netherlands,Netherlands,2005
+Dean White,81,1.3,United States,"United States , IN , Crown Point",2005
+Arne Wilhelmsen & family,74,1.3,Norway,"Norway , Oslo",2005
+Oprah Winfrey,51,1.3,United States,"United States , IL , Chicago",2005
+Mohamed Al-Bahar & family,--,1.2,Kuwait,Kuwait,2005
+Khalaf Al Habtoor,--,1.2,United Arab Emirates,"United Arab Emirates , Dubai",2005
+George Argyros,68,1.2,United States,"United States , CA , Newport Beach",2005
+Edward Bass,60,1.2,United States,"United States , TX , Fort Worth",2005
+Carl Berg,67,1.2,United States,"United States , CA , Atherton",2005
+William Connor II,55,1.2,United States,"Hong Kong , Hong Kong",2005
+David Copley,53,1.2,United States,"United States , CA , La Jolla",2005
+Lloyd Dorfman,52,1.2,United Kingdom,"United Kingdom , London",2005
+Bulent Eczacibasi,55,1.2,Turkey,"Turkey , Istanbul",2005
+William Fisher,47,1.2,United States,"United States , CA , San Francisco",2005
+Thomas Flatley,72,1.2,United States,"United States , MA , Milton",2005
+Victor Fung,60,1.2,United States,"Hong Kong , Hong Kong",2005
+William Fung,57,1.2,Hong Kong,"Hong Kong , Hong Kong",2005
+Alan Gerry,75,1.2,United States,"United States , NY , Liberty",2005
+David Green,64,1.2,United States,"United States , OK , Oklahoma City",2005
+Saad Hariri,33,1.2,Saudi Arabia,"Saudi Arabia , Riyadh",2005
+Stanley Stub Hubbard,71,1.2,United States,"United States , MN , St Mary's Point",2005
+Thomas Hunter,43,1.2,United Kingdom,"Scotland , Troon",2005
+Om Jindal,74,1.2,India,"India , Delhi",2005
+Guy Laliberte,45,1.2,Canada,"Canada , Montreal",2005
+Kenneth Langone,69,1.2,United States,"United States , NY , Sands Point",2005
+Thomas Lee,60,1.2,United States,"United States , NY , New York",2005
+Kenichi Mabuchi & family,82,1.2,Japan,"Japan , Matsudo",2005
+Maggie Magerko,39,1.2,United States,"United States , PA , Eightyfour",2005
+Billy Joe (Red) McCombs,77,1.2,United States,"United States , TX , San Antonio",2005
+Andrei Melnichenko,33,1.2,Russia,"Russia , Moscow",2005
+Sergei Popov,33,1.2,Russia,"Russia , Moscow",2005
+Sean Quinn,58,1.2,Ireland,"Ireland , Fermanagh",2005
+Winthrop Rockefeller,56,1.2,United States,"United States , AR , Morrilton",2005
+Isaac Saba Raffoul & family,81,1.2,Mexico,"Mexico , Mexico City",2005
+Richard Scaife,72,1.2,United States,"United States , PA , Pittsburgh",2005
+Walter Scott Jr,73,1.2,United States,"United States , NE , Omaha",2005
+Marcel Telles,55,1.2,Brazil,"Brazil , Sao Paulo",2005
+Olav Thon,81,1.2,Norway,"Norway , Oslo",2005
+Martin Viessmann,51,1.2,Germany,"Germany , Allendorf",2005
+Elizabeth Wiskemann,--,1.2,United States,"United States , CA , San Rafael",2005
+Anneliese Brost,84,1.1,Germany,"Germany , Essen",2005
+John Brown,70,1.1,United States,"United States , MI , Kalamazoo",2005
+Robert Day,60,1.1,United States,"United States , CA , Los Angeles",2005
+Roy Disney,75,1.1,United States,"United States , CA , Los Angeles",2005
+Richard Egan,69,1.1,United States,"United States , MA , Hopkinton",2005
+Robert Friedland,54,1.1,United States,"Singapore , Singapore",2005
+Thomas Frist Jr & family,66,1.1,United States,"United States , TN , Nashville",2005
+Malcolm Glazer,77,1.1,United States,"United States , FL , Palm Beach",2005
+Blase Golisano,63,1.1,United States,"United States , NY , Rochester",2005
+David Gottesman,78,1.1,United States,"United States , NY , Rye",2005
+Pincus Green,69,1.1,United States,"Switzerland , Meggan",2005
+Albert Gubay,79,1.1,United Kingdom,"United Kingdom , Isle of Man",2005
+Han Chang-Woo,74,1.1,Japan,"Japan , Kyoto",2005
+Marvin Herb,68,1.1,United States,"United States , IL , Chicago",2005
+George Joseph,83,1.1,United States,"United States , CA , Los Angeles",2005
+William Kellogg,61,1.1,United States,"United States , WI , Oconomowoc",2005
+Richard Li,38,1.1,Hong Kong,"Hong Kong , Hong Kong",2005
+L Lowry Mays,69,1.1,United States,"United States , TX , San Antonio",2005
+Kenneth Morrison,73,1.1,United Kingdom,"United Kingdom , Bradford",2005
+Anthony O'Reilly,68,1.1,Ireland,"Ireland , Dublin",2005
+Bernard Osher,77,1.1,United States,"United States , CA , San Francisco",2005
+Nelson Peltz,62,1.1,United States,"United States , NY , Bedford",2005
+Michael Price,52,1.1,United States,"United States , NJ , Far Hills",2005
+Nicholas Pritzker II,61,1.1,United States,"United States , IL , Chicago",2005
+Marc Rich,70,1.1,United States,"Switzerland , Meggan",2005
+Jesse Robinson,81,1.1,United States,"United States , GA , Atlanta",2005
+Edward Roski Jr,66,1.1,United States,"United States , CA , Los Angeles",2005
+Erol Sabanci,67,1.1,Turkey,"Turkey , Istanbul",2005
+Sevket Sabanci,69,1.1,Turkey,"Turkey , Istanbul",2005
+Herbert Sandler,73,1.1,United States,"United States , CA , San Francisco",2005
+Marion Sandler,74,1.1,United States,"United States , CA , San Francisco",2005
+Herbert Siegel,77,1.1,United States,"United States , NY , New York",2005
+Alexander Spanos,81,1.1,United States,"United States , CA , Stockton",2005
+Joyce Raley Teel,74,1.1,United States,"United States , CA , Sacramento",2005
+Kenny Troutt,57,1.1,United States,"United States , TX , Dallas",2005
+Charlotte Colket Weber,62,1.1,United States,"United States , FL , Ocala",2005
+John Anderson,87,1,United States,"United States , CA , Bel Air",2005
+Edmund Ansin,69,1,United States,"United States , FL , Miami Beach",2005
+John Arrillaga,67,1,United States,"United States , CA , Palo Alto",2005
+Nadhmi Auchi,--,1,United Kingdom,"United Kingdom , London",2005
+Emilio Azcarraga Jean,37,1,Mexico,"Mexico , Mexico City",2005
+Thomas Bailey,68,1,United States,"United States , CO , Aspen",2005
+Perry Bass,90,1,United States,"United States , TX , Fort Worth",2005
+Neil Bluhm,67,1,United States,"United States , IL , Chicago",2005
+Amar Bose,76,1,United States,"United States , MA , Framingham",2005
+Thomas Bruch,54,1,Germany,"Germany , St Wendel",2005
+John Caudwell,52,1,United Kingdom,"United Kingdom , Stoke-on-Trent",2005
+Harvey Chaplin & family,76,1,United States,"United States , FL , Miami",2005
+Patokh Chodiev,51,1,Kazakhstan,"Kazakhstan , Almaty",2005
+Gary Comer,77,1,United States,"United States , IL , Chicago",2005
+Scott Cook,52,1,United States,"United States , CA , Woodside",2005
+Aydin Dogan,--,1,Turkey,"Turkey , Istanbul",2005
+John Edson,72,1,United States,"United States , WA , Seattle",2005
+Paul Fireman,61,1,United States,"United States , MA , Newton",2005
+J Flowers,47,1,United States,"United States , NY , New York",2005
+William Ford Sr,80,1,United States,"United States , MI , Grosse Pointe Shores",2005
+William Gross,60,1,United States,"United States , CA , Newport Beach",2005
+Dorrance Hamilton,76,1,United States,"United States , PA , Wayne",2005
+Ingeburg Herz,--,1,Germany,"Germany , Hamburg",2005
+William Barron Hilton,77,1,United States,"United States , CA , Los Angeles",2005
+Dietmar Hopp,64,1,Germany,"Germany , Waldorf",2005
+Alijan Ibragimov,51,1,Kazakhstan,"Kazakhstan , Almaty",2005
+Jeremy Jacobs Sr,65,1,United States,"United States , NY , East Aurora",2005
+Jerral Jones,62,1,United States,"United States , TX , Dallas",2005
+Paul Jones II,51,1,United States,"United States , CT , Greenwich",2005
+Morris Kahn,75,1,Israel,Israel,2005
+Jeffrey Katzenberg,54,1,United States,"United States , CA , Beverly Hills",2005
+Nasser Khalili,59,1,United Kingdom,"United Kingdom , London",2005
+James Kim & family,69,1,United States,"United States , PA , Bryn Mawr",2005
+Jerome Kohlberg Jr,79,1,United States,"United States , NY , Mt Kisco",2005
+Jan Kulczyk,55,1,Poland,"Poland , Poznan",2005
+Leon Levine & family,67,1,United States,"United States , NC , Charlotte",2005
+Gary Magness,51,1,United States,"United States , CO , Cherry Hills",2005
+Richard Manoogian,68,1,United States,"United States , MI , Grosse Pointe Farms",2005
+Steno Marcegaglia & family,74,1,Italy,"Italy , Mantova",2005
+Anne Windfohr Marion,65,1,United States,"United States , TX , Fort Worth",2005
+Alexander Mashkevich,50,1,Kazakhstan,"Kazakhstan , Almaty",2005
+Terence (Terry) Matthews,61,1,United Kingdom,"Canada , Ottawa",2005
+Alain Merieux & family,67,1,France,"France , Lyon",2005
+Arnon Milchan,60,1,Israel,"Israel , Tel Aviv",2005
+Michael Milken,58,1,United States,"United States , CA , Los Angeles",2005
+William Morean,49,1,United States,"United States , FL , St Petersburg",2005
+Axel Oberwelland,38,1,Germany,"Germany , Berlin",2005
+Klaus Oberwelland,66,1,Germany,"Germany , Berlin",2005
+Husnu Ozyegin,60,1,Turkey,"Turkey , Izmir",2005
+Richard Peery,64,1,United States,"United States , CA , Palo Alto",2005
+Stewart Rahr,59,1,United States,"United States , NY , New York",2005
+Arthur Rock,78,1,United States,"United States , CA , San Francisco",2005
+Wilbur Ross Jr,67,1,United States,"United States , NY , New York",2005
+Joanne (JK) Rowling,39,1,United Kingdom,"Scotland , Edinburgh",2005
+Lily Safra,67,1,Monaco,Monaco,2005
+Monika Schoeller,66,1,Germany,"Germany , Stuttgart",2005
+Wen Long Shi & family,77,1,Taiwan,"Taiwan , Tainan",2005
+Carlos Sicupira,57,1,Brazil,"Brazil , Sao Paulo",2005
+Charles Simonyi,57,1,United States,"United States , WA , Medina",2005
+Zygmunt Solorz-Zak,48,1,Poland,"Poland , Warsaw",2005
+Martha Stewart,63,1,United States,"United States , CT , Westport",2005
+Kerry Stokes,63,1,Australia,"Australia , Perth",2005
+Serhiy Taruta,50,1,Ukraine,"Ukraine , Donetsk",2005
+A Alfred Taubman,80,1,United States,"United States , MI , Bloomfield Hills",2005
+Tiong Hiew King,69,1,Malaysia,"Malaysia , Sibu",2005
+Hope Hill Van Beuren,71,1,United States,"United States , RI , Middletown",2005
+Andreas von Bechtolsheim,49,1,United States,"United States , CA , Palo Alto",2005
+Dieter von Holtzbrinck,63,1,Germany,"Germany , Stuttgart",2005
+Stefan von Holtzbrinck,41,1,Germany,"Germany , Stuttgart",2005
+Todd Wagner,44,1,United States,"United States , TX , Dallas",2005
+Samuel Wyly,69,1,United States,"United States , TX , Dallas",2005
+Ahmet Zorlu,60,1,Turkey,"Turkey , Istanbul",2005

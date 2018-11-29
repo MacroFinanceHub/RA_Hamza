@@ -1,0 +1,1827 @@
+name,country,age,wealth,source,year
+Bill Gates,United States,59,79.2,Microsoft,2015
+Carlos Slim Helu,Mexico,75,77.1,Telecom,2015
+Warren Buffett,United States,84,72.7,Berkshire Hathaway,2015
+Amancio Ortega,Spain,78,64.5,Zara,2015
+Larry Ellison,United States,70,54.3,Oracle,2015
+Charles Koch,United States,79,42.9,Diversified,2015
+David Koch,United States,74,42.9,Diversified,2015
+Christy Walton,United States,60,41.7,Wal-Mart,2015
+Jim Walton,United States,67,40.6,Wal-Mart,2015
+Liliane Bettencourt,France,92,40.1,L'Or_al,2015
+Alice Walton,United States,65,39.4,Wal-Mart,2015
+S. Robson Walton,United States,71,39.1,Wal-Mart,2015
+Bernard Arnault,France,66,37.2,Lvmh,2015
+Michael Bloomberg,United States,73,35.5,Bloomberg Lp,2015
+Jeff Bezos,United States,51,34.8,Amazon.Com,2015
+Mark Zuckerberg,United States,30,33.4,Facebook,2015
+Li Ka-shing,Hong Kong,86,33.3,Diversified,2015
+Sheldon Adelson,United States,81,31.4,Casinos,2015
+Larry Page,United States,41,29.7,Google,2015
+Sergey Brin,United States,41,29.2,Google,2015
+Georg Schaeffler,Germany,50,26.9,Ball Bearings,2015
+"Forrest Mars, Jr.",United States,83,26.6,Candy,2015
+Jacqueline Mars,United States,75,26.6,Candy,2015
+John Mars,United States,78,26.6,Candy,2015
+David Thomson,Canada,57,25.5,Media,2015
+Jorge Paulo Lemann,Brazil,75,25,Beer,2015
+Lee Shau Kee,Hong Kong,87,24.8,Real Estate,2015
+Stefan Persson,Sweden,67,24.5,H&M,2015
+George Soros,United States,84,24.2,Hedge Funds,2015
+Wang Jianlin,China,60,24.2,Real Estate,2015
+Carl Icahn,United States,79,23.5,Investments,2015
+Maria Franca Fissolo,Italy,97,23.4,"Nutella, Chocolates",2015
+Jack Ma,China,50,22.7,E-Commerce,2015
+Prince Alwaleed Bin Talal Alsaud,Saudi Arabia,59,22.6,Investments,2015
+Steve Ballmer,United States,58,21.5,Microsoft,2015
+Phil Knight,United States,77,21.5,Nike,2015
+Beate Heister & Karl Albrecht Jr.,Germany,n/a,21.3,Supermarkets,2015
+Li Hejun,China,47,21.1,Solar Power Equipment,2015
+Mukesh Ambani,India,57,21,"Petrochemicals, Oil & Gas",2015
+Leonardo Del Vecchio,Italy,79,20.4,Eyeglasses,2015
+Len Blavatnik,United States,57,20.2,Diversified,2015
+Tadashi Yanai,Japan,66,20.2,Retail,2015
+Charles Ergen,United States,62,20.1,Dish Network,2015
+Dilip Shanghvi,India,59,20,Pharmaceuticals,2015
+Laurene Powell Jobs,United States,51,19.5,"Apple, Disney",2015
+Dieter Schwarz,Germany,75,19.4,Retail,2015
+Michael Dell,United States,50,19.2,Dell,2015
+Azim Premji,India,69,19.1,Software,2015
+"Theo Albrecht, Jr.",Germany,64,19,"Aldi, Trader Joe's",2015
+Michael Otto,Germany,71,18.1,"Retail, Real Estate",2015
+Paul Allen,United States,62,17.5,"Microsoft, Investments",2015
+Joseph Safra,Brazil,76,17.3,Banking,2015
+Anne Cox Chambers,United States,95,17,Media,2015
+Susanne Klatten,Germany,52,16.8,"Bmw, Pharmaceuticals",2015
+Pallonji Mistry,Ireland,85,16.3,Construction,2015
+Ma Huateng,China,43,16.1,Internet Media,2015
+Patrick Drahi,France,51,16,Telecom,2015
+Thomas & Raymond Kwok,Hong Kong,n/a,15.9,Real Estate,2015
+Stefan Quandt,Germany,48,15.6,Bmw,2015
+Ray Dalio,United States,65,15.4,Hedge Funds,2015
+Vladimir Potanin,Russia,54,15.4,Metals,2015
+Serge Dassault,France,89,15.3,Aviation,2015
+Robin Li,China,46,15.3,Internet Search,2015
+Donald Bren,United States,82,15.2,Real Estate,2015
+Francois Pinault,France,78,14.9,Retail,2015
+Shiv Nadar,India,69,14.8,Information Technology,2015
+Aliko Dangote,Nigeria,57,14.7,"Cement, Sugar, Flour",2015
+Mikhail Fridman,Russia,50,14.6,"Oil, Banking, Telecom",2015
+Hinduja Brothers,United Kingdom,n/a,14.5,Diversified,2015
+Ronald Perelman,United States,72,14.5,Leveraged Buyouts,2015
+Cheng Yu-tung,Hong Kong,89,14.4,Diversified,2015
+Alisher Usmanov,Russia,61,14.4,"Steel & Mining, Telecom, Investments",2015
+Henry Sy,Philippines,90,14.2,Diversified,2015
+Viktor Vekselberg,Russia,57,14.2,"Metals, Energy",2015
+Masayoshi Son,Japan,57,14.1,"Internet, Telecom",2015
+James Simons,United States,76,14,Hedge Funds,2015
+German Larrea Mota Velasco,Mexico,61,13.9,Mining,2015
+Rupert Murdoch,United States,83,13.9,Media,2015
+Johanna Quandt,Germany,88,13.9,Bmw,2015
+David & Simon Reuben,United Kingdom,72,13.7,"Investments, Real Estate",2015
+Dhanin Chearavanont,Thailand,75,13.6,Food,2015
+Iris Fontbona,Chile,72,13.5,Mining,2015
+Lui Che Woo,Hong Kong,85,13.5,Casinos,2015
+Lakshmi Mittal,India,64,13.5,Steel,2015
+Abigail Johnson,United States,53,13.4,Money Management,2015
+Luis Carlos Sarmiento,Colombia,82,13.4,Banking,2015
+Lei Jun,China,45,13.2,Smartphones,2015
+Charoen Sirivadhanabhakdi,Thailand,70,13.2,Beverages,2015
+Alexey Mordashov,Russia,49,13,"Steel, Investments",2015
+Marcel Herrmann Telles,Brazil,65,13,Beer,2015
+Gerald Cavendish Grosvenor,United Kingdom,63,12.6,Real Estate,2015
+Hans Rausing,Sweden,88,12.5,Packaging,2015
+Jack Taylor,United States,92,12.5,Enterprise Rent-A-Car,2015
+Charles Butt,United States,77,12.3,Supermarkets,2015
+Gina Rinehart,Australia,61,12.3,Mining,2015
+Vagit Alekperov,Russia,64,12.2,Lukoil,2015
+Harold Hamm,United States,69,12.2,Oil & Gas,2015
+Patrick Soon-Shiong,United States,63,12.2,Pharmaceuticals,2015
+Stefano Pessina,Italy,73,12.1,Drugstores,2015
+Richard Kinder,United States,70,12,Pipelines,2015
+Elon Musk,United States,43,12,Tesla Motors,2015
+Stephen Schwarzman,United States,68,12,Investments,2015
+Klaus-Michael Kuehne,Germany,77,11.9,Shipping,2015
+Philip Anschutz,United States,75,11.8,Investments,2015
+Andrew Beal,United States,62,11.7,"Banks, Real Estate",2015
+Leonid Mikhelson,Russia,59,11.7,"Gas, Chemicals",2015
+Charlene de Carvalho-Heineken,Netherlands,60,11.6,Heineken,2015
+Vladimir Lisin,Russia,58,11.6,"Steel, Transport",2015
+Steve Cohen,United States,59,11.4,Hedge Funds,2015
+Robert Kuok,Malaysia,91,11.3,Diversified,2015
+Lee Kun-Hee,South Korea,73,11.3,Electronics/Insurance,2015
+Carlos Alberto Sicupira,Brazil,67,11.3,Beer,2015
+John Paulson,United States,59,11.2,Hedge Funds,2015
+Joseph Lau,Hong Kong,63,10.9,Real Estate,2015
+Thomas Peterffy,United States,70,10.9,Discount Brokerage,2015
+Mohammed Al Amoudi,Saudi Arabia,68,10.8,"Oil, Diversified",2015
+Dietrich Mateschitz,Austria,70,10.8,Red Bull,2015
+Hank & Doug Meijer,United States,n/a,10.7,Supermarkets,2015
+Gennady Timchenko,Russia,62,10.7,Oil & Gas,2015
+John Fredriksen,Cyprus,70,10.5,Shipping,2015
+Alberto Bailleres Gonzalez,Mexico,83,10.4,Mining,2015
+Massimiliana Landini Aleotti,Italy,72,10.4,Pharmaceuticals,2015
+David Tepper,United States,57,10.4,Hedge Funds,2015
+Zong Qinghou,China,69,10.3,Beverages,2015
+Pierre Castel,France,88,9.9,Wine,2015
+He Xiangjian,China,72,9.9,Home Appliances,2015
+Mikhail Prokhorov,Russia,49,9.9,Investments,2015
+Wang Wenyin,China,47,9.9,"Mining, Copper Products",2015
+Ananda Krishnan,Malaysia,76,9.7,Telecom,2015
+Kjeld Kirk Kristiansen,Denmark,67,9.7,Lego,2015
+Robert & Philip Ng,Singapore,n/a,9.6,Real Estate,2015
+Galen Weston,Canada,74,9.6,Retail,2015
+German Khan,Russia,53,9.5,"Banking, Telecom, Retail",2015
+Alain Wertheimer,France,66,9.5,Chanel,2015
+Gerard Wertheimer,France,64,9.5,Chanel,2015
+Xavier Niel,France,47,9.3,"Internet, Telecom",2015
+Roman Abramovich,Russia,48,9.1,"Steel, Investments",2015
+Leonard Lauder,United States,81,9.1,Estee Lauder,2015
+Andrey Melnichenko,Russia,42,9.1,"Coal, Fertilizers",2015
+Hasso Plattner,Germany,71,9.1,Software,2015
+Eric Schmidt,United States,59,9.1,Google,2015
+Kumar Birla,India,47,9,Commodities,2015
+R. Budi Hartono,Indonesia,74,9,"Banking, Tobacco",2015
+George Kaiser,United States,72,9,"Oil & Gas, Banking",2015
+"John Menard, Jr.",United States,75,9,Retail,2015
+"Samuel Newhouse, Jr.",United States,87,9,Media,2015
+Tsai Eng-Meng,Taiwan,58,8.9,"Food, Beverages",2015
+Wei Jianjun,China,51,8.9,Automobiles,2015
+Ernesto Bertarelli,Switzerland,49,8.8,"Biotech, Investments",2015
+Carrie Perrodo,France,64,8.8,Inherited,2015
+Michael Hartono,Indonesia,75,8.7,"Tobacco, Banking",2015
+Hiroshi Mikitani,Japan,50,8.7,Online Retailing,2015
+Pan Sutong,Hong Kong,52,8.6,Real Estate,2015
+Klaus Tschira,Germany,74,8.6,Software,2015
+Peter Woo,Hong Kong,69,8.6,Real Estate,2015
+Jim Kennedy,United States,67,8.5,Media,2015
+Eyal Ofer,Israel,64,8.5,"Real Estate, Shipping",2015
+Blair Parry-Okeden,United States,64,8.5,Media,2015
+Dmitry Rybolovlev,Russia,48,8.5,Fertilizer,2015
+Petr Kellner,Czech Republic,50,8.4,"Banking, Insurance",2015
+Margarita Louis-Dreyfus,Switzerland,51,8.4,Commodities,2015
+Sergei Galitsky,Russia,47,8.3,Retail,2015
+John Malone,United States,73,8.3,Cable Television,2015
+Donald Newhouse,United States,85,8.3,Media,2015
+Joao Roberto Marinho,Brazil,61,8.2,Media,2015
+Jose Roberto Marinho,Brazil,59,8.2,Media,2015
+Roberto Irineu Marinho,Brazil,67,8.2,Media,2015
+Pierre Omidyar,United States,47,8,Ebay,2015
+Ricardo Salinas Pliego,Mexico,59,8,"Retail, Media",2015
+Gianluigi & Rafaela Aponte,Switzerland,n/a,7.9,Shipping,2015
+Dustin Moskovitz,United States,30,7.9,Facebook,2015
+August von Finck,Germany,84,7.7,Investments,2015
+Leslie Wexner,United States,77,7.7,Retail,2015
+Giorgio Armani,Italy,80,7.6,Fashion,2015
+"Thomas Frist, Jr.",United States,76,7.6,Health Care,2015
+Takemitsu Takizaki,Japan,69,7.6,Sensors,2015
+James Goodnight,United States,72,7.5,Software,2015
+Jim Pattison,Canada,86,7.5,Diversified,2015
+Silvio Berlusconi,Italy,78,7.4,Media,2015
+David Duffield,United States,74,7.4,Business Software,2015
+"Edward Johnson, III.",United States,84,7.4,Money Management,2015
+Liu Qiangdong,China,40,7.4,E-Commerce,2015
+Johann Rupert,South Africa,64,7.4,Luxury Goods,2015
+Alexei Kuzmichev,Russia,52,7.3,"Banking, Telecom, Retail",2015
+Eli Broad,United States,81,7.2,Investments,2015
+Charles Cadogan,United Kingdom,77,7.2,Real Estate,2015
+Dietmar Hopp,Germany,74,7.2,Software,2015
+Uday Kotak,India,55,7.2,Banking,2015
+Jay Y. Lee,South Korea,46,7.2,Electronics/Tourism,2015
+Suh Kyung-Bae,South Korea,52,7.2,Cosmetics,2015
+Micky Arison,United States,65,7.1,Carnival Cruises,2015
+Emmanuel Besnier,France,44,7.1,Cheese,2015
+Walter Kwok,Hong Kong,64,7,Real Estate,2015
+Ralph Lauren,United States,75,7,Ralph Lauren,2015
+David Geffen,United States,72,6.9,Entertainment,2015
+Graeme Hart,New Zealand,59,6.9,Investments,2015
+Gordon Moore,United States,86,6.9,Intel,2015
+Wang Jing,China,42,6.9,Telecom Services,2015
+Goh Cheng Liang,Singapore,n/a,6.8,Paints,2015
+Denis O'Brien,Ireland,56,6.8,Telecom,2015
+Rinat Akhmetov,Ukraine,48,6.7,"Steel, Coal",2015
+Vincent Bollore,France,62,6.7,Investments,2015
+Jean-Claude Decaux,France,77,6.7,Advertising,2015
+Eva Gonda de Rivera,Mexico,n/a,6.7,Beverages,2015
+Nicky Oppenheimer,South Africa,69,6.7,Diamonds,2015
+Maria-Elisabeth Schaeffler,Germany,73,6.7,Ball Bearings,2015
+Reinhold Wuerth,Germany,79,6.7,Fasteners,2015
+Gautam Adani,India,52,6.6,"Commodities, Infrastructure",2015
+William Ding,China,43,6.6,Online Games,2015
+Johann Graf,Austria,68,6.6,Gambling,2015
+Charles Johnson,United States,82,6.6,Money Management,2015
+Jan Koum,United States,39,6.6,Whatsapp,2015
+Liu Yongxing,China,66,6.6,Agribusiness,2015
+Sunil Mittal,India,57,6.6,Telecom,2015
+Cyrus Poonawalla,India,73,6.6,Vaccines,2015
+Carl Cook,United States,52,6.5,Medical Devices,2015
+Ken Griffin,United States,46,6.5,Hedge Funds,2015
+James Irving,Canada,86,6.5,Diversified,2015
+Stephen Ross,United States,74,6.5,Real Estate,2015
+Abdulla bin Ahmad Al Ghurair,United Arab Emirates,n/a,6.4,Diversified,2015
+Richard LeFrak,United States,69,6.4,Real Estate,2015
+Melker Schorling,Sweden,67,6.4,Investments,2015
+Charles Schwab,United States,77,6.4,Discount Brokerage,2015
+Heinz Hermann Thiele,Germany,73,6.4,Brakes,2015
+Stanley Kroenke,United States,67,6.3,"Sports, Real Estate",2015
+Sandra Ortega Mera,Spain,46,6.3,Zara,2015
+Sumner Redstone,United States,91,6.3,Media,2015
+Nassef Sawiris,Egypt,54,6.3,Construction,2015
+Christoffel Wiese,South Africa,73,6.3,Retailing,2015
+Majid Al Futtaim,United Arab Emirates,n/a,6.2,"Real Estate, Retail",2015
+Dannine Avara,United States,51,6.2,Pipelines,2015
+Oleg Deripaska,Russia,47,6.2,"Aluminum, Utilities",2015
+Scott Duncan,United States,32,6.2,Pipelines,2015
+Curt Engelhorn,Germany,88,6.2,Pharmaceuticals,2015
+Milane Frantz,United States,45,6.2,Pipelines,2015
+Hui Ka Yan,China,56,6.2,Real Estate,2015
+"Rupert Johnson, Jr.",United States,73,6.2,Money Management,2015
+Michael Kadoorie,Hong Kong,73,6.2,Diversified,2015
+Kelcy Warren,United States,59,6.2,Pipelines,2015
+Chan Laiwa,China,74,6.1,Real Estate,2015
+Terry Gou,Taiwan,64,6.1,Electronics,2015
+Willi & Isolde Liebherr,Switzerland,n/a,6.1,Construction,2015
+Ira Rennert,United States,80,6.1,Investments,2015
+Randa Williams,United States,53,6.1,Pipelines,2015
+Hansjoerg Wyss,Switzerland,80,6.1,Medical Devices,2015
+David Green,United States,73,6,Retail,2015
+Augusto & Giorgio Perfetti,Italy,n/a,6,Candy,2015
+Jin Sook & Do Won Chang,United States,60,5.9,Fashion Retail,2015
+Bruce Halle,United States,84,5.9,Tires,2015
+Lu Zhiqiang,China,62,5.9,Diversified,2015
+Bruno Schroder,United Kingdom,82,5.9,Banking,2015
+Joseph Tsai,Canada,51,5.9,E-Commerce,2015
+Dennis Washington,United States,80,5.9,"Construction, Mining",2015
+"John Gokongwei, Jr.",Philippines,87,5.8,Diversified,2015
+Desh Bandhu Gupta,India,77,5.8,Pharmaceuticals,2015
+Pauline MacMillan Keinath,United States,81,5.8,Cargill,2015
+Loretta Robinson,Canada,75,5.8,Cable Tv,2015
+Zhang Zhidong,China,43,5.8,Internet Media,2015
+Chung Mong-Koo,South Korea,76,5.7,Motor Vehicles,2015
+Richard DeVos,United States,89,5.7,Amway,2015
+Guo Guangchang,China,48,5.7,Diversified,2015
+Lin Yu-lin,Taiwan,79,5.7,Real Estate,2015
+Andrei Skoch,Russia,49,5.7,Steel,2015
+Juan-Miguel Villar Mir,Spain,83,5.7,Construction,2015
+Maria Asuncion Aramburuzabala,Mexico,51,5.6,"Beer, Investments",2015
+Ray Lee Hunt,United States,72,5.6,"Oil, Real Estate",2015
+Ann Walton Kroenke,United States,66,5.6,Wal-Mart,2015
+Quek Leng Chan,Malaysia,73,5.6,"Banking, Real Estate",2015
+Keiichiro Takahara,Japan,83,5.6,Diapers,2015
+Stef Wertheimer,Israel,88,5.6,Tools,2015
+Arthur Irving,Canada,85,5.5,Oil,2015
+"Herbert Kohler, Jr.",United States,76,5.5,Plumbing Fixtures,2015
+Anders Holch Povlsen,Denmark,42,5.5,Retail,2015
+Jorn Rausing,Sweden,55,5.5,Inherited,2015
+Thomas Schmidheiny,Switzerland,69,5.5,Cement,2015
+Cho Yaw Wee,Singapore,86,5.5,Banking,2015
+Hui Wing Mau,Hong Kong,64,5.4,Real Estate,2015
+Joe Lewis,United Kingdom,78,5.4,Investments,2015
+Juan Roig,Spain,65,5.4,Supermarkets,2015
+Robert Rowling,United States,61,5.4,Investments,2015
+Teh Hong Piow,Malaysia,84,5.4,Banking,2015
+Harry Triguboff,Australia,82,5.4,Property,2015
+Leon Black,United States,63,5.3,Private Equity,2015
+Carlos and Alejandro Bulgheroni,Argentina,n/a,5.3,Oil And Gas,2015
+Garrett Camp,Canada,36,5.3,Car Service,2015
+Leonid Fedun,Russia,58,5.3,Lukoil,2015
+Savitri Jindal,India,64,5.3,Steel,2015
+Antonia Johnson,Sweden,71,5.3,Diversified,2015
+Travis Kalanick,United States,38,5.3,Car Service,2015
+Leonard Stern,United States,76,5.3,Real Estate,2015
+David & Frederick Barclay,United Kingdom,81,5.2,"Media, Retail",2015
+Vivien Chen,Hong Kong,56,5.2,Real Estate,2015
+Bidzina Ivanishvili,Georgia,59,5.2,Investments,2015
+Micky Jagtiani,India,63,5.2,Retail,2015
+Henry Kravis,United States,71,5.2,Private Equity,2015
+James Packer,Australia,47,5.2,Casinos,2015
+"Enrique Razon, Jr.",Philippines,55,5.2,Ports,2015
+Odd Reitan,Norway,63,5.2,"Retail, Real Estate",2015
+George Roberts,United States,71,5.2,Private Equity,2015
+Paolo & Gianfelice Mario Rocca,Italy,n/a,5.2,Pipe Manufacturing,2015
+Pyotr Aven,Russia,59,5.1,"Banking, Telecom",2015
+Ivan Glasenberg,Switzerland,58,5.1,Mining,2015
+Philip & Cristina Green,United Kingdom,62,5.1,Retail,2015
+Lu Guanqiu,China,70,5.1,Diversified,2015
+Arnon Milchan,Israel,70,5.1,Movie Making,2015
+Dan Olsson,Sweden,68,5.1,Diversified,2015
+Finn Rausing,Sweden,60,5.1,Inherited,2015
+Kirsten Rausing,Sweden,62,5.1,Packaging,2015
+Laurence Graff,United Kingdom,76,5,Diamond Jewelry,2015
+Pansy Ho,Hong Kong,52,5,Casinos,2015
+Bertil Hult,Sweden,74,5,Education,2015
+Karl-Heinz Kipp,Germany,91,5,Retail,2015
+Bruce Kovner,United States,70,5,Hedge Funds,2015
+George Lucas,United States,70,5,Star Wars,2015
+David Sun,United States,63,5,Computer Hardware,2015
+John Tu,United States,74,5,Computer Hardware,2015
+Yang Huiyan,China,33,5,Real Estate,2015
+Michael Ashley,United Kingdom,50,4.9,Sports Retailing,2015
+James Dyson,United Kingdom,67,4.9,Vacuums,2015
+Albert Frere,Belgium,89,4.9,Investments,2015
+Jeffery Hildebrand,United States,56,4.9,Oil,2015
+Kwee brothers,Singapore,70,4.9,Real Estate,2015
+Liang Wengen,China,58,4.9,Construction Equipment,2015
+Frank Lowy,Australia,84,4.9,Shopping Malls,2015
+Frederik Paulsen,Sweden,64,4.9,Health Care,2015
+Sam Zell,United States,73,4.9,"Real Estate, Private Equity",2015
+Daniel Ziff,United States,43,4.9,Investments,2015
+Dirk Ziff,United States,50,4.9,Investments,2015
+Robert Ziff,United States,48,4.9,Investments,2015
+Isak Andic,Spain,61,4.8,Clothing Retail,2015
+Richard Branson,United Kingdom,64,4.8,Virgin,2015
+Adi Godrej,India,72,4.8,Consumer Goods,2015
+Jamshyd Godrej,India,66,4.8,Consumer Goods,2015
+Michael & Marian Ilitch,United States,85,4.8,Pizza,2015
+Ted Lerner,United States,89,4.8,Real Estate,2015
+Idan Ofer,Israel,59,4.8,"Drilling, Shipping",2015
+Emanuele (Lino) Saputo,Canada,78,4.8,Cheese,2015
+Eduardo Saverin,Brazil,32,4.8,Facebook,2015
+Andrew Tan,Philippines,62,4.8,Diversified,2015
+Zhou Jianping,China,54,4.8,Apparel,2015
+Phillip Frost,United States,78,4.7,Pharmaceuticals,2015
+Daniel Gilbert,United States,53,4.7,Quicken Loans,2015
+Gong Hongjia,Hong Kong,50,4.7,Investments,2015
+Stein Erik Hagen,Norway,58,4.7,Retail,2015
+Reid Hoffman,United States,47,4.7,Linkedin,2015
+Nancy Walton Laurie,United States,63,4.7,Wal-Mart,2015
+Liu Yonghao,China,63,4.7,Agribusiness,2015
+Sri Prakash Lohia,Indonesia,62,4.7,Polyester,2015
+Whitney MacMillan,United States,86,4.7,Cargill,2015
+John A. Sobrato,United States,75,4.7,Real Estate,2015
+Tong Jinquan,China,60,4.7,Real Estate,2015
+Dona Bertarelli,Switzerland,47,4.6,Biotech,2015
+Heinrich Deichmann,Germany,52,4.6,Footwear,2015
+"Paul Tudor Jones, II.",United States,60,4.6,Hedge Funds,2015
+Randal Kirk,United States,61,4.6,Pharmaceuticals,2015
+Lee Shin Cheng,Malaysia,76,4.6,"Palm Oil, Real Estate",2015
+Ludwig Merckle,Germany,50,4.6,Pharmaceuticals,2015
+Sergei Popov,Russia,43,4.6,Banking,2015
+Mark Shoen,United States,63,4.6,U-Haul,2015
+Alexander Abramov,Russia,56,4.5,"Steel, Mining",2015
+Pierre Bellon,France,85,4.5,Food Services,2015
+Kunio Busujima,Japan,89,4.5,Gaming,2015
+Michael Herz,Germany,71,4.5,Coffee,2015
+Wolfgang Herz,Germany,64,4.5,Coffee,2015
+Elizabeth Holmes,United States,31,4.5,Blood Testing,2015
+Shahid Khan,United States,64,4.5,Auto Parts,2015
+Richard Li,Hong Kong,48,4.5,Telecoms,2015
+Shashi & Ravi Ruia,India,n/a,4.5,Diversified,2015
+Americo Amorim,Portugal,80,4.4,"Energy, Investments",2015
+Shari Arison,Israel,57,4.4,Carnival Cruises,2015
+Abilio dos Santos Diniz,Brazil,78,4.4,Retail,2015
+Guenther Fielmann,Germany,75,4.4,Optometry,2015
+Filaret Galchev,Russia,51,4.4,Construction Materials,2015
+Ian & Richard Livingstone,United Kingdom,n/a,4.4,Real Estate,2015
+Horst Paulmann,Chile,80,4.4,Retail,2015
+Alejandro Santo Domingo,United States,38,4.4,Beer,2015
+Andres Santo Domingo,United States,36,4.4,Beer,2015
+Lucio Tan,Philippines,80,4.4,Diversified,2015
+George Ty,Philippines,82,4.4,Banking,2015
+Murat Ulker,Turkey,55,4.4,Food Manufacturing,2015
+Jeronimo Arango,Mexico,89,4.3,Retail,2015
+Anthony Bamford,United Kingdom,69,4.3,Construction Equipment,2015
+Charles Dolan,United States,88,4.3,Cable Television,2015
+Tamara Gustavson,United States,53,4.3,Self Storage,2015
+Zarakh Iliev,Russia,48,4.3,Real Estate,2015
+Robert Kraft,United States,73,4.3,New England Patriots,2015
+Luo Jye,Taiwan,89,4.3,Tires,2015
+God Nisanov,Russia,42,4.3,Real Estate,2015
+Karen Pritzker,United States,57,4.3,"Hotels, Investments",2015
+Trevor Rees-Jones,United States,63,4.3,Oil & Gas,2015
+Chairul Tanjung,Indonesia,52,4.3,Diversified,2015
+Lottie Tham,Sweden,65,4.3,H&M,2015
+Mike Adenuga,Nigeria,61,4.2,"Telcom, Oil",2015
+Subhash Chandra,India,64,4.2,Media,2015
+Gustaf Douglas,Sweden,77,4.2,Security,2015
+Han Chang-Woo,Japan,84,4.2,Pachinko Parlors,2015
+Jerry Jones,United States,72,4.2,Dallas Cowboys,2015
+Kirk Kerkorian,United States,97,4.2,"Casinos, Investments",2015
+Lin Rong San,Taiwan,75,4.2,Real Estate,2015
+Stewart and Lynda Resnick,United States,n/a,4.2,"Agriculture, Water",2015
+Wang Wei,China,44,4.2,Package Delivery Service,2015
+Karl Wlaschek,Austria,97,4.2,Retail,2015
+Aloys Wobben,Germany,63,4.2,Wind Turbines,2015
+Zhang Jindong,China,51,4.2,Appliance Retailer,2015
+Prince Sultan bin Mohammed bin Saud Al Kabeer,Saudi Arabia,61,4.1,Dairy Farms,2015
+Benu Gopal Bangur,India,83,4.1,Cement,2015
+Patrizio Bertelli,Italy,69,4.1,Luxury Goods,2015
+David Consunji,Philippines,93,4.1,Construction,2015
+Frits Goldschmeding,Netherlands,81,4.1,Temp Agency,2015
+Martha Ingram,United States,79,4.1,"Book Distribution, Transportation",2015
+Barry Lam,Taiwan,65,4.1,Computers,2015
+John Morris,United States,66,4.1,Sporting Goods Retail,2015
+Miuccia Prada,Italy,65,4.1,Prada,2015
+Mark Scheinberg,Canada,41,4.1,Online Gambling,2015
+David Shaw,United States,63,4.1,Hedge Funds,2015
+Donald Trump,United States,68,4.1,"Television, Real Estate",2015
+Zhang Shiping,China,68,4.1,Aluminum Products,2015
+Anil Ambani,India,55,4,Diversified,2015
+Samvel Karapetyan,Russia,49,4,Development,2015
+Jan Kulczyk,Poland,65,4,"Telecom, Oil, Beer",2015
+Tom & Judy Love,United States,77,4,Retail & Gas Stations,2015
+Mohamed Mansour,Egypt,67,4,Diversified,2015
+Mitchell Rales,United States,58,4,"Manufacturing, Investments",2015
+Wolfgang Reimann,Germany,62,4,Consumer Goods,2015
+Matthias Reimann-Andersen,Germany,49,4,Consumer Goods,2015
+Stefan Reimann-Andersen,Germany,51,4,Consumer Goods,2015
+Renate Reimann-Haas,Germany,63,4,Consumer Goods,2015
+J. Christopher Reyes,United States,61,4,Food Distribution,2015
+Jude Reyes,United States,59,4,Food Distribution,2015
+"Edward Roski, Jr.",United States,76,4,Real Estate,2015
+Reinhold Schmieding,United States,60,4,Medical Devices,2015
+Jerry Speyer,United States,74,4,Real Estate,2015
+Friede Springer,Germany,72,4,Publishing,2015
+Sun Guangxin,China,52,4,Diversified,2015
+Riley Bechtel,United States,62,3.9,"Engineering, Construction",2015
+"Stephen Bechtel, Jr.",United States,89,3.9,"Engineering, Construction",2015
+Ralph Dommermuth,Germany,51,3.9,Internet Service Provider,2015
+Bernard Ecclestone,United Kingdom,84,3.9,Formula One,2015
+Nathan Kirsh,Swaziland,83,3.9,"Retail, Real Estate",2015
+Vikram Lal,India,73,3.9,Motorcycles,2015
+Lars Larsen,Denmark,66,3.9,Retail,2015
+Ronald Lauder,United States,71,3.9,Estee Lauder,2015
+George Lindemann,United States,78,3.9,Investments,2015
+Niels Peter Louis-Hansen,Denmark,67,3.9,Medical Devices,2015
+Pankaj Patel,India,61,3.9,Pharmaceuticals,2015
+Bernard (Barry) Sherman,Canada,73,3.9,Pharmaceuticals,2015
+Shi Yuzhu,China,52,3.9,"Online Games, Investments",2015
+Jeffrey Skoll,United States,50,3.9,Ebay,2015
+Frederick Smith,United States,70,3.9,Fedex,2015
+Andreas von Bechtolsheim,Germany,59,3.9,Google,2015
+Wang Chuanfu,China,49,3.9,"Batteries, Autos",2015
+Chung Eui-Sun,South Korea,44,3.8,Logistics,2015
+Israel Englander,United States,66,3.8,Hedge Funds,2015
+Dmitry Kamenshchik,Russia,46,3.8,Airport,2015
+Bernard Marcus,United States,85,3.8,Home Depot,2015
+Brijmohan Lall Munjal,India,91,3.8,Motorcycles,2015
+Daniel Och,United States,54,3.8,Hedge Funds,2015
+Terrence Pegula,United States,64,3.8,Natural Gas,2015
+Isaac Perlmutter,United States,72,3.8,Marvel Comics,2015
+Krit Ratanarak,Thailand,68,3.8,"Media, Real Estate",2015
+Samuel Yin,Taiwan,64,3.8,Diversified,2015
+Vanich Chaiyawan,Thailand,83,3.7,"Insurance, Beverages",2015
+Francis Choi,Hong Kong,68,3.7,Real Estate,2015
+Leon G. Cooperman,United States,71,3.7,Hedge Funds,2015
+Antonio Del Valle Ruiz,Mexico,76,3.7,Chemicals,2015
+Francisco Ivens de Sa Dias Branco,Brazil,80,3.7,Food Production,2015
+Traudl Engelhorn,Germany,n/a,3.7,Pharmaceuticals/Medical Equipment,2015
+Ursula Engelhorn,Germany,n/a,3.7,Pharmaceuticals/Medical Equipment,2015
+Huang Wei,China,55,3.7,Real Estate,2015
+James Jannard,United States,65,3.7,Sunglasses,2015
+Fredrik Lundberg,Sweden,63,3.7,"Real Estate, Investments",2015
+Gwendolyn Sontheim Meyer,United States,53,3.7,Cargill,2015
+Akira Mori,Japan,78,3.7,Real Estate,2015
+Theo Mueller,Germany,75,3.7,Dairy,2015
+"H. Ross Perot, Sr.",United States,84,3.7,"Computer Services, Real Estate",2015
+Steven Rales,United States,63,3.7,Manufacturing,2015
+John Sall,United States,66,3.7,Software,2015
+Lynn Schusterman,United States,76,3.7,"Oil & Gas, Investments",2015
+Ronda Stryker,United States,60,3.7,Medical Equipment,2015
+Steven Udvar-Hazy,United States,69,3.7,Aircraft Leasing,2015
+Martin & Olivier Bouygues,France,n/a,3.6,"Construction, Media",2015
+Gustavo Cisneros,Venezuela,69,3.6,Media,2015
+Jim Davis,United States,71,3.6,New Balance,2015
+Archie Aldis Emmerson,United States,85,3.6,"Timberland, Lumber Mills",2015
+John Gandel,Australia,80,3.6,Shopping Malls,2015
+Diane Hendricks,United States,68,3.6,Roofing,2015
+Antti Herlin,Finland,58,3.6,"Elevators, Escalators",2015
+"Jeremy Jacobs, Sr.",United States,75,3.6,Sports Concessions,2015
+Elizabeth Mohn,Germany,74,3.6,Media,2015
+Igor Olenicoff,United States,72,3.6,Real Estate,2015
+Anthony Pratt,Australia,54,3.6,Manufacturing,2015
+Qiu Guanghe,China,63,3.6,Apparel Retail,2015
+"Walter Scott, Jr.",United States,83,3.6,"Utilities, Telecom",2015
+Sheldon Solow,United States,86,3.6,Real Estate,2015
+Steven Spielberg,United States,68,3.6,Movies,2015
+Yitzhak Tshuva,Israel,66,3.6,Real Estate,2015
+Mohammed Al Issa,Saudi Arabia,90,3.5,Investments,2015
+Rahel Blocher,Switzerland,39,3.5,Chemicals,2015
+Chey Tae-Won,South Korea,54,3.5,Computer Services/Telecoms,2015
+"Edward DeBartolo, Jr.",United States,68,3.5,Shopping Centers,2015
+Andrei Guriev,Russia,54,3.5,Fertilizers,2015
+Ingvar Kamprad,Sweden,88,3.5,Ikea,2015
+Iskander Makhmudov,Russia,51,3.5,"Mining, Metals, Machinery",2015
+Alain Merieux,France,77,3.5,Pharmaceuticals,2015
+Pan Zhengmin,China,45,3.5,Electronics,2015
+Michael Platt,United Kingdom,46,3.5,Hedge Fund,2015
+Viktor Rashnikov,Russia,66,3.5,Steel,2015
+Haim Saban,United States,70,3.5,"Tv Network, Investments",2015
+Beny Steinmetz,Israel,58,3.5,"Mining, Diamonds, Real Estate",2015
+Martin Viessmann,Germany,61,3.5,Heating Equipment,2015
+Zhang Changhong,China,57,3.5,Finance Information Service,2015
+Brian Acton,United States,43,3.4,Whatsapp,2015
+Saif Al Ghurair,United Arab Emirates,n/a,3.4,Diversified,2015
+Marc Benioff,United States,50,3.4,Business Software,2015
+John Doerr,United States,63,3.4,Venture Capital,2015
+Walter Faria,Brazil,59,3.4,Beer,2015
+David Filo,United States,48,3.4,Yahoo,2015
+Christa Gelpke,Germany,n/a,3.4,Pharmaceuticals,2015
+Masatoshi Ito,Japan,90,3.4,Retail,2015
+Erich Kellerhals,Germany,76,3.4,Electronics Retailer,2015
+Suleiman Kerimov,Russia,48,3.4,Investments,2015
+Mangal Prabhat Lodha,India,59,3.4,Real Estate,2015
+Magdalena Martullo-Blocher,Switzerland,46,3.4,Chemicals,2015
+Clayton Mathile,United States,74,3.4,Pet Food,2015
+Anthony Pritzker,United States,54,3.4,"Hotels, Investments",2015
+Jay Robert (J.B.) Pritzker,United States,50,3.4,"Hotels, Investments",2015
+"Julian Robertson, Jr.",United States,83,3.4,Hedge Funds,2015
+Kushal Pal Singh,India,83,3.4,Real Estate,2015
+Chee Chen Tung,Hong Kong,73,3.4,Shipping,2015
+Wu Yajun,China,51,3.4,Real Estate,2015
+Steve Wynn,United States,73,3.4,"Casinos, Hotels",2015
+Zhang Xin,China,49,3.4,Real Estate,2015
+Heinz-Georg Baus,Germany,81,3.4,Home Improvement Stores,2015
+"Austen Cargill, II.",United States,64,3.3,Cargill,2015
+"James Cargill, II.",United States,65,3.3,Cargill,2015
+Isabel dos Santos,Angola,41,3.3,Investments,2015
+Juan Carlos Escotet,Venezuela,55,3.3,Banking,2015
+Dan Friedkin,United States,50,3.3,Toyota Dealerships,2015
+Jiang Bin,China,48,3.3,Acoustic Components,2015
+Daryl Katz,Canada,53,3.3,Pharmacies,2015
+Peter Kellogg,United States,72,3.3,Investments,2015
+Li Zhongchu,China,51,3.3,Software,2015
+Marianne Liebmann,United States,61,3.3,Cargill,2015
+Najib Mikati,Lebanon,59,3.3,Telecom,2015
+Taha Mikati,Lebanon,70,3.3,Telecom,2015
+Masahiro Miki,Japan,59,3.3,Retail,2015
+Shigenobu Nagamori,Japan,70,3.3,Motors,2015
+Axel Oberwelland,Germany,48,3.3,Candy,2015
+Pang Kang,China,59,3.3,Soy Sauce Maker,2015
+Michael Pieper,Switzerland,69,3.3,Kitchen Appliances,2015
+Leandro Rizzuto,United States,76,3.3,Consumer Products,2015
+Teddy Sagi,Israel,43,3.3,Gambling Software,2015
+Stephan Schmidheiny,Switzerland,67,3.3,Investments,2015
+Harry Stine,United States,73,3.3,Agriculture,2015
+Andreas Struengmann,Germany,65,3.3,Pharmaceuticals,2015
+Thomas Struengmann,Germany,65,3.3,Pharmaceuticals,2015
+Abdulla Al Futtaim,United Arab Emirates,n/a,3.2,"Auto Dealers, Investments",2015
+Bubba Cathy,United States,60,3.2,Chick-Fil-A,2015
+Dan Cathy,United States,62,3.2,Chick-Fil-A,2015
+Jason Chang,Singapore,70,3.2,Electronics,2015
+Dagmar Dolby,United States,73,3.2,Dolby Laboratories,2015
+Doris Fisher,United States,83,3.2,Gap,2015
+Tom Gores,United States,50,3.2,Private Equity,2015
+Jia Yueting,China,42,3.2,Online Video,2015
+Mary Alice Dorrance Malone,United States,65,3.2,Campbell Soup,2015
+Yuri Milner,Russia,53,3.2,Facebook,2015
+Kerr Neilson,Australia,65,3.2,Investment,2015
+Thomas Pritzker,United States,64,3.2,"Hotels, Investments",2015
+"Robert Rich, Jr.",United States,74,3.2,Frozen Foods,2015
+Renzo Rosso,Italy,59,3.2,Diesel Jeans,2015
+Zygmunt Solorz-Zak,Poland,58,3.2,Tv Broadcasting,2015
+Jeff Sutton,United States,55,3.2,Real Estate,2015
+Joan Tisch,United States,89,3.2,Diversified,2015
+Roger Wang,United States,66,3.2,Retail,2015
+Wang Wenxue,China,47,3.2,Real Estate,2015
+Zhu Xingliang,China,55,3.2,Construction,2015
+Emilio Azcarraga Jean,Mexico,47,3.1,Media,2015
+John Catsimatidis,United States,66,3.1,"Oil, Real Estate, Supermarkets",2015
+Jean Pierre Cayard,France,72,3.1,Spirits,2015
+Ray Davis,United States,73,3.1,Pipelines,2015
+Stanley Druckenmiller,United States,61,3.1,Hedge Funds,2015
+Jaime Gilinski Bacal,Colombia,57,3.1,Banking,2015
+Erivan Haub,Germany,82,3.1,Retail,2015
+"Amos Hostetter, Jr.",United States,78,3.1,Cable Television,2015
+Huang Rulun,China,63,3.1,Real Estate,2015
+Johan Johannson,Norway,48,3.1,Grocery Wholesaling,2015
+H. Fisk Johnson,United States,56,3.1,Cleaning Products,2015
+Imogene Powers Johnson,United States,85,3.1,Cleaning Products,2015
+S. Curtis Johnson,United States,59,3.1,Cleaning Products,2015
+Helen Johnson-Leipold,United States,58,3.1,Cleaning Products,2015
+Winnie Johnson-Marquart,United States,55,3.1,Cleaning Products,2015
+John Kapoor,United States,71,3.1,Healthcare,2015
+David Murdock,United States,91,3.1,"Dole, Real Estate",2015
+Jorge Perez,United States,65,3.1,Condos,2015
+Kevin Plank,United States,42,3.1,Under Armour,2015
+Issad Rebrab,Algeria,71,3.1,Food,2015
+Naguib Sawiris,Egypt,60,3.1,Telecom,2015
+Alexander Svetakov,Russia,47,3.1,"Banking, Real Estate",2015
+Tang Yiu,Hong Kong,81,3.1,Retail,2015
+Alfred Taubman,United States,91,3.1,Real Estate,2015
+Yu Yong,China,54,3.1,Mining Investments,2015
+Eddie & Sol Zakay,United Kingdom,64,3.1,Real Estate,2015
+Neil Bluhm,United States,77,3,Real Estate,2015
+Richard Chandler,New Zealand,56,3,Investments,2015
+Andrew & Peggy Cherng,United States,n/a,3,Restaurants,2015
+Mark Cuban,United States,56,3,Online Media,2015
+Aloysio de Andrade Faria,Brazil,94,3,Banking,2015
+Jeff Greene,United States,60,3,"Real Estate, Investments",2015
+Indu Jain,India,78,3,Media,2015
+Min Kao,United States,66,3,Navigation Equipment,2015
+Igor Kesaev,Russia,48,3,"Tobacco Distribution, Retail",2015
+William Koch,United States,74,3,"Oil, Investments",2015
+James Leprino,United States,77,3,Cheese,2015
+Sudhir & Samir Mehta,India,n/a,3,Diversified,2015
+Karl-Johan Persson,Sweden,39,3,H&M,2015
+Tom Persson,Sweden,30,3,H&M,2015
+"David Rockefeller, Sr.",United States,99,3,"Oil, Banking",2015
+"Wilbur Ross, Jr.",United States,77,3,Investments,2015
+Stephen Rubin,United Kingdom,77,3,Sports Apparel,2015
+Shaul Shani,Israel,60,3,Technology,2015
+Charlotte Soderstrom,Sweden,38,3,H&M,2015
+Daniel Tsai,Taiwan,58,3,Finance,2015
+Richard Tsai,Taiwan,57,3,Finance,2015
+Hans Peter Wild,Germany,73,3,Wild Flavors Gmbh,2015
+Oprah Winfrey,United States,61,3,Television,2015
+Ye Chenghai,Hong Kong,71,3,Pharmaceuticals,2015
+Yeoh Tiong Lay,Malaysia,85,3,"Construction, Real Estate",2015
+Syed Mokhtar AlBukhary,Malaysia,63,2.9,Diversified,2015
+Carlo Benetton,Italy,71,2.9,"Clothing, Investments",2015
+Gilberto Benetton,Italy,73,2.9,"Clothing, Investments",2015
+Giuliana Benetton,Italy,77,2.9,"Clothing, Investments",2015
+Luciano Benetton,Italy,79,2.9,"Clothing, Investments",2015
+David Cheriton,Canada,63,2.9,Google,2015
+"William Conway, Jr.",United States,65,2.9,Private Equity,2015
+Daniel D'Aniello,United States,68,2.9,Private Equity,2015
+Jack Dangermond,United States,69,2.9,Mapping Software,2015
+Giuseppe De'Longhi,Italy,75,2.9,Coffee Makers,2015
+Andre Esteves,Brazil,46,2.9,Banking,2015
+John Fisher,United States,53,2.9,Gap,2015
+Rosa Anna Magno Garavoglia,Italy,n/a,2.9,Spirits,2015
+Guenter Herz & Family,Germany,74,2.9,Coffee,2015
+Daniela Herz,Germany,61,2.9,Coffee,2015
+Kim Beom-su,South Korea,48,2.9,Mobile Chat Service,2015
+Edward Lampert,United States,52,2.9,Sears,2015
+Samuel Tak Lee,Hong Kong,75,2.9,Real Estate,2015
+Edwin Leong,Hong Kong,63,2.9,Real Estate,2015
+Youssef Mansour,Egypt,69,2.9,Diversified,2015
+Sergio Mantegazza,Switzerland,87,2.9,Travel,2015
+Kalanithi Maran,India,49,2.9,Media,2015
+Siegfried Meister,Germany,76,2.9,Appliances,2015
+Dirk Rossmann,Germany,68,2.9,Drugstore Chain,2015
+David Rubenstein,United States,65,2.9,Private Equity,2015
+Michael & Rainer Schmidt-Ruthenbeck,Germany,n/a,2.9,Retail,2015
+Richard Schulze,United States,74,2.9,Best Buy,2015
+Shin Chang-Jae,South Korea,61,2.9,Insurance,2015
+Herbert Simon,United States,80,2.9,Real Estate,2015
+Warren Stephens,United States,58,2.9,Investment Banking,2015
+Donald Sterling,United States,79,2.9,Real Estate,2015
+Wang Wenjing,China,50,2.9,Enterprise Software,2015
+John Whittaker,United Kingdom,72,2.9,Real Estate,2015
+Evan Williams,United States,42,2.9,Twitter,2015
+Xue Xiangdong,China,56,2.9,Software,2015
+Yvonne Bauer,Germany,37,2.8,Media,2015
+Chen Fashu,China,54,2.8,"Mining, Hypermarkets",2015
+John Paul DeJoria,United States,71,2.8,"Hair Products, Tequila",2015
+Judy Faulkner,United States,71,2.8,Health It,2015
+Ken Fisher,United States,64,2.8,Money Management,2015
+Lindsay Fox,Australia,77,2.8,Transport,2015
+Andreas Halvorsen,Norway,53,2.8,Hedge Funds,2015
+Peter Hargreaves,United Kingdom,68,2.8,Financial Services,2015
+Jimmy Haslam,United States,61,2.8,Retail,2015
+Hortensia Herrero,Spain,64,2.8,Supermarkets,2015
+Huang Shih Tsai,Hong Kong,63,2.8,Real Estate,2015
+Hui Lin Chit,China,61,2.8,Hygiene Products,2015
+Saleh Kamel,Saudi Arabia,73,2.8,Diversified,2015
+Law Kar Po,Hong Kong,67,2.8,Real Estate,2015
+Ma Jianrong,China,51,2.8,"Textiles, Apparel",2015
+Wolfgang Marguerre,Germany,74,2.8,Pharmaceuticals,2015
+Bernardo Matte,Chile,59,2.8,Paper,2015
+Eliodoro Matte,Chile,69,2.8,Paper,2015
+Patricia Matte,Chile,71,2.8,Paper,2015
+Martin Naughton,Ireland,75,2.8,Heating Equipment,2015
+Prasert Prasarttong-Osoth,Thailand,81,2.8,Hospitals,2015
+Qi Shi,China,45,2.8,Internet Portal,2015
+Richard Rainwater,United States,70,2.8,"Real Estate, Energy, Insurance",2015
+Vivek Chaand Sehgal,Australia,58,2.8,Auto Parts,2015
+Sze Man Bok,China,65,2.8,Hygiene Products,2015
+Vladimir Yevtushenkov,Russia,66,2.8,Telecom,2015
+Michael Ying,Hong Kong,65,2.8,Retail,2015
+Robert Bass,United States,67,2.7,"Oil, Investments",2015
+Stephen Bisciotti,United States,54,2.7,"Outsourcing, Football",2015
+George Bishop,United States,78,2.7,Oil & Gas,2015
+Bernard Broermann,Germany,71,2.7,Healthcare,2015
+Eva Maria Bucher-Haefner,Switzerland,58,2.7,Computer Associates,2015
+Hubert Burda,Germany,75,2.7,Publishing,2015
+Jack Dorsey,United States,38,2.7,Twitter,2015
+Charles Dunstone,United Kingdom,51,2.7,Mobile Phones,2015
+Philippe Foriel-Destezet,France,79,2.7,Employment Agency,2015
+Martin Haefner,Switzerland,61,2.7,"Technology, Investments",2015
+Otto Happel,Germany,67,2.7,Engineering,2015
+Joshua Harris,United States,50,2.7,Private Equity,2015
+Heidi Horten,Austria,74,2.7,Retail,2015
+Hanni Toosbuy Kasprzak,Denmark,57,2.7,Shoes,2015
+Liu Zhongtian,China,51,2.7,Aluminum Products,2015
+Friedhelm Loh,Germany,68,2.7,Manufacturing,2015
+Ronald McAulay,Hong Kong,78,2.7,Diversified,2015
+Lorenzo Mendoza,Venezuela,49,2.7,Beverages,2015
+Husnu Ozyegin,Turkey,70,2.7,"Finance, Diversified",2015
+A. Jerrold Perenchio,United States,84,2.7,"Television, Univision",2015
+Michael Rubin,United States,42,2.7,Online Retailing,2015
+Tony Tan Caktiong,Philippines,62,2.7,Fast Food,2015
+Wang Yusuo,China,50,2.7,Natural Gas Distribution,2015
+Christoph Zeller,Germany,n/a,2.7,Dental Implants,2015
+John Arnold,United States,40,2.6,Hedge Funds,2015
+Semahat Sevim Arsel,Turkey,86,2.6,Diversified,2015
+Carl Bennet,Sweden,63,2.6,Investments,2015
+David Bonderman,United States,72,2.6,Private Equity,2015
+Ron Burkle,United States,62,2.6,"Supermarkets, Investments",2015
+John Caudwell,United Kingdom,62,2.6,Mobile Phones,2015
+Bharat Desai,United States,62,2.6,Outsourcing,2015
+"John Dorrance, III.",Ireland,71,2.6,Campbell Soup,2015
+H. Wayne Huizenga,United States,77,2.6,Investments,2015
+Baba Kalyani,India,66,2.6,Engineering,2015
+Leng Beng Kwek,Singapore,74,2.6,Real Estate,2015
+Kenneth Langone,United States,79,2.6,Investments,2015
+Michel Leclercq,France,75,2.6,Sporting Goods,2015
+Michael Moritz,United States,60,2.6,Venture Capital,2015
+Rajan Raheja,India,60,2.6,Diversified,2015
+Mochtar Riady,Indonesia,85,2.6,Diversified,2015
+Patrick Ryan,United States,77,2.6,Insurance,2015
+"Bernard Saul, II.",United States,82,2.6,"Banking, Real Estate",2015
+Vichai Srivaddhanaprabha,Thailand,57,2.6,Duty-Free,2015
+Michael Stoschek,Germany,67,2.6,Autoparts,2015
+Bulat Utemuratov,Kazakhstan,57,2.6,"Mining, Banking, Hotels",2015
+"William Wrigley, Jr.",United States,51,2.6,Chewing Gum,2015
+Mortimer Zuckerman,United States,77,2.6,"Real Estate, Media",2015
+William Ackman,United States,48,2.5,Hedge Funds,2015
+Andrej Babis,Czech Republic,60,2.5,Agriculture,2015
+Rahul Bajaj,India,76,2.5,Motorcycles,2015
+Marie Besnier Beauvalot,France,34,2.5,Cheese,2015
+Jean-Michel Besnier,France,47,2.5,Cheese,2015
+Arthur Blank,United States,72,2.5,Home Depot,2015
+Alain Bouchard,Canada,66,2.5,Retail,2015
+Karen Johnson Boyd,United States,90,2.5,Cleaning Products,2015
+Peter Buck,United States,84,2.5,Subway Sandwich Shops,2015
+Clive Calder,United Kingdom,68,2.5,Record Label,2015
+Silas Chou,Hong Kong,68,2.5,Apparel,2015
+Denise Coates,United Kingdom,47,2.5,Online Gambling,2015
+Jose Luis Cutrale,Brazil,68,2.5,Orange Juice,2015
+Fred DeLuca,United States,67,2.5,Subway Sandwich Shops,2015
+Tilman Fertitta,United States,57,2.5,"Restaurants, Casinos",2015
+Alexandre Grendene Bartelle,Brazil,65,2.5,Shoes,2015
+Henry Hillman,United States,96,2.5,Investments,2015
+B. Wayne Hughes,United States,81,2.5,Self Storage,2015
+Mustafa Rahmi Koc,Turkey,84,2.5,Diversified,2015
+Daniel Loeb,United States,53,2.5,Hedge Funds,2015
+Lu Xiangyang,China,52,2.5,"Automobiles, Batteries",2015
+Alexander Mamut,Russia,55,2.5,Investments,2015
+Thomas Meyer,Switzerland,n/a,2.5,Apparel Retailer,2015
+Michael Milken,United States,68,2.5,Investments,2015
+Robert Miller,Canada,69,2.5,Electronics Components,2015
+Ermirio Pereira de Moraes,Brazil,82,2.5,Diversified,2015
+Maria Helena Moraes Scripilliti,Brazil,84,2.5,Diversified,2015
+Yoshiko Mori,Japan,74,2.5,Real Estate,2015
+Alexander Nesis,Russia,52,2.5,"Metals, Banking, Fertilizers",2015
+Philip Niarchos,Greece,61,2.5,Art Collection,2015
+Stefan Olsson,Sweden,66,2.5,Diversified,2015
+Sean Parker,United States,35,2.5,Facebook,2015
+Mary & Douglas Perkins,United Kingdom,n/a,2.5,Retail,2015
+Sebastian Pinera,Chile,65,2.5,Investments,2015
+Jean (Gigi) Pritzker,United States,53,2.5,"Hotels, Investments",2015
+Penny Pritzker,United States,55,2.5,"Hotels, Investments",2015
+Marc Rowan,United States,53,2.5,Private Equity,2015
+Ferit Faik Sahenk,Turkey,50,2.5,"Banking, Media",2015
+Alvaro Saieh Bendeck,Chile,65,2.5,Banking,2015
+Carlos Sanchez,Brazil,53,2.5,Generic Drugs,2015
+Howard Schultz,United States,61,2.5,Starbucks,2015
+Romesh T. Wadhwani,United States,67,2.5,Software,2015
+Dean White,United States,91,2.5,"Billboards, Hotels",2015
+M.A. Yusuff Ali,India,59,2.5,Retail,2015
+Guenther Lehmann,Germany,n/a,2.5,Drug Stores,2015
+Chang Yun Chung,Singapore,96,2.4,Shipping,2015
+Jean Coutu,Canada,87,2.4,Pharmacies,2015
+Ashwin Dani,India,72,2.4,Paints,2015
+Edson de Godoy Bueno,Brazil,71,2.4,"Hospitals, Health Care",2015
+James Dinan,United States,55,2.4,Hedge Funds,2015
+Tom Golisano,United States,73,2.4,Payroll Services,2015
+Mikhail Gutseriev,Russia,56,2.4,"Oil, Real Estate",2015
+Carlos Hank Rhon,Mexico,67,2.4,Banking,2015
+Timothy Headington,United States,64,2.4,"Oil & Gas, Investments",2015
+Ingeburg Herz,Germany,93,2.4,Coffee,2015
+Spiro Latsis,Greece,68,2.4,"Banking, Shipping",2015
+Patrick Lee,Hong Kong,73,2.4,Paper,2015
+Li Shufu,China,51,2.4,Automobiles,2015
+Robert McNair,United States,78,2.4,"Energy, Sports",2015
+Erwin Franz Mueller,Germany,82,2.4,Drug Stores,2015
+Rishad Naoroji,India,63,2.4,Consumer Goods,2015
+Ravi Pillai,India,61,2.4,Construction,2015
+Alexander Ponomarenko,Russia,50,2.4,Port,2015
+Henry Samueli,United States,60,2.4,Semiconductors,2015
+Alexandra Schorghuber,Germany,56,2.4,Real Estate,2015
+Alexander Skorobogatko,Russia,47,2.4,Port,2015
+Maria Luisa Solari Falabella,Chile,74,2.4,Retail,2015
+Lawrence Stroll,Canada,55,2.4,Retail,2015
+Sarik Tara,Turkey,84,2.4,Construction,2015
+Glen Taylor,United States,73,2.4,Printing,2015
+Ty Warner,United States,70,2.4,"Real Estate, Plush Toys",2015
+Arne Wilhelmsen,Norway,84,2.4,Cruise Ships,2015
+Nicholas Woodman,United States,39,2.4,Video Cameras,2015
+John Arrillaga,United States,77,2.3,Real Estate,2015
+Koos Bekker,South Africa,62,2.3,"Media, Investments",2015
+Othman Benjelloun,Morocco,82,2.3,"Banking, Insurance",2015
+Charles Bronfman,Canada,83,2.3,Liquor,2015
+Chen Jinxia,China,46,2.3,Investments,2015
+Lucio and Susan Co,Philippines,60,2.3,Retailing,2015
+Kuldip Singh & Gurbachan Singh Dhingra,India,n/a,2.3,Paints,2015
+Barry Diller,United States,73,2.3,Online Media,2015
+Bennett Dorrance,United States,69,2.3,Campbell Soup,2015
+Robert Duggan,United States,70,2.3,Pharmaceuticals,2015
+Fong Yun Wah,Hong Kong,90,2.3,Real Estate,2015
+Bernd Freier,Germany,58,2.3,Retail,2015
+Bill Gross,United States,70,2.3,Investments,2015
+Don Hankey,United States,71,2.3,Auto Loans,2015
+Bahaa Hariri,Lebanon,48,2.3,"Real Estate, Investments, Logistics",2015
+Johnelle Hunt,United States,83,2.3,Trucking,2015
+Huo Qinghua,China,53,2.3,Coal,2015
+Vyacheslav Kantor,Russia,61,2.3,"Fertilizer, Real Estate",2015
+Ke Xiping,China,54,2.3,Investments,2015
+Alicia Koplowitz,Spain,60,2.3,"Construction, Investments",2015
+Miguel Krigsner,Brazil,65,2.3,Cosmetics,2015
+Raj Kumar & Kishin RK,Singapore,60,2.3,Real Estate,2015
+Khoon Hong Kuok,Singapore,65,2.3,Palm Oil,2015
+"Stephen Mandel, Jr.",United States,58,2.3,Hedge Funds,2015
+Yasseen Mansour,Egypt,53,2.3,Diversified,2015
+Maja Oeri,Switzerland,60,2.3,Roche Holding,2015
+Richard Peery,United States,76,2.3,Real Estate,2015
+P.V. Ramprasad Reddy,India,56,2.3,Pharmaceuticals,2015
+Gary Rollins,United States,70,2.3,Pest Control,2015
+Randall Rollins,United States,83,2.3,Pest Control,2015
+Thomas Siebel,United States,62,2.3,Business Software,2015
+Malvinder & Shivinder Singh,India,n/a,2.3,Healthcare,2015
+Peter Sondakh,Indonesia,63,2.3,Investments,2015
+Song Zuowen,China,67,2.3,"Aluminum, Diversified",2015
+"Clemmie Spangler, Jr.",United States,82,2.3,Investments,2015
+Tsai Hong-tu,Taiwan,62,2.3,Finance,2015
+Wang Changtian,China,49,2.3,"Tv, Movie Production",2015
+Bernardo Caprotti,Italy,89,2.2,Grocery Stores,2015
+Tatiana Casiraghi,United States,31,2.2,Beer,2015
+Michel Chalhoub,France,83,2.2,Retail,2015
+Chu Lam Yiu,Hong Kong,45,2.2,Flavorings,2015
+James Coulter,United States,55,2.2,Private Equity,2015
+Edgar de Picciotto,Switzerland,85,2.2,Private Banking,2015
+Rafael Del Pino y Calvo-Sotelo,Spain,56,2.2,Construction,2015
+John Farber,United States,89,2.2,Chemicals,2015
+Andrew Forrest,Australia,53,2.2,Mining,2015
+Fu Liquan,China,47,2.2,Surveillance Equipment,2015
+Victor Fung,United States,69,2.2,Trading Company,2015
+William Fung,Hong Kong,66,2.2,Sourcing,2015
+Mitchell Goldhar,Canada,53,2.2,Real Estate,2015
+Hoang Kieu,United States,70,2.2,Pharmaceuticals,2015
+Alijan Ibragimov,Kazakhstan,61,2.2,"Mining, Metals",2015
+Erman Ilicak,Turkey,47,2.2,Construction,2015
+Michael Jaharis,United States,86,2.2,Pharmaceuticals,2015
+Suna Kirac,Turkey,73,2.2,Diversified,2015
+Manuel Lao Hernandez,Spain,70,2.2,Gambling,2015
+Louis Le Duff,France,68,2.2,Bakeries,2015
+Lee Boo-Jin,South Korea,44,2.2,Computer Services/Tourism,2015
+Lee Jay-Hyun,South Korea,54,2.2,Food Products/Entertainment,2015
+Douglas Leone,United States,57,2.2,Venture Capital,2015
+Herbert Louis,United States,86,2.2,Cleaning Products,2015
+Josephine Louis,United States,84,2.2,Cleaning Products,2015
+Alexander Machkevich,Israel,61,2.2,"Mining, Metals",2015
+Joe Mansueto,United States,58,2.2,Investment Research,2015
+"Drayton McLane, Jr.",United States,78,2.2,"Wal-Mart, Logistics",2015
+Hans Melchers,Netherlands,76,2.2,"Chemicals, Investments",2015
+C. Dean Metropoulos,United States,68,2.2,Investments,2015
+Patrice Motsepe,South Africa,53,2.2,Mining,2015
+Daniel Pritzker,United States,56,2.2,"Hotels, Investments",2015
+John Pritzker,United States,62,2.2,"Hotels, Investments",2015
+Chandru Raheja,India,74,2.2,Real Estate,2015
+Helena Revoredo,Spain,68,2.2,Insurance,2015
+Larry Robbins,United States,45,2.2,Hedge Funds,2015
+Filiz Sahenk,Turkey,48,2.2,"Bank, Media",2015
+"Julio Mario Santo Domingo, III.",United States,29,2.2,Beer,2015
+Fayez Sarofim,United States,86,2.2,Money Management,2015
+Gil Shwed,Israel,47,2.2,Software,2015
+Peter Spuhler,Switzerland,55,2.2,Manufacturing,2015
+Pat Stryker,United States,58,2.2,Medical Equipment,2015
+Peter Thiel,United States,47,2.2,Facebook,2015
+Clemens Toennies,Germany,58,2.2,Meat Processing,2015
+Ted Turner,United States,76,2.2,Cable Television,2015
+Chip Wilson,Canada,58,2.2,Lululemon,2015
+Anita Zucker,United States,63,2.2,Chemicals,2015
+S. Daniel Abraham,United States,90,2.1,Slim-Fast,2015
+Sulaiman Al Rajhi,Saudi Arabia,87,2.1,Banking,2015
+Ron Baron,United States,71,2.1,Money Management,2015
+Jim Breyer,United States,53,2.1,Venture Capital,2015
+John Brown,United States,80,2.1,Medical Equipment,2015
+Cai Kui,China,52,2.1,Real Estate,2015
+Jose and Francisco Jose Calderon Rojas,Mexico,60,2.1,Beverages,2015
+Francesco Gaetano Caltagirone,Italy,71,2.1,"Cement, Diversified",2015
+"Chase Coleman, III.",United States,39,2.1,Hedge Fund,2015
+Ennio Doris,Italy,74,2.1,Financial Services,2015
+Feng Hailiang,China,54,2.1,"Copper Processing, Real Estate",2015
+Gerald Ford,United States,70,2.1,Banking,2015
+James France,United States,70,2.1,"Nascar, Racing",2015
+Jean Claude Gandur,Switzerland,66,2.1,"Oil Trading, Exploration",2015
+Gordon Getty,United States,81,2.1,Getty Oil,2015
+Sam Goi,Singapore,66,2.1,Frozen Foods,2015
+Alec Gores,United States,61,2.1,Private Equity,2015
+Noam Gottesman,United States,53,2.1,Hedge Funds,2015
+Esther Grether,Switzerland,79,2.1,"Art Collection, Swatch",2015
+Susan Hirt Hagen,United States,79,2.1,Insurance,2015
+Rakesh Jhunjhunwala,India,54,2.1,Investments,2015
+Bruce Karsh,United States,59,2.1,Private Equity,2015
+Brad Kelley,United States,58,2.1,Tobacco,2015
+Habil Khorakiwala,India,72,2.1,Pharmaceuticals,2015
+Timur Kulibaev,Kazakhstan,48,2.1,Banking,2015
+Dinara Kulibaeva,Kazakhstan,47,2.1,Banking,2015
+Marc Ladreit de Lacharriere,France,74,2.1,Finance,2015
+Christos Lazari,United Kingdom,68,2.1,Real Estate,2015
+Lee Seo-Hyun,South Korea,41,2.1,Computer Services/Tourism,2015
+Rodney Lewis,United States,61,2.1,Natural Gas,2015
+Li Liufa,China,57,2.1,"Steel, Diversified",2015
+Liang Xinjun,China,47,2.1,Diversified,2015
+Igor Makarov,Russia,52,2.1,Gas,2015
+Howard Marks,United States,68,2.1,Private Equity,2015
+Daniel Mate,Spain,51,2.1,"Mining, Commodities",2015
+Aristotelis Mistakidis,Greece,53,2.1,"Mining, Commodities",2015
+Fernando Roberto Moreira Salles,Brazil,68,2.1,"Banking, Minerals",2015
+Joao Moreira Salles,Brazil,53,2.1,"Banking, Minerals",2015
+Walther Moreira Salles Junior,Brazil,58,2.1,"Banking, Minerals",2015
+Pedro Moreira Salles,Brazil,55,2.1,"Banking, Minerals",2015
+Farhad Moshiri,United Kingdom,59,2.1,Diversified,2015
+N.R. Narayana Murthy,India,68,2.1,Software Services,2015
+Jonathan Nelson,United States,58,2.1,Private Equity,2015
+Julio Ponce,Chile,69,2.1,Fertilizer,2015
+Carlos Rodriguez-Pastor,Peru,55,2.1,Finance,2015
+Stephen Saad,South Africa,50,2.1,Pharmaceuticals,2015
+Shen Guojun,China,52,2.1,Retail,2015
+Helmut Sohmen,Austria,75,2.1,Shipping,2015
+Sun Piaoyang,China,56,2.1,Pharmaceuticals,2015
+Tsai Cheng-da,Taiwan,n/a,2.1,Finance,2015
+T.Y. Tsai,Taiwan,n/a,2.1,Finance,2015
+Wim Van Der Leegte,Netherlands,67,2.1,Manufacturing,2015
+Wei Ing-Chou,Taiwan,62,2.1,"Food, Beverages",2015
+Russ Weiner,United States,45,2.1,Energy Drinks,2015
+Xiao Wenge,China,48,2.1,Entertainment,2015
+Mohamed Al Fayed,Egypt,86,2,"Retail, Investments",2015
+Folorunsho Alakija,Nigeria,64,2,Oil,2015
+Vasily Anisimov,Russia,63,2,"Metals, Real Estate",2015
+Carlos Ardila Lulle,Colombia,84,2,"Soft Drinks, Diversified",2015
+George Argyros,United States,78,2,"Real Estate, Investments",2015
+Edward Bass,United States,70,2,"Oil, Investments",2015
+Lee Bass,United States,58,2,"Oil, Investments",2015
+Vladimir Bogdanov,Russia,63,2,Oil,2015
+Rossana Camargo de Arruda Botelho,Brazil,65,2,Construction,2015
+Pierre Chen,Taiwan,57,2,"Art, Electronics",2015
+Patokh Chodiev,Belgium,62,2,"Mining, Metals",2015
+Belmiro de Azevedo,Portugal,76,2,Retail,2015
+Glenn Dubin,United States,57,2,Hedge Funds,2015
+Robert Fisher,United States,61,2,Gap,2015
+William Fisher,United States,57,2,Gap,2015
+Fiona Geminder,Australia,50,2,Packaging,2015
+David Hains,Australia,84,2,Finance,2015
+Lawrence Ho,Hong Kong,38,2,Casinos,2015
+Stanley Hubbard,United States,81,2,Directv,2015
+Manuel Jove,Spain,73,2,Real Estate,2015
+Bachtiar Karim,Indonesia,58,2,Manufacturing,2015
+Andrei Kozitsyn,Russia,54,2,Metals,2015
+Kwon Hyuk-Bin,South Korea,42,2,Online Games,2015
+Lee Joong-Keun,South Korea,74,2,Construction,2015
+Thomas Lee,United States,70,2,Leveraged Buyouts,2015
+Peter Lim,Singapore,61,2,Investments,2015
+Hans Georg Naeder,Germany,53,2,Prosthetics,2015
+Renata de Camargo Nascimento,Brazil,64,2,Construction,2015
+Or Wai Sheun,Hong Kong,63,2,Real Estate,2015
+Florentino Perez,Spain,67,2,Construction,2015
+Ajay Piramal,India,59,2,Pharmaceuticals,2015
+Regina de Camargo Pires Oliveira Dias,Brazil,61,2,Construction,2015
+Forrest Preston,United States,81,2,Health Care,2015
+Nicolas Puech,France,72,2,Hermes,2015
+Chanchai Ruayrungruang,China,61,2,Real Estate,2015
+Phillip Ruffin,United States,79,2,"Casinos, Real Estate",2015
+Shao Genhuo,China,49,2,Agribusiness,2015
+Michal Solowow,Poland,52,2,Investments,2015
+Jon Stryker,United States,56,2,Medical Equipment,2015
+Torbjorn Tornqvist,Sweden,61,2,Oil Trading,2015
+Tse Ping,China,63,2,Pharmaceuticals,2015
+Sunny Varkey,India,57,2,Education,2015
+Sandro Veronesi,Italy,55,2,Fashion Retailer,2015
+Georg von Opel,Germany,48,2,Real Estate/Investments,2015
+Ronald Wanek,United States,73,2,Furniture,2015
+Wei Yin-Chun,Taiwan,58,2,"Food, Beverages",2015
+Wei Yin-Heng,Taiwan,56,2,"Food, Beverages",2015
+Wei Ying-Chiao,Taiwan,60,2,"Food, Beverages",2015
+Meg Whitman,United States,58,2,Ebay,2015
+Elaine Wynn,United States,71,2,"Casinos, Hotels",2015
+Jerry Yang,United States,46,2,Yahoo,2015
+Lam Kong,China,50,2,Pharmaceuticals,2015
+Liang Yunchao,China,46,2,Nutrition Supplements,2015
+Liu Baolin,China,61,2,"Pharmacies, Drug Distribution",2015
+Stewart Rahr,United States,69,2,Drug Distribution,2015
+Yasumitsu Shigeta,Japan,50,2,Mobile Telecom,2015
+Sun Xishuang,China,61,2,Real Estate,2015
+Juan Abello,Spain,73,1.9,Investments,2015
+Aras Agalarov,Russia,59,1.9,Real Estate,2015
+Tom Benson,United States,87,1.9,New Orleans Saints,2015
+Nathan Blecharczyk,United States,31,1.9,Airbnb,2015
+Jurgen Blickle,Germany,68,1.9,Auto Parts,2015
+Norman Braman,United States,82,1.9,"Art, Car Dealerships",2015
+Gary Burrell,United States,77,1.9,Navigation Equipment,2015
+Brian Chesky,United States,33,1.9,Airbnb,2015
+Christopher Cline,United States,57,1.9,Coal,2015
+Scott Cook,United States,62,1.9,Software,2015
+Mark Coombs,United Kingdom,54,1.9,Finance,2015
+David Einhorn,United States,46,1.9,Hedge Funds,2015
+Eduardo Eurnekian,Argentina,82,1.9,"Airports, Investments",2015
+Carlo Fidani,Canada,60,1.9,Real Estate,2015
+Bernard Fraisse,France,58,1.9,Pharmaceuticals,2015
+Joe Gebbia,United States,33,1.9,Airbnb,2015
+Jonathan Gray,United States,45,1.9,Investments,2015
+Joseph Grendys,United States,53,1.9,Meat Processing,2015
+Bill Haslam,United States,56,1.9,Truck Stops,2015
+Michael Hintze,Australia,61,1.9,Investment,2015
+Hamilton James,United States,63,1.9,Investments,2015
+King Pak Fu,Hong Kong,45,1.9,Real Estate,2015
+Friedrich Knapp,Germany,63,1.9,Retail,2015
+Guy Laliberte,Canada,55,1.9,Cirque Du Soleil,2015
+Marc Lasry,United States,54,1.9,Hedge Funds,2015
+Manuel Moroun,United States,87,1.9,Transportation,2015
+Vadim Moshkovich,Russia,47,1.9,"Agriculture, Land",2015
+Madeleine Olsson Ericksson,Sweden,70,1.9,Diversified,2015
+Neal Patterson,United States,65,1.9,Health It,2015
+Nelson Peltz,United States,72,1.9,Investments,2015
+Theodore Rachmat,Indonesia,71,1.9,Diversified,2015
+Clayton Riddell,Canada,77,1.9,Oil & Gas,2015
+Kjell Inge Rokke,Norway,56,1.9,"Shipping, Seafood",2015
+Daniel Roullier,France,78,1.9,Animal Feed,2015
+Kavitark Ram Shriram,United States,58,1.9,"Venture Capital, Google",2015
+Paul Singer,United States,70,1.9,Hedge Funds,2015
+Heloise Waislitz,Australia,52,1.9,Packaging,2015
+Mark Walter,United States,54,1.9,Finance,2015
+Che Fengsheng,China,52,1.9,Pharmaceuticals,2015
+Murali Divi,India,63,1.9,Pharmaceuticals,2015
+Senapathy Gopalakrishnan,India,59,1.9,Software Services,2015
+Lin Tianfu,Hong Kong,52,1.9,Retail,2015
+Mario Moretti Polegato,Italy,62,1.9,Shoes,2015
+David Nahmad,Monaco,67,1.9,Art,2015
+Tor Peterson,United States,50,1.9,Commodities,2015
+Ruan Shuilong,China,79,1.9,Chemicals,2015
+Wu Guangming,China,53,1.9,Medical Equipment,2015
+Amy Wyss,United States,44,1.9,Medical Devices,2015
+Bill Adderley,United Kingdom,67,1.8,Home Furnishings,2015
+Anil Agarwal,India,61,1.8,"Mining, Metals",2015
+Abdullah Al Rajhi,Saudi Arabia,n/a,1.8,Banking,2015
+Chang Yung Fa,Taiwan,87,1.8,Transportation,2015
+Ciputra,Indonesia,83,1.8,Real Estate,2015
+"Robert Coyiuto, Jr.",Philippines,62,1.8,Power,2015
+John de Mol,Netherlands,59,1.8,Tv,2015
+N. Murray Edwards,Canada,55,1.8,Oil & Gas,2015
+Richard Elman,United Kingdom,75,1.8,Commodities,2015
+Fang Wei,China,41,1.8,Steel,2015
+Kenneth Feld,United States,66,1.8,"Circus, Live Entertainment",2015
+Alexander Frolov,Russia,50,1.8,"Mining, Steel",2015
+Anne Gittinger,United States,79,1.8,Nordstrom Department Stores,2015
+David Gottesman,United States,88,1.8,Investments,2015
+Yusuf Hamied,India,78,1.8,Pharmaceuticals,2015
+Lutz Mario Helmig,Germany,68,1.8,Medical Facilities,2015
+Roberto Hernandez Ramirez,Mexico,72,1.8,Banking,2015
+Kim Jung-Ju,South Korea,47,1.8,Online Games,2015
+Vladimir Kim,Kazakhstan,54,1.8,Mining,2015
+Stephen Lansdown,Guernsey,62,1.8,Financial Services,2015
+Li Shuirong,China,58,1.8,Petrochemicals,2015
+Lin Xiucheng,China,59,1.8,Electronics,2015
+Jeffrey Lorberbaum,United States,60,1.8,Flooring,2015
+Brandt Louie,Canada,71,1.8,Drug Store Chain,2015
+Catherine Lozick,United States,70,1.8,Manufacturing,2015
+Craig McCaw,United States,65,1.8,Telecom,2015
+Billy Joe (Red) McCombs,United States,87,1.8,"Real Estate, Oil, Cars",2015
+Nirav Modi,India,44,1.8,Diamond Jewelry,2015
+Jorge Moll Filho,Brazil,70,1.8,Hospitals,2015
+Marius Nacht,Israel,49,1.8,Software,2015
+Bruce Nordstrom,United States,81,1.8,Department Stores,2015
+Bob Parsons,United States,64,1.8,Web Hosting,2015
+Robert Pera,United States,36,1.8,Technology,2015
+Peter Peterson,United States,88,1.8,Investments,2015
+Alberto Prada,Italy,n/a,1.8,Prada,2015
+Marina Prada,Italy,n/a,1.8,Prada,2015
+Jennifer Pritzker,United States,63,1.8,"Hotels, Investments",2015
+Linda Pritzker,United States,61,1.8,"Hotels, Investments",2015
+James Ratcliffe,United Kingdom,62,1.8,Chemicals,2015
+Luigi Rovati,Italy,86,1.8,Pharmaceuticals,2015
+Onsi Sawiris,Egypt,85,1.8,"Construction, Telecom",2015
+Thomas Secunda,United States,60,1.8,Bloomberg Lp,2015
+Shen Ya,China,44,1.8,Online Apparel Retail,2015
+Alexandre Soares dos Santos,Portugal,80,1.8,Retail,2015
+Sylvia Stroher,Germany,59,1.8,Cosmetics,2015
+Sukanto Tanoto,Indonesia,65,1.8,Diversified,2015
+Peter Unger,Germany,70,1.8,Auto Repair,2015
+Radovan Vitek,Czech Republic,43,1.8,Real Estate,2015
+David Walentas,United States,76,1.8,Real Estate,2015
+Wang Qingtao,China,53,1.8,Steel Smelting,2015
+Zhang Li,China,62,1.8,Real Estate,2015
+Ali Ibrahim Agaoglu,Turkey,61,1.8,Construction,2015
+Cai Dongqing,China,45,1.8,Animation,2015
+Cao Longxiang,China,57,1.8,Pharmaceuticals,2015
+Diego Della Valle,Italy,61,1.8,Shoes,2015
+Dermot Desmond,Ireland,64,1.8,Finance,2015
+James Irsay,United States,55,1.8,Indianapolis Colts,2015
+Li Sze Lim,Hong Kong,58,1.8,Real Estate,2015
+Nandan Nilekani,India,59,1.8,Software Services,2015
+"H. Ross Perot, Jr.",United States,56,1.8,"Computer Services, Real Estate",2015
+Yuri Shefler,Russia,47,1.8,Alcohol,2015
+Tahir,Indonesia,62,1.8,Diversified,2015
+Takao Yasuda,Japan,65,1.8,Retail,2015
+"Richard Yuengling, Jr.",United States,71,1.8,Beer,2015
+Aziz Akhannouch,Morocco,54,1.7,"Petroleum, Diversified",2015
+Louis Bacon,United States,56,1.7,Hedge Funds,2015
+Mikhail Balakin,Russia,53,1.7,Construction,2015
+Sid Bass,United States,72,1.7,"Oil, Investments",2015
+Aldo Bensadoun,Canada,76,1.7,Shoes,2015
+Rainer Blickle,Germany,n/a,1.7,Auto Parts,2015
+Jaime Botin,Spain,78,1.7,Banking,2015
+Nikolai Buinov,Russia,47,1.7,Oil & Gas,2015
+Chen Bang,China,49,1.7,Hospitals,2015
+Dulce Pugliese de Godoy Bueno,Brazil,67,1.7,"Hospitals, Health Care",2015
+Ana Lucia de Mattos Barretto Villela,Brazil,41,1.7,Banking,2015
+Richard Desmond,United Kingdom,63,1.7,Publishing,2015
+Alfredo Egydio Arruda Villela Filho,Brazil,45,1.7,Banking,2015
+Mario Gabelli,United States,72,1.7,Money Management,2015
+Stelios Haji-Ioannou,Cyprus,48,1.7,Easyjet,2015
+Christoph Henkel,Germany,n/a,1.7,Consumer Goods,2015
+Huang Hongyun,China,48,1.7,Real Estate,2015
+W. Herbert Hunt,United States,86,1.7,Oil,2015
+Irwin Jacobs,United States,81,1.7,Semiconductors,2015
+Ravi Jaipuria,India,60,1.7,Soft Drinks,2015
+"Joe Jamail, Jr.",United States,89,1.7,Lawsuits,2015
+Jiang Rensheng,China,61,1.7,Vaccine Production,2015
+Jiang Wei,China,53,1.7,Pharmaceuticals,2015
+Jiang Zhaobai,China,51,1.7,Real Estate,2015
+"Jim Justice, II.",United States,63,1.7,Coal,2015
+"Anton Kathrein, Jr.",Germany,30,1.7,Antennas,2015
+Vinod Khosla,United States,60,1.7,Venture Capital,2015
+Karel Komarek,Czech Republic,45,1.7,Oil And Gas,2015
+Angela Leong,Hong Kong,53,1.7,Casinos,2015
+Lin Li,China,51,1.7,Investments,2015
+Vincent Lo,Hong Kong,66,1.7,Real Estate,2015
+Tom Morris,United Kingdom,60,1.7,Retail,2015
+"Henry Nicholas, III.",United States,55,1.7,Semiconductors,2015
+Ahsen Ozokur,Turkey,64,1.7,Food Manufacturing,2015
+Ranjan Pai,India,42,1.7,Education,2015
+Lirio Parisotto,Brazil,61,1.7,Investments,2015
+Murdaya Poo,Indonesia,74,1.7,Diversified,2015
+Alexander Samwer,Germany,40,1.7,Rocket Internet,2015
+Marc Samwer,Germany,44,1.7,Tech Startups,2015
+Oliver Samwer,Germany,41,1.7,Tech Startups,2015
+"Karl Scheufele, III.",Switzerland,76,1.7,Jewelry,2015
+Dieter Schnabel,Germany,69,1.7,Chemicals,2015
+Gerald Schwartz,Canada,73,1.7,Finance,2015
+B.R. Shetty,India,73,1.7,Healthcare,2015
+Thaksin Shinawatra,Thailand,65,1.7,Investments,2015
+Martua Sitorus,Indonesia,55,1.7,Palm Oil,2015
+Dan Snyder,United States,50,1.7,Washington Redskins,2015
+Mark Stevens,United States,55,1.7,Venture Capital,2015
+Torsten Toeller,Germany,48,1.7,Pet Food,2015
+Robert Toennies,Germany,n/a,1.7,Meat Processing,2015
+Thongma Vijitpongpun,Thailand,56,1.7,Real Estate,2015
+Vincent Viola,United States,59,1.7,Electronic Trading,2015
+Pham Nhat Vuong,Vietnam,46,1.7,Real Estate,2015
+Ian Wood,United Kingdom,72,1.7,Energy Services,2015
+Jon Yarbrough,United States,57,1.7,Video Games,2015
+Elisabeth Badinter,France,71,1.7,Advertising,2015
+Domenico Dolce,Italy,56,1.7,Dolce & Gabbana,2015
+Stefano Gabbana,Italy,52,1.7,Dolce & Gabbana,2015
+Hans-Werner Hector,Germany,75,1.7,Sap,2015
+Huang Zhenda,China,67,1.7,Construction,2015
+Keeree Kanjanapas,Thailand,65,1.7,Transportation,2015
+Koo Bon-Moo,South Korea,70,1.7,Electronics/Chemicals/Household Products,2015
+Eric Lefkofsky,United States,45,1.7,Groupon,2015
+Oon Kuin Lim,Singapore,71,1.7,Oil Trading,2015
+Akio Nitori,Japan,71,1.7,Retail,2015
+Sudthida Ratanarak,Thailand,n/a,1.7,"Media, Real Estate",2015
+J. Joe Ricketts,United States,73,1.7,Td Ameritrade,2015
+Shen Wenrong,China,69,1.7,Steel Production,2015
+Tsai Ming-Kai,Taiwan,64,1.7,Semiconductors,2015
+Tseng Shin-Yi,Taiwan,87,1.7,Petrochemicals,2015
+Zhou Chengjian,China,49,1.7,Apparel Retail,2015
+Zhou Yahui,China,38,1.7,Online Games,2015
+Leslie Alexander,United States,71,1.6,Houston Rockets,2015
+Igor Altushkin,Russia,44,1.6,Metals,2015
+Naruatsu Baba,Japan,37,1.6,Smartphone Game Maker,2015
+Alex Beard,United Kingdom,47,1.6,"Mining, Commodities",2015
+David Booth,United States,69,1.6,Mutual Funds,2015
+Julio Bozano,Brazil,79,1.6,Banking,2015
+Eduardo Carmignac,France,67,1.6,Asset Management,2015
+Sarah Chaney,United States,61,1.6,Cargill,2015
+Alexandra Daitch,United States,52,1.6,Cargill,2015
+Venugopal Dhoot,India,63,1.6,Electronics,2015
+Gabriel Escarrer,Spain,80,1.6,Hotels,2015
+Fu Meicheng,China,57,1.6,"Tv Shows, Movies",2015
+Dan Gertler,Israel,41,1.6,Mining,2015
+John Henry,United States,65,1.6,Sports,2015
+Alan Howard,United Kingdom,51,1.6,Hedge Funds,2015
+Stephen Jarislowsky,Canada,89,1.6,Money Management,2015
+Danil Khachaturov,Russia,43,1.6,"Insurance, Banking, Real Estate",2015
+Wolfgang Leitner,Austria,61,1.6,Engineering,2015
+Liao Long-Shing,Taiwan,n/a,1.6,Petrochemicals,2015
+Suhon Lin,Taiwan,87,1.6,Petrochemicals,2015
+Robert Miller,United Kingdom,81,1.6,Retail,2015
+Boris Mints,Russia,56,1.6,Real Estate,2015
+Phillip Ragon,United States,65,1.6,Health It,2015
+Thomas Steyer,United States,57,1.6,Hedge Funds,2015
+Lucy Stitzer,United States,55,1.6,Cargill,2015
+Katherine Tanner,United States,59,1.6,Cargill,2015
+Wichai Thongtang,Thailand,68,1.6,Investments,2015
+Tian Ming,China,61,1.6,Measuring Instruments,2015
+Joop van den Ende,Netherlands,73,1.6,Tv,2015
+Manuel Villar,Philippines,65,1.6,Real Estate,2015
+Jitendra Virwani,India,49,1.6,Real Estate,2015
+Allan Wong,Hong Kong,65,1.6,Electronics,2015
+Simon Xie,China,45,1.6,Online Payment Service,2015
+Gavril Yushvaev,Russia,57,1.6,"Precious Metals, Real Estate",2015
+Zan Shengda,China,51,1.6,Diversified,2015
+Zhang Hongwei,China,60,1.6,"Oil, Banking",2015
+Roberto Angelini Rossi,Chile,66,1.6,"Forestry, Mining",2015
+Ana Maria Brescia Cafferata,Peru,90,1.6,"Mining, Banking",2015
+Rosa Brescia Cafferata,Peru,88,1.6,"Mining, Fisheries",2015
+Vivek Chand Burman,India,77,1.6,Consumer Goods,2015
+Bruce Cheng,Taiwan,79,1.6,Electronics,2015
+Pollyanna Chu,Hong Kong,57,1.6,Financial Services,2015
+James Clark,United States,70,1.6,"Netscape, Investments",2015
+Du Jiangtao,China,45,1.6,Chemicals,2015
+Reinold Geiger,Austria,67,1.6,Beauty Products,2015
+Goh Peng Ooi,Malaysia,60,1.6,Software,2015
+Allan Gray,South Africa,77,1.6,Investing,2015
+Richard Hayne,United States,67,1.6,Urban Outfitters,2015
+Huang Li,China,51,1.6,Infrared Imaging Systems,2015
+Huang Qisen,China,50,1.6,Real Estate,2015
+Lee Hwa-Kyung,South Korea,59,1.6,Snack Foods,2015
+Lin Jianhua,China,52,1.6,Solar,2015
+Liu Xuejing,China,64,1.6,"Copper, Poultry",2015
+Gary Michelson,United States,66,1.6,Medical Patents,2015
+Gregorio Perez Companc,Argentina,79,1.6,Oil And Gas,2015
+Shin Dong-Bin,South Korea,60,1.6,Retailing,2015
+Sit Kwong Lam,Hong Kong,47,1.6,"Oil, Transportation",2015
+Ronald Southern,Canada,84,1.6,"Structures, Utilities",2015
+Petter Stordalen,Norway,52,1.6,Hotels,2015
+Wu Yiling,China,65,1.6,Pharmaceuticals,2015
+Lina Maria Aguiar,Brazil,77,1.5,Banking Inheritance,2015
+Sergio Lins Andrade,Brazil,67,1.5,Construction,2015
+Michael Ashcroft,United Kingdom,69,1.5,Security,2015
+Nicolas Berggruen,United States,53,1.5,Investments,2015
+Alberto Bombassei,Italy,74,1.5,Automotive Brakes,2015
+Josef Boquoi,Germany,81,1.5,Frozen Foods,2015
+Timothy Boyle,United States,65,1.5,Columbia Sportswear,2015
+Cho Tak Wong,Hong Kong,68,1.5,Auto Parts,2015
+Kommer Damen,Netherlands,70,1.5,Shipbuilding,2015
+Benjamin de Rothschild,Switzerland,51,1.5,Banking,2015
+Darwin Deason,United States,74,1.5,Xerox,2015
+Maria Del Pino y Calvo-Sotelo,Spain,58,1.5,Construction,2015
+Fritz Draexlmaier,Germany,n/a,1.5,Auto Parts,2015
+Alexander Dzhaparidze,Russia,59,1.5,Oil Services,2015
+"Frank Fertitta, III.",United States,53,1.5,"Casinos, Ultimate Fighting Championship",2015
+Lorenzo Fertitta,United States,46,1.5,"Casinos, Ultimate Fighting Championship",2015
+Martha Ford,United States,89,1.5,Ford Motor,2015
+Paul Foster,United States,57,1.5,Oil Refining,2015
+Walter Frey,Switzerland,71,1.5,Emil Frey Group,2015
+Jayme Garfinkel,Brazil,69,1.5,Insurance,2015
+Geng Jianming,China,52,1.5,Real Estate,2015
+Rolf Gerling,Germany,60,1.5,Insurance,2015
+Peter Gilgan,Canada,64,1.5,Homebuilding,2015
+Christopher Goldsbury,United States,72,1.5,Salsa,2015
+David Harding,United Kingdom,53,1.5,Finance,2015
+Saad Hariri,Lebanon,44,1.5,"Construction, Investments",2015
+Jonathan Harmsworth,United Kingdom,47,1.5,Publishing,2015
+Devendra Jain,India,86,1.5,Chemicals,2015
+George Joseph,United States,93,1.5,Insurance,2015
+Seth Klarman,United States,57,1.5,Investments,2015
+Schulenberg Klaus-Peter,Germany,n/a,1.5,Ticketing Service,2015
+Li Li,China,51,1.5,Pharmaceuticals,2015
+Scott Lin,Taiwan,n/a,1.5,Optical Components,2015
+Gary Magness,United States,61,1.5,"Cable, Investments",2015
+Alfred Mann,United States,89,1.5,Medical Devices,2015
+Marie-Jeanne Meyer,France,73,1.5,Commodities,2015
+Lachhman Das Mittal,India,84,1.5,Tractors,2015
+Arturo Moreno,United States,68,1.5,Billboards,2015
+Mofatraj Munot,India,70,1.5,Real Estate,2015
+Bobby Murphy,United States,26,1.5,Snapchat,2015
+Ezra Nahmad,Monaco,69,1.5,Art,2015
+Nan Cunhui,China,51,1.5,Electrical Power Equipment,2015
+Jay Paul,United States,67,1.5,Real Estate,2015
+Stanley Perron,Australia,92,1.5,"Property, Retail",2015
+Victor Pinchuk,Ukraine,54,1.5,"Steel Pipes, Diversified",2015
+Purnomo Prawiro,Indonesia,68,1.5,Taxis,2015
+"Nicholas Pritzker, II.",United States,71,1.5,"Hotels, Investments",2015
+Antony Ressler,United States,53,1.5,Finance,2015
+Monique Roosmale Nepveu,France,75,1.5,Commodities,2015
+Rodney Sacks,United States,65,1.5,Energy Drinks,2015
+Ralph Sonnenberg,Netherlands,80,1.5,Blinds,2015
+Evan Spiegel,United States,24,1.5,Snapchat,2015
+Edward Stack,United States,60,1.5,Dick's Sporting Goods,2015
+Sun Hongbin,United States,52,1.5,Real Estate,2015
+Sun Shoukuan,China,65,1.5,Chemicals,2015
+Henry Swieca,United States,57,1.5,Hedge Funds,2015
+Katsumi Tada,Japan,69,1.5,Real Estate,2015
+Jim Thompson,United States,75,1.5,Logistics,2015
+Todd Wagner,United States,54,1.5,Online Media,2015
+Wang Junmin,China,46,1.5,Pharmaceuticals,2015
+Xiong Xuqiang,Hong Kong,58,1.5,Real Estate,2015
+Zhu Gongshan,China,57,1.5,Solar Panel Materials,2015
+Anu Aga,India,72,1.5,Engineering,2015
+Cao Kejian,China,52,1.5,Air Compressors,2015
+Chao Teng-Hsiung,Taiwan,71,1.5,Real Estate,2015
+Chen Yung-Tai,Taiwan,79,1.5,Real Estate,2015
+Bulent Eczacibasi,Turkey,65,1.5,"Pharmaceuticals, Diversified",2015
+Max Michel Suberville,Mexico,82,1.5,Beverages,2015
+Robert Mouawad,Lebanon,70,1.5,Fine Jewelry,2015
+Qiu Jianping,China,53,1.5,Hand Tools,2015
+Wilma Tisch,United States,87,1.5,Diversified,2015
+Kenny Troutt,United States,67,1.5,Telecommunications,2015
+Wei Shaojun,China,52,1.5,Real Estate,2015
+Wong Kwong Yu,China,45,1.5,Retail,2015
+Radhe Shyam Agarwal,India,70,1.4,Consumer Goods,2015
+Farkhad Akhmedov,Russia,59,1.4,Natural Gas,2015
+Abdul Majeed Alhokair,Saudi Arabia,45,1.4,"Retailing, Real Estate",2015
+Fawaz Alhokair,Saudi Arabia,49,1.4,"Retail, Shopping Malls",2015
+Salman Alhokair,Saudi Arabia,48,1.4,"Retailing, Shopping Malls",2015
+"Herbert Allen, Jr.",United States,75,1.4,Investment Banking,2015
+Edmund Ansin,United States,78,1.4,Television,2015
+Carol Jenkins Barnett,United States,58,1.4,Publix Supermarkets,2015
+Thomas Bruch,Germany,64,1.4,Food Retailing,2015
+Anand Burman,India,62,1.4,Consumer Goods,2015
+Ahmet Calik,Turkey,57,1.4,"Energy, Media, Banking",2015
+Benedicta Chamberlain,United Kingdom,71,1.4,Alcohol,2015
+Chen Jianhua,China,44,1.4,Chemicals,2015
+Alfred James Clark,United States,87,1.4,Construction,2015
+Alberto Cortina,Spain,69,1.4,Investments,2015
+Claude Dauphin,France,64,1.4,Commodities,2015
+Faruk Eczacibasi,Turkey,60,1.4,"Pharmaceuticals, Diversified",2015
+Clement Fayat,France,83,1.4,Construction,2015
+J. Christopher Flowers,United States,57,1.4,Investments,2015
+Alan Gerry,United States,85,1.4,Cable Television,2015
+Radhe Shyam Goenka,India,69,1.4,Consumer Goods,2015
+Sanjiv Goenka,India,54,1.4,Diversified,2015
+Ryan Graves,United States,31,1.4,Car Service,2015
+Alfredo Harp Helu,Mexico,70,1.4,Banking,2015
+William Heinecke,Thailand,66,1.4,Hotels,2015
+Hong Ra-Hee,South Korea,69,1.4,Samsung,2015
+Stewart Horejsi,United States,77,1.4,Berkshire Hathaway,2015
+Kenji Kasahara,Japan,39,1.4,Social Networking Website,2015
+Pyotr Kondrashev,Russia,65,1.4,Fertilizers,2015
+Thomas Lau,Hong Kong,61,1.4,Real Estate,2015
+Jane Lauder,United States,42,1.4,Cosmetics,2015
+Aerin Lauder Zinterhofer,United States,45,1.4,Cosmetics,2015
+Lee Man Tat,Hong Kong,86,1.4,Food,2015
+Lee Myung-Hee,South Korea,71,1.4,Retailing,2015
+Lei Jufang,China,62,1.4,Pharmaceuticals,2015
+Liu Changqing,China,62,1.4,Manufacturing,2015
+Kenneth Lo,United Kingdom,76,1.4,Textiles,2015
+Anatoly Lomakin,Russia,62,1.4,Fertilizers,2015
+Ana Maria Marcondes Penido Sant'Anna,Brazil,59,1.4,Toll Roads,2015
+Rubens Ometto Silveira Mello,Brazil,65,1.4,"Sugar, Ethanol",2015
+Surang Prempree,Thailand,72,1.4,Media,2015
+Michael Price,United States,62,1.4,Investments,2015
+Nevaldo Rocha,Brazil,85,1.4,Retail,2015
+Arkady Rotenberg,Russia,63,1.4,"Construction, Pipes, Banking",2015
+Jeff Rothschild,United States,60,1.4,Facebook,2015
+Antonio Luiz Seabra,Brazil,72,1.4,Cosmetics,2015
+Charles Simonyi,United States,67,1.4,Microsoft,2015
+Thomas Straumann,Switzerland,51,1.4,Dental Implants,2015
+Frank Stronach,Canada,82,1.4,Auto Parts,2015
+Hary Tanoesoedibjo,Indonesia,49,1.4,Media,2015
+Wang Xing,China,n/a,1.4,E-Commerce,2015
+Charlotte Colket Weber,United States,72,1.4,Campbell Soup,2015
+Wen Yibo,China,49,1.4,Wastewater Treatment,2015
+Xiu Laigui,China,60,1.4,Pharmaceuticals,2015
+Yang Kai,China,58,1.4,Dairy Products,2015
+Yang Zhimao,China,52,1.4,"Utilities, Real Estate",2015
+Ye Cheng,China,53,1.4,Diversified,2015
+William Young,United States,74,1.4,Plastics,2015
+Charles Zegar,United States,67,1.4,Bloomberg Lp,2015
+Zhang Guiping,China,63,1.4,Real Estate,2015
+Zhang Zhirong,Hong Kong,46,1.4,Shipbuilding,2015
+Ahmet Nazif Zorlu,Turkey,70,1.4,Diversified,2015
+Somphote Ahunai,Thailand,47,1.4,Energy,2015
+Paolo Bulgari,Italy,77,1.4,Luxury Goods,2015
+Steve Case,United States,56,1.4,Aol,2015
+Kiat Chiaravanont,Thailand,n/a,1.4,Food,2015
+Ding Shizhong,China,44,1.4,Sports Apparel,2015
+Asok Kumar Hiranandani,Singapore,60,1.4,Real Estate,2015
+Douglas Hsu,Taiwan,72,1.4,Diversified,2015
+Kei Hoi Pang,China,49,1.4,Real Estate,2015
+Li Yihai,China,52,1.4,Pharmaceuticals,2015
+Lin Bin,China,47,1.4,Smartphones,2015
+Pier Luigi Loro Piana,Italy,63,1.4,Fashion,2015
+Ma Xingtian,China,45,1.4,Pharmaceuticals,2015
+Harsh Mariwala,India,63,1.4,Consumer Goods,2015
+Brian Roberts,United States,55,1.4,Comcast,2015
+Hilton Schlosberg,United Kingdom,62,1.4,Monster Energy Drinks,2015
+Shao Zhongyi,China,46,1.4,Soybean Trading,2015
+Shin Dong-Joo,South Korea,61,1.4,Retailing,2015
+Sun Shangchuan & wife,China,51,1.4,Electronics Components,2015
+Sun Weijie,China,51,1.4,Oilfield Equipment,2015
+Joyce Raley Teel,United States,84,1.4,Supermarkets,2015
+Tiong Hiew King,Malaysia,79,1.4,Timber/Media,2015
+Mustafa Latif Topbas,Turkey,70,1.4,"Food Manufacturing, Retail",2015
+Hamdi Ulukaya,Turkey,43,1.4,Chobani Yogurt,2015
+Wei Qi,China,60,1.4,Chemicals,2015
+Wen Jianping,China,53,1.4,Sewage Treatment,2015
+Dan Wilks,United States,58,1.4,Natural Gas,2015
+Farris Wilks,United States,63,1.4,Natural Gas,2015
+Xu Jingren,China,70,1.4,Pharmaceuticals,2015
+Zhu Yicai,China,50,1.4,"Meat Products, Retailing",2015
+Alberto Alcocer,Spain,72,1.3,Investments,2015
+Patricia Angelini Rossi,Chile,60,1.3,"Forestry, Mining",2015
+Mori Arkin,Israel,62,1.3,Pharmaceuticals,2015
+Mehmet Aydinlar,Turkey,58,1.3,Hospitals,2015
+Eduardo Belmont Anderson,Peru,69,1.3,Cosmetics,2015
+Aneel Bhusri,United States,49,1.3,Business Software,2015
+Thor Bjorgolfsson,Iceland,47,1.3,Diversified,2015
+Miriam Blocher,Switzerland,40,1.3,Chemicals,2015
+Oleg Boyko,Russia,50,1.3,"Entertaiment, Retail, Real Estate",2015
+Nicola Bulgari,Italy,74,1.3,Luxury Goods,2015
+Miloud Chaabi,Morocco,86,1.3,Diversified,2015
+Binod Chaudhary,Nepal,59,1.3,Diversified,2015
+Chen Jinsong,Hong Kong,51,1.3,Real Estate,2015
+Jacques D'Amours,Canada,58,1.3,Retail,2015
+Maria Ines de Lafuente Lacroze,Argentina,70,1.3,Cement Firm,2015
+Andrea Della Valle,Italy,49,1.3,Shoes,2015
+Sanford Diller,United States,87,1.3,Real Estate,2015
+Ding Shijia,China,51,1.3,Sportswear,2015
+Bergit Douglas,Germany,68,1.3,Consumer Goods,2015
+John Edson,United States,82,1.3,Leisure Craft,2015
+Stephen Feinberg,United States,54,1.3,Private Equity,2015
+Sameer Gehlaut,India,41,1.3,Finance,2015
+Harsh Goenka,India,57,1.3,Diversified,2015
+Gu Wei,China,50,1.3,Consumer Electronics,2015
+Mubariz Gurbanoglu,Turkey,46,1.3,Shipping,2015
+Polys Haji-Ioannou,Cyprus,56,1.3,Easyjet,2015
+Donald Hall,United States,86,1.3,Hallmark,2015
+Achmad Hamami,Indonesia,84,1.3,Heavy Equipment,2015
+Gerry Harvey,Australia,75,1.3,Retail,2015
+Hu Kaijun,China,53,1.3,Pharmaceuticals,2015
+Huang Wen Tsai,China,61,1.3,Real Estate,2015
+"B. Wayne Hughes, Jr.",United States,54,1.3,Storage Facilities,2015
+Billy Kan,Hong Kong,63,1.3,Energy,2015
+Sidney Kimmel,United States,87,1.3,Retail,2015
+Michael Klein,Brazil,64,1.3,Retail,2015
+Jim Koch,United States,65,1.3,Beer,2015
+Ihor Kolomoyskyy,Ukraine,52,1.3,"Banking, Investments",2015
+Koo Bon-Neung,South Korea,65,1.3,Electronics,2015
+Andrei Kosogov,Russia,53,1.3,"Oil, Telecom, Banking",2015
+Michael Krasny,United States,61,1.3,Retail,2015
+James Leininger,United States,69,1.3,Medical Products,2015
+Liang Guangwei,China,51,1.3,"Batteries, Mini Motors",2015
+William Macaulay,United States,69,1.3,Energy Investments,2015
+Yusaku Maezawa,Japan,39,1.3,Online Retail,2015
+Coucke Marc,Belgium,50,1.3,Pharmaceuticals,2015
+Dmitry Mazepin,Russia,46,1.3,Chemicals,2015
+Miao Shouliang,China,60,1.3,"Real Estate, Diversified",2015
+Massimo Moratti,Italy,69,1.3,Oil,2015
+Charles Munger,United States,91,1.3,Berkshire Hathaway,2015
+Gabe Newell,United States,52,1.3,Videogames,2015
+Ni Zhaoxing,China,59,1.3,Real Estate,2015
+Alfred Oetker,Germany,48,1.3,Consumer Goods,2015
+August Oetker,Germany,70,1.3,Consumer Goods,2015
+Carl Ferdinand Oetker,Germany,42,1.3,Consumer Goods,2015
+Christian Oetker,Germany,66,1.3,Consumer Goods,2015
+Julia Oetker,Germany,36,1.3,Consumer Goods,2015
+Richard Oetker,Germany,64,1.3,Consumer Goods,2015
+Park Hyeon-Joo,South Korea,56,1.3,Asset Management,2015
+Roger Penske,United States,78,1.3,Cars,2015
+Jose Isaac Peres & wife,Brazil,74,1.3,Shopping Malls,2015
+Markus Persson,Sweden,35,1.3,Minecraft,2015
+Erika Pohl-Stroher,Germany,96,1.3,Hair Products,2015
+Que Wenbin,China,51,1.3,Pharmaceuticals,2015
+Jerry Reinsdorf,United States,79,1.3,Sports Teams,2015
+Lily Safra,Monaco,77,1.3,Banking,2015
+Thomas Sandell,Sweden,54,1.3,Hedge Funds,2015
+Eddy Kusnadi Sariaatmadja,Thailand,61,1.3,"Media, Tech",2015
+Leonard Schleifer,United States,62,1.3,Pharmaceuticals,2015
+Rosely Schweizer,Germany,74,1.3,Consumer Goods,2015
+Shuai Fangwen,China,48,1.3,Pharmaceuticals,2015
+Evgeny (Eugene) Shvidler,United States,50,1.3,"Oil & Gas, Investments",2015
+Jasminder Singh,United Kingdom,64,1.3,Hotels,2015
+Peter Sperling,United States,55,1.3,Education,2015
+Michael Steinhardt,United States,74,1.3,Finance,2015
+Alain Taravella,France,67,1.3,Real Estate,2015
+Surin Upatkoon,Thailand,65,1.3,Telecoms/Lotteries/Insurance,2015
+Wang Laichun,China,47,1.3,Electronics Components,2015
+Wang Laisheng,China,50,1.3,Electronics Components,2015
+Gjert Wilhelmsen,Norway,89,1.3,Cruise Ships,2015
+Wong Luen Hei,China,53,1.3,Home Building Materials,2015
+Horst Wortmann,Germany,73,1.3,Footwear,2015
+Albert Yeung,Hong Kong,71,1.3,"Real Estate, Retail",2015
+Zhou Guohui,China,50,1.3,Logistics,2015
+Zhou Hongyi,China,44,1.3,Security Software,2015
+Zhu Chongyun,China,n/a,1.3,Apparel Retailer,2015
+Fawzi Al-Kharafi,Kuwait,n/a,1.3,Diversified,2015
+Jassim Al-Kharafi,Kuwait,n/a,1.3,Diversfied,2015
+Mohannad Al-Kharafi,Kuwait,n/a,1.3,Diversified,2015
+Alexei Ananyev,Russia,50,1.3,"Banking, It, Real Estate",2015
+Dmitry Ananyev,Russia,46,1.3,"Banking, It, Real Estate",2015
+Henadiy Boholyubov,Ukraine,53,1.3,"Banking, Investments",2015
+Richard Chang,Taiwan,68,1.3,"Real Estate, Electronics",2015
+Chong Ngen Choo,Singapore,61,1.3,Hotels,2015
+Turgay Ciner,Turkey,59,1.3,Diversified,2015
+Leszek Czarnecki,Poland,53,1.3,Finance,2015
+Mohammed Dewji,Tanzania,39,1.3,Diversified,2015
+K. Dinesh,India,60,1.3,Software Services,2015
+Gao Dekang,China,63,1.3,Apparel,2015
+Daniel Hirschfeld,United States,73,1.3,Apparel Retailer,2015
+Hong Xiaobo,China,43,1.3,E-Commerce,2015
+Wee Meng Koh,Singapore,51,1.3,"Real Estate, Hotels",2015
+Lin Ming-Hsiung,Taiwan,65,1.3,Retail,2015
+Gian Marco Moratti,Italy,78,1.3,Oil,2015
+Vikas Oberoi,India,44,1.3,Real Estate,2015
+Kazuo Okada,Japan,72,1.3,Casinos,2015
+Horst Julius Pudwill,Germany,70,1.3,Manufacturing,2015
+Deniz Sahenk,Turkey,69,1.3,"Bank, Media",2015
+Alexander Spanos,United States,91,1.3,Real Estate,2015
+Danny Tan Chee Sing,Malaysia,59,1.3,Real Estate,2015
+Nikolai Tsvetkov,Russia,54,1.3,Banking,2015
+John Tyson,United States,61,1.3,Food Processing,2015
+Rufino Vigil Gonzalez,Mexico,66,1.3,Steel,2015
+Wan Lianbu,China,49,1.3,Fertilizers,2015
+Wang Xicheng,China,66,1.3,Tires,2015
+Gordon Wu,Hong Kong,80,1.3,Real Estate,2015
+Xiao Fen,China,52,1.3,Consumer Electronics,2015
+Yang Yuanqing,China,50,1.3,Computers,2015
+Yi Zheng,China,44,1.3,Software,2015
+Lia Maria Aguiar,Brazil,77,1.2,Banking Inheritance,2015
+Len Ainsworth,Australia,91,1.2,Betting Machines,2015
+Mohammed Al Barwani,Oman,63,1.2,Oil,2015
+Maurice Alter,Australia,89,1.2,Real Estate,2015
+Joao Alves de Queiroz Filho,Brazil,62,1.2,Consumer Goods,2015
+An Kang,China,66,1.2,Pharmaceuticals,2015
+Ayman Asfari,United Kingdom,56,1.2,Oil Services,2015
+Alan Auerbach,United States,45,1.2,Biotechnology,2015
+William F. Austin,United States,73,1.2,Hearing Aids,2015
+Mehmet Rustu Basaran,Turkey,68,1.2,"Bank, Gas",2015
+Anne Beaufour,France,51,1.2,Pharmaceuticals,2015
+Henri Beaufour,France,49,1.2,Pharmaceuticals,2015
+Albert Berner,Germany,79,1.2,Fasteners,2015
+O. Francis Biondi,United States,50,1.2,Hedge Fund,2015
+Chang Pyung-Soon,South Korea,64,1.2,Educational Products & Services,2015
+Chen Tianqiao,China,42,1.2,Online Games,2015
+Tony Chen,Taiwan,46,1.2,Optical Components,2015
+Richard Chilton Jr,United States,56,1.2,Hedge Funds,2015
+Hasmukh Chudgar,India,81,1.2,Pharmaceuticals,2015
+John Coates,United Kingdom,45,1.2,Online Gambling,2015
+Luigi Cremonini,Italy,75,1.2,Meat Processing,2015
+Mark Dixon,United Kingdom,56,1.2,Office Real Estate,2015
+Gary Fegel,Switzerland,41,1.2,Commodities Trading,2015
+Gleb Fetisov,Russia,48,1.2,"Telecom, Finance",2015
+Valentin Gapontsev,Russia,76,1.2,Lasers,2015
+Serge Godin,Canada,65,1.2,Information Technology,2015
+Vladimir Gruzdev,Russia,48,1.2,Investments,2015
+Mehmet Nazif Gunal,Turkey,67,1.2,"Tourism, Construction",2015
+Vinod Gupta,India,69,1.2,Electrical Equipment,2015
+Clelia Haji-Ioannou,Cyprus,47,1.2,Easyjet,2015
+Ilkka Herlin,Finland,56,1.2,"Elevators, Escalators",2015
+Brian Higgins,United States,50,1.2,Hedge Fund,2015
+J. Tomilson Hill,United States,66,1.2,Investments,2015
+Drew Houston,United States,31,1.2,Dropbox,2015
+Jiang Ning,China,41,1.2,Telecom,2015
+Ronald Joyce,Canada,84,1.2,Restaurants,2015
+Alexander Karp,United States,47,1.2,Software Firm,2015
+Sergei Katsiev,Russia,57,1.2,"Retail, Wholesale",2015
+Lev Kvetnoi,Russia,49,1.2,"Cement, Airport",2015
+Lev Leviev,Israel,59,1.2,Diamonds,2015
+Li Tan,China,50,1.2,Pharmaceuticals,2015
+Liu Yiqian,China,51,1.2,Investments,2015
+Jose Llado Fernandez-Urrutia,Spain,80,1.2,Construction,2015
+Aloke Lohia,India,56,1.2,Petrochemicals,2015
+Ma Hong,China,47,1.2,Apparel Retailer,2015
+Rudolf Maag,Switzerland,69,1.2,Medical Devices,2015
+Maggie Magerko,United States,49,1.2,Building Materials,2015
+Anand Mahindra,India,59,1.2,Automobiles,2015
+Jean-Charles Naouri,France,65,1.2,"Supermarkets, Sporting Goods",2015
+Pierre Papillaud,France,79,1.2,Water,2015
+David Penaloza Alanis,Mexico,41,1.2,Toll Roads,2015
+Qin Yinglin,China,49,1.2,Poultry,2015
+Vito Rodriguez Rodriguez,Peru,76,1.2,Processed Milk,2015
+Fernando Roig,Spain,67,1.2,Supermarkets,2015
+Alexander Rovt,United States,62,1.2,"Fertilizer, Real Estate",2015
+Alan Rydge,Australia,62,1.2,Entertainment,2015
+Jacques Saade,France,78,1.2,Shipping,2015
+Seo Jung-Jin,South Korea,57,1.2,Biotechnology,2015
+Ron Sim,Singapore,56,1.2,Retail,2015
+Edwin Soeryadjaya,Indonesia,66,1.2,"Coal, Investments",2015
+Robert Stiller,United States,71,1.2,Coffee,2015
+Sun Deliang,China,42,1.2,Software,2015
+Vincent Tan,Malaysia,63,1.2,Diversified,2015
+Tang Hsiang-chien,Hong Kong,92,1.2,Textiles/Electronics,2015
+Mehmet Sinan Tara,Turkey,56,1.2,Construction,2015
+Wang Jinshu,China,58,1.2,Chemicals,2015
+Wang Wei,China,43,1.2,Computer Hardware,2015
+Wang Zhenghua,China,70,1.2,Budget Airline,2015
+Wong Man Li,Hong Kong,50,1.2,Furniture,2015
+Jacky Xu,St. Kitts and Nevis,n/a,1.2,Apparel,2015
+Luis Enrique Yarur Rey,Chile,64,1.2,Banking,2015
+Zheng Yuewen,China,53,1.2,Investments,2015
+Shishir Bajaj,India,67,1.2,Consumer Goods,2015
+Charles Brandes,United States,72,1.2,Money Management,2015
+Jean Burelle,France,76,1.2,Automotive Systems,2015
+Laurent Burelle,France,65,1.2,Automotive Systems,2015
+Cho Yang-Rai,South Korea,77,1.2,Tire Manufacturing,2015
+Chung Mong-Joon,South Korea,63,1.2,Shipbuilding/Industrial Machines,2015
+Chung Yong-Jin,South Korea,46,1.2,Retailing,2015
+Jack Cowin,Australia,72,1.2,Fast Food,2015
+Robert Ell,Australia,70,1.2,Property,2015
+Abhay Firodia,India,70,1.2,Automobiles,2015
+Niklas Herlin,Finland,51,1.2,"Elevators, Escalators",2015
+Huang Chulong,China,n/a,1.2,Real Estate,2015
+Clifford Illig,United States,64,1.2,Health Care,2015
+Mehmet Emin Karamehmet,Turkey,70,1.2,"Telecom, Diversified",2015
+Kim Taek-Jin,South Korea,47,1.2,Online Games,2015
+Li Yongjun,China,48,1.2,Food,2015
+Liu Dianbo,China,50,1.2,Pharmaceuticals,2015
+Liu Shaoxi,China,51,1.2,Real Estate,2015
+Itamar Locks,Brazil,60,1.2,Agribusiness,2015
+Blairo Maggi,Brazil,58,1.2,Agribusiness,2015
+Lucia Maggi,Brazil,83,1.2,Agribusiness,2015
+Gilles Martin,France,51,1.2,Laboratory Services,2015
+Ioan Niculae,Romania,60,1.2,Agriculture,2015
+G.V. Prasad,India,54,1.2,Pharmaceuticals,2015
+Satish Reddy,India,47,1.2,Pharmaceuticals,2015
+Remo Ruffini,Italy,53,1.2,Winter Jackets,2015
+Airat Shaimiev,Russia,52,1.2,"Refinery, Chemicals",2015
+S.D. Shibulal,India,60,1.2,Software Services,2015
+V.G. Siddhartha,India,55,1.2,Retail,2015
+Kerry Stokes,Australia,74,1.2,"Media, Mining",2015
+Yan Zhi,China,42,1.2,Real Estate,2015
+Zhou Mingjie,China,57,1.2,Lighting Installations,2015
+Zhu Jiman,China,50,1.2,Pharmaceuticals,2015
+Roman Avdeev,Russia,47,1.1,"Banking, Development",2015
+Thomas Bailey,United States,78,1.1,Finance,2015
+William Berkley,United States,68,1.1,Insurance,2015
+Maurizio Billi,Brazil,n/a,1.1,Generic Drugs,2015
+Alexei Bogachev,Russia,44,1.1,"Retail, Banking",2015
+Horst Brandstaetter,Germany,81,1.1,Toys,2015
+Mike Cannon-Brookes,Australia,35,1.1,Business Software,2015
+Chey Ki-Won,South Korea,50,1.1,Computer Services,2015
+Chu Mang Yee,China,55,1.1,Real Estate,2015
+Hubert d'Ornano,France,88,1.1,Cosmetics,2015
+Jim Davis,United States,54,1.1,Staffing & Recruiting Firm,2015
+Jeanine Dick,France,78,1.1,Animal Pharmaceuticals,2015
+Beda Diethelm,Switzerland,74,1.1,Hearing Aids,2015
+Husain Djojonegoro,Indonesia,65,1.1,Consumer Goods,2015
+Shlomo Eliahu,Israel,79,1.1,Insurance,2015
+Henry Engelhardt,United States,57,1.1,Insurance,2015
+Fan Zhaoxia,China,47,1.1,Photovoltaic Equipment,2015
+Scott Farquhar,Australia,35,1.1,Software,2015
+Soichiro Fukutake,Japan,69,1.1,Education,2015
+Barbara Carlson Gage,United States,72,1.1,"Hotels, Travel",2015
+Don Gao,China,50,1.1,Power Tools,2015
+Konstantin Grigorishin,Russia,49,1.1,Power Engineering,2015
+Jeffrey Gundlach,United States,56,1.1,Investments,2015
+Suat Gunsel,Cyprus,62,1.1,"Real Estate, Education",2015
+Guo Wengui,China,n/a,1.1,Real Estate,2015
+Yuri Gushchin,Russia,70,1.1,"Candy, Real Estate",2015
+Dorrance Hamilton,United States,86,1.1,Campbell Soup,2015
+Ayman Hariri,Lebanon,36,1.1,"Construction, Investments",2015
+Fahd Hariri,Lebanon,34,1.1,"Construction, Investments",2015
+Ilona Herlin,Finland,50,1.1,"Elevators, Escalators",2015
+Niranjan Hiranandani,India,64,1.1,Real Estate,2015
+Surendra Hiranandani,India,60,1.1,Real Estate,2015
+Jon Huntsman,United States,77,1.1,Chemicals,2015
+Mohammed Ibrahim,United Kingdom,68,1.1,Communications,2015
+Hal Jackman,Canada,82,1.1,"Insurance, Investments",2015
+Raghuvinder Kataria,United Kingdom,65,1.1,Diversified,2015
+Yuriy Kosiuk,Ukraine,46,1.1,Agriculture,2015
+Lee Ho-Jin,South Korea,52,1.1,Petrochemicals / Finance / Media / Electronics,2015
+Liang Zhaoxian,China,50,1.1,Appliances,2015
+Liu Ming Hui,China,52,1.1,Natural Gas Distribution,2015
+Lou Zhongfu,China,61,1.1,Real Estate,2015
+Jeffrey Lurie,United States,63,1.1,Philadelphia Eagles,2015
+Alexander Lutsenko,Russia,52,1.1,Agribusiness,2015
+Edir Macedo,Brazil,70,1.1,Broadcasting,2015
+Ziyad Manasir,Russia,49,1.1,Construction,2015
+Kishore Mariwala,India,80,1.1,Consumer Goods,2015
+Nikolai Maximov,Russia,57,1.1,Investments,2015
+Jacques Merceron-Vicat,France,76,1.1,Cement,2015
+Azad Moopen,India,61,1.1,Healthcare,2015
+John Morgridge,United States,81,1.1,Computer Hardware,2015
+Marilyn Carlson Nelson,United States,75,1.1,"Hotels, Travel",2015
+"Carolus Nolet, Sr.",Netherlands,74,1.1,Ketel One Vodka,2015
+Ou Zonghong,China,45,1.1,Real Estate,2015
+Marli Pissollo,Brazil,60,1.1,Agribusiness,2015
+Andrei Rappoport,Russia,51,1.1,Investments,2015
+Alberto Roemmers,Argentina,88,1.1,Pharmaceuticals,2015
+Sudhir Ruparelia,Uganda,59,1.1,Real Estate,2015
+David Sainsbury,United Kingdom,74,1.1,Retail,2015
+Radik Shaimiev,Russia,50,1.1,"Refinery, Chemical",2015
+E. Joe Shoen,United States,66,1.1,U-Haul,2015
+Sanjay Singal,India,55,1.1,Steel,2015
+Bruno Steinhoff,Germany,77,1.1,Furniture,2015
+Rustem Sulteev,Russia,61,1.1,"Refinery, Chemicals",2015
+Sun Qinghuan,China,41,1.1,Lighting,2015
+Djoko Susanto,Indonesia,65,1.1,Retail,2015
+Yoshikazu Tanaka,Japan,38,1.1,Online Social Network,2015
+Roustam Tariko,Russia,52,1.1,Banking,2015
+Tu Jianhua,China,51,1.1,"Motorcycles, Real Estate",2015
+Kenneth Tuchman,United States,55,1.1,Outsourcing,2015
+Lang Walker,Australia,69,1.1,Property,2015
+Wang Yongping,China,44,1.1,Telecom Services,2015
+Yang Keng,China,54,1.1,Real Estate,2015
+Zhong Sheng Jian,Singapore,57,1.1,Real Estate,2015
+Lau Cho Kun,Malaysia,79,1.1,Palm Oil/Real Estate,2015
+Bassam Alghanim,Kuwait,63,1.1,Diversified,2015
+Kutayba Alghanim,Kuwait,69,1.1,Diversified,2015
+Achal Bakeri,India,55,1.1,Air Coolers,2015
+Amit Burman,India,45,1.1,Consumer Goods,2015
+Cheng Xue,China,45,1.1,Soy Sauce Maker,2015
+Chu Jinfu,China,57,1.1,Electrical Power Equipment,2015
+Thian Poh Chua,Singapore,66,1.1,Real Estate,2015
+Brunello Cucinelli,Italy,61,1.1,Cashmere Sweaters,2015
+Dai Deming,China,n/a,1.1,Auto Distribution,2015
+Gustavo Denegri,Italy,79,1.1,Medical Tests,2015
+T.S. Kalyanaraman,India,67,1.1,Jewelry,2015
+Mustafa Vehbi Koc,Turkey,54,1.1,Diversified,2015
+Liu Zhenguo,China,50,1.1,Sewage Treatment,2015
+Dariusz Milek,Poland,47,1.1,"Real Estate, Retail",2015
+Jorge Rodriguez Rodriguez,Peru,69,1.1,Processed Milk,2015
+Sevket Sabanci,Turkey,78,1.1,Diversified,2015
+K. Rai Sahi,Canada,68,1.1,Real Estate,2015
+Yoshiyuki Sankai,Japan,56,1.1,Robotics,2015
+Samih Sawiris,Egypt,58,1.1,"Real Estate, Hotels",2015
+Albert Shigaboutdinov,Russia,60,1.1,"Refinery, Chemicals",2015
+Pavel Tykac,Czech Republic,50,1.1,Coal Mine,2015
+Alexander Vik,Norway,60,1.1,Investments,2015
+Wang Qinghui,China,46,1.1,Telecom Services,2015
+Wang Zhongjun,China,54,1.1,Film Production,2015
+Wu Chung-Yi,Taiwan,56,1.1,Auto Parts,2015
+Xia Shudong,China,42,1.1,It Service,2015
+Yu Awu,China,73,1.1,Jewelry,2015
+Yu Peidi,Hong Kong,55,1.1,Real Estate,2015
+Zhou Yaoting,China,72,1.1,Conglomerate,2015
+Antti Aarnio-Wihuri,Finland,n/a,1,Diversified,2015
+Mohed Altrad,France,66,1,"Scaffolding, Cement Mixers",2015
+Rostam Azizi,Tanzania,50,1,"Telecom, Investments",2015
+Elena Baturina,Russia,51,1,Construction,2015
+Sara Blakely,United States,44,1,Spanx,2015
+Tory Burch,United States,48,1,Fashion,2015
+Sidharth Burman,India,70,1,Consumer Goods,2015
+Fred Chang,United States,58,1,Online Retailing,2015
+Leon Charney,United States,73,1,Real Estate,2015
+Cheung Yan,China,58,1,Paper,2015
+Chin Jong Hwa,Taiwan,56,1,Auto Parts,2015
+Robert Citrone,United States,50,1,Hedge Fund,2015
+Cui Lijie,Hong Kong,n/a,1,Gambling,2015
+Chris Dawson,United Kingdom,63,1,Home Goods Retail,2015
+Aydin Dogan,Turkey,78,1,Media,2015
+Charles Edelstenne,France,77,1,Dassault,2015
+Maria de Lourdes Egydio Villela,Brazil,n/a,1,Banking,2015
+Paul Fireman,United States,71,1,Reebok,2015
+Ken Grossman,United States,n/a,1,Beer,2015
+Frank Hasenfratz,Canada,80,1,Auto Parts,2015
+Reed Hastings,United States,54,1,Netflix,2015
+Huang Bingwen,Australia,61,1,Printing,2015
+Daisy Igel,Brazil,87,1,"Gas, Petrochemicals",2015
+Ray Irani,United States,80,1,Oil,2015
+"Summerfield Johnston, Jr.",United States,82,1,Coca-Cola,2015
+Michael Jordan,United States,52,1,Sports Team,2015
+Morris Kahn,Israel,85,1,Software,2015
+Thomas Kaplan,United States,52,1,Investments,2015
+Eugene Kaspersky,Russia,49,1,Software,2015
+Ryan Kavanaugh,United States,40,1,Movies,2015
+Solomon Lew,Australia,69,1,Retail,2015
+Li Fuchao,China,57,1,Auto Parts,2015
+Liu Ming Chung,Brazil,52,1,Paper Manufacturing,2015
+Lo Siu Yu,Hong Kong,45,1,Conglomerate,2015
+Mario Lopez Estrada,Guatemala,n/a,1,Telecom,2015
+Low Tuck Kwong,Indonesia,66,1,Coal,2015
+Lu Yonghua,China,51,1,Electronics,2015
+Lv Dalong,China,52,1,Telecom Services,2015
+Michael Lynch,United Kingdom,50,1,Software,2015
+Martha MacMillan Bennett,United States,63,1,Cargill,2015
+"Cargill MacMillan, III.",United States,55,1,Cargill,2015
+John MacMillan,United States,65,1,Cargill,2015
+William MacMillan,United States,60,1,Cargill,2015
+John Martin,United States,63,1,Pharmaceuticals,2015
+Kiran Mazumdar-Shaw,India,61,1,Biotechnology,2015
+David McMurtry,United Kingdom,74,1,Manufacturing,2015
+P.N.C. Menon,Oman,66,1,Real Estate,2015
+Trond Mohn,Norway,71,1,Cargo Pumps,2015
+Zelimkhan Mutsoev,Russia,55,1,"Fertilizers, Real Estate",2015
+Nerijus Numavicius,Lithuania,47,1,"Retail, Pharmacy",2015
+Hong Leong Oei,Singapore,66,1,Investments,2015
+Jonathan Oringer,United States,40,1,Stock Photos,2015
+Femi Otedola,Nigeria,52,1,Gas Stations,2015
+J. Michael Pearson,Canada,55,1,Pharmaceuticals,2015
+Robert Piccinini,United States,73,1,Supermarkets,2015
+Andreas Pohl,Germany,50,1,Mutual Funds,2015
+"Reinfried Pohl, Jr.",Germany,55,1,Mutual Funds,2015
+Abdulsamad Rabiu,Nigeria,55,1,"Cement, Sugar, Flour",2015
+Andrea Reimann-Ciardelli,United States,58,1,Consumer Goods,2015
+Ren Zhengfei,China,71,1,Telecom Equipment,2015
+Hugo Ribeiro,Brazil,n/a,1,Agribusiness,2015
+Steven Roth,United States,73,1,Real Estate,2015
+Subhash Runwal,India,71,1,Real Estate,2015
+Suzan Sabanci Dincer,Turkey,50,1,Diversified,2015
+Serra Sabanci,Turkey,39,1,Diversified,2015
+Nobutada Saji,Japan,69,1,Beverages,2015
+Sheryl Sandberg,United States,45,1,Facebook,2015
+Monika Schoeller,Germany,76,1,Publishing,2015
+Bhadresh Shah,India,63,1,Engineering,2015
+Neil Shen,Hong Kong,46,1,Venture Capital Investing,2015
+Leonid Simanovsky,Russia,65,1,Investments,2015
+Benny Subianto,Indonesia,72,1,"Coal, Investments",2015
+Harjo Sutanto,Indonesia,88,1,Consumer Goods,2015
+Ion Tiriac,Romania,75,1,"Banking, Insurance",2015
+Murat Vargi,Turkey,67,1,Telecom,2015
+Stefan von Holtzbrinck,Germany,51,1,Publishing,2015
+Wang Haipeng,China,43,1,Paper & Related Products,2015
+Wang Jianfeng,China,45,1,Auto Parts,2015
+Wang Wenliang,China,60,1,Ship Maintenance,2015
+Wang Yong,China,64,1,Food Sweeteners,2015
+V. Prem Watsa,Canada,64,1,"Insurance, Investments",2015
+Sanford Weill,United States,81,1,Citigroup,2015
+Thomas Wu,Taiwan,n/a,1,Finance,2015
+Fatma Yazici,Turkey,41,1,Diversified,2015
+You Xiaoping,China,57,1,"Chemicals, Spandex",2015
+Yuan Yafei,China,51,1,"Retailing, Investments",2015
