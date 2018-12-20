@@ -53,16 +53,53 @@ forval i = 1988/2018 {
 *Checking dropoffs* 
 tset id year, yearly
 
-gen dropoff = missing(wealth) & !missing(L.wealth) 
-gen entry = missing(L.wealth) & !missing(wealth) 
- 
-bysort year: egen yearlydropoff = total(dropoff) 
+gen entry = missing(L.prefillin) & !missing(prefillin) 
+gen dropoff = missing(prefillin) & !missing(L.prefillin)  
+
+
 bysort year: egen yearlyentry = total(entry) 
+bysort year: egen yearlydropoff = total(dropoff) 
 
 //keep year yearlydropoff 
 //duplicates drop year, force 
 
 graph bar yearlydropoff, over(year, label(labsize(tiny))) title("Number of Dropoffs Per Year") b1title("Year") ytitle("Dropoffs")
+graph save "${SavePath}/figures/YearlyDropoff", replace
+
 graph bar yearlyentry, over(year, label(labsize(tiny))) title("Number of Entries Per Year") b1title("Year") ytitle("Entries") 
+graph save "${SavePath}/figures/YearlyEntry", replace
 
 
+/*
+*Checking to see if wealth is transferred after dropoff* 
+bysort familynameid id : gen nvals = _n == 1 
+bysort familynameid: egen familymembers = total(nvals) 
+keep if familymembers == 2
+
+drop nvals
+
+bysort id (year): keep if entry == 1 | dropoff == 1 | F.dropoff == 1 
+gen beforedropoff = 1 if entry == 0 & dropoff == 0 
+
+bysort familynameid: egen dropofftotal = total(dropoff)  
+drop if dropofftotal == 0 
+
+sort familynameid year id
+drop lastname2 familymembers dropofftotal
+*/
+
+*Looking at country by country share of entry* 
+
+collapse (sum) entry (sum) prefillin , by(countrymode) 
+keep if prefillin >= 15 
+
+gen shareentry = entry / prefillin 
+
+sort shareentry 
+
+graph bar shareentry, over(countrymode, label(labsize(tiny) angle(90)) sort(1)) ///
+ytitle("Share of Entry", size(small)) ///
+b1title("Countries", size(small)) ///
+title("Share of Entry by Country", size(medium)) subtitle("If prefillin >= 15", size(medsmall)) 
+
+graph save "${SavePath}/figures/ShareEntryByCountry", replace

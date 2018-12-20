@@ -87,11 +87,11 @@ foreach i in `years' {
 
 	use "`i'minusUS.dta", clear
 	
-	replace Family = strpos(lower(Name), "family") > 0 if Family == . 
-	replace Family = strpos(lower(Name), "families") > 0 if Family == . 
-	replace Family = strpos(lower(Name), "brothers") > 0 if Family == . 
-	replace Family = strpos(lower(Name), "daughters") > 0 if Family == . 
-	replace Family = strpos(lower(Name), "wife") > 0 if Family == . 
+	replace Family = strpos(lower(Name), "family") > 0 if Family == . | Family == 0
+	replace Family = strpos(lower(Name), "families") > 0 if Family == . | Family == 0
+	replace Family = strpos(lower(Name), "brothers") > 0 if Family == . | Family == 0 
+	replace Family = strpos(lower(Name), "daughters") > 0 if Family == . | Family == 0 
+	replace Family = strpos(lower(Name), "wife") > 0 if Family == . | Family == 0
 
 	replace Name = subinstr(Name, " and family", "", .) 
 	replace Name = subinstr(Name, " and Family", "", .) 
@@ -111,7 +111,11 @@ foreach i in `years' {
 	replace Name = subinstr(Name, " family", "", .) 
 	replace Name = subinstr(Name, " Family", "", .)
 	
+	replace Name = subinstr(Name, ", families", "", .)
+	replace Name = subinstr(Name, ", Families", "", .)
+	
 	replace Name = subinstr(Name, " families", "", .)
+	replace Name = subinstr(Name, " Families", "", .)
 	replace Name = subinstr(Name, "Families ", "", .)
 
 	replace Name = subinstr(Name, " brothers", "", .)
@@ -173,10 +177,10 @@ forval i = 1996/2018 {
 	replace country = strtrim(country) 
 	
 	gen family = strpos(lower(name), "family") > 0
-	replace family = strpos(lower(name), "families") > 0 if family == . 
-	replace family = strpos(lower(name), "brothers") > 0 if family == . 
-	replace family = strpos(lower(name), "daughters") > 0 if family == . 
-	replace family = strpos(lower(name), "wife") > 0 if family == . 
+	replace family = strpos(lower(name), "families") > 0 if family == . | family == 0 
+	replace family = strpos(lower(name), "brothers") > 0 if family == . | family == 0 
+	replace family = strpos(lower(name), "daughters") > 0 if family == . | family == 0 
+	replace family = strpos(lower(name), "wife") > 0 if family == . | family == 0 
 
 	
 	replace name = subinstr(name, " and family", "", .) 
@@ -197,7 +201,11 @@ forval i = 1996/2018 {
 	replace name = subinstr(name, " family", "", .) 
 	replace name = subinstr(name, " Family", "", .) 
 	
+	replace name = subinstr(name, ", families", "", .)
+	replace name = subinstr(name, ", Families", "", .)
+	
 	replace name = subinstr(name, " families", "", .)
+	replace name = subinstr(name, " Families", "", .)
 	replace name = subinstr(name, "Families ", "", .)
 
 	replace name = subinstr(name, " brothers", "", .)

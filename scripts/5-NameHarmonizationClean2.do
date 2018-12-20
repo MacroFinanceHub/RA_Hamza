@@ -36,6 +36,7 @@ replace name_2017 = "Lai Meisong" if name_2017 == "Meisong Lai"
 replace name_2017 = "Wim van der Leegte" if name_2017 == "Wim Van Der Leegte"
 replace name_2017 = "Don Gao" if name_2017 == "Gao Don"
 replace name_2017 = "Heloise Pratt" if name_2017 == "Heloise Waislitz"
+replace name_2017 = "Lin Shu-Hong" if name_2017 == "Suhon Lin"
 
 replace name_2017 = "Zhou Yifeng (young)" if name_2017 == "Zhou Yifeng" & age == 38
 
@@ -71,6 +72,7 @@ replace name_2016 = "Julio Ponce Lerou" if name_2016 == "Julio Ponce"
 replace name_2016 = "Lin Tianfu" if name_2016 == "Tianfu Lin"
 replace name_2016 = "Wim van der Leegte" if name_2016 == "Wim Van Der Leegte"
 replace name_2016 = "Heloise Pratt" if name_2016 == "Heloise Waislitz"
+replace name_2016 = "Lin Shu-Hong" if name_2016 == "Suhon Lin"
 
 save "2016minusUS.dta", replace 
 
@@ -115,6 +117,7 @@ replace name_2015 = "Viatcheslav Kantor" if name_2015 == "Vyacheslav Kantor"
 replace name_2015 = "Miriam Baumann-Blocher" if name_2015 == "Miriam Blocher"
 replace name_2015 = "Wim van der Leegte" if name_2015 == "Wim Van Der Leegte"
 replace name_2015 = "Heloise Pratt" if name_2015 == "Heloise Waislitz"
+replace name_2015 = "Lin Shu-Hong" if name_2015 == "Suhon Lin"
 
 replace name_2015 = "Wang Wei (young)" if name_2015 == "Wang Wei" & age_2015 == 43
 
@@ -152,6 +155,7 @@ replace name_2014 = "Julio Ponce Lerou" if name_2014 == "Julio Ponce"
 replace name_2014 = "Viatcheslav Kantor" if name_2014 == "Vyacheslav Kantor"
 replace name_2014 = "Miriam Baumann-Blocher" if name_2014 == "Miriam Blocher"
 replace name_2014 = "Heloise Pratt" if name_2014 == "Heloise Waislitz"
+replace name_2014 = "Lin Shu-Hong" if name_2014 == "Suhon Lin"
 
 save "2014minusUS.dta", replace 
 
@@ -195,6 +199,7 @@ replace name_2013 = "Law Kar Po" if name_2013 == "Kar Po Law"
 replace name_2013 = "Len Buckeridge" if name_2013 == "Leonard Buckeridge"
 replace name_2013 = "Gerry Harvey" if name_2013 == "Gerald Harvey"
 replace name_2013 = "Cher Wang & Wenchi Chen" if name_2013 == "Cher Wang Wenchi Chen"
+replace name_2013 = "Lin Shu-Hong" if name_2013 == "Suhon Lin"
 
 save "2013minusUS.dta", replace 
 
@@ -241,6 +246,7 @@ replace name_2012 = "Viatcheslav Kantor" if name_2012 == "Vyacheslav Kantor"
 replace name_2012 = "Law Kar Po" if name_2012 == "Kar Po Law"
 replace name_2012 = "Cheung Yan" if name_2012 == "Yan Cheung"
 replace name_2012 = "Len Buckeridge" if name_2012 == "Leonard Buckeridge"
+replace name_2012 = "Lin Shu-Hong" if name_2012 == "Suhon Lin"
 
 save "2012minusUS.dta", replace  
 
@@ -292,6 +298,7 @@ replace name_2011 = "John Dorrance, III." if name_2011 == "John Dorrance"
 replace name_2011 = "Len Buckeridge" if name_2011 == "Leonard Buckeridge"
 replace name_2011 = "Gerry Harvey" if name_2011 == "Gerald Harvey"
 replace name_2011 = "Bidzina Ivanishvili" if name_2011 == "Boris Ivanishvili"
+replace name_2011 = "Lin Shu-Hong" if name_2011 == "Suhon Lin"
 
 save "2011minusUS.dta", replace  
 
@@ -403,6 +410,7 @@ replace name_2008 = "Mustafa Rahmi Koc" if name_2008 == "Rahmi Koc"
 replace name_2008 = "Gerry Harvey" if name_2008 == "Gerald Harvey"
 replace name_2008 = "Bidzina Ivanishvili" if name_2008 == "Boris Ivanishvili"
 replace name_2008 = "G. M. Rao" if name_2008 == "G M Rao"
+replace name_2008 = "Hui Ka Yan" if name_2008 == "Xu Jiayin"
 
 save "2008minusUS.dta", replace   
 
@@ -454,6 +462,10 @@ replace name_2007 = "Guenter Herz" if name_2007 == "GÙnter Herz"
 replace name_2007 = "Mustafa Rahmi Koc" if name_2007 == "Rahmi Koc"
 replace name_2007 = "Gerry Harvey" if name_2007 == "Gerald Harvey"
 replace name_2007 = "Bidzina Ivanishvili" if name_2007 == "Boris Ivanishvili"
+replace name_2007 = "Hui Ka Yan" if name_2007 == "Xu Jiayin"
+replace name_2007 = "G. M. Rao" if name_2007 == "Grandhi Rao"
+replace name_2007 = "Cha Yong-Keu" if name_2007 == "Yong Keu Cha"
+replace name_2007 = "Jay Y. Lee" if name_2007 == "Lee Jay-Yong"
 
 save "2007minusUS.dta", replace   
 
@@ -668,7 +680,8 @@ replace name_2002 = "Mustafa Rahmi Koc" if name_2002 == "Rahmi Koc"
 replace name_2002 = "Kwek Leng Beng" if name_2002 == "KwekæLeng"
 replace name_2002 = "Shin Kyuk-Ho" if name_2002 == "ShinæKyuk-ho"
 replace name_2002 = "Lee Seng Wee" if name_2002 == "LeeæSeng"
-replace name_2002 = "Lee Kun-Hee" if name_2002 == "LeeæKun" 
+replace name_2002 = "Lee Kun-Hee" if name_2002 == "LeeæKun"
+replace name_2002 = "Tsai Wan Lin" if name_2002 == "TsaiæWan-lin" 
 
 save "2002minusUS.dta", replace     
 
@@ -742,6 +755,7 @@ replace name_2001 = "Chey Tae-Won" if name_2001 == "CheyæTaeWon"
 replace name_2001 = "Terry Gou" if name_2001 == "Terry Kuo"
 replace name_2001 = "Mustafa Rahmi Koc" if name_2001 == "Rahmi Ko"
 replace name_2001 = "YC Wang" if name_2001 == "Y.C. Wang"
+replace name_2001 = "Tsai Wan Lin" if name_2001 == "TsaiæWan-lin"
 
 save "2001minusUS.dta", replace      
 
@@ -783,13 +797,13 @@ replace name_2000 = "Jeffrey Skoll" if name_2000 == "Jeff Skoll"
 replace name_2000 = "Kumar Birla" if name_2000 == "Kumar Mangalam Birla"
 replace name_2000 = "Edward Rogers" if name_2000 == "Edward S. (Ted) Rogers"
 replace name_2000 = "Terence (Terry) Matthews" if name_2000 == "Terry Matthews"
-replace name_2000 = "Schickedanz daughters" if name_2000 == "Schickedanz"
 replace name_2000 = "Abdul Aziz Al Ghurair" if name_2000 == "Abdul-Aziz Al-Ghurair"
 replace name_2000 = "Saleh Al Rajhi" if name_2000 == "Saleh bin Abdul Aziz Al Rajhi"
 replace name_2000 = "Mustafa Rahmi Koc" if name_2000 == "Rahmi Koc"
 replace name_2000 = "Terry Gou" if name_2000 == "Terry Kuo"
 replace name_2000 = "John Dorrance, III." if name_2000 == "John T. Dorrance 3rd"
 replace name_2000 = "YC Wang" if name_2000 == "Y.C. Wang" 
+replace name_2000 = "Tsai Wan Lin" if name_2000 == "TsaiæWan-lin"
 
 save "2000minusUS.dta", replace      
 
@@ -840,6 +854,8 @@ replace name_1999 = "Abilio dos Santos Diniz" if name_1999 == "Abilio Diniz"
 replace name_1999 = "Terry Gou" if name_1999 == "Terry Kuo"
 replace name_1999 = "John Dorrance, III." if name_1999 == "John T. 3rd Dorrance"
 replace name_1999 = "YC Wang" if name_1999 == "Y.C. Wang"
+replace name_1999 = "Tsai Wan Lin" if name_1999 == "TsaiæWan-lin"
+replace name_1999 = "Jeffrey Koo Sr" if name_1999 == "Jeffrey Koo"
 
 save "1999minusUS.dta", replace       
 
@@ -870,6 +886,8 @@ replace name_1998 = "TsaiæWan-lin" if name_1998 == "Tsai Wan-lin"
 replace name_1998 = "Mustafa Rahmi Koc" if name_1998 == "Rahmi Koc"
 replace name_1998 = "Terry Gou" if name_1998 == "Terry Kuo"
 replace name_1998 = "YC Wang" if name_1998 == "Y.C. Wang"
+replace name_1998 = "Tsai Wan Lin" if name_1998 == "TsaiæWan-lin"
+replace name_1998 = "Jeffrey Koo Sr" if name_1998 == "Jeffrey Koo"
 
 save "1998minusUS.dta", replace        
 
@@ -896,7 +914,7 @@ replace name_1997 = "Spiro Latsis" if name_1997 == "Spiros Latsis"
 replace name_1997 = "Giovanni Agnelli" if name_1997 == "Gianni Agnelli"
 replace name_1997 = "Carlos Ardila Lí_lle" if name_1997 == "Carlos Ardila Lulle"
 replace name_1997 = "Friedrich Flick Jr" if name_1997 == "Friedrich Karl Jr. Flick"
-replace name_1997 = "Oeri, Hoffman & Sacher families" if name_1997 == "Hoffman and Sacher families Oeri"
+replace name_1997 = "Oeri, Hoffman & Sacher" if name_1997 == "Hoffman and Sacher Oeri"
 replace name_1997 = "Rem Vyakhirev" if name_1997 == "Rem Viakhirev"
 replace name_1997 = "Lee Kun-Hee" if name_1997 == "Lee Kun-hee"
 replace name_1997 = "Koo Bon-Moo" if name_1997 == "Koo Bon-moo"
@@ -910,6 +928,9 @@ replace name_1997 = "TsaiæWan-lin" if name_1997 == "Tsai Wan-lin"
 replace name_1997 = "Kumar Birla" if name_1997 == "Kumar Mangalam Birla"
 replace name_1997 = "Mustafa Rahmi Koc" if name_1997 == "Rahmi Koc"
 replace name_1997 = "Saleh Al Rajhi" if name_1997 == "Sheikh Saleh Bin Abdul Aziz Al-rajhi"
+replace name_1997 = "Tsai Wan Lin" if name_1997 == "TsaiæWan-lin"
+replace name_1997 = "YC Wang" if name_1997 == "Yue-che Wang"
+replace name_1997 = "Jeffrey Koo Sr" if name_1997 == "Jeffrey Koo"
 
 save "1997minusUS.dta", replace         
 
@@ -927,7 +948,6 @@ replace name_1996 = "Roberto Gonzalez Barrera" if name_1996 == "Roberto Gonz_lez
 replace name_1996 = "John Gokongwei, Jr." if name_1996 == "John Gokongwei Jr."
 replace name_1996 = "Julio Mario Santo Domingo" if name_1996 == "Julio Santo Domingo"
 replace name_1996 = "Eugenio Garza Laguera" if name_1996 == "Eugenio Garza Lagnera"
-replace name_1996 = "Seydoux/Schlumberger families" if name_1996 == "Families Seydoux/Schlumberger"
 replace name_1996 = "Ng Teng Fong" if name_1996 == "Teng Fong"
 replace name_1996 = "Stefan Schorghuber" if name_1996 == "Stefan Schwrghuber"
 replace name_1996 = "Paul Louis Halley" if name_1996 == "Paul-Louis Halley"
@@ -957,12 +977,17 @@ replace name_1996 = "Alberto Bailleres Gonzalez" if name_1996 == "Alberto BaillF
 replace name_1996 = "Rafik Al-Hariri" if name_1996 == "Rafic Hariri"
 replace name_1996 = "Julio Bozano" if name_1996 == "Julio Rafael de Aragpo Bozano"
 replace name_1996 = "Yue-che Wang" if name_1996 == "Yue-Che (Y.C.) Wang"
-replace name_1996 = "Oeri, Hoffman & Sacher families" if name_1996 == "Oeri and Hoffman Paul Sacher"
+replace name_1996 = "Oeri, Hoffman & Sacher" if name_1996 == "Oeri and Hoffman Paul Sacher"
 replace name_1996 = "Henry Fok" if name_1996 == "Henry Ying-tung Fok"
 replace name_1996 = "Mustafa Rahmi Koc" if name_1996 == "Rahmi Kot"
 replace name_1996 = "Stroeher" if name_1996 == "Strwher"
 replace name_1996 = "Yeoh Tiong Lay" if name_1996 == "Tiong-lay Yeoh"
 replace name_1996 = "Abilio dos Santos Diniz" if name_1996 == "Abflio Diniz"
+replace name_1996 = "Theodore Arison" if name_1996 == "Ted Arison"
+replace name_1996 = "Tsai Wan Lin" if name_1996 == "TsaiæWan-lin"
+replace name_1996 = "YC Wang" if name_1996 == "Yue-che Wang"
+replace name_1996 = "Jeffrey Koo Sr" if name_1996 == "Jeffrey Koo"
+replace name_1996 = "Wen Long Shi" if name_1996 == "Shi Wen-long"
 
 save "1996minusUS.dta", replace          
 
@@ -989,7 +1014,6 @@ replace name_1995 = "Giovanni Agnelli" if name_1995 == "Gianni Agnelli"
 replace name_1995 = "Karl & Theo Albrecht" if name_1995 == "Karl and Theo Albrecht"
 replace name_1995 = "August & Wilhelm von Finck" if name_1995 == "Wilhelm and August von Finck"
 replace name_1995 = "Carlos Ardila Lí_lle" if name_1995 == "Carlos Ardila Lulle"
-replace name_1995 = "Seydoux/Schlumberger families" if name_1995 == "Seydoux/Schlumberger"
 replace name_1995 = "Lee Kun-Hee" if name_1995 == "Lee Kun-hee"
 replace name_1995 = "Mochtar Riady" if name_1995 == "Mochter Riady"
 replace name_1995 = "Alberto Bailleres Gonzalez" if name_1995 == "Alberto Bailleres"
@@ -1006,8 +1030,11 @@ replace name_1995 = "Stroeher" if name_1995 == "Stroher"
 replace name_1995 = "Yaw Teck-seng" if name_1995 == "Yaw Teck Seng"
 replace name_1995 = "Julio Bozano" if name_1995 == "Julio Rafael de Aragao Bozano"
 replace name_1995 = "Yue-che Wang" if name_1995 == "Yue-Che (Y.C.) Wang"
-replace name_1995 = "Brost & Funke families" if name_1995 == "Brost and Funke"
-replace name_1995 = "Oeri, Hoffman & Sacher families" if name_1995 == "Paul Sacher and Hoffmann" 
+replace name_1995 = "Brost & Funke" if name_1995 == "Brost and Funke"
+replace name_1995 = "Oeri, Hoffman & Sacher" if name_1995 == "Paul Sacher and Hoffmann" 
+replace name_1995 = "Tsai Wan Lin" if name_1995 == "TsaiæWan-lin"
+replace name_1995 = "YC Wang" if name_1995 == "Yue-che Wang"
+replace name_1995 = "Jeffrey Koo Sr" if name_1995 == "Jeffrey Koo"
 
 save "1995minusUS.dta", replace          
 
@@ -1033,7 +1060,6 @@ replace name_1994 = "Schickedanz" if name_1994 == "Schickendanz"
 replace name_1994 = "Karl & Theo Albrecht" if name_1994 == "Karl and Theo Albrecht"
 replace name_1994 = "August & Wilhelm von Finck" if name_1994 == "Wilhelm and August von Finck"
 replace name_1994 = "Carlos Ardila Lí_lle" if name_1994 == "Carlos Ardila Lulle"
-replace name_1994 = "Seydoux/Schlumberger families" if name_1994 == "Seydoux/Schlumberger"
 replace name_1994 = "Rafik Al-Hariri" if name_1994 == "Rafik Hariri"
 replace name_1994 = "Alberto Bailleres Gonzalez" if name_1994 == "Alberto Bailleres"
 replace name_1994 = "Hiroshi Yamauchi" if name_1994 == "Hiroshi Yamuachi"
@@ -1046,10 +1072,11 @@ replace name_1994 = "Gregorio Perez Companc" if name_1994 == "Perez Companc"
 replace name_1994 = "Jorge Larrea" if name_1994 == "Jorge Larrea Ortega"
 replace name_1994 = "Stroeher" if name_1994 == "Stroher"
 replace name_1994 = "Saleh Kamel" if name_1994 == "Saleh Abdullah Kamel"
-replace name_1994 = "Brothers Kwok" if name_1994 == "Kwok brothers"
 replace name_1994 = "Yue-che Wang" if name_1994 == "Yue-Che (Y.C.) Wang"
-replace name_1994 = "Brost & Funke families" if name_1994 == "Brost and Funke"
-replace name_1994 = "Oeri, Hoffman & Sacher families" if name_1994 == "Paul Sacher and Hoffman"
+replace name_1994 = "Brost & Funke" if name_1994 == "Brost and Funke"
+replace name_1994 = "Oeri, Hoffman & Sacher" if name_1994 == "Paul Sacher and Hoffman"
+replace name_1994 = "Theodore Arison" if name_1994 == "Ted Arison"
+replace name_1994 = "YC Wang" if name_1994 == "Yue-che Wang"
 
 save "1994minusUS.dta", replace           
 
@@ -1063,7 +1090,6 @@ replace name_1993 = "Klaus J Jacobs" if name_1993 == "Klaus Jacobs"
 replace name_1993 = "Fentener van Vlissingen" if name_1993 == "Fentener Van Vlissingen"
 replace name_1993 = "Emilio Azc_rraga Milmo" if name_1993 == "Emilio Azcarraga Milmo"
 replace name_1993 = "August & Wilhelm von Finck" if name_1993 == "August and Wilhelm von Finck"
-replace name_1993 = "Seydoux/Schlumberger families" if name_1993 == "Seydoux/Schlumberger"
 replace name_1993 = "Alberto Bailleres Gonzalez" if name_1993 == "Alberto Bailleres"
 replace name_1993 = "Friedrich Flick Jr" if name_1993 == "Friedrich Karl Flick"
 replace name_1993 = "Shin Kyuk-Ho" if name_1993 == "Shin Kyuk-ho"
@@ -1076,8 +1102,9 @@ replace name_1993 = "James, Arthur & John Irving" if name_1993 == "James, Arthur
 replace name_1993 = "Gregorio Perez Companc" if name_1993 == "Perez Compane"
 replace name_1993 = "Rafik Al-Hariri" if name_1993 == "Rajik Hariri"
 replace name_1993 = "Yue-che Wang" if name_1993 == "Yue-Che (Y.C.) Wang"
-replace name_1993 = "Brost & Funke families" if name_1993 == "Brost and Funke"
-replace name_1993 = "Oeri, Hoffman & Sacher families" if name_1993 == "Paul Sacher and Hoffmann"
+replace name_1993 = "Brost & Funke" if name_1993 == "Brost and Funke"
+replace name_1993 = "Oeri, Hoffman & Sacher" if name_1993 == "Paul Sacher and Hoffmann"
+replace name_1993 = "YC Wang" if name_1993 == "Yue-che Wang"
 
 drop if name_1993 == "Servitje Sendra" & family_1993 == 0
 
@@ -1102,7 +1129,6 @@ replace name_1992 = "Yoshimoto" if name_1992 == "Toshimoto"
 replace name_1992 = "Sebastiao Camargo" if name_1992 == "Sabastiao Camargo"
 replace name_1992 = "Karl-Heinz Kipp" if name_1992 == "Karl Heinz Kipp"
 replace name_1992 = "Roberto Hernandez Ramirez" if name_1992 == "Roberto Hernandez"
-replace name_1992 = "Seydoux/Schlumberger families" if name_1992 == "Seydoux/Schlumberger"
 replace name_1992 = "Friedrich Flick Jr" if name_1992 == "Friedrick Karl Flick Jr."
 replace name_1992 = "Engelhorn" if name_1992 == "Englhorn"
 replace name_1992 = "Bin-Mahfouz" if name_1992 == "Bin Mahfouz"
@@ -1113,10 +1139,11 @@ replace name_1992 = "Edward Rogers" if name_1992 == "Edward S. (Ted) Rogers"
 replace name_1992 = "Rafik Al-Hariri" if name_1992 == "Rafik B. Hariri"
 replace name_1992 = "Maus and Nordmann" if name_1992 == "Maus/Nordmann"
 replace name_1992 = "Erivan Haub" if name_1992 == "Ervian Haub"
-replace name_1992 = "Brost & Funke families" if name_1992 == "Brost Funke"
+replace name_1992 = "Brost & Funke" if name_1992 == "Brost Funke"
 replace name_1992 = "Yue-che Wang" if name_1992 == "Yue-Che (Y.C.) Wang"
 
 replace name_1992 = "Shin Kyuk-Ho" if name_1992 == "Shin Kyuk-ho (a.k.a. Takeo Shigemitsu)" //After creating final dataset name edit
+replace name_1992 = "YC Wang" if name_1992 == "Yue-che Wang"
 
 save "1992minusUS.dta", replace             
 
@@ -1138,7 +1165,6 @@ replace name_1991 = "Karl-Heinz Kipp" if name_1991 == "Karl Heinz Kipp"
 replace name_1991 = "Yung-fa Chang" if name_1991 == "Chang Yung-fa"
 replace name_1991 = "Karl & Theo Albrecht" if name_1991 == "Karl and Theo Albrecht"
 replace name_1991 = "Suliman Olayan" if name_1991 == "Suliman Saleh Olayan"
-replace name_1991 = "Seydoux/Schlumberger families" if name_1991 == "Seydoux/Schlumberger"
 replace name_1991 = "Nejat Ferit Eczacibasi" if name_1991 == "Nejat F. Eczacibasi"
 replace name_1991 = "Heinz Bauer" if name_1991 == "Heinz Heinrich Bauer"
 replace name_1991 = "Bin-Mahfouz" if name_1991 == "Bin Mahfouz"
@@ -1154,6 +1180,9 @@ replace name_1991 = "Lee" if name_1991 == "Lee Shau Kee" & country_1991 == "Sing
 replace country_1991 = "Malaysia/Singapore" if name_1991 == "Kwek/Quek"
 
 replace name_1991 = "Shin Kyuk-Ho" if name_1991 == "Shin Kyuk-ho (a.k.a. Takeo Shigemitsu)" //After creating final dataset name edit
+replace name_1991 = "Y.K. Pao" if name_1991 == "Sir Yue-kong Pao"
+replace name_1991 = "Tsai Wan Lin" if name_1991 == "TsaiæWan-lin"
+replace name_1991 = "Chung Ju-yung" if name_1991 == "Chung Yu-jung"
 
 save "1991minusUS.dta", replace              
 
@@ -1175,7 +1204,6 @@ replace name_1990 = "Tadahiro Yoshida" if name_1990 == "Tadao Yoshida"
 replace name_1990 = "Karl-Heinz Kipp" if name_1990 == "Karl Heinz Kipp"
 replace name_1990 = "Yung-fa Chang" if name_1990 == "Chang Yung-fa"
 replace name_1990 = "Suliman Olayan" if name_1990 == "Suliman Saleh Olayan"
-replace name_1990 = "Seydoux/Schlumberger families" if name_1990 == "Seydoux/Schlumberger"
 replace name_1990 = "Swarovski" if name_1990 == "Swarovoski"
 replace name_1990 = "Friedrich Flick Jr" if name_1990 == "Friedrich Karl Flick"
 replace name_1990 = "Bin-Mahfouz" if name_1990 == "Bin Mahfouz"
@@ -1189,6 +1217,7 @@ replace name_1990 = "YC Wang" if name_1990 == "Y.C. Wang"
 replace country_1990 = "Malaysia/Singapore" if name_1990 == "Kwek/Quek"
 
 replace name_1990 = "Shin Kyuk-Ho" if name_1990 == "Shin Kyuk-ho (a.k.a. Takeo Shigemitsu)" //After creating final dataset name edit
+replace name_1990 = "Y.K. Pao" if name_1990 == "Sir Yue-kong Pao"
 
 save "1990minusUS.dta", replace               
 
@@ -1209,9 +1238,10 @@ replace name_1989 = "Suliman Olayan" if name_1989 == "Suliman Saleh Olayan"
 replace name_1989 = "Swarovski" if name_1989 == "Swaraovski"
 replace name_1989 = "Friedrich Flick Jr" if name_1989 == "Friedrich Karl Flick"
 replace name_1989 = "Bin-Mahfouz" if name_1989 == "Bin Mahfouz"
-replace name_1989 = "Seydoux/Schlumberger families" if name_1989 == "Schlumberger/Seydoux"
+replace name_1989 = "Seydoux/Schlumberger" if name_1989 == "Schlumberger/Seydoux"
 replace name_1989 = "Garza-Sada" if name_1989 == "Garza Sada"
 replace name_1989 = "August & Wilhelm von Finck" if name_1989 == "Wilhelm Von Finck August Von Finck"
+replace name_1989 = "Rafik Al-Hariri" if name_1989 == "Rafik Bahauddin Hariri"
 
 save "1989minusUS.dta", replace                
 
@@ -1234,6 +1264,12 @@ replace name_1988 = "Y.K. Pao" if name_1988 == "Sir Y. K. Pao"
 replace name_1988 = "Suliman Olayan" if name_1988 == "Suliman Saleh Oyalan"
 replace name_1988 = "Anton Dressmann" if name_1988 == "Anton Caspar Rudolph Dreesmann"
 replace name_1988 = "YC Wang" if name_1988 == "Y.C. Wang"
+replace name_1988 = "Sulaiman Al Rajhi" if name_1988 == "Suliman Abdul-Aziz Al Rajhi"
+replace name_1988 = "King Faud Bin Abdul Aziz Alsaud" if name_1988 == "KING FAHD BIN ABDUL AZIZ AL SAUD"
+replace name_1988 = "Queen Elizabeth II" if name_1988 == "QUEEN ELIZABETH II"
+replace name_1988 = "Karl & Theo Albrecht" if name_1988 == "Karl Albrecht and Theo Albrecht"
+replace name_1988 = "Chang Yung Fa" if name_1988 == "Y. F. Chang"
+
 
 duplicates drop name_1988 country_1988, force //Dropping duplicate observation of Genshiro Kawamoto 
 
@@ -1269,22 +1305,84 @@ forval i = 2017(-1)1988 {
 
 }
 
+*Changing names of last names to the name of the one person they correspond to* 
+
+/* MG 
+egen t = sum((prefillin == 1)), by(familynameid year)
+egen t1 = max(t), by(familynameid)
+sort familynameid id year
+br if t1 ==1 & prefillin == 1
+gen hasonlylastname = wordcount(name) == 1
+egen t3 = max(id * (hasonlylastname == 0)), by(familynameid)
+egen t6 = max(hasonlylastname), by(familynameid)
+replace id = t3 if hasonlylastname == 1 & t1 == 1 & t3 > 0
+MG */
+
+/* those are the one where (i) there are two family members (ii) only one of them at maximum appears at the same time 
+(iii) one of these has only last name, the other has first name + last name */
+replace name = "Ahmed Ali Kanoo" if name == "Kanoo"
+replace name = "Ahmed Juffali" if name == "Juffali"
+replace name = "Alvaro Noboa" if name == "Noboa"
+replace name = "Henri and Eric Andre" if name == "AndrT"
+replace name = "Andronico Luksic" if name == "Luksic"
+replace name = "Maria Asuncion Aramburuzabala" if name == "Aramburuzabala"
+replace name = "Jeronimo Arango" if name == "Arango"
+replace name = "Baldwin and Nikolaus Knauf" if name == "Knauf"
+replace name = "Banyong Lamsam" if name == "Lamsam"
+replace name = "Kumar Birla" if name == "Birla"
+replace name = "Robert Bosch Jr" if name == "Bosch"
+replace name = "Philippe Bouriez" if name == "Bouriez"
+replace name = "Godfried Benninkmeijer" if name == "Brenninkmeyer"
+replace name = "Bruno Schroder" if name == "Schroder"
+replace name = "Chatri Sophonpanich" if name == "Sophonpanichi"
+replace name = "Costas Lemos" if name == "Lemos"
+replace name = "David Sainsbury" if name == "Sainsbury"
+replace name = "Denis Defforey" if name == "Defforey"
+replace name = "Karl Diehl" if name == "Diehl"
+replace name = "Edmond Safra" if name == "Safra"
+replace name = "Reinhart Freudenberg" if name == "Freudenberg"
+replace name = "Tamesaburo Furukawa" if name == "Furukawa"
+replace name = "Gerard Mulliez" if name == "Mulliez"
+replace name = "Gernot Langes-Swarovski" if name == "Swarovski"
+replace name = "Paul Louis Halley" if name == "Halley"
+replace name = "Ken Hayashibara" if name == "Hayashibara"
+replace name = "Douglas Hsu" if name == "Hsu"
+replace name = "Hugo Mann" if name == "Mann"
+replace name = "John Jahr" if name == "Jahr"
+replace name = "Juan & Carlos March" if name == "March"
+replace name = "Junichi Murata" if name == "Murata"
+replace name = "Katsumi Tada" if name == "Tada"
+replace name = "Shigekuni Kawamura" if name == "Kawamura"
+replace name = "Kenichi Mabuchi" if name == "Mabuchi"
+replace name = "Konosuke Matsushita" if name == "Matsushita"
+replace name = "Pierre Landolt" if name == "Landolt"
+replace name = "Willi Leibbrand" if name == "Leibbrand"
+replace name = "Prachai Leophairatana" if name == "Leophairatana"
+replace name = "Peter Livanos" if name == "Livanos"
+replace name = "Michael & Reiner Schmidt-Ruthenbeck" if name == "Schmidt-Ruthenbeck"
+replace name = "Sir John Moores" if name == "Moores"
+replace name = "Norberto Odebrecht" if name == "Odebrecht"
+replace name = "Roberto Rocca" if name == "Rocca"
+replace name = "Samuel Lord Vestey and Edmund Vestey" if name == "Vestey"
+replace name = "Shoichiro Toyoda" if name == "Toyoda"
+replace name = "Shoji Uehara" if name == "Uehara"
+replace name = "Tadahiro Yoshida" if name == "Yoshida"
+
 order year name country wealth age family 
 gsort name -year country wealth age family
 
 *Changing Korea to South Korea* 
 replace country = "South Korea" if country == "Korea" 
 
-
 *Creating id variable* 
 egen id = group(name) if name != "Koo" & name != "Lee" & name != "Robert Miller" 
 
-replace id = 2908 if name == "Koo" & country == "South Korea" 
-replace id = 2909 if name == "Koo" & country == "Taiwan" 
-replace id = 2910 if name == "Lee" & country == "Singapore" 
-replace id = 2911 if name == "Lee" & country == "South Korea" 
-replace id = 2912 if name == "Robert Miller" & country == "Canada" 
-replace id = 2913 if name == "Robert Miller" & (country == "United Kingdom" | country == "Hong Kong") 
+replace id = 2835 if name == "Koo" & country == "South Korea" 
+replace id = 2836 if name == "Koo" & country == "Taiwan" 
+replace id = 2837 if name == "Lee" & country == "Singapore" 
+replace id = 2838 if name == "Lee" & country == "South Korea" 
+replace id = 2839 if name == "Robert Miller" & country == "Canada" 
+replace id = 2840 if name == "Robert Miller" & (country == "United Kingdom" | country == "Hong Kong") 
 
 *Creating dummy to indicate observation exists pre fill in* 
 gen prefillin = 1 
@@ -1335,29 +1433,191 @@ replace age = . if missing(prefillin)
 
 sort id year 
 
-*Cleaning up some remaining names* 
-replace family = strpos(lower(name), "families") > 0 if family == 0  
-replace family = strpos(lower(name), "brothers") > 0 if family == 0  
-replace family = strpos(lower(name), "daughters") > 0 if family == 0 
-replace family = strpos(lower(name), "wife") > 0 if family == 0 
+*Using most common country* 
+bysort id: egen countrymode = mode(country), minmode
+replace countrymode = "Switzerland" if name == "Thyssen-Bornemisza"
+drop if name == "Thomas Bailey" //U.S citizen
 
-replace name = subinstr(name, " families", "", .) 
-replace name = subinstr(name, " Families", "", .) 
-replace name = subinstr(name, " brothers", "", .) 
-replace name = subinstr(name, " Brothers", "", .) 
-replace name = subinstr(name, " daughters", "", .)
-replace name = subinstr(name, " & wife", "", .) 
-replace name = subinstr(name, "Families ", "", .) 
+gen name_standardize = name
+replace name_standardize = subinstr(name_standardize, ", Jr.", "", .)
+replace name_standardize = subinstr(name_standardize, " Jr.", "", .)
+replace name_standardize = subinstr(name_standardize, " Jr", "", .)
+replace name_standardize = subinstr(name_standardize, " Junior", "", .)
+replace name_standardize = subinstr(name_standardize, ", Sr.", "", .)
+replace name_standardize = subinstr(name_standardize, " Sr", "", .)
+replace name_standardize = subinstr(name_standardize, ", III.", "", .)
+replace name_standardize = subinstr(name_standardize, " II", "", .)
+replace name_standardize = subinstr(name_standardize, " IV", "", .)
 
-*Creating family name* 
-gen reversed = reverse(name)  
-split reversed, p(" ") 
-gen lastname = reverse(reversed1) 
+replace name_standardize = trim(name_standardize)
+replace name_standardize = lower(name_standardize)
 
-drop reversed*
+gen lastname2 = regexs(1) if regexm(name_standardize, " ([a-zA-Z\-]*)$")
+replace lastname2 = name_standardize if missing(lastname2)
 
-keep if prefillin == 1 
-duplicates drop id, force 
+*Austria*
+replace lastname2 = "swarovski" if lastname2 == "langes-swarovski" 
 
-sort lastname 
+*Dubai* 
+replace lastname2 = "al-maktoum" if lastname2 == "maktoum" 
 
+*Germany* 
+replace lastname2 = "kipp" if lastname2 == "bechtolsheimer-kipp" 
+replace lastname2 = "droege" if lastname2 == "brahm-droege" 
+replace lastname2 = "braun" if lastname2 == "braun-luedicke" 
+replace lastname2 = "leibinger" if lastname2 == "leibinger-kammueller" 
+replace lastname2 = "otto" if lastname2 == "otto-bernstein" 
+replace lastname2 = "stroeher" if lastname2 == "pohl-stroeher" 
+replace lastname2 = "reimann" if lastname2 == "reimann-andersen" | lastname2 == "reimann-haas" 
+replace lastname2 = "schaeffler" if lastname2 == "schaeffler-thumann" 
+replace lastname2 = "schorghuber" if lastname2 == "schoerghuber" 
+
+*Kazakhstan* 
+replace lastname2 = "kulibaev" if lastname2 == "kulibaeva" 
+
+*Kuwait* 
+replace lastname2 = "al-ghanim" if lastname2 == "alghanim"
+
+*Lebanon* 
+replace lastname2 = "al-hariri" if lastname2 == "hariri"
+
+*Netherlands* 
+replace lastname2 = "brenninkmeyer" if lastname2 == "benninkmeijer"
+replace lastname2 = "heineken" if lastname2 == "carvalho-heineken"
+
+*Saudi Arabia* 
+replace lastname2 = "al-rajhi" if lastname2 == "rajhi"
+replace lastname2 = "alsaud" if lastname2 == "saud"
+replace lastname2 = "bin-mahfouz" if lastname2 == "mahfouz"
+
+*Switzerland* 
+replace lastname2 = "andre" if lastname2 == "andrt"
+replace lastname2 = "blocher" if lastname2 == "baumann-blocher" | lastname2 == "martullo-blocher"
+replace lastname2 = "haefner" if lastname2 == "bucher-haefner"
+replace lastname2 = "sacher" if lastname2 == "sacher-stehlin" | lastname2 == "hoffmann" | lastname2 == "oeri"
+replace lastname2 = "thyssen-bornemisza" if lastname2 == "thyssen-bornesmisza"
+
+*Thailand* 
+replace lastname2 = "chearavanont" if lastname2 == "chiaravanond" | lastname2 == "chiaravanont" | lastname2 == "chiaravanont" | ///
+lastname2 == "jiaravanon" | lastname2 == "jiaravanont" 
+replace lastname2 = "sophonpanich" if lastname2 == "sophonpanichi"
+
+*United Arab Emirates* 
+replace lastname2 = "nahyan" if lastname2 == "nahayan"
+
+*Creating family name variable for every country except China, Hong Kong, Taiwan, India, Singapore, & South Korea* 
+bysort lastname2 countrymode (year name): gen familyname = name[1] if prefillin == 1 & (countrymode != "China" & ///
+countrymode != "Hong Kong" & countrymode != "Taiwan" & countrymode != "India" & countrymode != "Singapore" & countrymode != "South Korea")  
+
+replace familyname = name if (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan" | ///
+countrymode == "India" | countrymode == "Singapore" | countrymode == "South Korea")
+
+*China, Hong Kong & Taiwan* 
+
+replace familyname = "Zhang Cheng Fei" if name == "Zhang Cheng Fei" | name == "Cheung Yan" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Chen Dejun" if name == "Chen Dejun" | name == "Chen Xiaoying" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Kuang-piu (K.P.) Chao" if name == "Kuang-piu (K.P.) Chao" | name == "Silas Chou" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Chen Din Hwa" if name == "Chen Din Hwa" | name == "Vivien Chen" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Tung Chee Hwa" if name == "Tung Chee Hwa" | name == "Tung Chee Chen" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "YC Wang" if name == "YC Wang" | name == "Cher Wang & Wenchi Chen" | name == "Wang Yung-Tsai" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Cheng Yu-tung" if name == "Cheng Yu-tung" | name == "Henry Cheng" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Tsai Wan Lin" if name == "Tsai Wan Lin" | name == "Tsai Cheng-da" | name == "Tsai Hong-tu" | ///
+name == "T.Y. Tsai" | name == "Richard Tsai" | name == "Daniel Tsai" | name == "Tsai" | name == "Tsai Wan-Tsai" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Chan Tan Ching-fen" if name == "Chan Tan Ching-fen" | name == "Ronnie Chan" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Victor & William Fung" if name == "Victor & William Fung" | name == "Victor Fung" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Lu Guanqiu" if name == "Lu Guanqiu" | name == "Lu Weiding" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Zhang Guiping" if name == "Zhang Guiping" | name == "Zhang Jindong" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Stanley Ho" if name == "Stanley Ho" | name == "Lawrence Ho" | name == "Pansy Ho" | ///
+name == "Ina Chan" | name == "Angela Leong" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Chen Jianhua" if name == "Chen Jianhua" | name == "Fan Hongwei" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Hsu" if name == "Hsu" | name == "Douglas Hsu" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Yang Meirong" if name == "Yang Meirong" | name == "Yang Huiyan" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan") 
+replace familyname = "Wei Ing-Chou" if name == "Wei Ing-Chou" | name == "Wei Ying-Chiao" | name == "Yin-Chun Wei" | ///
+name == "Wei Yin-Heng" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Kadoorie" if name == "Kadoorie" | name == "Michael Kadoorie" | name == "Ronald McAulay" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Kei Hoi Pang" if name == "Kei Hoi Pang" | name == "Perenna Kei" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Yeung Kin-man" if name == "Yeung Kin-man" | name == "Lam Wai Ying" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Koo" if name == "Koo" | name == "Jeffrey Koo Sr" | name == "Andre Koo" | ///
+name == "Jeffrey Koo Jr" | name == "Koo¾Chen-fu" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Kwok" if name == "Kwok" | name == "Walter Kwok" | name == "Thomas & Raymond Kwok" | ///
+name == "Raymond, Thomas & Walter Kwok" | name == "Kwok Tak-seng" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Wang Laichun" if name == "Wang Laichun" | name == "Wang Laisheng" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Thomas Lau" if name == "Thomas Lau" | name == "Joseph Lau" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Li Ka-shing" if name == "Li Ka-shing" | name == "Richard Li" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Tse Ping" if name == "Tse Ping" | name == "Cheng Cheung Ling" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Nie Tengyun" if name == "Nie Tengyun" | name == "Chen Liying" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Vincent Lo" if name == "Vincent Lo" | name == "Lo Ka Shui" | name == "Lo Ying Shek" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Robin Li" if name == "Robin Li" | name == "Melissa Ma" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Zhai Meiqin" if name == "Zhai Meiqin" | name == "Liu Zhiqiang" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Fu Mingkang" if name == "Fu Mingkang" | name == "Chen Jianming" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Pao" if name == "Pao" | name == "Y.K. Pao" | name == "Peter Woo" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Lin Rong San" if name == "Lin Rong San" | name == "Lin Yu-Ling" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Ding Shizhong" if name == "Ding Shizhong" | name == "Ding Shijia" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Swire" if name == "Swire" | name == "Adrian Swire" | name == "Sir Adrian & Sir John Swire" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan" | ///
+countrymode == "United Kingdom") //Sir Adrian and Sir John Swire are in United Kingdom
+replace familyname = "Li Li" if name == "Li Li" | name == "Li Tan" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Eugene Wu" if name == "Eugene Wu" | name == "Wu" | name == "Thomas Wu" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Wang Chuanfu" if name == "Wang Chuanfu" | name == "Lu Xiangyang" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Zhou Xiaoguang" if name == "Zhou Xiaoguang" | name == "Yu Yunxin" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Zhang Xuanning" if name == "Zhang Xuanning" | name == "Zhang Xuansong" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Wu Yajun" if name == "Wu Yajun" | name == "Cai Kui" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Wang Yaohai" if name == "Wang Yaohai" | name == "Ma Xiuhui" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+replace familyname = "Liu Yonghao" if name == "Liu Yonghao" | name == "Yonghao LiuæYongxing" | name == "Liu Yongxing" & (countrymode == "China" | countrymode == "Hong Kong" | countrymode == "Taiwan")
+
+
+*India* 
+replace familyname = "Ambani" if name == "Ambani" | name == "Mukesh & Anil Ambani" | name == "Anil Ambani" | ///
+name == "Mukesh Ambani" | name == "Dhirubhai Ambani" & countrymode == "India" 
+replace familyname = "Rahul Bajaj" if name == "Rahul Bajaj" | name == "Bajaj" | name == "Shishir Bajaj" | name == "Anurang Jain" & countrymode == "India"
+replace familyname = "Krishna Kumar Bangur" if name == "Krishna Kumar Bangur" | name == "Benu Gopal Bangur" & countrymode == "India" 
+replace familyname = "Birla" if name == "Birla" | name == "Kumar Birla" & countrymode == "India"
+replace familyname = "Vivek Chand Burman" if name == "Vivek Chand Burman" | name == "Anand Burman" | name == "Amit Burman" & countrymode == "India"
+replace familyname = "Adi Godrej" if name == "Adi Godrej" | name == "Smita Crishna-Godrej" | name == "Jamshyd Godrej" | ///
+name == "Nadir Godrej" & countrymode == "India"
+replace familyname = "Rama Prasad Goenka" if name == "Rama Prasad Goenka" | name == "Sanjiv Goenka" | name == "Harsh Goenka" & countrymode == "India"
+replace familyname = "Vinod & Anil Rai Gupta" if name == "Vinod & Anil Rai Gupta" | name == "Vinod Gupta" & countrymode == "India"
+replace familyname = "Niranjan Hiranandani" if name == "Niranjan Hiranandani" | name == "Surendra Hiranandani" & countrymode == "India"
+replace familyname = "Om Jindal" if name == "Om Jindal" | name == "Savitri Jindal" & countrymode == "India"
+replace familyname = "Rana Kapoor" if name == "Rana Kapoor" | name == "Madhu Kapur" & countrymode == "India"
+replace familyname = "Keshub Mahindra" if name == "Keshub Mahindra" | name == "Anand Mahindra" & countrymode == "India"
+replace familyname = "Harsh Mariwala" if name == "Harsh Mariwala" | name == "Kishore Mariwala" & countrymode == "India"
+replace familyname = "Brijmohan Lall Munjal" if name == "Brijmohan Lall Munjal" | name == "Pawan Munjal" & countrymode == "India"
+replace familyname = "Rajan Raheja" if name == "Rajan Raheja" | name == "Chandru Raheja" & countrymode == "India"
+replace familyname = "K. Anji Reddy" if name == "K. Anji Reddy" | name == "Satish Reddy" & countrymode == "India"
+replace familyname = "Brij Bhushan Singal" if name == "Brij Bhushan Singal" | name == "Sanjay Singal" & countrymode == "India"
+replace familyname = "Samprada Singh" if name == "Samprada Singh" | name == "Basudeo Singh" & countrymode == "India"
+replace familyname = "Tulsi Tanti" if name == "Tulsi Tanti" | name == "Vinod Tanti"| name == "Jitendra Tanti" | name == "Girish Tanti" & countrymode == "India"
+
+*Singapore* 
+replace familyname = "Ng Teng Fong" if name == "Ng Teng Fong" | name == "Ng Teng Fong and Robert" | name == "Robert & Philip Ng" & countrymode == "Singapore"
+
+*South Korea* 
+replace familyname = "Koo" if name == "Koo" | name == "Koo Bon-Joon" | name == "Koo Bon-Moo" | name == "Koo Bon-Neung" | ///
+name == "Koo Bon-Sik" | name == "Koo Cha-kyung" & countrymode == "South Korea"
+replace familyname = "Lee Kun-Hee" if name == "Lee Kun-Hee" | name == "Lee Boo-Jin" | name == "Jay Y. Lee" | name == "Lee" | ///
+name == "Lee Myung-Hee" | name == "Hong Ra-Hee" | name == "Lee Seo-Hyun" | name == "Hong Seok-Joh" | name == "Chung Yong-Jin" & countrymode == "South Korea"
+replace familyname = "Shin Kyuk-Ho" if name == "Shin Kyuk-Ho" | name == "Shin Dong-Bin" | name == "Shin Dong-Joo" & countrymode == "South Korea"
+replace familyname = "Chey Tae-Won" if name == "Chey Tae-Won" | name == "Chey Ki-Won" | name == "Chey Jong-hyon" & countrymode == "South Korea"  
+replace familyname = "Chung Ju-yung" if name == "Chung Ju-yung" | name == "Chung Mong-Joon" | name == "Chung Mong-Koo" | ///
+name == "Chung Eui-Sun" & countrymode == "South Korea"
+
+tempfile temp1
+save "`temp1'"
+
+keep if countrymode != "China" & countrymode != "Hong Kong" & countrymode != "Taiwan" & countrymode != "India" & countrymode != "Singapore" & ///
+countrymode != "South Korea"
+drop if missing(familyname) 
+duplicates drop lastname2 countrymode familyname, force
+keep countrymode lastname2 familyname
+
+merge 1:m countrymode lastname2 using "`temp1'" 
+
+order year name country countrymode wealth age family id prefillin name_standardize lastname2 familyname
+drop name_standardize _merge
+
+*Creating familyname id by familyname & country*
+egen familynameid = group(familyname countrymode) if familyname != "Swire"  
+
+replace familynameid = 2283 if familyname == "Swire" 
+
+saveold "${SavePath}/statadata/harmonized_names/harmonized_names2/88-18_final", replace 

@@ -33,7 +33,7 @@ split name_2001, parse(,)
 
 gen name2 = name_20012 + " " +  name_20011 if name_20013 == ""
 
-replace name2 = "Walter, Thomas & Raymond Kwok" if name_2001 == "Kwok brothers, Walter, Thomas, Raymond"  
+replace name2 = "Walter, Thomas & Raymond Kwok" if name_2001 == "Kwok, Walter, Thomas, Raymond"  
 replace name2 = "James, Arthur & John Irving" if name_2001 == "Irving, James, Arthur & John" 
 
 drop name_2001 name_20011 name_20012 name_20013 name_20014
@@ -50,7 +50,7 @@ split name_2000, parse(,)
 
 gen name2 = name_20002 + " " +  name_20001 if name_20003 == ""
 
-replace name2 = "Walter, Thomas & Raymond Kwok" if name_2000 == "Kwok brothers, Walter, Thomas, Raymond"  
+replace name2 = "Walter, Thomas & Raymond Kwok" if name_2000 == "Kwok, Walter, Thomas, Raymond"  
 replace name2 = "James, Arthur & John Irving" if name_2000 == "Irving, James, Arthur and John" 
 
 drop name_2000 name_20001 name_20002 name_20003 name_20004
@@ -67,12 +67,11 @@ split name_1999, parse(,)
 
 gen name2 = name_19992 + " " +  name_19991 if name_19993 == ""
 
-replace name2 = "Walter, Thomas & Raymond Kwok" if name_1999 == "Kwok brothers, Walter, Thomas, Raymond"  
+replace name2 = "Walter, Thomas & Raymond Kwok" if name_1999 == "Kwok, Walter, Thomas, Raymond"  
 replace name2 = "James, Arthur & John Irving" if name_1999 == "Irving, James, Arthur and John" 
 replace name2 = "Robert Bosch Jr." if name_1999 == "Bosch, Robert, Jr."
 replace name2 = "Srichand & Gopichand Hinduja" if name_1999 == "Hinduja, Srichand, Gopichand"
-replace name2 = "Oeri, Hoffman & Sacher families" if name_1999 == "Oeri, Hoffmann and Sacher families"
-
+replace name2 = "Oeri, Hoffman & Sacher" if name_1999 == "Oeri, Hoffmann and Sacher"
 
 drop name_1999 name_19991 name_19992 name_19993 name_19994
 rename name2 name_1999 
@@ -106,7 +105,7 @@ split name_1997, parse(,)
 
 gen name2 = name_19972 + " " +  name_19971 if name_19973 == ""
 
-replace name2 = "Walter, Thomas & Raymond Kwok" if name_1997 == "Kwok Brothers, Walter, Thomas, Raymond"  
+replace name2 = "Walter, Thomas & Raymond Kwok" if name_1997 == "Kwok, Walter, Thomas, Raymond"  
 replace name2 = "James, Arthur & John Irving" if name_1997 == "Irving, James, Arthur and John" 
 
 drop name_1997 name_19971 name_19972 name_19973 name_19974

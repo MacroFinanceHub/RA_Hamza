@@ -1,0 +1,17 @@
+
+-The file "API_SP.POP.TOTL_DS2_en_csv_v2_10224786.csv" is a file by the World Bank that contains population estimates for countries around the world from 1960-2017. Here is the link to the page where I downloaded the data: 
+
+	https://data.worldbank.org/indicator/SP.POP.TOTL 
+
+-The file "Wealth-AccountsData.csv" is a file by the World Bank that contains wealth estimates for countries around the world for years 1995, 2000, 2005, 2010, & 2014. Here is the link to the page where I downloaded the data: 
+
+	https://datacatalog.worldbank.org/dataset/wealth-accounting
+
+-The file "API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_10265343.csv" is a file from the World Bank that contains GDP growth data for countries around the world from 1960-2017. Here is the link to the page where I downloaded the data: 
+
+	https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
+
+- The files "API_IP.PAT.NRES_DS2_en_csv_v2_10228284.csv" & "API_IP.PAT.RESD_DS2_en_csv_v2_10224794.csv" are files from the World Bank that contain non-resident & resident patent applications data for countries around the world from 1960-2016. Here is the link to the pages where I downloaded the data: 
+
+	https://data.worldbank.org/indicator/IP.PAT.NRES (non-residents) 
+	https://data.worldbank.org/indicator/IP.PAT.RESD (residents)
